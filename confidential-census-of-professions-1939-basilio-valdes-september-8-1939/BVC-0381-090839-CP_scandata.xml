@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>confidential-census-of-professions-1939-basilio-valdes-september-8-1939</bookId>
+    <leafCount>1</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4788</origWidth>
+      <origHeight>6338</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4788</w>
+        <h>6338</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+  </pageData>
+</book>

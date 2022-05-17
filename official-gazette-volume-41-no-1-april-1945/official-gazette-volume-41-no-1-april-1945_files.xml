@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0543-04XX45-IF (OG).djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0543-04XX45-IF (OG)_djvu.xml</original>
+    <mtime>1454988546</mtime>
+    <size>10827544</size>
+    <md5>c3340b29a9f8f33e674ed0bc6c7c92ab</md5>
+    <crc32>84fd1e51</crc32>
+    <sha1>56a6383751613a2f6cee6753fcdcf490abfffb7a</sha1>
+  </file>
+  <file name="BVC-0543-04XX45-IF (OG).gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0543-04XX45-IF (OG)_jp2.zip</original>
+    <mtime>1454984148</mtime>
+    <size>357414</size>
+    <md5>8a5a9e95d4a83f42253bfd877c60fe31</md5>
+    <crc32>a889b3a8</crc32>
+    <sha1>f2dae9afabff7c49ab5254f6548e4dabb68e663e</sha1>
+  </file>
+  <file name="BVC-0543-04XX45-IF (OG).pdf" source="original">
+    <mtime>1454983074</mtime>
+    <size>89635348</size>
+    <md5>f8c14e3fe8854f3c64a9497733e00c4c</md5>
+    <crc32>68f5dcda</crc32>
+    <sha1>b7c9fd9dd0849782331bd0ec2baa93d7401dec20</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0543-04XX45-IF (OG)_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0543-04XX45-IF (OG)_jp2.zip</original>
+    <mtime>1454986842</mtime>
+    <size>4122289</size>
+    <md5>8c08a1f355d1d8891b773d58e127b8f9</md5>
+    <crc32>031c47f2</crc32>
+    <sha1>0829605666b93d9a3964e9206810c0b6f5c7bd5c</sha1>
+  </file>
+  <file name="BVC-0543-04XX45-IF (OG)_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0543-04XX45-IF (OG)_djvu.xml</original>
+    <mtime>1455930133</mtime>
+    <size>264160</size>
+    <md5>36e9e6bc5182ac62040ad4031bf77691</md5>
+    <crc32>948fa73e</crc32>
+    <sha1>edd6c06e85b50980ce670301b9751b7b96dae708</sha1>
+  </file>
+  <file name="BVC-0543-04XX45-IF (OG)_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0543-04XX45-IF (OG)_abbyy.gz</original>
+    <mtime>1454986939</mtime>
+    <size>2474648</size>
+    <md5>c9839cc0d60c2eb8d33c529916c483da</md5>
+    <crc32>b63a162c</crc32>
+    <sha1>df56598d8ec31100e6987a6fb3e79ecd3f0cc63e</sha1>
+  </file>
+  <file name="BVC-0543-04XX45-IF (OG)_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0543-04XX45-IF (OG).pdf</original>
+    <mtime>1454983994</mtime>
+    <size>118395609</size>
+    <md5>c10926d813effa86311c80148fa94a74</md5>
+    <crc32>a68f8194</crc32>
+    <sha1>dba95ee82a99b94b57cea5002fff1be3ce169262</sha1>
+  </file>
+  <file name="BVC-0543-04XX45-IF (OG)_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0543-04XX45-IF (OG)_djvu.xml</original>
+    <mtime>1454988550</mtime>
+    <size>31645</size>
+    <md5>c49e8968f557bc2f20e367f99e54d2bf</md5>
+    <crc32>9e1ddeae</crc32>
+    <sha1>553391d459f4624a626757225b21fc1073292b89</sha1>
+  </file>
+  <file name="BVC-0543-04XX45-IF (OG)_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0543-04XX45-IF (OG)_djvu.xml</original>
+    <mtime>1454990700</mtime>
+    <size>20525702</size>
+    <md5>3a7d6b69969b5950c5d561e582c81d66</md5>
+    <crc32>6cdf5fe5</crc32>
+    <sha1>15c80454863fcdc9407600480bd6648bf2499fba</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530709864</mtime>
+    <size>16214</size>
+    <md5>3994e0606e054df36968a9a69dce227d</md5>
+    <crc32>81a6d573</crc32>
+    <sha1>f1de39984ea515041889ccd901b3ca20778901bc</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="official-gazette-volume-41-no-1-april-1945_archive.torrent" source="metadata">
+    <btih>2f239331072b855319350f5a92e612bfcf6cda96</btih>
+    <mtime>1530709868</mtime>
+    <size>12972</size>
+    <md5>04409d996abedf5347d0ab66c86241a4</md5>
+    <crc32>efdf3547</crc32>
+    <sha1>afbba17b443d084e21e42433bb684ffbc0cf43e7</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="official-gazette-volume-41-no-1-april-1945_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>a023cdb8fd95515129c328e68d3c0d4b</md5>
+  </file>
+  <file name="official-gazette-volume-41-no-1-april-1945_meta.sqlite" source="original">
+    <mtime>1462930830</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>b1bb105fe44a5f697a7df59fae4a14ec</md5>
+    <crc32>5b67d978</crc32>
+    <sha1>470f72ec9ae3b70bfa7fd368c2306b754568fabe</sha1>
+  </file>
+  <file name="official-gazette-volume-41-no-1-april-1945_meta.xml" source="original">
+    <mtime>1483665824</mtime>
+    <size>1419</size>
+    <format>Metadata</format>
+    <md5>e618b11fc64e1d7a00f5f7c18c669b71</md5>
+    <crc32>2e620353</crc32>
+    <sha1>c013260a73c44596e0355b496c494e1f9a266a16</sha1>
+  </file>
+</files>

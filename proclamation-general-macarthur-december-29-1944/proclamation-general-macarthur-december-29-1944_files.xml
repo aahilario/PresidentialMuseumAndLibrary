@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0681-122944-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0681-122944-BVL_jp2.zip</original>
+    <mtime>1450413137</mtime>
+    <size>16318</size>
+    <md5>601caf519681ac6d8f4ed255a6e65c67</md5>
+    <crc32>77fdd63c</crc32>
+    <sha1>ee875d9b9a596cb07b094b128cc34437ab6a91ab</sha1>
+  </file>
+  <file name="BVC-0681-122944-BVL.pdf" source="original">
+    <mtime>1450408290</mtime>
+    <size>662945</size>
+    <md5>f2dab60b0d9af1df3363316b195f01a7</md5>
+    <crc32>6126acfe</crc32>
+    <sha1>01e51b421835d6deaca1a87a98a45737cf96aac3</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0681-122944-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0681-122944-BVL_jp2.zip</original>
+    <mtime>1450413162</mtime>
+    <size>21504</size>
+    <md5>1e63016a35024c5475f026d5f308f72b</md5>
+    <crc32>a08dce29</crc32>
+    <sha1>153a14e4ba950525bbd7b2d938ac3f8e469fc560</sha1>
+  </file>
+  <file name="BVC-0681-122944-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0681-122944-BVL_djvu.xml</original>
+    <mtime>1456644478</mtime>
+    <size>1342</size>
+    <md5>dff14b733ff0fbf11fe7833bcd41fd9a</md5>
+    <crc32>b486f86f</crc32>
+    <sha1>d87fab368c8cfecd81f2b2b944640b7fd123d669</sha1>
+  </file>
+  <file name="BVC-0681-122944-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0681-122944-BVL_abbyy.gz</original>
+    <mtime>1450413169</mtime>
+    <size>12007</size>
+    <md5>de1b7b3d288ce9405d35b2df3e00d2ab</md5>
+    <crc32>81d56c90</crc32>
+    <sha1>95ab478cc69704f8e9754ece702d9db96569e277</sha1>
+  </file>
+  <file name="BVC-0681-122944-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0681-122944-BVL.pdf</original>
+    <mtime>1450413126</mtime>
+    <size>833975</size>
+    <md5>c6f83274ca02ecaa0b778d61a84b6452</md5>
+    <crc32>5efd8f8a</crc32>
+    <sha1>b5a53b4b0322c5cc8bb869bd345fcc509a938baf</sha1>
+  </file>
+  <file name="BVC-0681-122944-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0681-122944-BVL_djvu.xml</original>
+    <mtime>1450413189</mtime>
+    <size>557</size>
+    <md5>69b56be146ffc2805c88b03ec965790f</md5>
+    <crc32>0c169634</crc32>
+    <sha1>e2bedfcf3c28424a2b2398f6f0c3167723939a94</sha1>
+  </file>
+  <file name="BVC-0681-122944-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0681-122944-BVL_djvu.xml</original>
+    <mtime>1450413212</mtime>
+    <size>185703</size>
+    <md5>3da55ff46c89dee42be37bed0d9f682b</md5>
+    <crc32>e42f31f8</crc32>
+    <sha1>c97d8536fb3fd288203527139085f4da056eeda7</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530685516</mtime>
+    <size>20408</size>
+    <md5>3f98e60444066f26582ab59ccdfdc29e</md5>
+    <crc32>bdcc3fd4</crc32>
+    <sha1>5dbd694ca1a1c1441d687479345ab1e7da392550</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="proclamation-general-macarthur-december-29-1944_archive.torrent" source="metadata">
+    <btih>a86ccfa894a5708852333b8d74f1ca98d9ce14b7</btih>
+    <mtime>1530685517</mtime>
+    <size>3442</size>
+    <md5>839b51ea1a48474953dc5d9bfd8678f5</md5>
+    <crc32>57de2dda</crc32>
+    <sha1>78ec36b076bfa6301b6f29a8f910d8874e362d69</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="proclamation-general-macarthur-december-29-1944_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>21153460870a8d1c1ded350dc01b5f8c</md5>
+  </file>
+  <file name="proclamation-general-macarthur-december-29-1944_meta.sqlite" source="original">
+    <mtime>1466316008</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>5637e42072ffc4804d24f7374811d948</md5>
+    <crc32>55689627</crc32>
+    <sha1>919e488390d078a3071dedb5b62ee6842b6c3fe3</sha1>
+  </file>
+  <file name="proclamation-general-macarthur-december-29-1944_meta.xml" source="original">
+    <mtime>1485781036</mtime>
+    <size>1439</size>
+    <format>Metadata</format>
+    <md5>9fc32404b826732a082a50f3ed4d2239</md5>
+    <crc32>bb39aa61</crc32>
+    <sha1>500515ace5986a54bcd78e55474a013d63777b22</sha1>
+  </file>
+</files>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>letters-wayne-kaufman-military-merit-medal-july-1-1945</bookId>
+    <leafCount>1</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4769</origWidth>
+      <origHeight>6345</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4769</w>
+        <h>6345</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+  </pageData>
+</book>

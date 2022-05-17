@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0332-060845-Sp.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0332-060845-Sp_djvu.xml</original>
+    <mtime>1452091207</mtime>
+    <size>810073</size>
+    <md5>1fab67a43c82e5fca84bc3902ff01771</md5>
+    <crc32>1cfcd431</crc32>
+    <sha1>44b548d4cebb6a80ff38412ab42905691f7d6b47</sha1>
+  </file>
+  <file name="BVC-0332-060845-Sp.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0332-060845-Sp_jp2.zip</original>
+    <mtime>1451881736</mtime>
+    <size>96245</size>
+    <md5>b87f447993a9046c0cbacad98dda8784</md5>
+    <crc32>79be2b4b</crc32>
+    <sha1>3b67175bdad044b094f6d1816760b7ea4af7581f</sha1>
+  </file>
+  <file name="BVC-0332-060845-Sp.pdf" source="original">
+    <mtime>1451881640</mtime>
+    <size>3221288</size>
+    <md5>4dcee3c083bf9e732199b1f0067a11d3</md5>
+    <crc32>346fc412</crc32>
+    <sha1>76080d5c4898a1915e44e490575519f0d9b9140b</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0332-060845-Sp_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0332-060845-Sp_jp2.zip</original>
+    <mtime>1451881823</mtime>
+    <size>111065</size>
+    <md5>c6bb1a1c51f407d11a0f491ffb5f17ce</md5>
+    <crc32>a0713bb0</crc32>
+    <sha1>8beab6d81cc430b0ad0bf3c874b3d85f27fb04b6</sha1>
+  </file>
+  <file name="BVC-0332-060845-Sp_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0332-060845-Sp.djvu</original>
+    <mtime>1452091214</mtime>
+    <size>6875</size>
+    <md5>a2edfb92dd7a087a158d559f09e4eb6f</md5>
+    <crc32>64fdf624</crc32>
+    <sha1>dac3a7dda5020b52028405befcc75b5b931df192</sha1>
+  </file>
+  <file name="BVC-0332-060845-Sp_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0332-060845-Sp_abbyy.gz</original>
+    <mtime>1451881831</mtime>
+    <size>67850</size>
+    <md5>7722ac463e68b75dae33306b3bc41224</md5>
+    <crc32>f1a75452</crc32>
+    <sha1>0f51d54b387f4d956c965749db0581694dd02964</sha1>
+  </file>
+  <file name="BVC-0332-060845-Sp_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0332-060845-Sp.pdf</original>
+    <mtime>1451881722</mtime>
+    <size>4710909</size>
+    <md5>62507357d05780b85bbc47c669121c5c</md5>
+    <crc32>d8bc107d</crc32>
+    <sha1>98933dfd09ead480f362ad18678ff1b1900c2afe</sha1>
+  </file>
+  <file name="BVC-0332-060845-Sp_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0332-060845-Sp_djvu.xml</original>
+    <mtime>1451881856</mtime>
+    <size>2364</size>
+    <md5>9eb485201ae61be570a541913bd7a858</md5>
+    <crc32>c8df1f83</crc32>
+    <sha1>3bc345dd90f9804f69808f44cc0b9716981b1043</sha1>
+  </file>
+  <file name="BVC-0332-060845-Sp_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0332-060845-Sp_djvu.xml</original>
+    <mtime>1451881925</mtime>
+    <size>1146609</size>
+    <md5>03c2fd45f10df3ab180f6eb488c6d7b2</md5>
+    <crc32>7abf7644</crc32>
+    <sha1>c81257828086faf8f4b5f5397e866b18ab8cb631</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530562761</mtime>
+    <size>11035</size>
+    <md5>a8c1a56946c392e7c03ac588650bf87a</md5>
+    <crc32>0e61b1d4</crc32>
+    <sha1>8f6d6a1f5120364f83fc5f8b267179141dd8aab1</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="bjv-speeches-meeting-of-physicians-san-lazaro-hospital-june-8-1945_archive.torrent" source="metadata">
+    <btih>e47368c8881c318af92a4d30df823e490ef7851d</btih>
+    <mtime>1530562762</mtime>
+    <size>4108</size>
+    <md5>e65d93f342e8c7d902fa1f869f584827</md5>
+    <crc32>fee26718</crc32>
+    <sha1>017b46745c9aa86e39b4dd7439115def86f79763</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="bjv-speeches-meeting-of-physicians-san-lazaro-hospital-june-8-1945_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>5c6ff64b2eb29c95bd1d81f827aef6f3</md5>
+  </file>
+  <file name="bjv-speeches-meeting-of-physicians-san-lazaro-hospital-june-8-1945_meta.sqlite" source="original">
+    <mtime>1466819100</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>b4b2319d7e061cc6ab66e72071ad17be</md5>
+    <crc32>5f1a83d0</crc32>
+    <sha1>ed7e56e2c0235c13779171422eba7aba1c850b0a</sha1>
+  </file>
+  <file name="bjv-speeches-meeting-of-physicians-san-lazaro-hospital-june-8-1945_meta.xml" source="original">
+    <mtime>1483710364</mtime>
+    <size>1311</size>
+    <format>Metadata</format>
+    <md5>2c4060dd20a54ff1385c2f3f029c19eb</md5>
+    <crc32>19043660</crc32>
+    <sha1>f325ea70956691ef5df3ec60afb4d47788276099</sha1>
+  </file>
+</files>

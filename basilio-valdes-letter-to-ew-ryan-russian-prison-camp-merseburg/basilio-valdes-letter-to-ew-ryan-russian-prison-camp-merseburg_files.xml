@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0063-040919-OP.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0063-040919-OP_djvu.xml</original>
+    <mtime>1449474534</mtime>
+    <size>249903</size>
+    <md5>fc0260779df0879325886163ec1d9aa4</md5>
+    <crc32>b1f2a39c</crc32>
+    <sha1>01dee0ddcc07d19fe504b9ce8cfec85bd3288566</sha1>
+  </file>
+  <file name="BVC-0063-040919-OP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0063-040919-OP_jp2.zip</original>
+    <mtime>1449474424</mtime>
+    <size>29592</size>
+    <md5>b361593a39b6638b29a153fc12115b4b</md5>
+    <crc32>53699e49</crc32>
+    <sha1>8e3d1180e08045cd832e339b216a9ba7556e5772</sha1>
+  </file>
+  <file name="BVC-0063-040919-OP.pdf" source="original">
+    <mtime>1449474336</mtime>
+    <size>1149868</size>
+    <md5>2080d4b88f487add718187d08e309d7f</md5>
+    <crc32>7d9d9a61</crc32>
+    <sha1>b0f28c6935b392b97cc590b3c9ed6c59e3e01aa0</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0063-040919-OP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0063-040919-OP_jp2.zip</original>
+    <mtime>1449474503</mtime>
+    <size>40383</size>
+    <md5>08a64c447be27beb1929be7d2843c82c</md5>
+    <crc32>34e46bb8</crc32>
+    <sha1>c394507be84bcf24a26df38ed44958ec8c3f7158</sha1>
+  </file>
+  <file name="BVC-0063-040919-OP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0063-040919-OP.djvu</original>
+    <mtime>1449474573</mtime>
+    <size>2305</size>
+    <md5>6f32709d862a5630a368b85badfb5c80</md5>
+    <crc32>f4169913</crc32>
+    <sha1>162be0ac1b0ddeb5a39430b3e49853102ed5af32</sha1>
+  </file>
+  <file name="BVC-0063-040919-OP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0063-040919-OP_abbyy.gz</original>
+    <mtime>1449474510</mtime>
+    <size>23698</size>
+    <md5>be7029e162d394af3d37cfe0d282a9b8</md5>
+    <crc32>3e59d696</crc32>
+    <sha1>9ac8758a1f2dcaa3b8f436947e10dcb9c5adc35d</sha1>
+  </file>
+  <file name="BVC-0063-040919-OP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0063-040919-OP.pdf</original>
+    <mtime>1449474414</mtime>
+    <size>1504315</size>
+    <md5>6b122e5237b065a6fd0d820f8a231d7e</md5>
+    <crc32>d3fcfca2</crc32>
+    <sha1>5e9989d5fd93209d737d779718a75a65659fa412</sha1>
+  </file>
+  <file name="BVC-0063-040919-OP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0063-040919-OP_djvu.xml</original>
+    <mtime>1449474535</mtime>
+    <size>870</size>
+    <md5>962fbc6caf3747b6f888c30080f8742c</md5>
+    <crc32>4b8d2a4c</crc32>
+    <sha1>dc41658cc11a08b2f2f336726ca3fc90f9a99d39</sha1>
+  </file>
+  <file name="BVC-0063-040919-OP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0063-040919-OP_djvu.xml</original>
+    <mtime>1449474565</mtime>
+    <size>375119</size>
+    <md5>3fe294cac27374c5571b3ffe9af0cc84</md5>
+    <crc32>9d5bf535</crc32>
+    <sha1>18ce93805ed73093c9fc84b4c80a1a7944b44a8b</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530660902</mtime>
+    <size>12876</size>
+    <md5>c515b561b7e8c3702f2babf1fe98b6b9</md5>
+    <crc32>e4f31ebb</crc32>
+    <sha1>fe226bb6ae004455a77da705e580c16d3e73c363</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="basilio-valdes-letter-to-ew-ryan-russian-prison-camp-merseburg_archive.torrent" source="metadata">
+    <btih>b04387d48d1df549a198eb44da95d4107edad22b</btih>
+    <mtime>1530660904</mtime>
+    <size>3807</size>
+    <md5>504da85f4783d3003501236d466b391a</md5>
+    <crc32>d0b7eb01</crc32>
+    <sha1>9d6ec4a63f6d2908e7414e372b29267d24a2d081</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="basilio-valdes-letter-to-ew-ryan-russian-prison-camp-merseburg_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>c26b9af7b1e45eec4bb6be060fd8303a</md5>
+  </file>
+  <file name="basilio-valdes-letter-to-ew-ryan-russian-prison-camp-merseburg_meta.sqlite" source="original">
+    <mtime>1463842389</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>3545779528aaabb9b108b1944e02252e</md5>
+    <crc32>9fce2f6b</crc32>
+    <sha1>30562f2e37a82f13b03057098660615dc70916f4</sha1>
+  </file>
+  <file name="basilio-valdes-letter-to-ew-ryan-russian-prison-camp-merseburg_meta.xml" source="original">
+    <mtime>1485573936</mtime>
+    <size>1259</size>
+    <format>Metadata</format>
+    <md5>61eaa28d20ccbbb50e5298e39c8c42f2</md5>
+    <crc32>f9be6b3d</crc32>
+    <sha1>e83e72233cb09436be2420acf6144cb437a905b3</sha1>
+  </file>
+</files>

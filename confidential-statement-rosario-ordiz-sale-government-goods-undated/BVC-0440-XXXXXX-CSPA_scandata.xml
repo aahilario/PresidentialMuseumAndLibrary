@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>confidential-statement-rosario-ordiz-sale-government-goods-undated</bookId>
+    <leafCount>1</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4715</origWidth>
+      <origHeight>6397</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4715</w>
+        <h>6397</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+  </pageData>
+</book>

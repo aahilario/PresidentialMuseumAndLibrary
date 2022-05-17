@@ -2,8 +2,7 @@ itemlist-all.txt
 *.zip
 itemlist.txt
 itemlist-all.txt itemlist.txt
-*.xml
-*.sqlite
 *.gz
 __ia_thumb.jpg
 *.sh
+0.gif*

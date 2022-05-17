@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>oath-of-office-chief-of-staff-basilio-valdes-january-2-1939</bookId>
+    <leafCount>1</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4826</origWidth>
+      <origHeight>6407</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4826</w>
+        <h>6407</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+  </pageData>
+</book>

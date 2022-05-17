@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0084-011136-OP.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0084-011136-OP_djvu.xml</original>
+    <mtime>1449547298</mtime>
+    <size>915513</size>
+    <md5>82e7d5f3964daac7233fe27574b273e2</md5>
+    <crc32>f666194f</crc32>
+    <sha1>091ae7415a6167fafc29298d09764568a597b180</sha1>
+  </file>
+  <file name="BVC-0084-011136-OP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0084-011136-OP_jp2.zip</original>
+    <mtime>1449546836</mtime>
+    <size>68484</size>
+    <md5>ee659cbda3e34320ddc940b0628e48ae</md5>
+    <crc32>7f1f3ab7</crc32>
+    <sha1>ddff53623485b64238ba8e1469b203a7b481aab0</sha1>
+  </file>
+  <file name="BVC-0084-011136-OP.pdf" source="original">
+    <mtime>1449546635</mtime>
+    <size>4695765</size>
+    <md5>a5fceef547d8d8b7daacd27830eaeeec</md5>
+    <crc32>888743d3</crc32>
+    <sha1>0683b31e1089f1ecd443087aa11e8c56a2438f5c</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0084-011136-OP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0084-011136-OP_jp2.zip</original>
+    <mtime>1449547221</mtime>
+    <size>159069</size>
+    <md5>649de627cc04cac12778f308b80167a3</md5>
+    <crc32>655d66f4</crc32>
+    <sha1>65b94116042df03a429c872b48eb441dec99cdfe</sha1>
+  </file>
+  <file name="BVC-0084-011136-OP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0084-011136-OP.djvu</original>
+    <mtime>1449547392</mtime>
+    <size>9735</size>
+    <md5>23d21a234adf2a15785d5e26f04a5dc7</md5>
+    <crc32>0a005499</crc32>
+    <sha1>38747bc4abe9fc59ed161abc8b57f2168c487d8e</sha1>
+  </file>
+  <file name="BVC-0084-011136-OP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0084-011136-OP_abbyy.gz</original>
+    <mtime>1449547230</mtime>
+    <size>91989</size>
+    <md5>f9f52aa6caa45a503e0079c2499a2521</md5>
+    <crc32>a84dd199</crc32>
+    <sha1>61c163dd67a68d4791fcff33f62eaaa46e762f9c</sha1>
+  </file>
+  <file name="BVC-0084-011136-OP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0084-011136-OP.pdf</original>
+    <mtime>1449546818</mtime>
+    <size>7111011</size>
+    <md5>3e89cbe1d655b0655635b103d57f8353</md5>
+    <crc32>53cad7c7</crc32>
+    <sha1>94c3a76f0ba94ec86dc5ff8538a6f9c62ce00e54</sha1>
+  </file>
+  <file name="BVC-0084-011136-OP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0084-011136-OP_djvu.xml</original>
+    <mtime>1449547299</mtime>
+    <size>1734</size>
+    <md5>477c67ea0085056ef70f16ec0d715ba1</md5>
+    <crc32>b358ff87</crc32>
+    <sha1>2fad0c601227c48d8595c04fe88ed656edbbd453</sha1>
+  </file>
+  <file name="BVC-0084-011136-OP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0084-011136-OP_djvu.xml</original>
+    <mtime>1449547383</mtime>
+    <size>1254170</size>
+    <md5>0a65d536242fce4e8b2a5b1b07d2879b</md5>
+    <crc32>bb8b398b</crc32>
+    <sha1>87ebd4efb51ec694f5aadc11d0826a79e2d6f129</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530992867</mtime>
+    <size>19390</size>
+    <md5>9ff95383a6679ec71230b2867a952337</md5>
+    <crc32>0fa706ee</crc32>
+    <sha1>631fa76942327535342eaefc74043396f1c8f219</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="draft-executive-order-no-10-1936_archive.torrent" source="metadata">
+    <btih>74dd45d3d0768814f14ef5922d6ca9ea1ca3e37e</btih>
+    <mtime>1530992867</mtime>
+    <size>3962</size>
+    <md5>54df26cf57ed472570764ae9293a689e</md5>
+    <crc32>7fc5b449</crc32>
+    <sha1>4247f2e9d62e68cb0ad4e45d77a8302a9d2fad77</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="draft-executive-order-no-10-1936_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>c842d8bbd1c8cc6421db66402214a6e4</md5>
+  </file>
+  <file name="draft-executive-order-no-10-1936_meta.sqlite" source="original">
+    <mtime>1463389237</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>c9fdf53d4e7ebca97a206de43de9796f</md5>
+    <crc32>81700159</crc32>
+    <sha1>6fbe55a16bed2bdc5acbace639761fd915ec9be8</sha1>
+  </file>
+  <file name="draft-executive-order-no-10-1936_meta.xml" source="original">
+    <mtime>1484823319</mtime>
+    <size>1050</size>
+    <format>Metadata</format>
+    <md5>436543f7f2acc03798a4f5d341fa70f2</md5>
+    <crc32>edbc9d6f</crc32>
+    <sha1>f2dd21a8aa31eb97c0d433bf80e5ee8f4c930380</sha1>
+  </file>
+</files>

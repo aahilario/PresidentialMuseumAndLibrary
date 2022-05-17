@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="19980630-Estrada.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>19980630-Estrada_djvu.xml</original>
+    <mtime>1437308393</mtime>
+    <size>4930582</size>
+    <md5>8a639018bdcfb0a541991aaaae6b0241</md5>
+    <crc32>987a323f</crc32>
+    <sha1>aa9d9c9eab90450d82c197d5928b81d3b9172010</sha1>
+  </file>
+  <file name="19980630-Estrada.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>19980630-Estrada_jp2.zip</original>
+    <mtime>1437307627</mtime>
+    <size>209134</size>
+    <md5>50459f3dfd1eb261fe1823cf8e8e6c34</md5>
+    <crc32>3589aca3</crc32>
+    <sha1>d6ac5b7ea14dd6761f01fab6ef4f64bdac1f18c7</sha1>
+  </file>
+  <file name="19980630-Estrada.pdf" source="original">
+    <mtime>1437307310</mtime>
+    <size>5954182</size>
+    <md5>4b9b90d7d6a57ecc1c23c996f7e009f2</md5>
+    <crc32>1d7f72ab</crc32>
+    <sha1>6b093678c44f3578bdd1983aa7d21923fa4dd85d</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="19980630-Estrada_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>19980630-Estrada_jp2.zip</original>
+    <mtime>1437308136</mtime>
+    <size>715222</size>
+    <md5>d9aa7091ebda5450618c35b6520823b0</md5>
+    <crc32>853e4243</crc32>
+    <sha1>bd4c242103d0e70f49ea02f0f329201feda19e14</sha1>
+  </file>
+  <file name="19980630-Estrada_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>19980630-Estrada.djvu</original>
+    <mtime>1437308825</mtime>
+    <size>47446</size>
+    <md5>e5d92a4753319a098c21933db4e002ab</md5>
+    <crc32>a8ff018e</crc32>
+    <sha1>c5a68747a297ca4911a79a3059b716848f544fba</sha1>
+  </file>
+  <file name="19980630-Estrada_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>19980630-Estrada_abbyy.gz</original>
+    <mtime>1437308152</mtime>
+    <size>426939</size>
+    <md5>dbbc05814cb51cb1c35f3559630d92fc</md5>
+    <crc32>577625c5</crc32>
+    <sha1>cc51ae60df469ef1f16cdf769788700568f6ce32</sha1>
+  </file>
+  <file name="19980630-Estrada_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>19980630-Estrada.pdf</original>
+    <mtime>1437307593</mtime>
+    <size>34472751</size>
+    <md5>14228aafe7638c94c057f7fd8a180587</md5>
+    <crc32>da6cf4ea</crc32>
+    <sha1>7757fc9b051421266399105becf3f58719402250</sha1>
+  </file>
+  <file name="19980630-Estrada_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>19980630-Estrada_djvu.xml</original>
+    <mtime>1437308394</mtime>
+    <size>7427</size>
+    <md5>885782f3634911004f22cf932a174800</md5>
+    <crc32>b67f2462</crc32>
+    <sha1>61c867699188f24b840e7fba75f610c1c7a07dee</sha1>
+  </file>
+  <file name="19980630-Estrada_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>19980630-Estrada_djvu.xml</original>
+    <mtime>1437308805</mtime>
+    <size>7133544</size>
+    <md5>3bbf37ef33b282798156e76053938332</md5>
+    <crc32>d725dbc4</crc32>
+    <sha1>28fc56f4a9ee2b9902f54c11db424a89ef202232</sha1>
+  </file>
+  <file name="PasinayangTalumpatiPresidentJosephEjercitoEstrada_archive.torrent" source="metadata">
+    <btih>be56e68aab33e41a8e5059306679da80c55eb3d1</btih>
+    <mtime>1530661346</mtime>
+    <size>5603</size>
+    <md5>b88f9c89ca0cf886b0c5b3e0c455392d</md5>
+    <crc32>130cfa2e</crc32>
+    <sha1>5499178bb7535d1153ba7418cedb1f035a1eb4ce</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="PasinayangTalumpatiPresidentJosephEjercitoEstrada_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>69a76f040333236dbfe50694b428ef34</md5>
+  </file>
+  <file name="PasinayangTalumpatiPresidentJosephEjercitoEstrada_meta.sqlite" source="original">
+    <mtime>1467365661</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>a3fa6727bad44b0bc4da31ac30d8afb3</md5>
+    <crc32>983e9413</crc32>
+    <sha1>5e274306b430a6e6d8642be1eb49bd3865128496</sha1>
+  </file>
+  <file name="PasinayangTalumpatiPresidentJosephEjercitoEstrada_meta.xml" source="original">
+    <mtime>1483505094</mtime>
+    <size>1151</size>
+    <format>Metadata</format>
+    <md5>f093083357744ad35565415cced6244d</md5>
+    <crc32>afa4db98</crc32>
+    <sha1>7c99001c89302ec191a7efe3232f6fdf373b5b3f</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530661346</mtime>
+    <size>21358</size>
+    <md5>cd216ca51628d51ebe33d6fca9666674</md5>
+    <crc32>c2afe7f1</crc32>
+    <sha1>565e4e1713a2d44b22c60066e7dc54ab375fffaa</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+</files>

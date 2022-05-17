@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>bjv-speeches-reorganization-philippine-army-reopening-post-offices-december-1944</bookId>
+    <leafCount>2</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4811</origWidth>
+      <origHeight>6382</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4811</w>
+        <h>6382</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4831</origWidth>
+      <origHeight>6357</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4831</w>
+        <h>6357</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

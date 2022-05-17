@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>basilio-valdes-accomplished-questionnaire-whos-who-in-the-philippines-undated</bookId>
+    <leafCount>5</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4786</origWidth>
+      <origHeight>6353</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4786</w>
+        <h>6353</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4857</origWidth>
+      <origHeight>6370</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4857</w>
+        <h>6370</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4886</origWidth>
+      <origHeight>6370</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4886</w>
+        <h>6370</h>
+      </cropBox>
+    </page>
+    <page leafNum="3">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4872</origWidth>
+      <origHeight>6372</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4872</w>
+        <h>6372</h>
+      </cropBox>
+    </page>
+    <page leafNum="4">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4861</origWidth>
+      <origHeight>6378</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4861</w>
+        <h>6378</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

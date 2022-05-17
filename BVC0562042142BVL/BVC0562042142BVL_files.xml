@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0562-042142-BVL.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0562-042142-BVL_djvu.xml</original>
+    <mtime>1449566114</mtime>
+    <size>848351</size>
+    <md5>9b62f3c25a5fc973276d2bd8e92627ff</md5>
+    <crc32>84b93fc3</crc32>
+    <sha1>19bb8718128cbba2049b6bd84abe0de84e37bd68</sha1>
+  </file>
+  <file name="BVC-0562-042142-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0562-042142-BVL_jp2.zip</original>
+    <mtime>1449565919</mtime>
+    <size>83351</size>
+    <md5>b08eac2299724a0c797b127e6619ddf9</md5>
+    <crc32>bb4e5024</crc32>
+    <sha1>4aafab4c6ff62872bb5d2bf56f27b2dd83399455</sha1>
+  </file>
+  <file name="BVC-0562-042142-BVL.pdf" source="original">
+    <mtime>1449565716</mtime>
+    <size>5253495</size>
+    <md5>d30ba746421ec29518551dd830ad038f</md5>
+    <crc32>37cf51f7</crc32>
+    <sha1>70096eeee49a2675f74e3441b3c21c269a32f2ff</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0562-042142-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0562-042142-BVL_jp2.zip</original>
+    <mtime>1449566009</mtime>
+    <size>179534</size>
+    <md5>0ad4cefb473588b3fbc8c0804f7b6e97</md5>
+    <crc32>23b0a0cf</crc32>
+    <sha1>c9f605b37dce463387e19ada21d71c358c01de09</sha1>
+  </file>
+  <file name="BVC-0562-042142-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0562-042142-BVL.djvu</original>
+    <mtime>1449566268</mtime>
+    <size>11512</size>
+    <md5>8fea6edcd938d42d51a811fa58cfdb76</md5>
+    <crc32>3a6b6eec</crc32>
+    <sha1>9478a4a1f13bdc6d192a174b9027267fe4871a48</sha1>
+  </file>
+  <file name="BVC-0562-042142-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0562-042142-BVL_abbyy.gz</original>
+    <mtime>1449566019</mtime>
+    <size>132056</size>
+    <md5>3bc5a879baf01ac72914fd0be521904d</md5>
+    <crc32>2c493cc2</crc32>
+    <sha1>6029ae17daf3a878e9ee97d0efedacb87d8843a0</sha1>
+  </file>
+  <file name="BVC-0562-042142-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0562-042142-BVL.pdf</original>
+    <mtime>1449565893</mtime>
+    <size>7387352</size>
+    <md5>c986f018fbfcd19b0f9a9210887fe7da</md5>
+    <crc32>10eb5ed1</crc32>
+    <sha1>f88e78b8a67e6bf9cfbf37c5c3fd4b781ee6232e</sha1>
+  </file>
+  <file name="BVC-0562-042142-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0562-042142-BVL_djvu.xml</original>
+    <mtime>1449566116</mtime>
+    <size>2314</size>
+    <md5>2bc3284c337a90ab63d744294eb11a49</md5>
+    <crc32>76ce4324</crc32>
+    <sha1>130412c637da5675e01e5541a85c5353bf6ac8c5</sha1>
+  </file>
+  <file name="BVC-0562-042142-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0562-042142-BVL_djvu.xml</original>
+    <mtime>1449566257</mtime>
+    <size>1632541</size>
+    <md5>dcfcc85e92ef0a3374a594f79084b406</md5>
+    <crc32>f24c5a10</crc32>
+    <sha1>65c5a5d4278dc34cac2d7c3e7a7ef4dc73455623</sha1>
+  </file>
+  <file name="BVC0562042142BVL_archive.torrent" source="metadata">
+    <btih>b5d5a648d3133d7db8bab7a5297105c5d19f08ff</btih>
+    <mtime>1530955867</mtime>
+    <size>3870</size>
+    <md5>b0885c590734164faf21bf9ff5576db9</md5>
+    <crc32>97e973d2</crc32>
+    <sha1>8aeb3cb4d57dcdd065658a0d9d9649fcb9620ad5</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="BVC0562042142BVL_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>6922ac6c3c05be354c72765341be0f31</md5>
+  </file>
+  <file name="BVC0562042142BVL_meta.sqlite" source="original">
+    <mtime>1463389251</mtime>
+    <size>12288</size>
+    <format>Metadata</format>
+    <md5>c685ffbac714035bfd9d6c9e7b0e842a</md5>
+    <crc32>c6a16a0f</crc32>
+    <sha1>2abedb2b30f623429724445ce618e0d73ab32b5c</sha1>
+  </file>
+  <file name="BVC0562042142BVL_meta.xml" source="original">
+    <mtime>1483103196</mtime>
+    <size>1528</size>
+    <format>Metadata</format>
+    <md5>4aa47bc326be642c93f52d421766e540</md5>
+    <crc32>4b0c937a</crc32>
+    <sha1>a8d8aa87b660887a447ac4abb4a6f239342f2ba5</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530955866</mtime>
+    <size>16239</size>
+    <md5>fbcfec6f1463fb3560103e39dc11155d</md5>
+    <crc32>0d09ae7f</crc32>
+    <sha1>410f5dbc6711b19fdece3d5552b23b0de892663a</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

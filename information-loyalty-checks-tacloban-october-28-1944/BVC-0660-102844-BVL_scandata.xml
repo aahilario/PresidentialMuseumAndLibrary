@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>information-loyalty-checks-tacloban-october-28-1944</bookId>
+    <leafCount>3</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>2346</origWidth>
+      <origHeight>1757</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>2346</w>
+        <h>1757</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4845</origWidth>
+      <origHeight>6362</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4845</w>
+        <h>6362</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4998</origWidth>
+      <origHeight>6203</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4998</w>
+        <h>6203</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

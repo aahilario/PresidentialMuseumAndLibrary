@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0470-071845-CSPA.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0470-071845-CSPA_jp2.zip</original>
+    <mtime>1450668581</mtime>
+    <size>14848</size>
+    <md5>19af60acd500e0637d0e44ff12effa66</md5>
+    <crc32>40eaa366</crc32>
+    <sha1>9e2d9eb2abd7325050096206b59d18a492128c9a</sha1>
+  </file>
+  <file name="BVC-0470-071845-CSPA.pdf" source="original">
+    <mtime>1450668452</mtime>
+    <size>558696</size>
+    <md5>bacf0581dd6ac1b14e7723a99325ff67</md5>
+    <crc32>251d4339</crc32>
+    <sha1>27aaeb7718d54b946aa20812d7555d004129f16b</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0470-071845-CSPA_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0470-071845-CSPA_jp2.zip</original>
+    <mtime>1450668949</mtime>
+    <size>11552</size>
+    <md5>cebddf4e646009ef077e4df30f9925cb</md5>
+    <crc32>716110bb</crc32>
+    <sha1>8046980114730160ba25d261903022c56e372fc9</sha1>
+  </file>
+  <file name="BVC-0470-071845-CSPA_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0470-071845-CSPA_djvu.xml</original>
+    <mtime>1456644598</mtime>
+    <size>640</size>
+    <md5>6ec4c1fa5a9cd9d2c28366c169728277</md5>
+    <crc32>7f039941</crc32>
+    <sha1>6f4a099fa63eee93cffe8a45be3922c28a573c39</sha1>
+  </file>
+  <file name="BVC-0470-071845-CSPA_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0470-071845-CSPA_abbyy.gz</original>
+    <mtime>1450668957</mtime>
+    <size>7246</size>
+    <md5>48b5f256de8a2cfca50e5e8efd431510</md5>
+    <crc32>ea073c60</crc32>
+    <sha1>24bfccd903f9531bb76bd3a778e5f9e3f04106f7</sha1>
+  </file>
+  <file name="BVC-0470-071845-CSPA_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0470-071845-CSPA.pdf</original>
+    <mtime>1450668568</mtime>
+    <size>666033</size>
+    <md5>b6a24ad7f7e9879b7c467ae0f20bb247</md5>
+    <crc32>5898d4f3</crc32>
+    <sha1>c08c3a6fe7adfdfe2a73b5499632351f4ee633f0</sha1>
+  </file>
+  <file name="BVC-0470-071845-CSPA_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0470-071845-CSPA_djvu.xml</original>
+    <mtime>1450668993</mtime>
+    <size>564</size>
+    <md5>9a70a56bfd5cc0ee4a6d6b2231242b0b</md5>
+    <crc32>e759143c</crc32>
+    <sha1>a709958d6f5908cc0b82d17361e8b81b6afb03f2</sha1>
+  </file>
+  <file name="BVC-0470-071845-CSPA_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0470-071845-CSPA_djvu.xml</original>
+    <mtime>1450669009</mtime>
+    <size>178558</size>
+    <md5>d13149a427ad7ded54315df674aa2779</md5>
+    <crc32>e1de4a0f</crc32>
+    <sha1>a5bdde96e598778dec3afe8842bd12367e21bb79</sha1>
+  </file>
+  <file name="BVC-0471-071345-CSPA.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0471-071345-CSPA_jp2.zip</original>
+    <mtime>1450668579</mtime>
+    <size>15438</size>
+    <md5>302e475fe7c25fcac515fe670c30ec79</md5>
+    <crc32>26dfc7b5</crc32>
+    <sha1>52fe87ea97175acdbcd08335e1abe673a04dd099</sha1>
+  </file>
+  <file name="BVC-0471-071345-CSPA.pdf" source="original">
+    <mtime>1450668483</mtime>
+    <size>425441</size>
+    <md5>4589b4f80b02438e98d15a360df97829</md5>
+    <crc32>68621048</crc32>
+    <sha1>2a826faebf54d0f2716868a2306f4ff3095634f0</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0471-071345-CSPA_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0471-071345-CSPA_jp2.zip</original>
+    <mtime>1450668600</mtime>
+    <size>8901</size>
+    <md5>cba9564b86e77697424f07d57cbd8742</md5>
+    <crc32>4a589e8e</crc32>
+    <sha1>bff3598141387850f9d3e3066a0bc1a1863f3864</sha1>
+  </file>
+  <file name="BVC-0471-071345-CSPA_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0471-071345-CSPA_djvu.xml</original>
+    <mtime>1456644597</mtime>
+    <size>461</size>
+    <md5>762b1923f205636224776575d730c3f0</md5>
+    <crc32>e6464647</crc32>
+    <sha1>756d40df93eb637be1a5510677d24f5569a704bc</sha1>
+  </file>
+  <file name="BVC-0471-071345-CSPA_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0471-071345-CSPA_abbyy.gz</original>
+    <mtime>1450668958</mtime>
+    <size>4942</size>
+    <md5>6285bbf644bd9ccc6d2192c78e7f1064</md5>
+    <crc32>51b460e1</crc32>
+    <sha1>811977dc68873ee580d2e19f029e37fcafbb2393</sha1>
+  </file>
+  <file name="BVC-0471-071345-CSPA_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0471-071345-CSPA.pdf</original>
+    <mtime>1450668538</mtime>
+    <size>462141</size>
+    <md5>90a6275908b07205cb87ac236a2eac23</md5>
+    <crc32>05ccdd83</crc32>
+    <sha1>89935681f288cf5e4f1a89bb95842804510b6b8e</sha1>
+  </file>
+  <file name="BVC-0471-071345-CSPA_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0471-071345-CSPA_djvu.xml</original>
+    <mtime>1450668992</mtime>
+    <size>564</size>
+    <md5>7565a4a5bf56e8cf9d7cb3cc1206316e</md5>
+    <crc32>c3c99025</crc32>
+    <sha1>f634498e0b703516f73caab4378c818e6b55cb00</sha1>
+  </file>
+  <file name="BVC-0471-071345-CSPA_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0471-071345-CSPA_djvu.xml</original>
+    <mtime>1450669026</mtime>
+    <size>127509</size>
+    <md5>af14b79e886332d3a3b4fc5774626350</md5>
+    <crc32>855e818b</crc32>
+    <sha1>6abf7d6c66d6eaa10561c8d565d3d23e2c23626c</sha1>
+  </file>
+  <file name="BVC-0472-070145-CSPA.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0472-070145-CSPA_jp2.zip</original>
+    <mtime>1450668576</mtime>
+    <size>15514</size>
+    <md5>d59b14bb31e1246bacec7e05f26b053a</md5>
+    <crc32>6ef45963</crc32>
+    <sha1>bb00b5630fe74ee7ba15bc6c85a7157d89b23945</sha1>
+  </file>
+  <file name="BVC-0472-070145-CSPA.pdf" source="original">
+    <mtime>1450668492</mtime>
+    <size>592488</size>
+    <md5>6444f9a4b01574a63d2e777aaeacd957</md5>
+    <crc32>e5aff522</crc32>
+    <sha1>d6c2687f61ca8c5657495ba51f5fedb6d8c353a3</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0472-070145-CSPA_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0472-070145-CSPA_jp2.zip</original>
+    <mtime>1450668917</mtime>
+    <size>18595</size>
+    <md5>256fa22513bbfd9f95e0e389bfb54527</md5>
+    <crc32>ee1bc82d</crc32>
+    <sha1>6fcb670dce689670fc147a4da79c07d674c90e00</sha1>
+  </file>
+  <file name="BVC-0472-070145-CSPA_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0472-070145-CSPA_djvu.xml</original>
+    <mtime>1456644595</mtime>
+    <size>1090</size>
+    <md5>1c8bd92fc2b218c5a788a93a78c7519b</md5>
+    <crc32>42db1c81</crc32>
+    <sha1>e977d6fcb76fa3f894b50b11dc42312c65b0268f</sha1>
+  </file>
+  <file name="BVC-0472-070145-CSPA_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0472-070145-CSPA_abbyy.gz</original>
+    <mtime>1450668955</mtime>
+    <size>10378</size>
+    <md5>fee64005afd410f4bd95f3193e6b8063</md5>
+    <crc32>7e6513c2</crc32>
+    <sha1>c91c05c60cc0f72dcea93a514c9a60973a7310cb</sha1>
+  </file>
+  <file name="BVC-0472-070145-CSPA_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0472-070145-CSPA.pdf</original>
+    <mtime>1450668531</mtime>
+    <size>746624</size>
+    <md5>810e6fb8d15bbb8bb6621a4c457fb3d9</md5>
+    <crc32>caa10929</crc32>
+    <sha1>69e937ac9a835c180baf1ee70cd0ae849a68eab8</sha1>
+  </file>
+  <file name="BVC-0472-070145-CSPA_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0472-070145-CSPA_djvu.xml</original>
+    <mtime>1450668991</mtime>
+    <size>564</size>
+    <md5>0c519a3f90610ce736ef89e463dee500</md5>
+    <crc32>4bf759e5</crc32>
+    <sha1>12626662771c29530f99a56ca2fe4b8668230ef8</sha1>
+  </file>
+  <file name="BVC-0472-070145-CSPA_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0472-070145-CSPA_djvu.xml</original>
+    <mtime>1450668985</mtime>
+    <size>173670</size>
+    <md5>69ab04807e958e38481da8a837d94036</md5>
+    <crc32>6c926d10</crc32>
+    <sha1>e6349e4f8afd045b56065367ed5ebd76e63c60b0</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530729025</mtime>
+    <size>11682</size>
+    <md5>c64fd1e76e7d10f469e71bf39cf0d3a8</md5>
+    <crc32>e7af7ca1</crc32>
+    <sha1>449b9d4b13cccdd87ba1edc39dccebd34dea9a29</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="letters-wayne-kaufman-military-merit-medal-july-1-1945_archive.torrent" source="metadata">
+    <btih>4f394c58e308ea79edd710bc4b6d6dc53c21143b</btih>
+    <mtime>1530729026</mtime>
+    <size>6503</size>
+    <md5>0a95d0cdfe4e59d55e0a321a49f4d395</md5>
+    <crc32>ceec1cb9</crc32>
+    <sha1>db247397a369f927ef02805b5ecc67017cc1b0a6</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="letters-wayne-kaufman-military-merit-medal-july-1-1945_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>87bb03defb29d6a43459c2eb9fff5a09</md5>
+  </file>
+  <file name="letters-wayne-kaufman-military-merit-medal-july-1-1945_meta.sqlite" source="original">
+    <mtime>1450668495</mtime>
+    <size>14336</size>
+    <format>Metadata</format>
+    <md5>b76afd0b74000cab27463881e37625da</md5>
+    <crc32>0ea13203</crc32>
+    <sha1>a5ed913681d7c33fb9e42644761b32bb81ab9ce4</sha1>
+  </file>
+  <file name="letters-wayne-kaufman-military-merit-medal-july-1-1945_meta.xml" source="original">
+    <mtime>1485076941</mtime>
+    <size>1347</size>
+    <format>Metadata</format>
+    <md5>0b141e69fb1d6996bbb03021e2aaa28c</md5>
+    <crc32>0b044034</crc32>
+    <sha1>04577cc37d5dda5dd13bf770cc3afdfc6b08c27d</sha1>
+  </file>
+</files>

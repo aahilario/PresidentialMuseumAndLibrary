@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="United States at War.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>United States at War_djvu.xml</original>
+    <mtime>1433025812</mtime>
+    <size>57365995</size>
+    <md5>47a224dbb0f29805f7d9344c382e0b15</md5>
+    <crc32>0573afb5</crc32>
+    <sha1>adc99e69b126685006396d3c72fdcfac607b5489</sha1>
+  </file>
+  <file name="United States at War.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>United States at War_jp2.zip</original>
+    <mtime>1432999997</mtime>
+    <size>304706</size>
+    <md5>dcb8e83f806b1b9d445d2e5d91a80528</md5>
+    <crc32>1ca3b381</crc32>
+    <sha1>27756caf31cdeba287d4593877d80db280efc1c6</sha1>
+  </file>
+  <file name="United States at War.pdf" source="original">
+    <mtime>1432997810</mtime>
+    <size>281056427</size>
+    <md5>4132e20bc9c347d9f65821512c909144</md5>
+    <crc32>b30e4ba2</crc32>
+    <sha1>591c2a9782e523b1ff27a6b0441b7eb179857f20</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="United States at War_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>United States at War_jp2.zip</original>
+    <mtime>1433021631</mtime>
+    <size>16401439</size>
+    <md5>19e15222deeaaecb6da090114da78ebd</md5>
+    <crc32>f0818c37</crc32>
+    <sha1>53d6bc0a9e497feb28fe31fa9aceb12d373c6b8b</sha1>
+  </file>
+  <file name="United States at War_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>United States at War.djvu</original>
+    <mtime>1433032676</mtime>
+    <size>1023604</size>
+    <md5>7b8ef5b8d85887a99f8729aa646bba35</md5>
+    <crc32>101931ec</crc32>
+    <sha1>56f9533561cb1ac8bc2c815b8fd15ff2e872f6c4</sha1>
+  </file>
+  <file name="United States at War_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>United States at War_abbyy.gz</original>
+    <mtime>1433021912</mtime>
+    <size>9538748</size>
+    <md5>1f921b3ca15d05447cb169d7bac39db2</md5>
+    <crc32>c18166e5</crc32>
+    <sha1>b13268062662c9b2871ec2c564a55d6e4725924e</sha1>
+  </file>
+  <file name="United States at War_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>United States at War.pdf</original>
+    <mtime>1432999831</mtime>
+    <size>421904978</size>
+    <md5>b6aa3b08437ec4786110d64f7a357b62</md5>
+    <crc32>672d206a</crc32>
+    <sha1>c503bacb60f8bf70e5aabd6bbcae7a211e50e508</sha1>
+  </file>
+  <file name="United States at War_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>United States at War_djvu.xml</original>
+    <mtime>1433025830</mtime>
+    <size>55035</size>
+    <md5>f17603be79719021091ee495f35c9a85</md5>
+    <crc32>ab5dd705</crc32>
+    <sha1>420157c341f4607cd5509affe35ca7117b28ec67</sha1>
+  </file>
+  <file name="United States at War_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>United States at War_djvu.xml</original>
+    <mtime>1433032547</mtime>
+    <size>84024274</size>
+    <md5>caac16a40594c05ba3fc7e1ab922e67d</md5>
+    <crc32>575ceefa</crc32>
+    <sha1>bfa1367fddeb52e5149156a2b4a7db396cefc626</sha1>
+  </file>
+  <file name="UnitedStatesAtWarArmyNavyJournal_archive.torrent" source="metadata">
+    <btih>0befaa0b39d6320dd7a8f44be22816b51e065b7e</btih>
+    <mtime>1531093846</mtime>
+    <size>36698</size>
+    <md5>3b7e46938f8234abb93f08e464a15623</md5>
+    <crc32>4279d420</crc32>
+    <sha1>a9ca2f06cb541c122f59f6408b12e431d06008e9</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="UnitedStatesAtWarArmyNavyJournal_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>7c3a3025b5bf2a8c5840c10ab2557b3d</md5>
+  </file>
+  <file name="UnitedStatesAtWarArmyNavyJournal_meta.sqlite" source="original">
+    <mtime>1467952239</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>ab791b1b98c675d77128a3fbb80dd1a2</md5>
+    <crc32>a6fa2b37</crc32>
+    <sha1>7741a53ced5c0552b01acbec86dd9b7de3423818</sha1>
+  </file>
+  <file name="UnitedStatesAtWarArmyNavyJournal_meta.xml" source="original">
+    <mtime>1482130546</mtime>
+    <size>1534</size>
+    <format>Metadata</format>
+    <md5>237882aff68e24e5240c0c86c497cd3b</md5>
+    <crc32>b7b7a4c6</crc32>
+    <sha1>493431759be12c9dba6528054765d04f277d8cca</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1531093840</mtime>
+    <size>21919</size>
+    <md5>3428849443ddd3d60451e91ebff8b81d</md5>
+    <crc32>288c9cfb</crc32>
+    <sha1>8c0fdb7b41824eee2689e809644ffaa4e62c7fde</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

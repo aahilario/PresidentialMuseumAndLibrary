@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="In Memoriam Elpidio Quirino.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>In Memoriam Elpidio Quirino_jp2.zip</original>
+    <mtime>1459842789</mtime>
+    <size>214951</size>
+    <md5>0292a7a935d9d92778e4ca6a5cb1932b</md5>
+    <crc32>369aaede</crc32>
+    <sha1>97dba3dd6db896d200f0f6bad27d2216b8f35f08</sha1>
+  </file>
+  <file name="In Memoriam Elpidio Quirino.pdf" source="original">
+    <mtime>1459842634</mtime>
+    <size>2061953</size>
+    <md5>8d045e2b1fc27945c98d206c32e9ce48</md5>
+    <crc32>a8053d16</crc32>
+    <sha1>5a45ff1d25ee43eea3237f23090c03d181b0376f</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="In Memoriam Elpidio Quirino_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>In Memoriam Elpidio Quirino_jp2.zip</original>
+    <mtime>1459843423</mtime>
+    <size>406613</size>
+    <md5>0225fc51a78860ad6932dc5254cb8ce9</md5>
+    <crc32>e7cc6a74</crc32>
+    <sha1>217c9a014a35d708fa1a21e41b0ff4bc0032f513</sha1>
+  </file>
+  <file name="In Memoriam Elpidio Quirino_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>In Memoriam Elpidio Quirino_djvu.xml</original>
+    <mtime>1459843444</mtime>
+    <size>25543</size>
+    <md5>dcdfb057bba4fe0192f08519128da74b</md5>
+    <crc32>11b7460a</crc32>
+    <sha1>88fd0f3145a4101c3b1611c318dc951e4b67d8b6</sha1>
+  </file>
+  <file name="In Memoriam Elpidio Quirino_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>In Memoriam Elpidio Quirino_abbyy.gz</original>
+    <mtime>1459843436</mtime>
+    <size>237502</size>
+    <md5>9f3726d21806ed9ac12490773238c499</md5>
+    <crc32>a020a4b3</crc32>
+    <sha1>6f39b0bd1aacdadba628aebc436f05a8d5fc422d</sha1>
+  </file>
+  <file name="In Memoriam Elpidio Quirino_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>In Memoriam Elpidio Quirino.pdf</original>
+    <mtime>1459842747</mtime>
+    <size>9595264</size>
+    <md5>1b10ba0ef1f2a4b3e8757c919e173a29</md5>
+    <crc32>c9519a66</crc32>
+    <sha1>d63e3ed1f1ee49027314f87de31578fbd4c834d4</sha1>
+  </file>
+  <file name="In Memoriam Elpidio Quirino_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>In Memoriam Elpidio Quirino_djvu.xml</original>
+    <mtime>1459843443</mtime>
+    <size>7106</size>
+    <md5>6a48c6c1c95871e4bd6593c4a119c3d6</md5>
+    <crc32>6b481d84</crc32>
+    <sha1>37bb9fb13eb229042c41ddb8f71ad3ca7f8d152c</sha1>
+  </file>
+  <file name="In Memoriam Elpidio Quirino_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>In Memoriam Elpidio Quirino_djvu.xml</original>
+    <mtime>1459843594</mtime>
+    <size>2195666</size>
+    <md5>ef72f4e05462d88c715f30813e71f207</md5>
+    <crc32>31220255</crc32>
+    <sha1>f3edb0eeffcbae96554368825f7d9209aef036bb</sha1>
+  </file>
+  <file name="in-memoriam-elpidio-quirino_archive.torrent" source="metadata">
+    <btih>798aa05b2a94b1bb8be278a51d0718326af33849</btih>
+    <mtime>1483988001</mtime>
+    <size>3695</size>
+    <md5>85a5dd27e0c6db3cc66e746513fd0019</md5>
+    <crc32>ef7d96a9</crc32>
+    <sha1>c9481bee715c68e9fa79cddcb2ccb0504b9ee883</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="in-memoriam-elpidio-quirino_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>f8e7b8f3c38a8c6b78e06c451adb7284</md5>
+  </file>
+  <file name="in-memoriam-elpidio-quirino_meta.sqlite" source="original">
+    <mtime>1463541623</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>d17b6fa463276997ba240335db06ce44</md5>
+    <crc32>3bdca12a</crc32>
+    <sha1>9e991d1618aaacd66d39312724870f928aef95fa</sha1>
+  </file>
+  <file name="in-memoriam-elpidio-quirino_meta.xml" source="original">
+    <mtime>1483987999</mtime>
+    <size>924</size>
+    <format>Metadata</format>
+    <md5>044d2d0fe003df7f6e6aaf538c5d15f1</md5>
+    <crc32>ef90821a</crc32>
+    <sha1>e61c4645111b482da04a1583473a057582f937e9</sha1>
+  </file>
+</files>

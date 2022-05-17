@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0867-MAY41945-PERIODICALS.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0867-MAY41945-PERIODICALS_djvu.xml</original>
+    <mtime>1449557068</mtime>
+    <size>7269551</size>
+    <md5>7cb314f5b81e32a202225d7b67ff63cf</md5>
+    <crc32>2a0c5916</crc32>
+    <sha1>528da6a038a62c9a1e0b34f802d709d5ec7dd441</sha1>
+  </file>
+  <file name="BVC-0867-MAY41945-PERIODICALS.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0867-MAY41945-PERIODICALS_jp2.zip</original>
+    <mtime>1449556086</mtime>
+    <size>194554</size>
+    <md5>601a770d8ec0c5fad5bd638f4f8b0cd1</md5>
+    <crc32>9b1fd1cf</crc32>
+    <sha1>6ede038e65d28b88ce0282c69afe28fd0a9b174b</sha1>
+  </file>
+  <file name="BVC-0867-MAY41945-PERIODICALS.pdf" source="original">
+    <mtime>1449555200</mtime>
+    <size>30956600</size>
+    <md5>1a5d90ef36d2d46a2ca714acb77b747a</md5>
+    <crc32>4cc05c9c</crc32>
+    <sha1>86728961b5dab3ddc5ed111c7a18159b767cec0e</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0867-MAY41945-PERIODICALS_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0867-MAY41945-PERIODICALS_jp2.zip</original>
+    <mtime>1449556643</mtime>
+    <size>1709035</size>
+    <md5>e0151803b2a9664d2a0b1d93d92289a5</md5>
+    <crc32>86190957</crc32>
+    <sha1>d72c2fe7d0511e788b81d093e6d1170d7095520e</sha1>
+  </file>
+  <file name="BVC-0867-MAY41945-PERIODICALS_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0867-MAY41945-PERIODICALS.djvu</original>
+    <mtime>1449557561</mtime>
+    <size>103685</size>
+    <md5>8b8f475a774b44c19c9f82348ddbb2b1</md5>
+    <crc32>191c45ed</crc32>
+    <sha1>cfdbb3df9dff3fd2b4e2460c0ba5b3b240598ae6</sha1>
+  </file>
+  <file name="BVC-0867-MAY41945-PERIODICALS_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0867-MAY41945-PERIODICALS_abbyy.gz</original>
+    <mtime>1449556681</mtime>
+    <size>993399</size>
+    <md5>45caf8af4bbade91c912c466e339230b</md5>
+    <crc32>81ecacdd</crc32>
+    <sha1>8273c6fdf33a14f2cb39059d4f92c5cfeb73b1d7</sha1>
+  </file>
+  <file name="BVC-0867-MAY41945-PERIODICALS_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0867-MAY41945-PERIODICALS.pdf</original>
+    <mtime>1449556030</mtime>
+    <size>49183820</size>
+    <md5>afadfeaec238dee19b55a5eef599de4a</md5>
+    <crc32>9b8b006b</crc32>
+    <sha1>52403cf5a14b5987da43331994db99ae3e961c95</sha1>
+  </file>
+  <file name="BVC-0867-MAY41945-PERIODICALS_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0867-MAY41945-PERIODICALS_djvu.xml</original>
+    <mtime>1449557070</mtime>
+    <size>5310</size>
+    <md5>03f9e3148ff3728ff1103c1228d15bc1</md5>
+    <crc32>87d90a1a</crc32>
+    <sha1>ed98a9c3f5bd2634feba5d136007658202c6d711</sha1>
+  </file>
+  <file name="BVC-0867-MAY41945-PERIODICALS_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0867-MAY41945-PERIODICALS_djvu.xml</original>
+    <mtime>1449557536</mtime>
+    <size>8703873</size>
+    <md5>e88cd77dff55e7dc205d497b5ba9309d</md5>
+    <crc32>ed5c1405</crc32>
+    <sha1>b723362d576263f0fc79e0f5c969f383b9ae922e</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530946731</mtime>
+    <size>23128</size>
+    <md5>4e7fe749915a5fa86bde54a45d7d02eb</md5>
+    <crc32>c0246ec2</crc32>
+    <sha1>ae758fa0ca9039ebad959a8ccac884e4e2b74899</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="yank-far-east-vol-2-no-40_archive.torrent" source="metadata">
+    <btih>2b9ec1f4c58df7559d07dae1e8a7ed22dd491488</btih>
+    <mtime>1530946733</mtime>
+    <size>7247</size>
+    <md5>1346b993315d6cc6e2ada748bb51b575</md5>
+    <crc32>98906b80</crc32>
+    <sha1>844e8f0e391867b7e83f8f516888d05a8df3c194</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="yank-far-east-vol-2-no-40_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>3c268cf5f51f3b1872a16140bbb5ce83</md5>
+  </file>
+  <file name="yank-far-east-vol-2-no-40_meta.sqlite" source="original">
+    <mtime>1466246173</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>6426c714468f38effd283817717c1b6d</md5>
+    <crc32>85aa4cb9</crc32>
+    <sha1>889a3e63d735446ed6ebc6fce8346bb8eb43ee60</sha1>
+  </file>
+  <file name="yank-far-east-vol-2-no-40_meta.xml" source="original">
+    <mtime>1485666559</mtime>
+    <size>1025</size>
+    <format>Metadata</format>
+    <md5>5a956dc0935ed1ddfca6353d0917cf72</md5>
+    <crc32>1457215c</crc32>
+    <sha1>efc07935c8cc328c488d3174c7ee8f7579eb647b</sha1>
+  </file>
+</files>

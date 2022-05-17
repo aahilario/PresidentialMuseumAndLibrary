@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Scrapbook-Newspaper Clippings 2.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Scrapbook-Newspaper Clippings 2_jp2.zip</original>
+    <mtime>1458102221</mtime>
+    <size>289174</size>
+    <md5>e95cb9d6f4f2ce25cd8179d6f02bed9d</md5>
+    <crc32>2f44e1c4</crc32>
+    <sha1>5ed9179f5e98d0bde18e7b847b92e25790dfd150</sha1>
+  </file>
+  <file name="Scrapbook-Newspaper Clippings 2.pdf" source="original">
+    <mtime>1458100491</mtime>
+    <size>186791102</size>
+    <md5>7dc29dd2f8b0c28778d3405e30630f87</md5>
+    <crc32>bbe725bd</crc32>
+    <sha1>0d71bcf710b1ac7d8fc015b1a6971737c04e5f13</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="Scrapbook-Newspaper Clippings 2_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Scrapbook-Newspaper Clippings 2_jp2.zip</original>
+    <mtime>1458111736</mtime>
+    <size>11345021</size>
+    <md5>f68ce4735be1893a456d1277a18a4ab1</md5>
+    <crc32>c2c7a1a7</crc32>
+    <sha1>0fddecb4111229835d9d57fe86fc4e69619ac8cd</sha1>
+  </file>
+  <file name="Scrapbook-Newspaper Clippings 2_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Scrapbook-Newspaper Clippings 2_djvu.xml</original>
+    <mtime>1458111928</mtime>
+    <size>656707</size>
+    <md5>2b87379e9fd7cd69e9ab68ac040d0163</md5>
+    <crc32>485e876c</crc32>
+    <sha1>2b4d99e49e7943452d70fe8d70bce1a0f792d31f</sha1>
+  </file>
+  <file name="Scrapbook-Newspaper Clippings 2_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Scrapbook-Newspaper Clippings 2_abbyy.gz</original>
+    <mtime>1458111900</mtime>
+    <size>6559956</size>
+    <md5>75ff28efd7bea892ce13231e744f2eb5</md5>
+    <crc32>d758d1e0</crc32>
+    <sha1>55dc2d26a7084a2f7fa276281a8a6a63390fb669</sha1>
+  </file>
+  <file name="Scrapbook-Newspaper Clippings 2_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Scrapbook-Newspaper Clippings 2.pdf</original>
+    <mtime>1458102144</mtime>
+    <size>230159076</size>
+    <md5>8f11aaf97c76d11bd5084e459bf6278f</md5>
+    <crc32>2a342a96</crc32>
+    <sha1>62da32c70d88f7e3c207027197a9ba3f0dfce917</sha1>
+  </file>
+  <file name="Scrapbook-Newspaper Clippings 2_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Scrapbook-Newspaper Clippings 2_djvu.xml</original>
+    <mtime>1458111926</mtime>
+    <size>29849</size>
+    <md5>097c32c886b855a8a842ed33d97056c4</md5>
+    <crc32>7d64e32e</crc32>
+    <sha1>934041d5ffd8daa019d5453bed8ad1911c1bc3fd</sha1>
+  </file>
+  <file name="Scrapbook-Newspaper Clippings 2_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>Scrapbook-Newspaper Clippings 2_djvu.xml</original>
+    <mtime>1458113866</mtime>
+    <size>45330843</size>
+    <md5>2d7870fa7e525a1326ea9aa36271c597</md5>
+    <crc32>7cc60c36</crc32>
+    <sha1>d648d59d05a524f6040aa55a80288aa54457ee36</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530586466</mtime>
+    <size>11071</size>
+    <md5>a021489f63b3a7566790d0461044a8ed</md5>
+    <crc32>8fb2008a</crc32>
+    <sha1>30aa39b6c987c7ea4678385fe7eb2ed114c9b1b9</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="huk-ambush-newspaper-clippings-1-aurora-quezon_archive.torrent" source="metadata">
+    <btih>28c2c56217f6beb905feb714bed85893e6801fcc</btih>
+    <mtime>1530586470</mtime>
+    <size>21826</size>
+    <md5>5d7ee469c4b3d7c5d689fadfae54e9f3</md5>
+    <crc32>64ef77b6</crc32>
+    <sha1>cf4aa9e983d9ff98bec736b616180db253b615e6</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="huk-ambush-newspaper-clippings-1-aurora-quezon_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>1e5e48948b644d13a00035172c491b3c</md5>
+  </file>
+  <file name="huk-ambush-newspaper-clippings-1-aurora-quezon_meta.sqlite" source="original">
+    <mtime>1466058651</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>5fa3b62381c4c43cada479c93de271e9</md5>
+    <crc32>918b643e</crc32>
+    <sha1>1185d7fb76cf66eeeea5fc63f85e15d02b3f2ae3</sha1>
+  </file>
+  <file name="huk-ambush-newspaper-clippings-1-aurora-quezon_meta.xml" source="original">
+    <mtime>1482450712</mtime>
+    <size>1091</size>
+    <format>Metadata</format>
+    <md5>3f51c9237eb7c64c87d5bfa417b3da51</md5>
+    <crc32>1f7a2378</crc32>
+    <sha1>261bdda4a0c216fbedb5253630df61aa14ca9054</sha1>
+  </file>
+</files>

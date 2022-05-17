@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Compilation of Documents Relating to the Inauguration of the Government of the Philippines.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Compilation of Documents Relating to the Inauguration of the Government of the Philippines_jp2.zip</original>
+    <mtime>1456800284</mtime>
+    <size>306972</size>
+    <md5>123808691016cecd064508cbc96fa120</md5>
+    <crc32>ef752f14</crc32>
+    <sha1>8b1a7fb5c079fe0f4d595634fdc3cb44cf9e7485</sha1>
+  </file>
+  <file name="Compilation of Documents Relating to the Inauguration of the Government of the Philippines.pdf" source="original">
+    <mtime>1456799158</mtime>
+    <size>57016558</size>
+    <md5>7d2d65e1712c86718e6e9c6c7cd1b181</md5>
+    <crc32>28590893</crc32>
+    <sha1>a2b21bf448d21308d3e9f3adebe194164105a335</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="Compilation of Documents Relating to the Inauguration of the Government of the Philippines_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Compilation of Documents Relating to the Inauguration of the Government of the Philippines_jp2.zip</original>
+    <mtime>1456802384</mtime>
+    <size>3952611</size>
+    <md5>c4b536dc6d09076e2334ae73e9386ab6</md5>
+    <crc32>3060130b</crc32>
+    <sha1>469c8c84086168776ffccee762e4aee0a8c6e990</sha1>
+  </file>
+  <file name="Compilation of Documents Relating to the Inauguration of the Government of the Philippines_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Compilation of Documents Relating to the Inauguration of the Government of the Philippines_djvu.xml</original>
+    <mtime>1456802484</mtime>
+    <size>237349</size>
+    <md5>87460c40c29a73b4d3f724fe8ae51f62</md5>
+    <crc32>a9e25c52</crc32>
+    <sha1>4e1e4f2d58fd715b6e118e826a51730985d64615</sha1>
+  </file>
+  <file name="Compilation of Documents Relating to the Inauguration of the Government of the Philippines_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Compilation of Documents Relating to the Inauguration of the Government of the Philippines_abbyy.gz</original>
+    <mtime>1456802474</mtime>
+    <size>2179999</size>
+    <md5>dd063b387e0ddbb9ae58e1e4e7194888</md5>
+    <crc32>c3e7f000</crc32>
+    <sha1>dfb4a7a66d6056ba986019fc7318340efb20751e</sha1>
+  </file>
+  <file name="Compilation of Documents Relating to the Inauguration of the Government of the Philippines_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Compilation of Documents Relating to the Inauguration of the Government of the Philippines.pdf</original>
+    <mtime>1456800178</mtime>
+    <size>91548222</size>
+    <md5>c1c969fe23d34b4b819ea06e5e211aab</md5>
+    <crc32>d8502684</crc32>
+    <sha1>8776b84957b812a1304caa7a085af73a52655ad5</sha1>
+  </file>
+  <file name="Compilation of Documents Relating to the Inauguration of the Government of the Philippines_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Compilation of Documents Relating to the Inauguration of the Government of the Philippines_djvu.xml</original>
+    <mtime>1456802482</mtime>
+    <size>25384</size>
+    <md5>93d8e962b3152ef98db696720a821385</md5>
+    <crc32>bee340ea</crc32>
+    <sha1>8603a6ce9802825c29f530bc5f8d081d1d33c08b</sha1>
+  </file>
+  <file name="Compilation of Documents Relating to the Inauguration of the Government of the Philippines_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>Compilation of Documents Relating to the Inauguration of the Government of the Philippines_djvu.xml</original>
+    <mtime>1456803427</mtime>
+    <size>17195332</size>
+    <md5>9698c762c56227ac9f98eb7b7979be1f</md5>
+    <crc32>f3907d1a</crc32>
+    <sha1>ad5f8e28cae6846f1967fe6356031a5bae80ee1c</sha1>
+  </file>
+  <file name="Compilation-Documents-Inauguration-Commonwealth-of-the-Philippines_archive.torrent" source="metadata">
+    <btih>149c101399a5e18173a6a590dff38db4a3311708</btih>
+    <mtime>1530625659</mtime>
+    <size>10716</size>
+    <md5>fa3701037271c43f0f54eeea91a464e1</md5>
+    <crc32>2f51a85f</crc32>
+    <sha1>37bed070c3f8040ee88d0e79b3972029339e240d</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Compilation-Documents-Inauguration-Commonwealth-of-the-Philippines_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>1def648ced1dec81ff90f7143bd8f8eb</md5>
+  </file>
+  <file name="Compilation-Documents-Inauguration-Commonwealth-of-the-Philippines_meta.sqlite" source="original">
+    <mtime>1467953661</mtime>
+    <size>14336</size>
+    <format>Metadata</format>
+    <md5>9ce0a4ccef77463af7cd6b7a8d721e1f</md5>
+    <crc32>4bbb98e6</crc32>
+    <sha1>1bd60b28ab27d3b35c231b16a731dec5eb12dba7</sha1>
+  </file>
+  <file name="Compilation-Documents-Inauguration-Commonwealth-of-the-Philippines_meta.xml" source="original">
+    <mtime>1485378721</mtime>
+    <size>1706</size>
+    <format>Metadata</format>
+    <md5>6fce041ba55aac504452f3737b465fcf</md5>
+    <crc32>06f1acdb</crc32>
+    <sha1>cbe6c18f1dbf8aea1b558739b429e28208fdd6f8</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530625657</mtime>
+    <size>21093</size>
+    <md5>b21dae84c24c6633045f2ad55b80743c</md5>
+    <crc32>afd908e6</crc32>
+    <sha1>0fd7104c6a620760edbf5b33b00721f59ac8f0a4</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+</files>

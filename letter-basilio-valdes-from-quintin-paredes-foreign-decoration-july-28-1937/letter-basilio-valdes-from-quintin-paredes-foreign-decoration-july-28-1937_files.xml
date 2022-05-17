@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0423-072837-CP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0423-072837-CP_jp2.zip</original>
+    <mtime>1450767891</mtime>
+    <size>14857</size>
+    <md5>4526a422ea740ecff0d82d22d31e6712</md5>
+    <crc32>fd3a8bcf</crc32>
+    <sha1>e828bb86f66a3ffa0cf2b6715bdb42253a2abaf4</sha1>
+  </file>
+  <file name="BVC-0423-072837-CP.pdf" source="original">
+    <mtime>1450767830</mtime>
+    <size>718494</size>
+    <md5>8acdac6ae8978131e22a2922657dee2d</md5>
+    <crc32>e9e956a1</crc32>
+    <sha1>2702560a6c5c8d3a6ced175d34e1cef4b32ec1b6</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0423-072837-CP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0423-072837-CP_jp2.zip</original>
+    <mtime>1450767906</mtime>
+    <size>29035</size>
+    <md5>534ca523039c9eaa7ff46682f2e20695</md5>
+    <crc32>9deb552d</crc32>
+    <sha1>f81fb9732162a08416dedef14c76591a83ed9322</sha1>
+  </file>
+  <file name="BVC-0423-072837-CP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0423-072837-CP_djvu.xml</original>
+    <mtime>1456644635</mtime>
+    <size>1791</size>
+    <md5>f78fa324eb72356833dfdeab93e6cff1</md5>
+    <crc32>fe6745ad</crc32>
+    <sha1>b7c7f85c149925ac2f2aca505e6144a5cf39f10f</sha1>
+  </file>
+  <file name="BVC-0423-072837-CP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0423-072837-CP_abbyy.gz</original>
+    <mtime>1450767914</mtime>
+    <size>17013</size>
+    <md5>f902f836a640503e312d44c229cdd76f</md5>
+    <crc32>c8cbca94</crc32>
+    <sha1>011cba255420d61d57b84438e540b9fdc63f4855</sha1>
+  </file>
+  <file name="BVC-0423-072837-CP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0423-072837-CP.pdf</original>
+    <mtime>1450767883</mtime>
+    <size>1084877</size>
+    <md5>d74ea18814f3f1af1e5c439ee922c92d</md5>
+    <crc32>c1f327b5</crc32>
+    <sha1>817769594b72ff9911456aab8edcf157a92b44a4</sha1>
+  </file>
+  <file name="BVC-0423-072837-CP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0423-072837-CP_djvu.xml</original>
+    <mtime>1450767926</mtime>
+    <size>584</size>
+    <md5>ccb8797eef864262e2e5e92e28f65895</md5>
+    <crc32>d6e4b555</crc32>
+    <sha1>890b9c246ab2bbfb814599e6cc7acf6db883feba</sha1>
+  </file>
+  <file name="BVC-0423-072837-CP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0423-072837-CP_djvu.xml</original>
+    <mtime>1450767946</mtime>
+    <size>223696</size>
+    <md5>3739cfe4fe992b63a862c06155dadd7f</md5>
+    <crc32>aa0ff7bf</crc32>
+    <sha1>e1fdd1aad681c239898fa1ad9610abf1966cf319</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530819261</mtime>
+    <size>15544</size>
+    <md5>0e8db50d50f9f1b37d9fb52a1ca54b6f</md5>
+    <crc32>8d748eb4</crc32>
+    <sha1>523d3c37a9953b62cafbe33e1bc283d4ae58a8b4</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="letter-basilio-valdes-from-quintin-paredes-foreign-decoration-july-28-1937_archive.torrent" source="metadata">
+    <btih>55ed3c503e07eb0c377059e4ed52cebd9052401c</btih>
+    <mtime>1530819262</mtime>
+    <size>3695</size>
+    <md5>6c8b99393eea8aca006f1397f0befca9</md5>
+    <crc32>c9a67754</crc32>
+    <sha1>d578caa65c88487e9fbae9d097e7910f79280340</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="letter-basilio-valdes-from-quintin-paredes-foreign-decoration-july-28-1937_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>6b8a7b8bce0a9dc9f0c6fcbcb35adfec</md5>
+  </file>
+  <file name="letter-basilio-valdes-from-quintin-paredes-foreign-decoration-july-28-1937_meta.sqlite" source="original">
+    <mtime>1466406622</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>84e98e986bf07ae9e8248dd486039818</md5>
+    <crc32>4911da7e</crc32>
+    <sha1>d0069217f8d1ce065e10befd714a7ae2a64c709b</sha1>
+  </file>
+  <file name="letter-basilio-valdes-from-quintin-paredes-foreign-decoration-july-28-1937_meta.xml" source="original">
+    <mtime>1485075361</mtime>
+    <size>1333</size>
+    <format>Metadata</format>
+    <md5>f96674dd74c0a05a077496a737023186</md5>
+    <crc32>386374fb</crc32>
+    <sha1>1d5317e8f9ab9da8e832804ac22bfb3031526630</sha1>
+  </file>
+</files>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0686-062044-BVL.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0686-062044-BVL_djvu.xml</original>
+    <mtime>1450415697</mtime>
+    <size>2810010</size>
+    <md5>6c3841e0b6112522627a70c358f11e8d</md5>
+    <crc32>6af752a8</crc32>
+    <sha1>df77a4fd52a7fee005af7befefba8607d5329c9f</sha1>
+  </file>
+  <file name="BVC-0686-062044-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0686-062044-BVL_jp2.zip</original>
+    <mtime>1450415217</mtime>
+    <size>185832</size>
+    <md5>a943a880a6c93c6d777270e2c0c688a3</md5>
+    <crc32>a46c1248</crc32>
+    <sha1>32a531f8610e49e326cb226c3bf322c38c1fc82a</sha1>
+  </file>
+  <file name="BVC-0686-062044-BVL.pdf" source="original">
+    <mtime>1450410175</mtime>
+    <size>12592029</size>
+    <md5>d4e1cdb9e20eb04aa96e2ecbc926a768</md5>
+    <crc32>2186d132</crc32>
+    <sha1>8d54b15d7cc4400fa50abda478d64c6579c75679</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0686-062044-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0686-062044-BVL_jp2.zip</original>
+    <mtime>1450415360</mtime>
+    <size>659521</size>
+    <md5>2946659118f1e754521eb2b8c6a12ea5</md5>
+    <crc32>ac198b6c</crc32>
+    <sha1>d08aae7a7529adf58e40dc3e98b83271b3c40655</sha1>
+  </file>
+  <file name="BVC-0686-062044-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0686-062044-BVL.djvu</original>
+    <mtime>1450416060</mtime>
+    <size>43179</size>
+    <md5>28928f46ef5f5366d7a08827340d147c</md5>
+    <crc32>6f0280a7</crc32>
+    <sha1>2523f91d08295be3dcebba9945318b182bf6e8e6</sha1>
+  </file>
+  <file name="BVC-0686-062044-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0686-062044-BVL_abbyy.gz</original>
+    <mtime>1450415384</mtime>
+    <size>395365</size>
+    <md5>550e6f723a7039dc71466447c5257d9c</md5>
+    <crc32>8c9738ee</crc32>
+    <sha1>b15873a87f7e14ba5856114d081c927a6eb77f64</sha1>
+  </file>
+  <file name="BVC-0686-062044-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0686-062044-BVL.pdf</original>
+    <mtime>1450415151</mtime>
+    <size>20072407</size>
+    <md5>81decf9a04e0e1bcae8fb14feb7cb545</md5>
+    <crc32>f8563763</crc32>
+    <sha1>60660874f28b3073dcbfaa999891c3edba9fd4cb</sha1>
+  </file>
+  <file name="BVC-0686-062044-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0686-062044-BVL_djvu.xml</original>
+    <mtime>1450415701</mtime>
+    <size>4448</size>
+    <md5>78adbad85d743f2cf2665c0e0fbc0df9</md5>
+    <crc32>1434a24b</crc32>
+    <sha1>a7818458dea4062576c85b478e03b5cea8ce2a75</sha1>
+  </file>
+  <file name="BVC-0686-062044-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0686-062044-BVL_djvu.xml</original>
+    <mtime>1450416035</mtime>
+    <size>4245829</size>
+    <md5>492b738636d273ea2d147f012d3d51f9</md5>
+    <crc32>fcc329ac</crc32>
+    <sha1>745e3ece7052f55a9a1b93903d9a577af11e4b0b</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530845406</mtime>
+    <size>17781</size>
+    <md5>b40b939114fab1c80f985f9305acd837</md5>
+    <crc32>0c4c6ea4</crc32>
+    <sha1>637ac02145291089a43e8ba3fb33849abf088c90</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="letter-claro-m-recto-to-ambassador-syozo-murata-june-20-1944_archive.torrent" source="metadata">
+    <btih>ba6719f4b83dfdfd3f4cefa8aff87342f27464b8</btih>
+    <mtime>1530845407</mtime>
+    <size>5250</size>
+    <md5>fed7ff64c7aaa663a70d1e634aebfc8f</md5>
+    <crc32>06f2a22a</crc32>
+    <sha1>12a7d08cdfaa2bccb168a238c5bf031849c7cb08</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="letter-claro-m-recto-to-ambassador-syozo-murata-june-20-1944_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>04ee73851ec6d6bedba2dcf9eeb737fa</md5>
+  </file>
+  <file name="letter-claro-m-recto-to-ambassador-syozo-murata-june-20-1944_meta.sqlite" source="original">
+    <mtime>1466316381</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>819f90c5eee84bfce9b02f255a48daa0</md5>
+    <crc32>2e5ba463</crc32>
+    <sha1>10d26569d50a0bb294b671459d3d6a5d23c847f4</sha1>
+  </file>
+  <file name="letter-claro-m-recto-to-ambassador-syozo-murata-june-20-1944_meta.xml" source="original">
+    <mtime>1485892135</mtime>
+    <size>1393</size>
+    <format>Metadata</format>
+    <md5>b520148e0ea3ab1f38ecce3b1dfd07f8</md5>
+    <crc32>e00966d3</crc32>
+    <sha1>d2e3394b8ad4718b51dd9977c4bdd72a8eff2b38</sha1>
+  </file>
+</files>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>gen-orders-no-20-policy-service-during-japanese-occupation</bookId>
+    <leafCount>2</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4798</origWidth>
+      <origHeight>6340</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4798</w>
+        <h>6340</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4795</origWidth>
+      <origHeight>6362</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4795</w>
+        <h>6362</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

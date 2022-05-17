@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0561-041542-BVL.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0561-041542-BVL_djvu.xml</original>
+    <mtime>1449564805</mtime>
+    <size>260533</size>
+    <md5>40e8805959e4324844a86e70e0be371c</md5>
+    <crc32>598dc3ea</crc32>
+    <sha1>f0f5e8877b031cdb3530c0599ec7768ef2167f7f</sha1>
+  </file>
+  <file name="BVC-0561-041542-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0561-041542-BVL_jp2.zip</original>
+    <mtime>1449564748</mtime>
+    <size>27908</size>
+    <md5>ea43687125454ef2d869284628a82d39</md5>
+    <crc32>0e5b7373</crc32>
+    <sha1>ce6e6ab76666d4a74e12c83ff2a8db96098f069a</sha1>
+  </file>
+  <file name="BVC-0561-041542-BVL.pdf" source="original">
+    <mtime>1449564660</mtime>
+    <size>1442249</size>
+    <md5>0818fb3b85a1c9faf1220ecfed87c996</md5>
+    <crc32>885a4493</crc32>
+    <sha1>5224a7c009dceec91514d4cd529cb75080129c72</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0561-041542-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0561-041542-BVL_jp2.zip</original>
+    <mtime>1449564770</mtime>
+    <size>53552</size>
+    <md5>848d63c3d0b28dce9d56cfc6da84e883</md5>
+    <crc32>45b2990b</crc32>
+    <sha1>a5ccc2571e3ddd61afe01c32a0c0b634785807ec</sha1>
+  </file>
+  <file name="BVC-0561-041542-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0561-041542-BVL.djvu</original>
+    <mtime>1449564854</mtime>
+    <size>3466</size>
+    <md5>bce2f94c1f158b98f9b0dd3887ccace0</md5>
+    <crc32>170332d9</crc32>
+    <sha1>08ede61f6d7c16cdc69a0090b1a746e541714151</sha1>
+  </file>
+  <file name="BVC-0561-041542-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0561-041542-BVL_abbyy.gz</original>
+    <mtime>1449564777</mtime>
+    <size>31498</size>
+    <md5>88b6b1ddee22beb95a157667a1f5aaf7</md5>
+    <crc32>567e18aa</crc32>
+    <sha1>7a36e6fbdc54a684e1339b264351eb4caa3ee784</sha1>
+  </file>
+  <file name="BVC-0561-041542-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0561-041542-BVL.pdf</original>
+    <mtime>1449564738</mtime>
+    <size>2184010</size>
+    <md5>9fa28f6556f458847f177863d79734cc</md5>
+    <crc32>87dd0f54</crc32>
+    <sha1>22a0cb215328f959178693b930342bb37d505c75</sha1>
+  </file>
+  <file name="BVC-0561-041542-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0561-041542-BVL_djvu.xml</original>
+    <mtime>1449564806</mtime>
+    <size>885</size>
+    <md5>41dba2c58ed22f9fe0be4c66a3736371</md5>
+    <crc32>ee033598</crc32>
+    <sha1>f99f3dfa03e5cae2bba4678aca8762766959892c</sha1>
+  </file>
+  <file name="BVC-0561-041542-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0561-041542-BVL_djvu.xml</original>
+    <mtime>1449564846</mtime>
+    <size>468877</size>
+    <md5>b73beb242ae8b2e5bc976fcd0131fe03</md5>
+    <crc32>5edd2bdd</crc32>
+    <sha1>27491647d06be0a3d262dc88c7e3939c152460ee</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530677717</mtime>
+    <size>15886</size>
+    <md5>c1439f5bbf5ff2b6c4c16da048259565</md5>
+    <crc32>6bc61fdd</crc32>
+    <sha1>9724a55f8572305e2b616bd0fa0773d299e905a2</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="order-from-president-quezon-awarding-distinguished-conduct-star-april-15-1942_archive.torrent" source="metadata">
+    <btih>6f8621ecdef7443722f29ad718af4bd04cb813a5</btih>
+    <mtime>1530677717</mtime>
+    <size>3994</size>
+    <md5>9a2e7ae4303c18ae6d646a738ae2c361</md5>
+    <crc32>999abaa5</crc32>
+    <sha1>2e27e583ab9e151bb77e122fbda17e32eda8c765</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="order-from-president-quezon-awarding-distinguished-conduct-star-april-15-1942_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>e2fcc402616d95efe7aa7acff9bb1871</md5>
+  </file>
+  <file name="order-from-president-quezon-awarding-distinguished-conduct-star-april-15-1942_meta.sqlite" source="original">
+    <mtime>1466267059</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>55666fbf9d722601a79ee1ff11e93258</md5>
+    <crc32>c6137723</crc32>
+    <sha1>fb942b86db90b5c934a1046cf5052f82d5a1e8e2</sha1>
+  </file>
+  <file name="order-from-president-quezon-awarding-distinguished-conduct-star-april-15-1942_meta.xml" source="original">
+    <mtime>1482978582</mtime>
+    <size>1556</size>
+    <format>Metadata</format>
+    <md5>3c94aefc62016b2d8fce49fa621f56c3</md5>
+    <crc32>2318e9dc</crc32>
+    <sha1>5d120d6c7e8bde7b448bfe98f8b5024aca79eb39</sha1>
+  </file>
+</files>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0511-030964-HPSP.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0511-030964-HPSP_djvu.xml</original>
+    <mtime>1452103725</mtime>
+    <size>1933622</size>
+    <md5>a36446266b2c0b802a4393a9c6a747b4</md5>
+    <crc32>112c4666</crc32>
+    <sha1>1b93d3b4ef52e68edfecfd2bbee3be494244160f</sha1>
+  </file>
+  <file name="BVC-0511-030964-HPSP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0511-030964-HPSP_jp2.zip</original>
+    <mtime>1451879571</mtime>
+    <size>103260</size>
+    <md5>1d625bac8b7cbb08860a31a77fc38eb3</md5>
+    <crc32>6f98e1cb</crc32>
+    <sha1>a902044f2a348634788b807f218763a8f0b3bfef</sha1>
+  </file>
+  <file name="BVC-0511-030964-HPSP.pdf" source="original">
+    <mtime>1451879360</mtime>
+    <size>8233156</size>
+    <md5>069a78bdec1d0391a206275774a2efae</md5>
+    <crc32>6bafb602</crc32>
+    <sha1>51aa8f29a3dae72b59a6696412286886e0463314</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0511-030964-HPSP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0511-030964-HPSP_jp2.zip</original>
+    <mtime>1451879802</mtime>
+    <size>369581</size>
+    <md5>1aa3b3989c317e47e4b15936e61f7551</md5>
+    <crc32>927553fb</crc32>
+    <sha1>df192b58f9b257953f5855706654a4b071cf0ce3</sha1>
+  </file>
+  <file name="BVC-0511-030964-HPSP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0511-030964-HPSP.djvu</original>
+    <mtime>1452103733</mtime>
+    <size>22987</size>
+    <md5>160f6e7dc20d983460c160c7f22d8f77</md5>
+    <crc32>aae6e1d6</crc32>
+    <sha1>51bfe9b34de105cfb9568ac6c1398aaea43b56fe</sha1>
+  </file>
+  <file name="BVC-0511-030964-HPSP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0511-030964-HPSP_abbyy.gz</original>
+    <mtime>1451879813</mtime>
+    <size>208228</size>
+    <md5>f805b158c00dbb654192cfb2476dd4d4</md5>
+    <crc32>2e773b7f</crc32>
+    <sha1>95b8024ab1404002c209b427f6be80fadd045c6c</sha1>
+  </file>
+  <file name="BVC-0511-030964-HPSP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0511-030964-HPSP.pdf</original>
+    <mtime>1451879550</mtime>
+    <size>11782605</size>
+    <md5>4cb02900bd179c6e6c989e86e24e48ac</md5>
+    <crc32>269291fb</crc32>
+    <sha1>6c7def523c6bf800a822900455263f11e1159681</sha1>
+  </file>
+  <file name="BVC-0511-030964-HPSP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0511-030964-HPSP_djvu.xml</original>
+    <mtime>1451879850</mtime>
+    <size>2684</size>
+    <md5>9b465fd77daa873a1ca42c9ed27f9783</md5>
+    <crc32>7160be20</crc32>
+    <sha1>c96663c7aea62b91abdf580fab189d9ed454cd43</sha1>
+  </file>
+  <file name="BVC-0511-030964-HPSP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0511-030964-HPSP_djvu.xml</original>
+    <mtime>1451879964</mtime>
+    <size>2599466</size>
+    <md5>a4f9873620d71fa1efdc4e4fd6dcc21d</md5>
+    <crc32>ee78d804</crc32>
+    <sha1>ed3d33090905cfb381c782a2a47b3caa9c6cc287</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530935432</mtime>
+    <size>20121</size>
+    <md5>16e9698db644cc71940451c9a12854d0</md5>
+    <crc32>de91cbd0</crc32>
+    <sha1>d38fe381ae663e8a95d87a26e1c48366eaa5888a</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="presidential-committee-investigating-charges-filed-by-jose-maristela-against-manuel-cabal_archive.torrent" source="metadata">
+    <btih>df31708dfa09b5479f585e7fc3790742caa0d39d</btih>
+    <mtime>1530935432</mtime>
+    <size>4921</size>
+    <md5>9ed4385433ae83db687fc6e0bc7d108d</md5>
+    <crc32>159d16d0</crc32>
+    <sha1>4dea48942a60249967c707b0b5bdb2a4345bffa5</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="presidential-committee-investigating-charges-filed-by-jose-maristela-against-manuel-cabal_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>f31eac5ee43bcf501d25b9dd45888b19</md5>
+  </file>
+  <file name="presidential-committee-investigating-charges-filed-by-jose-maristela-against-manuel-cabal_meta.sqlite" source="original">
+    <mtime>1466809859</mtime>
+    <size>14336</size>
+    <format>Metadata</format>
+    <md5>f71aeae4ec859d482c4a71212fb919b5</md5>
+    <crc32>acda5f50</crc32>
+    <sha1>49fa68ad21a10d383918759689fcce737c87b149</sha1>
+  </file>
+  <file name="presidential-committee-investigating-charges-filed-by-jose-maristela-against-manuel-cabal_meta.xml" source="original">
+    <mtime>1483597517</mtime>
+    <size>1706</size>
+    <format>Metadata</format>
+    <md5>e3508b4cd5814190b2e6b6b868fd4d2a</md5>
+    <crc32>964d0273</crc32>
+    <sha1>46316ad19c157bb9a06e538e3212f23459ec8eda</sha1>
+  </file>
+</files>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0671-110444-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0671-110444-BVL_jp2.zip</original>
+    <mtime>1450406106</mtime>
+    <size>15609</size>
+    <md5>937a755738dc9291312301c210687622</md5>
+    <crc32>c0ccdc24</crc32>
+    <sha1>d66354320ccfefa23b8e25fe2137d9297253d3e7</sha1>
+  </file>
+  <file name="BVC-0671-110444-BVL.pdf" source="original">
+    <mtime>1450404113</mtime>
+    <size>529696</size>
+    <md5>48da8efe2e8c4c06980f01cd809f2bd3</md5>
+    <crc32>aaa964ed</crc32>
+    <sha1>1443b93c6997769866b17fab03fcb08dfad9a98a</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0671-110444-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0671-110444-BVL_jp2.zip</original>
+    <mtime>1450406128</mtime>
+    <size>8727</size>
+    <md5>d86fa2b0428fb56aa929c771e730fa9e</md5>
+    <crc32>18d6071b</crc32>
+    <sha1>5bcbc1069a7e0eb3b830322ff6be7e8103e17b2a</sha1>
+  </file>
+  <file name="BVC-0671-110444-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0671-110444-BVL_djvu.xml</original>
+    <mtime>1456684966</mtime>
+    <size>476</size>
+    <md5>0ef20bb2633a37c3c9ece9bf8e323276</md5>
+    <crc32>d7892b19</crc32>
+    <sha1>be7a9258f6caeeaa77b886b2782b575132578d8a</sha1>
+  </file>
+  <file name="BVC-0671-110444-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0671-110444-BVL_abbyy.gz</original>
+    <mtime>1450406153</mtime>
+    <size>5475</size>
+    <md5>5b32feb10118d9c05b2df2ca9232515b</md5>
+    <crc32>103c6146</crc32>
+    <sha1>196795ec346b59b606fa5236d3acbccf10762fb9</sha1>
+  </file>
+  <file name="BVC-0671-110444-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0671-110444-BVL.pdf</original>
+    <mtime>1450406090</mtime>
+    <size>604897</size>
+    <md5>ac896515b2c3e678417029c48c1f2776</md5>
+    <crc32>ada0a225</crc32>
+    <sha1>554e4fd078a6d2fc43173a60f122241b1046a602</sha1>
+  </file>
+  <file name="BVC-0671-110444-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0671-110444-BVL_djvu.xml</original>
+    <mtime>1450406259</mtime>
+    <size>578</size>
+    <md5>e35f69b0d596bfb668b4a7d4fe9d492d</md5>
+    <crc32>968ef190</crc32>
+    <sha1>7fb68f63205a270d13dafb11fd1f718f53c8123a</sha1>
+  </file>
+  <file name="BVC-0671-110444-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0671-110444-BVL_djvu.xml</original>
+    <mtime>1450406257</mtime>
+    <size>135168</size>
+    <md5>b1228b62f0b8f7d65ac663d7b926bad9</md5>
+    <crc32>7c7d2243</crc32>
+    <sha1>510f193483c494f0b6be067c9fc9dd75a76e419a</sha1>
+  </file>
+  <file name="BVC-0672-110444-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0672-110444-BVL_jp2.zip</original>
+    <mtime>1450406101</mtime>
+    <size>15654</size>
+    <md5>1112210872a2a791abc6d7362fe3dcf4</md5>
+    <crc32>7627874d</crc32>
+    <sha1>eb6af9f985ee54dbef5ebc2f47aa1cfc7b2bbc6f</sha1>
+  </file>
+  <file name="BVC-0672-110444-BVL.pdf" source="original">
+    <mtime>1450404129</mtime>
+    <size>563240</size>
+    <md5>13e9a6d6fffab7b10f7333f818fbebed</md5>
+    <crc32>71097d14</crc32>
+    <sha1>c8c67b17ef77d80d3e0ed80e7f3bc1cbb13bfbd9</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0672-110444-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0672-110444-BVL_jp2.zip</original>
+    <mtime>1450406144</mtime>
+    <size>15197</size>
+    <md5>5ebbe209f63534bff42492ee633666c1</md5>
+    <crc32>492b514c</crc32>
+    <sha1>5b6e8956e044737b1e2960514dd626bed045b724</sha1>
+  </file>
+  <file name="BVC-0672-110444-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0672-110444-BVL_djvu.xml</original>
+    <mtime>1456684963</mtime>
+    <size>849</size>
+    <md5>ab7a039de02bebf66c2e45caf6f2edae</md5>
+    <crc32>003a01d0</crc32>
+    <sha1>fb2497b4f850b03ffe953150a95fea720d378e47</sha1>
+  </file>
+  <file name="BVC-0672-110444-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0672-110444-BVL_abbyy.gz</original>
+    <mtime>1450406151</mtime>
+    <size>8655</size>
+    <md5>b0a6c1d62ff0a65dd6493870bd31953c</md5>
+    <crc32>fa2ec0ed</crc32>
+    <sha1>f4ef2321efa798a6a0d59222a9f985da52f8c092</sha1>
+  </file>
+  <file name="BVC-0672-110444-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0672-110444-BVL.pdf</original>
+    <mtime>1450406057</mtime>
+    <size>645153</size>
+    <md5>faf0f279d88c13b58b6075bbf32d7707</md5>
+    <crc32>4b16179e</crc32>
+    <sha1>9dccbb522c6a91a5609226eed7ecd9182fe64c1a</sha1>
+  </file>
+  <file name="BVC-0672-110444-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0672-110444-BVL_djvu.xml</original>
+    <mtime>1450406218</mtime>
+    <size>578</size>
+    <md5>404b05105905ce38e38ab39b382c8483</md5>
+    <crc32>ba38f3a2</crc32>
+    <sha1>551fc07d8d16de08e2270c78dfa1a6dba8da7e5d</sha1>
+  </file>
+  <file name="BVC-0672-110444-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0672-110444-BVL_djvu.xml</original>
+    <mtime>1450406216</mtime>
+    <size>160614</size>
+    <md5>dd54620798172fcd58922dfb71906de1</md5>
+    <crc32>b847e807</crc32>
+    <sha1>1a7babb8d54378b69e425f86fab18527063c4253</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530877783</mtime>
+    <size>9962</size>
+    <md5>c104dd17a3e96586d32b3a5a40f71a22</md5>
+    <crc32>3f1e639e</crc32>
+    <sha1>2827cb18150cea7a53412531f08b0e68b35f2dbc</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="letters-to-basilio-valdes-reestablish-telegraph-comm-november-4-1944_archive.torrent" source="metadata">
+    <btih>266e763cf1e2ef1ff55efce2f87254ffbc3dbabc</btih>
+    <mtime>1530877784</mtime>
+    <size>5112</size>
+    <md5>42cb5ea00e78918b379767fd1dcda709</md5>
+    <crc32>ab12f09c</crc32>
+    <sha1>ce75a24731e82d86854409932a350764e7276e6b</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="letters-to-basilio-valdes-reestablish-telegraph-comm-november-4-1944_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>ab1a50c8fdc32377375cb30bbf60a3ca</md5>
+  </file>
+  <file name="letters-to-basilio-valdes-reestablish-telegraph-comm-november-4-1944_meta.sqlite" source="original">
+    <mtime>1450404135</mtime>
+    <size>14336</size>
+    <format>Metadata</format>
+    <md5>7ad5938c282c9fb42761e209caeb17e5</md5>
+    <crc32>8aec0876</crc32>
+    <sha1>d59b8f95bf86366504e74e5712bffc248be0467d</sha1>
+  </file>
+  <file name="letters-to-basilio-valdes-reestablish-telegraph-comm-november-4-1944_meta.xml" source="original">
+    <mtime>1485445735</mtime>
+    <size>1576</size>
+    <format>Metadata</format>
+    <md5>b9b7fef2264c82eb0a88841fb46476b4</md5>
+    <crc32>7f0b5315</crc32>
+    <sha1>4228ac9905254291aea81aae9e848b1a2bc3a7c8</sha1>
+  </file>
+</files>

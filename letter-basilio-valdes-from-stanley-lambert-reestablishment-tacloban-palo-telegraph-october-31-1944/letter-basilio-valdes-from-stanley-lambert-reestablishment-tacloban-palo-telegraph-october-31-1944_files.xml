@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0669-103144-BVL.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0669-103144-BVL_djvu.xml</original>
+    <mtime>1450343559</mtime>
+    <size>258261</size>
+    <md5>856e2cf574f9e41a7c0bad4848a73970</md5>
+    <crc32>61ee0c7d</crc32>
+    <sha1>d97ffc04d64c6ff85bca42ef8cbc40cb02c97a8b</sha1>
+  </file>
+  <file name="BVC-0669-103144-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0669-103144-BVL_jp2.zip</original>
+    <mtime>1450343458</mtime>
+    <size>27115</size>
+    <md5>c2b93706dfa4ffd64f19220a2b9cde3d</md5>
+    <crc32>4d86e3d1</crc32>
+    <sha1>675e6840c1f2d089a1dfc1936ceb4d386cf2831d</sha1>
+  </file>
+  <file name="BVC-0669-103144-BVL.pdf" source="original">
+    <mtime>1450342400</mtime>
+    <size>1258052</size>
+    <md5>0c1b3b6d09b6e0db29edc22a1c5f442a</md5>
+    <crc32>b15be0f5</crc32>
+    <sha1>0f4cdc71a621833b6fb0f3fad4cc59aacb5da990</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0669-103144-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0669-103144-BVL_jp2.zip</original>
+    <mtime>1450343520</mtime>
+    <size>38840</size>
+    <md5>12e32310d4e0b7540b0f4f68df53dc67</md5>
+    <crc32>550c2953</crc32>
+    <sha1>2a403fb956e13cc129b33578f9cb50a081cdbae1</sha1>
+  </file>
+  <file name="BVC-0669-103144-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0669-103144-BVL.djvu</original>
+    <mtime>1450343614</mtime>
+    <size>2285</size>
+    <md5>95763f3b27d8dde6ff76b15f7d502266</md5>
+    <crc32>847b93e1</crc32>
+    <sha1>200f226e382299e777081493e1c7720d3d1d3733</sha1>
+  </file>
+  <file name="BVC-0669-103144-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0669-103144-BVL_abbyy.gz</original>
+    <mtime>1450343528</mtime>
+    <size>22800</size>
+    <md5>76c363f0ac168d986ec85ef8a3463c00</md5>
+    <crc32>1ba1852e</crc32>
+    <sha1>8e06f55eca34f8a6e71f8129843c40bd6623a206</sha1>
+  </file>
+  <file name="BVC-0669-103144-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0669-103144-BVL.pdf</original>
+    <mtime>1450343441</mtime>
+    <size>1634733</size>
+    <md5>a57e3de19d9fb502752e1ddfb78c9b4a</md5>
+    <crc32>a030520d</crc32>
+    <sha1>4ebb892c0e2333efd86c8b3eead86fa14e9714b7</sha1>
+  </file>
+  <file name="BVC-0669-103144-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0669-103144-BVL_djvu.xml</original>
+    <mtime>1450343561</mtime>
+    <size>906</size>
+    <md5>610503171c5c9fc016159a69bc7ff29f</md5>
+    <crc32>d47de9c6</crc32>
+    <sha1>3aa582dd0c718e913483fca88be6949d30377a73</sha1>
+  </file>
+  <file name="BVC-0669-103144-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0669-103144-BVL_djvu.xml</original>
+    <mtime>1450343601</mtime>
+    <size>394102</size>
+    <md5>da3f018fc1a89f59300c1119af189cfc</md5>
+    <crc32>c5cde1a6</crc32>
+    <sha1>17fcb31e5553619e5063710800f1a18692bcfd97</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530952004</mtime>
+    <size>13265</size>
+    <md5>e31f4ab136440070d5148582e542f539</md5>
+    <crc32>b19b0091</crc32>
+    <sha1>e734831534d90d6d134432915dee3b60418c75d7</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="letter-basilio-valdes-from-stanley-lambert-reestablishment-tacloban-palo-telegraph-october-31-1944_archive.torrent" source="metadata">
+    <btih>20860e255a408bf4380b0b05edc6c0991a128551</btih>
+    <mtime>1530952004</mtime>
+    <size>4142</size>
+    <md5>d858e3fb2a41fb70528ced08f6c92f09</md5>
+    <crc32>57c4b021</crc32>
+    <sha1>a8c3757196980d4814b186d9d5dcd7c99d10ffe8</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="letter-basilio-valdes-from-stanley-lambert-reestablishment-tacloban-palo-telegraph-october-31-1944_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>4c381b5224aa1b04849c3391565c7514</md5>
+  </file>
+  <file name="letter-basilio-valdes-from-stanley-lambert-reestablishment-tacloban-palo-telegraph-october-31-1944_meta.sqlite" source="original">
+    <mtime>1466701710</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>f900624d5f5d19253e83129a10bf50a2</md5>
+    <crc32>913b8e7b</crc32>
+    <sha1>bee48fcd27122b4e2239e60114347f48230f3394</sha1>
+  </file>
+  <file name="letter-basilio-valdes-from-stanley-lambert-reestablishment-tacloban-palo-telegraph-october-31-1944_meta.xml" source="original">
+    <mtime>1483915422</mtime>
+    <size>1356</size>
+    <format>Metadata</format>
+    <md5>49d4237fb4e7617bc1ece77321659810</md5>
+    <crc32>3429ae9b</crc32>
+    <sha1>8d5e5f6c16dd9e6bf040b1ea85a933155dae4dac</sha1>
+  </file>
+</files>

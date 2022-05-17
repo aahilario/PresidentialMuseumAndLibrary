@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="TenMonthsOfPresidentOsmeasAdministration.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>TenMonthsOfPresidentOsmeasAdministration_djvu.xml</original>
+    <mtime>1443525412</mtime>
+    <size>10849600</size>
+    <md5>88472e0be9a5b2734f78059b0b25f881</md5>
+    <crc32>8791a691</crc32>
+    <sha1>7b691a7dc9ccf68828c7d3038a20e40ccba8becc</sha1>
+  </file>
+  <file name="TenMonthsOfPresidentOsmeasAdministration.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>TenMonthsOfPresidentOsmeasAdministration_jp2.zip</original>
+    <mtime>1443524362</mtime>
+    <size>363099</size>
+    <md5>aa7fd6a34c7af5d959ff865e3e72e8fb</md5>
+    <crc32>cb248045</crc32>
+    <sha1>4413bdfae6bd9f45c7eaabb5b5d3d9055d7c8aab</sha1>
+  </file>
+  <file name="TenMonthsOfPresidentOsmeasAdministration.pdf" source="original">
+    <format>Image Container PDF</format>
+    <title>Ten Months of President Osmeña's Administration</title>
+    <mtime>1443523093</mtime>
+    <size>64123385</size>
+    <md5>25bab46f44011feb6a8522fc78ef7648</md5>
+    <crc32>a32babc1</crc32>
+    <sha1>47ede7fd5bcd4775c5e96d64f292a2d90f03a752</sha1>
+  </file>
+  <file name="TenMonthsOfPresidentOsmeasAdministration_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>TenMonthsOfPresidentOsmeasAdministration_jp2.zip</original>
+    <mtime>1443525016</mtime>
+    <size>3312523</size>
+    <md5>e3bd974679d8044745cd19bf9ec0977b</md5>
+    <crc32>d3ae123a</crc32>
+    <sha1>6245cdeed00ca5efd2e49fde10d1f0c277c4f1af</sha1>
+  </file>
+  <file name="TenMonthsOfPresidentOsmeasAdministration_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>TenMonthsOfPresidentOsmeasAdministration.djvu</original>
+    <mtime>1443525842</mtime>
+    <size>216498</size>
+    <md5>47768232b3f30db64c127f3ac682b183</md5>
+    <crc32>10c02a9b</crc32>
+    <sha1>9eadede8660a2f0dd6496c5af5656e5dbde088e4</sha1>
+  </file>
+  <file name="TenMonthsOfPresidentOsmeasAdministration_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>TenMonthsOfPresidentOsmeasAdministration_abbyy.gz</original>
+    <mtime>1443525077</mtime>
+    <size>1948404</size>
+    <md5>aa912f40e882cd9b555875205a3a9d69</md5>
+    <crc32>d90efa45</crc32>
+    <sha1>fb8276981d6ba391b08da96aef16fa4888470408</sha1>
+  </file>
+  <file name="TenMonthsOfPresidentOsmeasAdministration_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>TenMonthsOfPresidentOsmeasAdministration.pdf</original>
+    <mtime>1443524336</mtime>
+    <size>64105977</size>
+    <md5>ba3753cf1854b846db9496e7d9e87565</md5>
+    <crc32>7f3b5011</crc32>
+    <sha1>95319e56e892f87b91cea07d6006d21e10a60b36</sha1>
+  </file>
+  <file name="TenMonthsOfPresidentOsmeasAdministration_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>TenMonthsOfPresidentOsmeasAdministration_djvu.xml</original>
+    <mtime>1443525414</mtime>
+    <size>33743</size>
+    <md5>954ce15f452024c3cb6349cb9d2f3f38</md5>
+    <crc32>16985457</crc32>
+    <sha1>99cbfd9e6945e82ee13ea4853c6d50f722c3b7ee</sha1>
+  </file>
+  <file name="TenMonthsOfPresidentOsmeasAdministration_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>TenMonthsOfPresidentOsmeasAdministration_djvu.xml</original>
+    <mtime>1443525802</mtime>
+    <size>8325389</size>
+    <md5>357f37ae31d9f34a50009bfc23602b58</md5>
+    <crc32>a75736e4</crc32>
+    <sha1>9153ef895b717922e455f493e96ce3b4fdaff786</sha1>
+  </file>
+  <file name="TenMonthsOfPresidentOsmenaAdministration_archive.torrent" source="metadata">
+    <btih>18fefea5826114dc872f07847d2a3614ed8415ac</btih>
+    <mtime>1530761084</mtime>
+    <size>9544</size>
+    <md5>eb5b0f013916b3fc77ce2d6b457d39ad</md5>
+    <crc32>cad4d268</crc32>
+    <sha1>1fd4c5fa8dbc67894271a0c650e26c4326e44f61</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="TenMonthsOfPresidentOsmenaAdministration_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>d90c2916d72735c4dd9358376f8e61a5</md5>
+  </file>
+  <file name="TenMonthsOfPresidentOsmenaAdministration_meta.sqlite" source="original">
+    <mtime>1467778595</mtime>
+    <size>6144</size>
+    <format>Metadata</format>
+    <md5>58c8d0a36fc442aa371a2e97ec5a0648</md5>
+    <crc32>90ed0c8a</crc32>
+    <sha1>a2b34e80726c1789a53e96a1be5fb43c15ff332f</sha1>
+  </file>
+  <file name="TenMonthsOfPresidentOsmenaAdministration_meta.xml" source="original">
+    <mtime>1484664050</mtime>
+    <size>1047</size>
+    <format>Metadata</format>
+    <md5>fe28ecb8460d577ffd1aaaa37766589f</md5>
+    <crc32>b4215d02</crc32>
+    <sha1>c22302a7502456a3be426eb4d90039533e5e9ebd</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530761083</mtime>
+    <size>13410</size>
+    <md5>e35604912945e01c8d110a66480a150e</md5>
+    <crc32>8c4140d6</crc32>
+    <sha1>66c8d772493f1645e7b230eb0220c8006789c79d</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+</files>

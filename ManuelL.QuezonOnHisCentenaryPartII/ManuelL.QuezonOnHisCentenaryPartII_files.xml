@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Manuel L. Quezon Part II.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>Manuel L. Quezon Part II_djvu.xml</original>
+    <mtime>1431699912</mtime>
+    <size>18793330</size>
+    <md5>4f2236a8170bef9b489a115f22c71bbe</md5>
+    <crc32>53f888f5</crc32>
+    <sha1>623ff613a0f2a7e0fda5c6f3cfdc7edcabdabb56</sha1>
+  </file>
+  <file name="Manuel L. Quezon Part II.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Manuel L. Quezon Part II_jp2.zip</original>
+    <mtime>1431675247</mtime>
+    <size>192062</size>
+    <md5>752c0bc98884b523190d31dcafa69e12</md5>
+    <crc32>9d9728d7</crc32>
+    <sha1>f4ab1bbeefd5c956d0a59eb2c8b8d67940dd34ba</sha1>
+  </file>
+  <file name="Manuel L. Quezon Part II.pdf" source="original">
+    <mtime>1431674220</mtime>
+    <size>24357854</size>
+    <md5>742bebfdafbb880c3b19c6e550730e0b</md5>
+    <crc32>2951740c</crc32>
+    <sha1>8ffec86935e56ca8eb96d76fb595032da9df935f</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="Manuel L. Quezon Part II_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Manuel L. Quezon Part II_jp2.zip</original>
+    <mtime>1431698789</mtime>
+    <size>20566002</size>
+    <md5>27982d5ca769240e318a3b7d6549ff0e</md5>
+    <crc32>90e59d68</crc32>
+    <sha1>38032d5d7dfed0789f4d168bec207110d7e7bfc3</sha1>
+  </file>
+  <file name="Manuel L. Quezon Part II_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Manuel L. Quezon Part II.djvu</original>
+    <mtime>1431701184</mtime>
+    <size>1190008</size>
+    <md5>e14540a3889657ae1d0e97b76f35f52a</md5>
+    <crc32>f8eece45</crc32>
+    <sha1>2ffa4d9038d5d3beea43df402b5098b4f43aac18</sha1>
+  </file>
+  <file name="Manuel L. Quezon Part II_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Manuel L. Quezon Part II_abbyy.gz</original>
+    <mtime>1431699042</mtime>
+    <size>12191977</size>
+    <md5>33fff80b2911c42a5eb2c3bff8d1faf1</md5>
+    <crc32>8de40675</crc32>
+    <sha1>0bed7e48331524016f3f4efe9d98b89ab90c6819</sha1>
+  </file>
+  <file name="Manuel L. Quezon Part II_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Manuel L. Quezon Part II.pdf</original>
+    <mtime>1431675197</mtime>
+    <size>334447748</size>
+    <md5>7e79363a84a2abbb3ea0ee8e8a8efc45</md5>
+    <crc32>615640cc</crc32>
+    <sha1>87db7f50e7bf165772cb857821d0a68856308b1f</sha1>
+  </file>
+  <file name="Manuel L. Quezon Part II_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Manuel L. Quezon Part II_djvu.xml</original>
+    <mtime>1431699919</mtime>
+    <size>144437</size>
+    <md5>a1c57f56757425aaab709834684169d3</md5>
+    <crc32>f7953c92</crc32>
+    <sha1>3097f64b4340f676ca23e4e5fc94eb71d91251df</sha1>
+  </file>
+  <file name="Manuel L. Quezon Part II_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>Manuel L. Quezon Part II_djvu.xml</original>
+    <mtime>1431701140</mtime>
+    <size>25659384</size>
+    <md5>84c88fbf10c14cafa5594a9329bb0fa8</md5>
+    <crc32>032d2601</crc32>
+    <sha1>994b9ee88477792f9d1f3cc94fb064ed2de23a78</sha1>
+  </file>
+  <file name="ManuelL.QuezonOnHisCentenaryPartII_archive.torrent" source="metadata">
+    <btih>605ec36f4b887d8475fa97c148ab4a839951127c</btih>
+    <mtime>1485045298</mtime>
+    <size>20054</size>
+    <md5>4cd4d1838e3260fa331b32e428567dcb</md5>
+    <crc32>06e4f410</crc32>
+    <sha1>dd3f9b50a3f9aab42a3fb9419801ebb0013dc1e1</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="ManuelL.QuezonOnHisCentenaryPartII_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>dfec0bfaf2e35750b0e651cdb5b55f0b</md5>
+  </file>
+  <file name="ManuelL.QuezonOnHisCentenaryPartII_meta.sqlite" source="original">
+    <mtime>1463389479</mtime>
+    <size>12288</size>
+    <format>Metadata</format>
+    <md5>28d9bc895c0e7a0facc0c4959c1cadc8</md5>
+    <crc32>8045563b</crc32>
+    <sha1>87ed56c207fda9d97c946c2045d8f8c80406b93d</sha1>
+  </file>
+  <file name="ManuelL.QuezonOnHisCentenaryPartII_meta.xml" source="original">
+    <mtime>1485045287</mtime>
+    <size>1633</size>
+    <format>Metadata</format>
+    <md5>17ec1e729fcf0b3940f37c53b91c4e19</md5>
+    <crc32>e5419b13</crc32>
+    <sha1>02b9bf46f9c5a71976bdecfd931eddfc8948a930</sha1>
+  </file>
+</files>

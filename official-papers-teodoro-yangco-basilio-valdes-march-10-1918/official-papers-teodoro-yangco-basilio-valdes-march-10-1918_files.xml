@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0046-031018-OP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0046-031018-OP_jp2.zip</original>
+    <mtime>1449471509</mtime>
+    <size>16585</size>
+    <md5>446e4ccca7e428d7110b521837445de3</md5>
+    <crc32>a572f8af</crc32>
+    <sha1>962e1011e1812eda2de5742d4fd3a201b4ed6846</sha1>
+  </file>
+  <file name="BVC-0046-031018-OP.pdf" source="original">
+    <mtime>1449471422</mtime>
+    <size>745524</size>
+    <md5>69686b7f93cd497655dd1331c49f13e3</md5>
+    <crc32>da9c355f</crc32>
+    <sha1>4d7e313e02e3e75456b9b0836be575d8d4c3d3b7</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0046-031018-OP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0046-031018-OP_jp2.zip</original>
+    <mtime>1449471533</mtime>
+    <size>23254</size>
+    <md5>209ecb9e8bb940e9538d8ca16543741d</md5>
+    <crc32>e7f6cc2a</crc32>
+    <sha1>3ea0faf9decaaba2aef08db3d792ee394e8697d8</sha1>
+  </file>
+  <file name="BVC-0046-031018-OP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0046-031018-OP_djvu.xml</original>
+    <mtime>1456658164</mtime>
+    <size>1371</size>
+    <md5>e119804f3e41681e3551c03974a04398</md5>
+    <crc32>9893d48a</crc32>
+    <sha1>fcfb27bee97abacb9ba5f6248841699a1f8a7522</sha1>
+  </file>
+  <file name="BVC-0046-031018-OP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0046-031018-OP_abbyy.gz</original>
+    <mtime>1449471540</mtime>
+    <size>13066</size>
+    <md5>2a93412bb4906021bbb933a9ee7c510a</md5>
+    <crc32>16bec793</crc32>
+    <sha1>9ccdfa502290fec8a11541244553691c1add4740</sha1>
+  </file>
+  <file name="BVC-0046-031018-OP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0046-031018-OP.pdf</original>
+    <mtime>1449471501</mtime>
+    <size>1040128</size>
+    <md5>6cd87711759191f1bd79a99d1842ba28</md5>
+    <crc32>6f8df660</crc32>
+    <sha1>7ab10638afa5a18f9cc608b2f87d45172949980e</sha1>
+  </file>
+  <file name="BVC-0046-031018-OP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0046-031018-OP_djvu.xml</original>
+    <mtime>1449471554</mtime>
+    <size>569</size>
+    <md5>d20e308b2f84ae77d303650f4bc42651</md5>
+    <crc32>82586304</crc32>
+    <sha1>ea9e98f9fceb6842bf0a5ec26819cef0aa30ad5c</sha1>
+  </file>
+  <file name="BVC-0046-031018-OP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0046-031018-OP_djvu.xml</original>
+    <mtime>1449471571</mtime>
+    <size>249113</size>
+    <md5>e25e1657f967d1ffa8f8ba472300d820</md5>
+    <crc32>0631944f</crc32>
+    <sha1>6993a2e04ba7e998fc20a949b4db409b7776d998</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1531103730</mtime>
+    <size>18225</size>
+    <md5>123bf086ef782a88a4231e7d61554a45</md5>
+    <crc32>3c67f765</crc32>
+    <sha1>2d757bb3a139377c59ebb491d3a3a2ead236b01f</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="official-papers-teodoro-yangco-basilio-valdes-march-10-1918_archive.torrent" source="metadata">
+    <btih>998b5f3743be898b54bc095d193f44340548a75a</btih>
+    <mtime>1531103731</mtime>
+    <size>3563</size>
+    <md5>97c07ff64f07fec12982dd1a08ca8da6</md5>
+    <crc32>b0dfe1f2</crc32>
+    <sha1>28de800190f2934d9d8e0d40c8f4fb3c4fc40eb4</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="official-papers-teodoro-yangco-basilio-valdes-march-10-1918_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>16fba08980ce1814e7d35164522fd52a</md5>
+  </file>
+  <file name="official-papers-teodoro-yangco-basilio-valdes-march-10-1918_meta.sqlite" source="original">
+    <mtime>1463786068</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>1653181c5d54286f4afff31110153e71</md5>
+    <crc32>072cd7b3</crc32>
+    <sha1>7de57f2d0784c6a0427ad5f7e3b5a97a88f4e083</sha1>
+  </file>
+  <file name="official-papers-teodoro-yangco-basilio-valdes-march-10-1918_meta.xml" source="original">
+    <mtime>1485419509</mtime>
+    <size>1115</size>
+    <format>Metadata</format>
+    <md5>41458b44d28d48a6f469ec7b5250760a</md5>
+    <crc32>5c4101b0</crc32>
+    <sha1>a78d6e34b735b4c43c2703cc6a3f91cf985ff44d</sha1>
+  </file>
+</files>

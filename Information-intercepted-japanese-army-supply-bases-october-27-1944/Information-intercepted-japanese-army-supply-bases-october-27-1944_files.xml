@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0663-102744-BVL.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0663-102744-BVL_djvu.xml</original>
+    <mtime>1450340457</mtime>
+    <size>170937</size>
+    <md5>149a98c3e4d29f8c4f4b6d20fc3b4f28</md5>
+    <crc32>2ea07805</crc32>
+    <sha1>5180cd870d10f61bcd6a29d1e3d4a0e66a471832</sha1>
+  </file>
+  <file name="BVC-0663-102744-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0663-102744-BVL_jp2.zip</original>
+    <mtime>1450340088</mtime>
+    <size>28295</size>
+    <md5>ea9510453a99fc48cf73df58f7731cd1</md5>
+    <crc32>9616f575</crc32>
+    <sha1>b60a93e0bbe881dd3554e4a7415264c98745f604</sha1>
+  </file>
+  <file name="BVC-0663-102744-BVL.pdf" source="original">
+    <mtime>1450337575</mtime>
+    <size>1106314</size>
+    <md5>d8fa6a720f99706c1d35adc64b900810</md5>
+    <crc32>00dcca4c</crc32>
+    <sha1>af84eb29328889bffb0a7906433a47c8cca60b08</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0663-102744-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0663-102744-BVL_jp2.zip</original>
+    <mtime>1450340420</mtime>
+    <size>24390</size>
+    <md5>35f0d69137b34cd0a3540345923f70c4</md5>
+    <crc32>078afe1b</crc32>
+    <sha1>695a2e9a8d22e49a30b9f115dd7ea99f2b6aa95f</sha1>
+  </file>
+  <file name="BVC-0663-102744-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0663-102744-BVL.djvu</original>
+    <mtime>1450340528</mtime>
+    <size>1392</size>
+    <md5>7bf69a197fdffb5eb6e533bfaded7698</md5>
+    <crc32>acc5d2af</crc32>
+    <sha1>f7bcb168806ad40c479184c4bdb3aa849e6effd3</sha1>
+  </file>
+  <file name="BVC-0663-102744-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0663-102744-BVL_abbyy.gz</original>
+    <mtime>1450340429</mtime>
+    <size>15342</size>
+    <md5>2cad03402dcdc00625e120d4452efc79</md5>
+    <crc32>1853ccd4</crc32>
+    <sha1>5314de8d1d9faef8e8d5fcc38b5fb434215d7821</sha1>
+  </file>
+  <file name="BVC-0663-102744-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0663-102744-BVL.pdf</original>
+    <mtime>1450340075</mtime>
+    <size>1123223</size>
+    <md5>175e04a698169996bd3764f274b68608</md5>
+    <crc32>e2816785</crc32>
+    <sha1>a80caa943270f862afc51a705c69ead57e05583a</sha1>
+  </file>
+  <file name="BVC-0663-102744-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0663-102744-BVL_djvu.xml</original>
+    <mtime>1450340459</mtime>
+    <size>874</size>
+    <md5>e127ff15d09c4184bbad1ec61733a06b</md5>
+    <crc32>7ce48798</crc32>
+    <sha1>3f631fb41b06074754b2650fcbdc4a68ca9573a4</sha1>
+  </file>
+  <file name="BVC-0663-102744-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0663-102744-BVL_djvu.xml</original>
+    <mtime>1450340518</mtime>
+    <size>279760</size>
+    <md5>6b75f02b87b33b9d5597758b16585c81</md5>
+    <crc32>1e55d6a0</crc32>
+    <sha1>7be839cb5b3b2a6e3eb309b52c699f023c987f67</sha1>
+  </file>
+  <file name="Information-intercepted-japanese-army-supply-bases-october-27-1944_archive.torrent" source="metadata">
+    <btih>096caa9923916dfffc9490f26374fb25a34c6f8d</btih>
+    <mtime>1483641815</mtime>
+    <size>3694</size>
+    <md5>0be18fedd03fc200aec88bec26e8ae39</md5>
+    <crc32>4b32cd64</crc32>
+    <sha1>351d95e269fbefd51a6d96853514c47916b1c3b6</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Information-intercepted-japanese-army-supply-bases-october-27-1944_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>3cd5e4b5bf46222378f21590d30d9215</md5>
+  </file>
+  <file name="Information-intercepted-japanese-army-supply-bases-october-27-1944_meta.sqlite" source="original">
+    <mtime>1466311004</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>428fc6f95e6181b7980aa91e39efedc1</md5>
+    <crc32>7b97f1b4</crc32>
+    <sha1>a818d157e4c9dea9067710dc50f679c3c0bf7bbf</sha1>
+  </file>
+  <file name="Information-intercepted-japanese-army-supply-bases-october-27-1944_meta.xml" source="original">
+    <mtime>1483641813</mtime>
+    <size>1408</size>
+    <format>Metadata</format>
+    <md5>fc06f4fecf542cdb7340f6bf2588de7e</md5>
+    <crc32>27f143d5</crc32>
+    <sha1>78220150d48a11a1305fffbbd2ce3f432c076270</sha1>
+  </file>
+</files>

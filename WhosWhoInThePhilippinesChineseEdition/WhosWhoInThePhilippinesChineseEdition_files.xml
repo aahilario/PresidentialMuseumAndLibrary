@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Who's Who in the Philippines, Chinese Edition.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>Who's Who in the Philippines, Chinese Edition_djvu.xml</original>
+    <mtime>1433731424</mtime>
+    <size>15080117</size>
+    <md5>9840e4e80b075634431513e84f8c579b</md5>
+    <crc32>4dd9f8f7</crc32>
+    <sha1>cb0165af75359ff8f203a0baae33ed1ceb10905b</sha1>
+  </file>
+  <file name="Who's Who in the Philippines, Chinese Edition.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Who's Who in the Philippines, Chinese Edition_jp2.zip</original>
+    <mtime>1433725077</mtime>
+    <size>206044</size>
+    <md5>40a2af1f7105022350c63da81690b4d7</md5>
+    <crc32>c3d19e5a</crc32>
+    <sha1>c8572d51efa6914a1c6e69dc44bb0ebb84178595</sha1>
+  </file>
+  <file name="Who's Who in the Philippines, Chinese Edition.pdf" source="original">
+    <mtime>1433724480</mtime>
+    <size>75775347</size>
+    <md5>a77ce46202e693a12f3f31865d2d6751</md5>
+    <crc32>8cf71847</crc32>
+    <sha1>5a2f0a36b1ae04bc3856a2b3fdcc6162d9187469</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="Who's Who in the Philippines, Chinese Edition_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Who's Who in the Philippines, Chinese Edition_jp2.zip</original>
+    <mtime>1433730075</mtime>
+    <size>2681452</size>
+    <md5>ee5dfa7eb56e4cf902195eba4a4d6b86</md5>
+    <crc32>47ee3b1a</crc32>
+    <sha1>bebe1f0e3c0ce4f9059659f19bea7dab01afb342</sha1>
+  </file>
+  <file name="Who's Who in the Philippines, Chinese Edition_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Who's Who in the Philippines, Chinese Edition.djvu</original>
+    <mtime>1433733329</mtime>
+    <size>161046</size>
+    <md5>df535a4e5cee711c54fd5ff01c847eb9</md5>
+    <crc32>1cd8f077</crc32>
+    <sha1>060ebbc7d6aa0904c325441db5cf034a3dc5c325</sha1>
+  </file>
+  <file name="Who's Who in the Philippines, Chinese Edition_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Who's Who in the Philippines, Chinese Edition_abbyy.gz</original>
+    <mtime>1433730119</mtime>
+    <size>1601602</size>
+    <md5>55a7aa54cd951890d488e556cebe2fe0</md5>
+    <crc32>a1a586fc</crc32>
+    <sha1>67704c7658255c92c206a455397d488698b8a44e</sha1>
+  </file>
+  <file name="Who's Who in the Philippines, Chinese Edition_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Who's Who in the Philippines, Chinese Edition.pdf</original>
+    <mtime>1433725047</mtime>
+    <size>105470481</size>
+    <md5>dcbd771e9281284835d0e8923ac52a1d</md5>
+    <crc32>4e392b52</crc32>
+    <sha1>5496dbc9258fd1a9c48a366a68d94300a06fef3e</sha1>
+  </file>
+  <file name="Who's Who in the Philippines, Chinese Edition_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Who's Who in the Philippines, Chinese Edition_djvu.xml</original>
+    <mtime>1433731427</mtime>
+    <size>62840</size>
+    <md5>d3bded2c0480e2df4d777900e451f307</md5>
+    <crc32>6aad8c7f</crc32>
+    <sha1>51ee518f8e10197c10e9094d1320c193166c205c</sha1>
+  </file>
+  <file name="Who's Who in the Philippines, Chinese Edition_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>Who's Who in the Philippines, Chinese Edition_djvu.xml</original>
+    <mtime>1433733299</mtime>
+    <size>25281225</size>
+    <md5>4a63f616ebc42cefc57e7cb3d00bd3e3</md5>
+    <crc32>e92c5327</crc32>
+    <sha1>67d3d4c77653fec662a79123c0b8ae029f647c87</sha1>
+  </file>
+  <file name="WhosWhoInThePhilippinesChineseEdition_archive.torrent" source="metadata">
+    <btih>8f8653c722a97dbe9ba18390c8048bfd59f22127</btih>
+    <mtime>1483169109</mtime>
+    <size>12204</size>
+    <md5>273f5ae5541267b0c223304916942966</md5>
+    <crc32>c9a52e25</crc32>
+    <sha1>d68e0a910e478b69437a85bb0acb4c2773ea0ca1</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="WhosWhoInThePhilippinesChineseEdition_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>e9e95fb043efd2c8b0c6d61ab76cc461</md5>
+  </file>
+  <file name="WhosWhoInThePhilippinesChineseEdition_meta.sqlite" source="original">
+    <mtime>1467963756</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>77caefbeb503707128b7f734a7644f0a</md5>
+    <crc32>1a30b089</crc32>
+    <sha1>47a30b3aae96a36589369c32317c53722387a3a5</sha1>
+  </file>
+  <file name="WhosWhoInThePhilippinesChineseEdition_meta.xml" source="original">
+    <mtime>1483169100</mtime>
+    <size>1804</size>
+    <format>Metadata</format>
+    <md5>1f5265728ee388abfeaf7139719ed2dd</md5>
+    <crc32>137babdf</crc32>
+    <sha1>703b7fac83a23e10df600df0dbc8e6c45e7c88cc</sha1>
+  </file>
+</files>

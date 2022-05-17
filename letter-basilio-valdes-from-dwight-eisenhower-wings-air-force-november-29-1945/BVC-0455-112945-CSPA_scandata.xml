@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>letter-basilio-valdes-from-dwight-eisenhower-wings-air-force-november-29-1945</bookId>
+    <leafCount>2</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4205</origWidth>
+      <origHeight>5384</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4205</w>
+        <h>5384</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4685</origWidth>
+      <origHeight>5660</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4685</w>
+        <h>5660</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>letter-to-basilio-valdes-from-claude-buss-may-8-1945</bookId>
+    <leafCount>2</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4763</origWidth>
+      <origHeight>6437</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4763</w>
+        <h>6437</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4786</origWidth>
+      <origHeight>6428</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4786</w>
+        <h>6428</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

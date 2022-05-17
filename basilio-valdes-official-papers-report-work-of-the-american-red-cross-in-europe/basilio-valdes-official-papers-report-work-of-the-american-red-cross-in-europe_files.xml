@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0072-091319-OP.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0072-091319-OP_djvu.xml</original>
+    <mtime>1449477613</mtime>
+    <size>3238513</size>
+    <md5>cad156dfe6f83ff836aadfd2c608f2c7</md5>
+    <crc32>5b989635</crc32>
+    <sha1>a92a5276d54de0a212ebe9692da075f3d576d985</sha1>
+  </file>
+  <file name="BVC-0072-091319-OP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0072-091319-OP_jp2.zip</original>
+    <mtime>1449477188</mtime>
+    <size>166820</size>
+    <md5>ba4515f9129dfe07d0fa7854a0adef8f</md5>
+    <crc32>750647aa</crc32>
+    <sha1>78d1549f5d99df95ee605cfa856dfeaf4576ab3b</sha1>
+  </file>
+  <file name="BVC-0072-091319-OP.pdf" source="original">
+    <mtime>1449476565</mtime>
+    <size>14509735</size>
+    <md5>6b6dad13e4ae6eda78bccf76bbdeecdc</md5>
+    <crc32>abd24140</crc32>
+    <sha1>1dab193a128e7d11ae31a39144fbc10ccffe9521</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0072-091319-OP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0072-091319-OP_jp2.zip</original>
+    <mtime>1449477439</mtime>
+    <size>713315</size>
+    <md5>b4ae8a827c0085ec6367f54e90189709</md5>
+    <crc32>4b30d2a6</crc32>
+    <sha1>5dd69f5b8dc3004b55168a6be642a15be337e519</sha1>
+  </file>
+  <file name="BVC-0072-091319-OP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0072-091319-OP.djvu</original>
+    <mtime>1449477817</mtime>
+    <size>42987</size>
+    <md5>8a407a624bd08922546bb8acf4df213e</md5>
+    <crc32>4a1761a5</crc32>
+    <sha1>e50d98e2b552448cc7eec34125b9287724b59ec2</sha1>
+  </file>
+  <file name="BVC-0072-091319-OP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0072-091319-OP_abbyy.gz</original>
+    <mtime>1449477457</mtime>
+    <size>401226</size>
+    <md5>e36b0351502427a204cd8d0e99c6e121</md5>
+    <crc32>6a09ded7</crc32>
+    <sha1>545f6c8e955c99223603d4a2c67745ea5bf67e81</sha1>
+  </file>
+  <file name="BVC-0072-091319-OP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0072-091319-OP.pdf</original>
+    <mtime>1449477164</mtime>
+    <size>21319478</size>
+    <md5>14bf9160ef90779511a0ba06b2b8c88b</md5>
+    <crc32>37919b26</crc32>
+    <sha1>901d46ce7ad76686dd18dc4bc4b3da1bf3b50de2</sha1>
+  </file>
+  <file name="BVC-0072-091319-OP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0072-091319-OP_djvu.xml</original>
+    <mtime>1449477615</mtime>
+    <size>4167</size>
+    <md5>df2caeac7d214fa424681b3cdfc01082</md5>
+    <crc32>3d09e837</crc32>
+    <sha1>0c550adc16d9ca938c7a07d15fa1eb5fe8783b29</sha1>
+  </file>
+  <file name="BVC-0072-091319-OP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0072-091319-OP_djvu.xml</original>
+    <mtime>1449477804</mtime>
+    <size>4198634</size>
+    <md5>04af293089062c6a774d181ce525475e</md5>
+    <crc32>4e5a7925</crc32>
+    <sha1>c30b91c4bde5316f11bda1350995302a7b1c416d</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1531094526</mtime>
+    <size>19908</size>
+    <md5>ddaae7abfb5a26a1e6568c845cc4ec0f</md5>
+    <crc32>c52df6bd</crc32>
+    <sha1>8117bd996cf78795e30c5125a11b42cdfdc45fe0</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="basilio-valdes-official-papers-report-work-of-the-american-red-cross-in-europe_archive.torrent" source="metadata">
+    <btih>e303250495f0dc695c0c93bcb9a249eca2d01daa</btih>
+    <mtime>1531094527</mtime>
+    <size>5543</size>
+    <md5>5774aaeb0997e5b45d3f2175c2f6fcc5</md5>
+    <crc32>592ebeba</crc32>
+    <sha1>4a22178378dc7b0aec5190d1bf8546dd213012b3</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="basilio-valdes-official-papers-report-work-of-the-american-red-cross-in-europe_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>ca870736641d14554cbf7687251ae85b</md5>
+  </file>
+  <file name="basilio-valdes-official-papers-report-work-of-the-american-red-cross-in-europe_meta.sqlite" source="original">
+    <mtime>1463873696</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>811facf0efd4fc31597e1c6ba089b3ff</md5>
+    <crc32>d25fc187</crc32>
+    <sha1>aa5f54fa7c886cfa9db359fb36801b939745ee6c</sha1>
+  </file>
+  <file name="basilio-valdes-official-papers-report-work-of-the-american-red-cross-in-europe_meta.xml" source="original">
+    <mtime>1485679169</mtime>
+    <size>1191</size>
+    <format>Metadata</format>
+    <md5>95b88e13c70864cdc635b2200c5e40d8</md5>
+    <crc32>46313199</crc32>
+    <sha1>2fa61b5e441ef16cec6ed3fb06ee1c983043afb4</sha1>
+  </file>
+</files>

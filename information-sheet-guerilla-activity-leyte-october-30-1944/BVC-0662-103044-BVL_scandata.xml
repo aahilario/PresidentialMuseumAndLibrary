@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>information-sheet-guerilla-activity-leyte-october-30-1944</bookId>
+    <leafCount>2</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3088</origWidth>
+      <origHeight>1596</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3088</w>
+        <h>1596</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4976</origWidth>
+      <origHeight>6267</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4976</w>
+        <h>6267</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

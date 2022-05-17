@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>draft-executive-order-no-10-1936</bookId>
+    <leafCount>5</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4908</origWidth>
+      <origHeight>6427</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4908</w>
+        <h>6427</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4816</origWidth>
+      <origHeight>6382</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4816</w>
+        <h>6382</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4885</origWidth>
+      <origHeight>6366</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4885</w>
+        <h>6366</h>
+      </cropBox>
+    </page>
+    <page leafNum="3">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4832</origWidth>
+      <origHeight>6390</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4832</w>
+        <h>6390</h>
+      </cropBox>
+    </page>
+    <page leafNum="4">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4832</origWidth>
+      <origHeight>6390</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4832</w>
+        <h>6390</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

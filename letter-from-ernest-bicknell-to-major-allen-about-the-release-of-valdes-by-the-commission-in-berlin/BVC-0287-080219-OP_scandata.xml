@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>letter-from-ernest-bicknell-to-major-allen-about-the-release-of-valdes-by-the-commission-in-berlin</bookId>
+    <leafCount>1</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5138</origWidth>
+      <origHeight>6666</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5138</w>
+        <h>6666</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+  </pageData>
+</book>

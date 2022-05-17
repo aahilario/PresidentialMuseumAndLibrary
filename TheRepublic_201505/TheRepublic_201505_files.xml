@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="The Republic.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>The Republic_djvu.xml</original>
+    <mtime>1431613664</mtime>
+    <size>37150756</size>
+    <md5>a8b082f405b97f80043280e4cae36777</md5>
+    <crc32>ce1c9609</crc32>
+    <sha1>22c212775578dc4a7b47a354a7c98ea942ba0287</sha1>
+  </file>
+  <file name="The Republic.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>The Republic_jp2.zip</original>
+    <mtime>1431599132</mtime>
+    <size>304104</size>
+    <md5>b1cda41d858705ee6c3446910e9744c4</md5>
+    <crc32>784a3cc1</crc32>
+    <sha1>5835be7c26c8e17694a80c23dbd692efbe494f18</sha1>
+  </file>
+  <file name="The Republic.pdf" source="original">
+    <mtime>1431597876</mtime>
+    <size>49373798</size>
+    <md5>58d1e6a802ed091a1f7e83108c00e3b5</md5>
+    <crc32>57a4f9e2</crc32>
+    <sha1>89a6698e5a00694fa2786a2503b19374947caece</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="The Republic_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>The Republic_jp2.zip</original>
+    <mtime>1431612141</mtime>
+    <size>9630364</size>
+    <md5>7d82fa6b1910f09e757179363c535aea</md5>
+    <crc32>55846296</crc32>
+    <sha1>e14b7781bb6ffaac2fddcd29c48f137d3d5e002f</sha1>
+  </file>
+  <file name="The Republic_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>The Republic.djvu</original>
+    <mtime>1431615818</mtime>
+    <size>558785</size>
+    <md5>1d07812919029f21e4eaa637547bf2a1</md5>
+    <crc32>0839ed8d</crc32>
+    <sha1>764bcff2a1a91c3dc4d8d793d7d6f42f6f976289</sha1>
+  </file>
+  <file name="The Republic_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>The Republic_abbyy.gz</original>
+    <mtime>1431612262</mtime>
+    <size>5065943</size>
+    <md5>81f7f45272dac7e10dd16b7ee967a88c</md5>
+    <crc32>513ac5e8</crc32>
+    <sha1>afcdb46830424498cadd7882655fa400116ec84d</sha1>
+  </file>
+  <file name="The Republic_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>The Republic.pdf</original>
+    <mtime>1431599087</mtime>
+    <size>168586878</size>
+    <md5>e19381e7600bcb8fdebffcd3416d1dba</md5>
+    <crc32>2be68e83</crc32>
+    <sha1>d2eb0a95f72ae9f4a95ac6b2c023684fe105a0d4</sha1>
+  </file>
+  <file name="The Republic_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>The Republic_djvu.xml</original>
+    <mtime>1431613669</mtime>
+    <size>35221</size>
+    <md5>349c7e147f0db662bb9d250acc3f3f55</md5>
+    <crc32>93345fee</crc32>
+    <sha1>32ca1fdc5704e55f788c69ec5295fc648d4b8705</sha1>
+  </file>
+  <file name="The Republic_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>The Republic_djvu.xml</original>
+    <mtime>1431615758</mtime>
+    <size>47561235</size>
+    <md5>99b970d76126fe9a4d884550a163ecda</md5>
+    <crc32>7866e074</crc32>
+    <sha1>ebab53095da6f7b76fe188e170c77288de3b58d9</sha1>
+  </file>
+  <file name="TheRepublic_201505_archive.torrent" source="metadata">
+    <btih>170a7a0db2a211b42965cfe6f29b0e77c8d56868</btih>
+    <mtime>1531098987</mtime>
+    <size>15398</size>
+    <md5>d3702ad61215201486cff04187ee50b5</md5>
+    <crc32>2fb4d9e2</crc32>
+    <sha1>c58e8758d11c8a0200228ce62ec4c3971deb320b</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="TheRepublic_201505_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>1983f2e80e132aac29b2f04bb21dd7a5</md5>
+  </file>
+  <file name="TheRepublic_201505_meta.sqlite" source="original">
+    <mtime>1463389459</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>e7e253d4b3863205cec8255f7b65d943</md5>
+    <crc32>9242f224</crc32>
+    <sha1>d00a5ec90cc9653565dd2f15e81cc1020444c64a</sha1>
+  </file>
+  <file name="TheRepublic_201505_meta.xml" source="original">
+    <mtime>1483100542</mtime>
+    <size>1476</size>
+    <format>Metadata</format>
+    <md5>ad8e6f4e21753740527a6428a12c7f61</md5>
+    <crc32>67639281</crc32>
+    <sha1>7c9ab35d047cc14da91217397c8a5d2b00faa132</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1531098985</mtime>
+    <size>19117</size>
+    <md5>6f97bb2ceb0166ec1e361f51971bc264</md5>
+    <crc32>14cbf834</crc32>
+    <sha1>8d3dd8731d7390a0e1157eb9dd737cb585dc3d44</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

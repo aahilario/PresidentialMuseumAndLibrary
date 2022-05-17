@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>BVC0735061146SP</bookId>
+    <leafCount>6</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5096</origWidth>
+      <origHeight>6646</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5096</w>
+        <h>6646</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5170</origWidth>
+      <origHeight>6646</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5170</w>
+        <h>6646</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5100</origWidth>
+      <origHeight>6638</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5100</w>
+        <h>6638</h>
+      </cropBox>
+    </page>
+    <page leafNum="3">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5105</origWidth>
+      <origHeight>6653</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5105</w>
+        <h>6653</h>
+      </cropBox>
+    </page>
+    <page leafNum="4">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5098</origWidth>
+      <origHeight>6638</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5098</w>
+        <h>6638</h>
+      </cropBox>
+    </page>
+    <page leafNum="5">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5081</origWidth>
+      <origHeight>6632</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5081</w>
+        <h>6632</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

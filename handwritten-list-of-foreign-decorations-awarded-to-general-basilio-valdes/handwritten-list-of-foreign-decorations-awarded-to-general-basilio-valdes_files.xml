@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0407-XXXXXX-CP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0407-XXXXXX-CP_jp2.zip</original>
+    <mtime>1451878683</mtime>
+    <size>13663</size>
+    <md5>2c0410c44640e55f43a2b0cf52f570d8</md5>
+    <crc32>79ed3a1f</crc32>
+    <sha1>d0b03d8d4305d2787ad2e555eab315119ed1b8a0</sha1>
+  </file>
+  <file name="BVC-0407-XXXXXX-CP.pdf" source="original">
+    <mtime>1451878632</mtime>
+    <size>593062</size>
+    <md5>f2ebb339ef028a8ad0f8d646aa0f6b40</md5>
+    <crc32>f6ae0f81</crc32>
+    <sha1>8fdfbdc0c2c68286926c4010c5edc6b3e992eb5a</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0407-XXXXXX-CP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0407-XXXXXX-CP_jp2.zip</original>
+    <mtime>1451878721</mtime>
+    <size>3094</size>
+    <md5>6e2aa1ceb28427d9f4ab5f1cb07787aa</md5>
+    <crc32>458fb6af</crc32>
+    <sha1>65bd35045d7fc188855b4977813e9404aefe48ff</sha1>
+  </file>
+  <file name="BVC-0407-XXXXXX-CP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0407-XXXXXX-CP_djvu.xml</original>
+    <mtime>1456644380</mtime>
+    <size>123</size>
+    <md5>9b4bd6ab93d1f39c2629bd5e0c04e70d</md5>
+    <crc32>6f06bbe6</crc32>
+    <sha1>ffbf3a5d7055d6b4ad8ed26970c7e6c705dcc4ae</sha1>
+  </file>
+  <file name="BVC-0407-XXXXXX-CP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0407-XXXXXX-CP_abbyy.gz</original>
+    <mtime>1451878727</mtime>
+    <size>2835</size>
+    <md5>1a4aa4cd368984ce273daa22511374dd</md5>
+    <crc32>e2524e76</crc32>
+    <sha1>4f21d4a1890d9a37c6ab0715edcd7164f6ca869c</sha1>
+  </file>
+  <file name="BVC-0407-XXXXXX-CP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0407-XXXXXX-CP.pdf</original>
+    <mtime>1451878676</mtime>
+    <size>732314</size>
+    <md5>239b72582f8b7da222e3ca83c3041977</md5>
+    <crc32>9c84d178</crc32>
+    <sha1>ecc4a3627e8b69c292b52c80c8fe1389f059b05e</sha1>
+  </file>
+  <file name="BVC-0407-XXXXXX-CP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0407-XXXXXX-CP_djvu.xml</original>
+    <mtime>1451878737</mtime>
+    <size>583</size>
+    <md5>fab5e7da13a8bd678b95c2b128062e52</md5>
+    <crc32>fb5df36c</crc32>
+    <sha1>bbccd25fb0c0c04c4af4ecde527e8429da370f34</sha1>
+  </file>
+  <file name="BVC-0407-XXXXXX-CP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0407-XXXXXX-CP_djvu.xml</original>
+    <mtime>1451878751</mtime>
+    <size>150212</size>
+    <md5>1e23b919ebb80cadfd213febd2d61108</md5>
+    <crc32>bdd2e409</crc32>
+    <sha1>9e73aa9788212febdb649e859e029e3e4d76549e</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530829372</mtime>
+    <size>15269</size>
+    <md5>1f8621873498e27568311ee1021195f3</md5>
+    <crc32>720caadc</crc32>
+    <sha1>9a283fcf7241282692a627a6670dc5a309262990</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="handwritten-list-of-foreign-decorations-awarded-to-general-basilio-valdes_archive.torrent" source="metadata">
+    <btih>cb23794f0ff84ea65f08930581c41957e72ff4bd</btih>
+    <mtime>1530829373</mtime>
+    <size>3644</size>
+    <md5>6d555eeae81105eb791ea0ba485c6df4</md5>
+    <crc32>f61be5ca</crc32>
+    <sha1>55e5d0f1701ba5a1cfbefacbdcd28c974d717a69</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="handwritten-list-of-foreign-decorations-awarded-to-general-basilio-valdes_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>c171b304055d8387d10a43ad49327ef6</md5>
+  </file>
+  <file name="handwritten-list-of-foreign-decorations-awarded-to-general-basilio-valdes_meta.sqlite" source="original">
+    <mtime>1464934783</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>ca084abe0e768a6c1b5e10fe74181605</md5>
+    <crc32>ade8e8e9</crc32>
+    <sha1>07fb39c21fa315f6d4eea6215f5b1d408469a7f8</sha1>
+  </file>
+  <file name="handwritten-list-of-foreign-decorations-awarded-to-general-basilio-valdes_meta.xml" source="original">
+    <mtime>1483545417</mtime>
+    <size>1187</size>
+    <format>Metadata</format>
+    <md5>9d22b1b0027e78f8333fe0bc774323c3</md5>
+    <crc32>430df22e</crc32>
+    <sha1>1d039dac353533e0e72dc789f6cee5ca564af5a9</sha1>
+  </file>
+</files>

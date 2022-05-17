@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>memo-atkin-to-rechelderfer-re-civilian-wire-and-cable-leyte-november-9-1944</bookId>
+    <leafCount>3</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4855</origWidth>
+      <origHeight>6383</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4855</w>
+        <h>6383</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4841</origWidth>
+      <origHeight>6097</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4841</w>
+        <h>6097</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4862</origWidth>
+      <origHeight>6388</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4862</w>
+        <h>6388</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

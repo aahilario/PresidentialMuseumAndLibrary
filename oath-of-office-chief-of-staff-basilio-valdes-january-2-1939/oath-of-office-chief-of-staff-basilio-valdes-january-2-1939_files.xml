@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0383-010239-CP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0383-010239-CP_jp2.zip</original>
+    <mtime>1450677555</mtime>
+    <size>15442</size>
+    <md5>56195e57bf5d0db504d703d76d20679f</md5>
+    <crc32>bb30f8b4</crc32>
+    <sha1>72237c7831b9c837fa8268dea19eeee118891743</sha1>
+  </file>
+  <file name="BVC-0383-010239-CP.pdf" source="original">
+    <mtime>1450677497</mtime>
+    <size>742506</size>
+    <md5>3c3c6a6e99a5187ae7769a293caf586c</md5>
+    <crc32>a6e80153</crc32>
+    <sha1>655bd45fbd9c3e8e97c8631b271d3f02a2a3a381</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0383-010239-CP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0383-010239-CP_jp2.zip</original>
+    <mtime>1450677592</mtime>
+    <size>18852</size>
+    <md5>9cb5852f29893b62262bb0a4d9d9b06d</md5>
+    <crc32>47f8aafa</crc32>
+    <sha1>fb9c77736d934c4f6ba4266ede4b04c9e8e0a3e8</sha1>
+  </file>
+  <file name="BVC-0383-010239-CP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0383-010239-CP_djvu.xml</original>
+    <mtime>1456644380</mtime>
+    <size>1112</size>
+    <md5>169daea840bc1c70de884722e1565061</md5>
+    <crc32>defc22f3</crc32>
+    <sha1>7654f59e15464d4c40a4adfc0df93b146ae3d523</sha1>
+  </file>
+  <file name="BVC-0383-010239-CP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0383-010239-CP_abbyy.gz</original>
+    <mtime>1450677598</mtime>
+    <size>12040</size>
+    <md5>123782a15f6280def35bc3205d2aee3e</md5>
+    <crc32>c76811d9</crc32>
+    <sha1>a5ea6bed5d13b160d49c118e7b8746f262f1448a</sha1>
+  </file>
+  <file name="BVC-0383-010239-CP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0383-010239-CP.pdf</original>
+    <mtime>1450677548</mtime>
+    <size>1123991</size>
+    <md5>74db23219883a0d071a7cf49979f4e9e</md5>
+    <crc32>5355898c</crc32>
+    <sha1>43bd262af323edeb86b18cdf520ff71c303b4964</sha1>
+  </file>
+  <file name="BVC-0383-010239-CP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0383-010239-CP_djvu.xml</original>
+    <mtime>1450677609</mtime>
+    <size>569</size>
+    <md5>76fedd3f9a70ff29225fb7cb92478e5d</md5>
+    <crc32>cda8defb</crc32>
+    <sha1>2cdb21b60ea8b60849be17dcab5614f572502ceb</sha1>
+  </file>
+  <file name="BVC-0383-010239-CP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0383-010239-CP_djvu.xml</original>
+    <mtime>1450677625</mtime>
+    <size>216187</size>
+    <md5>e7dbae3926b28c525818776124bcd3b8</md5>
+    <crc32>95aff139</crc32>
+    <sha1>b2ce4cb5b1131f38d07684d5f14b87adf82e83a6</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530927415</mtime>
+    <size>15986</size>
+    <md5>bbe7d6459c59f979ade751c251c3b44f</md5>
+    <crc32>4707097f</crc32>
+    <sha1>ba774512c6528e16fbf2271d3027dbcb55c8d30e</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="oath-of-office-chief-of-staff-basilio-valdes-january-2-1939_archive.torrent" source="metadata">
+    <btih>c381f5875de8437f4e7b721a8328c4782e1aa119</btih>
+    <mtime>1530927415</mtime>
+    <size>3563</size>
+    <md5>721ad834629afada20151a622e6e0137</md5>
+    <crc32>3457202c</crc32>
+    <sha1>bfa758f944342dc469bf83a947344a48c1ef4146</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="oath-of-office-chief-of-staff-basilio-valdes-january-2-1939_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>ee8320ae2f86012d353aee695450295e</md5>
+  </file>
+  <file name="oath-of-office-chief-of-staff-basilio-valdes-january-2-1939_meta.sqlite" source="original">
+    <mtime>1466329114</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>d295d31f22df3783f96bc0e549a1bdb9</md5>
+    <crc32>9cf76220</crc32>
+    <sha1>c742b5e92fc6eeb4e19ae60c292bbf7f6134559d</sha1>
+  </file>
+  <file name="oath-of-office-chief-of-staff-basilio-valdes-january-2-1939_meta.xml" source="original">
+    <mtime>1485713061</mtime>
+    <size>1245</size>
+    <format>Metadata</format>
+    <md5>5b9ff27093737383177261beb5904950</md5>
+    <crc32>27381414</crc32>
+    <sha1>e91f4f36cf884301d59652ce8eca23ea6644d3fd</sha1>
+  </file>
+</files>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0455-112945-CSPA.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0455-112945-CSPA_djvu.xml</original>
+    <mtime>1450421108</mtime>
+    <size>160958</size>
+    <md5>7883a6303520c1c81ac162f15a25ca0a</md5>
+    <crc32>7766d37b</crc32>
+    <sha1>3d77836eb281c76bc108d1bc677656d9c4b7942b</sha1>
+  </file>
+  <file name="BVC-0455-112945-CSPA.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0455-112945-CSPA_jp2.zip</original>
+    <mtime>1450421028</mtime>
+    <size>27458</size>
+    <md5>a6cb34ee1674d156f903e119fa686133</md5>
+    <crc32>a2104d30</crc32>
+    <sha1>eb958f13d05a81cea4327de6c8f02538f748acd2</sha1>
+  </file>
+  <file name="BVC-0455-112945-CSPA.pdf" source="original">
+    <mtime>1450418161</mtime>
+    <size>984969</size>
+    <md5>54a18c1b1207d768fac57f82fd579a72</md5>
+    <crc32>3506dbec</crc32>
+    <sha1>de91b4d5e9a8551f80c67e68ac2f761b81e7184e</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0455-112945-CSPA_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0455-112945-CSPA_jp2.zip</original>
+    <mtime>1450421053</mtime>
+    <size>22619</size>
+    <md5>2608a5c2a2e99da0c5209232b91933ed</md5>
+    <crc32>adc3cbee</crc32>
+    <sha1>7fdf76628aad8b63f3bb77fc104e1e66878f31a1</sha1>
+  </file>
+  <file name="BVC-0455-112945-CSPA_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0455-112945-CSPA.djvu</original>
+    <mtime>1450421217</mtime>
+    <size>1269</size>
+    <md5>869c750c7128ee3152c2bc8873e55bb3</md5>
+    <crc32>23057d1d</crc32>
+    <sha1>354857f2770d2a7d037eba0dccf1d2fbeeba878b</sha1>
+  </file>
+  <file name="BVC-0455-112945-CSPA_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0455-112945-CSPA_abbyy.gz</original>
+    <mtime>1450421065</mtime>
+    <size>13978</size>
+    <md5>e7b7f49acfc9a50e215959da15792400</md5>
+    <crc32>d845ab4d</crc32>
+    <sha1>42f41246cd3a2e652cc949067388c295080e033b</sha1>
+  </file>
+  <file name="BVC-0455-112945-CSPA_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0455-112945-CSPA.pdf</original>
+    <mtime>1450421007</mtime>
+    <size>1137984</size>
+    <md5>2c51d40bb25b687edb35345871cfde7e</md5>
+    <crc32>109be9c4</crc32>
+    <sha1>a4c00da98bb383cd29cfccd85a20f3521f57cb6d</sha1>
+  </file>
+  <file name="BVC-0455-112945-CSPA_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0455-112945-CSPA_djvu.xml</original>
+    <mtime>1450421110</mtime>
+    <size>885</size>
+    <md5>dc1bb9398bfec46fb605d35867ba20f1</md5>
+    <crc32>bef7ef9a</crc32>
+    <sha1>03f76f0b49cda478ddfc351f2eccd729b61cdb25</sha1>
+  </file>
+  <file name="BVC-0455-112945-CSPA_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0455-112945-CSPA_djvu.xml</original>
+    <mtime>1450421204</mtime>
+    <size>296576</size>
+    <md5>254930dfd627b61ddd43e9f2db7130c8</md5>
+    <crc32>c28ea076</crc32>
+    <sha1>bb2f2027f3ed552833ef9ad14fbefc1ff7fdd6de</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1531003727</mtime>
+    <size>11385</size>
+    <md5>319eaa41be98aa33da0433c9693fad01</md5>
+    <crc32>98a682dc</crc32>
+    <sha1>71e0b6559b29f16660968ee98390fea3749aa63e</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="letter-basilio-valdes-from-dwight-eisenhower-wings-air-force-november-29-1945_archive.torrent" source="metadata">
+    <btih>6c9b11e2a052b6ad787864cf3609b22249f729e8</btih>
+    <mtime>1531003727</mtime>
+    <size>3941</size>
+    <md5>3e7b60e9f401ceb42146dfc91083402d</md5>
+    <crc32>e6111886</crc32>
+    <sha1>ddfda388a94f26baf455b265ad267ab971b60cb0</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="letter-basilio-valdes-from-dwight-eisenhower-wings-air-force-november-29-1945_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>d473f1979b7e82c7fb4ba99015f46dec</md5>
+  </file>
+  <file name="letter-basilio-valdes-from-dwight-eisenhower-wings-air-force-november-29-1945_meta.sqlite" source="original">
+    <mtime>1466314041</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>80ba32f6260321742baed512270590ba</md5>
+    <crc32>7e2d4a81</crc32>
+    <sha1>f4a9b3c1cc930d6e324db4253a0581d88f8e1101</sha1>
+  </file>
+  <file name="letter-basilio-valdes-from-dwight-eisenhower-wings-air-force-november-29-1945_meta.xml" source="original">
+    <mtime>1482854932</mtime>
+    <size>1302</size>
+    <format>Metadata</format>
+    <md5>b68dd8455a7b679642e50f593a56f7f0</md5>
+    <crc32>af13a2be</crc32>
+    <sha1>65da8728ed2b4b3949b7e95ce8ed34b581139a84</sha1>
+  </file>
+</files>

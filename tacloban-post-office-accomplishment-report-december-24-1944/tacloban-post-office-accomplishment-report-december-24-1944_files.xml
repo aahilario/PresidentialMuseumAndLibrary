@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0641-122444-BVL.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0641-122444-BVL_djvu.xml</original>
+    <mtime>1449807912</mtime>
+    <size>258502</size>
+    <md5>8c8795154b41023c381bdfef9f7f6f95</md5>
+    <crc32>b5af33c2</crc32>
+    <sha1>abd5ace8726f03885115e04ad920faec834bfc13</sha1>
+  </file>
+  <file name="BVC-0641-122444-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0641-122444-BVL_jp2.zip</original>
+    <mtime>1449804522</mtime>
+    <size>26965</size>
+    <md5>9d1131f81092e49105ea8f1005471160</md5>
+    <crc32>efbd10bd</crc32>
+    <sha1>a98b01524a881f87575f6d34f9508dc807c88987</sha1>
+  </file>
+  <file name="BVC-0641-122444-BVL.pdf" source="original">
+    <mtime>1449803993</mtime>
+    <size>1236189</size>
+    <md5>cee430fda7463fb8acc908d9459a2c9e</md5>
+    <crc32>84db0848</crc32>
+    <sha1>d5a1d6382a396d3bf6ddc08a5fe3194987cfa398</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0641-122444-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0641-122444-BVL_jp2.zip</original>
+    <mtime>1449807879</mtime>
+    <size>45594</size>
+    <md5>c1f642b4ed1af4f23df828f5ef9fd80a</md5>
+    <crc32>7f5683b7</crc32>
+    <sha1>18419da86df20f21d7bab8aac8eaba0495d9333d</sha1>
+  </file>
+  <file name="BVC-0641-122444-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0641-122444-BVL.djvu</original>
+    <mtime>1449807958</mtime>
+    <size>2667</size>
+    <md5>47cf7fc1d0304625e3fa9520014b7d82</md5>
+    <crc32>8bb3edad</crc32>
+    <sha1>03e0d68d476aefee2d0df7fbb6b30e62906f588d</sha1>
+  </file>
+  <file name="BVC-0641-122444-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0641-122444-BVL_abbyy.gz</original>
+    <mtime>1449807886</mtime>
+    <size>26746</size>
+    <md5>a22bab7f5aa3a1fd5a0b1572abe1d435</md5>
+    <crc32>f0326fa3</crc32>
+    <sha1>9e654f11ac3d3b75d15cf30a05d1953e56a0ac43</sha1>
+  </file>
+  <file name="BVC-0641-122444-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0641-122444-BVL.pdf</original>
+    <mtime>1449804511</mtime>
+    <size>1671222</size>
+    <md5>4ed57bab32728d81f03d46f02c53e1d4</md5>
+    <crc32>674074c5</crc32>
+    <sha1>631228c915e3e3adb81839fc3ca3f1d8f90e334c</sha1>
+  </file>
+  <file name="BVC-0641-122444-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0641-122444-BVL_djvu.xml</original>
+    <mtime>1449807913</mtime>
+    <size>867</size>
+    <md5>38985a5a26eedced964431d6e5c35909</md5>
+    <crc32>c7e9db22</crc32>
+    <sha1>6b3015d2cc9db7e52da68cf5e80a52745b8bb00c</sha1>
+  </file>
+  <file name="BVC-0641-122444-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0641-122444-BVL_djvu.xml</original>
+    <mtime>1449807950</mtime>
+    <size>409590</size>
+    <md5>06cab791dbe8821bdd3cd8c737a0d9d5</md5>
+    <crc32>fa03489b</crc32>
+    <sha1>8f7e0c381b51e6f54e3321127079ef78df6aeada</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530923193</mtime>
+    <size>12311</size>
+    <md5>3976ebd4f256494f147d3cce96bca904</md5>
+    <crc32>40bb34ea</crc32>
+    <sha1>be4a472e43281d935051b0e7a140ed2ce8dfcb79</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="tacloban-post-office-accomplishment-report-december-24-1944_archive.torrent" source="metadata">
+    <btih>99701d3cd862219adb980c473db5be6b87e996b3</btih>
+    <mtime>1530923194</mtime>
+    <size>3808</size>
+    <md5>a6a4b6cb486ac6985540531841efbcd4</md5>
+    <crc32>79198e30</crc32>
+    <sha1>835057ee4b11be4425a186a4d92e9274cc83e165</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="tacloban-post-office-accomplishment-report-december-24-1944_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>7ce4cac77d401641ef76676a89551c41</md5>
+  </file>
+  <file name="tacloban-post-office-accomplishment-report-december-24-1944_meta.sqlite" source="original">
+    <mtime>1466309163</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>6a10b8b6e1754eea3a2d8aa3f07852ca</md5>
+    <crc32>b41e0884</crc32>
+    <sha1>7cacced7bcdb810bdc38ae0085986c8137d507b7</sha1>
+  </file>
+  <file name="tacloban-post-office-accomplishment-report-december-24-1944_meta.xml" source="original">
+    <mtime>1483157438</mtime>
+    <size>1295</size>
+    <format>Metadata</format>
+    <md5>b2d8a22cb50887f6eee947ee25023999</md5>
+    <crc32>3a5010cb</crc32>
+    <sha1>95e20bb8bdd965e3e5a3bf2a745595aa75353123</sha1>
+  </file>
+</files>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0479-071045-CSPA.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0479-071045-CSPA_djvu.xml</original>
+    <mtime>1452115697</mtime>
+    <size>1421594</size>
+    <md5>8e20fce799e295415645410a6ee17ee1</md5>
+    <crc32>cef83c59</crc32>
+    <sha1>95690ffa49fdd1e61c7714edfdde35101ed14a49</sha1>
+  </file>
+  <file name="BVC-0479-071045-CSPA.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0479-071045-CSPA_jp2.zip</original>
+    <mtime>1450670854</mtime>
+    <size>131017</size>
+    <md5>3a08bedcb59d2949152b05082dc7922b</md5>
+    <crc32>f9b00bed</crc32>
+    <sha1>2f2f249effa155aa44397006a0387891f28cff0d</sha1>
+  </file>
+  <file name="BVC-0479-071045-CSPA.pdf" source="original">
+    <mtime>1450670636</mtime>
+    <size>7862574</size>
+    <md5>e02378dcea9ef6e4bd1272b91219c2f6</md5>
+    <crc32>53d7c944</crc32>
+    <sha1>5dfb57b367f88b3dd8919b6d871203d8f6fc115d</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0479-071045-CSPA_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0479-071045-CSPA_jp2.zip</original>
+    <mtime>1450671084</mtime>
+    <size>226165</size>
+    <md5>ca76e354063ed5e796530573910447fa</md5>
+    <crc32>004fcaf3</crc32>
+    <sha1>60876870120ea118618c1f15b62dd8d37cbc32f6</sha1>
+  </file>
+  <file name="BVC-0479-071045-CSPA_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0479-071045-CSPA.djvu</original>
+    <mtime>1452115705</mtime>
+    <size>14069</size>
+    <md5>55239af44f29f94aa74971484a20a9b4</md5>
+    <crc32>377ce15c</crc32>
+    <sha1>f76da98ffa9efeb72590539482cf669e30c9f1f9</sha1>
+  </file>
+  <file name="BVC-0479-071045-CSPA_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0479-071045-CSPA_abbyy.gz</original>
+    <mtime>1450671093</mtime>
+    <size>163240</size>
+    <md5>3dce8ac0af85ab3a1a6c50624c734963</md5>
+    <crc32>b1b0019a</crc32>
+    <sha1>b43a2aa3486d1d9da78372879c307ad12cec3893</sha1>
+  </file>
+  <file name="BVC-0479-071045-CSPA_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0479-071045-CSPA.pdf</original>
+    <mtime>1450670839</mtime>
+    <size>10557597</size>
+    <md5>20a4e933a7db6e96a254193ee2ef0685</md5>
+    <crc32>a74984f1</crc32>
+    <sha1>fd76797d144f2d8783989a89048dad9b8bfe533d</sha1>
+  </file>
+  <file name="BVC-0479-071045-CSPA_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0479-071045-CSPA_djvu.xml</original>
+    <mtime>1450671128</mtime>
+    <size>3229</size>
+    <md5>a1083e8a5f60a32000d2d45f0fba9d73</md5>
+    <crc32>ca03e0c4</crc32>
+    <sha1>87c6812f4dc8962212391f0a99c31d8d8c8d42d1</sha1>
+  </file>
+  <file name="BVC-0479-071045-CSPA_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0479-071045-CSPA_djvu.xml</original>
+    <mtime>1450671238</mtime>
+    <size>2012207</size>
+    <md5>ad70c1bf81293e6de929c2cf01a520f1</md5>
+    <crc32>370d69c3</crc32>
+    <sha1>9559f2a9d0f4795622d78b78b9093e16f32063e4</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530639472</mtime>
+    <size>15725</size>
+    <md5>163002c4226779e7ff4fbb24b335f6d7</md5>
+    <crc32>1dd6a8a2</crc32>
+    <sha1>a6b529a9c7a3435b2343758089fcf1f545c20a6d</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="g-3-operations-report-92-july-11-1945_archive.torrent" source="metadata">
+    <btih>c7a534ff388e31e82f75e1d331791ef578eb8407</btih>
+    <mtime>1530639472</mtime>
+    <size>4330</size>
+    <md5>c091ac5e287cbea7645f503a601b7c4e</md5>
+    <crc32>93656b4d</crc32>
+    <sha1>28cb19a249ef9aa4d38efd2c31ea7d390dc41339</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="g-3-operations-report-92-july-11-1945_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>0e6f457f5ea15f7d19e500f1583a9183</md5>
+  </file>
+  <file name="g-3-operations-report-92-july-11-1945_meta.sqlite" source="original">
+    <mtime>1466322289</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>ef28dc527e560d8d31eb66d67cbcaa5f</md5>
+    <crc32>852ff8fd</crc32>
+    <sha1>25f08d5ab2a61ebfd5a10415664fb1f3174a2c79</sha1>
+  </file>
+  <file name="g-3-operations-report-92-july-11-1945_meta.xml" source="original">
+    <mtime>1485267266</mtime>
+    <size>1276</size>
+    <format>Metadata</format>
+    <md5>0e353cdbc69e981f582c76f0e2f7fcba</md5>
+    <crc32>7060c5a7</crc32>
+    <sha1>624b0b58fd53d71a5929bc22749016bf4170e0d9</sha1>
+  </file>
+</files>

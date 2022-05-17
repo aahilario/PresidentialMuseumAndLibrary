@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0676-092744-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0676-092744-BVL_jp2.zip</original>
+    <mtime>1450410826</mtime>
+    <size>15014</size>
+    <md5>8dce587da868172a655896dac976f2fd</md5>
+    <crc32>1d799e49</crc32>
+    <sha1>8916d37bb4c7208105556b433157b68d811f763c</sha1>
+  </file>
+  <file name="BVC-0676-092744-BVL.pdf" source="original">
+    <mtime>1450407330</mtime>
+    <size>447642</size>
+    <md5>f4e825dd59d46f193bb7516e14ae1119</md5>
+    <crc32>d97acc37</crc32>
+    <sha1>cc27220bb4cbe450e4388ea62cbf18c68fcd87f9</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0676-092744-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0676-092744-BVL_jp2.zip</original>
+    <mtime>1450410848</mtime>
+    <size>7000</size>
+    <md5>42f0d18dd14b8c22b9175331bc686e5a</md5>
+    <crc32>ad791210</crc32>
+    <sha1>6d17feed14e678cd4f5b5b1e75e4067cc2bc7b35</sha1>
+  </file>
+  <file name="BVC-0676-092744-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0676-092744-BVL_abbyy.gz</original>
+    <mtime>1450411173</mtime>
+    <size>5040</size>
+    <md5>545f64a2982324519937b78d877826f1</md5>
+    <crc32>7d33be77</crc32>
+    <sha1>787e8b5a5bba563a55f38c7628fbf09c60c72dec</sha1>
+  </file>
+  <file name="BVC-0676-092744-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0676-092744-BVL.pdf</original>
+    <mtime>1450410808</mtime>
+    <size>484443</size>
+    <md5>6cd76bd7d5e1d729ce99af4483def2b1</md5>
+    <crc32>a8ec23d2</crc32>
+    <sha1>524ff57dc08d65c9f076f38cde395235811ee5ff</sha1>
+  </file>
+  <file name="BVC-0676-092744-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0676-092744-BVL_djvu.xml</original>
+    <mtime>1450411274</mtime>
+    <size>596</size>
+    <md5>0f4b463f97ece3044a1801f24321de40</md5>
+    <crc32>4c18e563</crc32>
+    <sha1>ce6a2f15719d9deb5362471ea2267a3ae9a73034</sha1>
+  </file>
+  <file name="BVC-0676-092744-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0676-092744-BVL_djvu.xml</original>
+    <mtime>1450411273</mtime>
+    <size>129796</size>
+    <md5>2265cc1c599c08c6368b0b16acd6eae9</md5>
+    <crc32>96f4ed41</crc32>
+    <sha1>52ede52f351b175d090f37c719845dde9624d08f</sha1>
+  </file>
+  <file name="BVC-0677-091944-BVL.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0677-091944-BVL_djvu.xml</original>
+    <mtime>1450411250</mtime>
+    <size>335730</size>
+    <md5>3f94cc676966e8346aa2a9bf5db95f62</md5>
+    <crc32>48ac3071</crc32>
+    <sha1>924165705efbe822aa1c837227994ecb24e0a0ea</sha1>
+  </file>
+  <file name="BVC-0677-091944-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0677-091944-BVL_jp2.zip</original>
+    <mtime>1450410821</mtime>
+    <size>28460</size>
+    <md5>60345355cec548cea2fde62d8e127203</md5>
+    <crc32>f560a828</crc32>
+    <sha1>1c77e1057dcc56e7106e2e32eab1ee1df8a03488</sha1>
+  </file>
+  <file name="BVC-0677-091944-BVL.pdf" source="original">
+    <mtime>1450407349</mtime>
+    <size>1332049</size>
+    <md5>ccc68f82415c7d73bda194ec9e5a7e00</md5>
+    <crc32>4f54c946</crc32>
+    <sha1>0a908ef2b09f8cdfc0f2d301500878c08ab86c84</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0677-091944-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0677-091944-BVL_jp2.zip</original>
+    <mtime>1450411164</mtime>
+    <size>66107</size>
+    <md5>dc000b0a11095ea6d154203f14274b1a</md5>
+    <crc32>62500291</crc32>
+    <sha1>0d5202068bce2823ca1bbcc36da6a68d71f7aade</sha1>
+  </file>
+  <file name="BVC-0677-091944-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0677-091944-BVL.djvu</original>
+    <mtime>1450411295</mtime>
+    <size>4051</size>
+    <md5>f7c01b631e46868067f8028de5df6991</md5>
+    <crc32>425d172b</crc32>
+    <sha1>3158c9d5c8751cf5536f8a821ea3ad52c7a40971</sha1>
+  </file>
+  <file name="BVC-0677-091944-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0677-091944-BVL_abbyy.gz</original>
+    <mtime>1450411172</mtime>
+    <size>37667</size>
+    <md5>41d0a5107f97cf0a4f64dd8fb352f540</md5>
+    <crc32>3c6f27cd</crc32>
+    <sha1>e43d74d7a4c1a5e21bac1a59608864b74b00eaf4</sha1>
+  </file>
+  <file name="BVC-0677-091944-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0677-091944-BVL.pdf</original>
+    <mtime>1450410777</mtime>
+    <size>1779850</size>
+    <md5>162758a97d71dffc253ac02086cba065</md5>
+    <crc32>0e0d4479</crc32>
+    <sha1>f9b3c3b2ea6942da13bc2ca273d8756298750f4e</sha1>
+  </file>
+  <file name="BVC-0677-091944-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0677-091944-BVL_djvu.xml</original>
+    <mtime>1450411223</mtime>
+    <size>894</size>
+    <md5>c1204796693b08359cc65820c8c838e8</md5>
+    <crc32>c3630eca</crc32>
+    <sha1>db057fa6b8b3055fa8f532114f2d7e5946978617</sha1>
+  </file>
+  <file name="BVC-0677-091944-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0677-091944-BVL_djvu.xml</original>
+    <mtime>1450411221</mtime>
+    <size>454171</size>
+    <md5>1eccbecfff9b162b56d87ee277fdda1b</md5>
+    <crc32>3260fa52</crc32>
+    <sha1>8b26cf34309e8a09b68944d8002ab016ede00f78</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530591661</mtime>
+    <size>8472</size>
+    <md5>10aefb54743de75825bdea4f28405c9c</md5>
+    <crc32>5982a5d8</crc32>
+    <sha1>666facb515d9d2817c46ae157696f185642266c0</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="memorandum-report-counter-intelligence-course-2nd-filipino-battalion-september-27-1944_archive.torrent" source="metadata">
+    <btih>689d6b93188b84edc57d9e26c65416d5ca23e8b6</btih>
+    <mtime>1530591662</mtime>
+    <size>5357</size>
+    <md5>a2629574d790a92f61413571dbb1cd43</md5>
+    <crc32>f4006ecb</crc32>
+    <sha1>a7250ccef46e6576102be42f42c0aa47761ace16</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="memorandum-report-counter-intelligence-course-2nd-filipino-battalion-september-27-1944_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>53567578d947fd63e5e0473d0e72ef8d</md5>
+  </file>
+  <file name="memorandum-report-counter-intelligence-course-2nd-filipino-battalion-september-27-1944_meta.sqlite" source="original">
+    <mtime>1450407355</mtime>
+    <size>10240</size>
+    <format>Metadata</format>
+    <md5>c0f83d411a8bd84d1caba685c0acbe47</md5>
+    <crc32>08db6e61</crc32>
+    <sha1>5ec098b4786024fea0d2c92810b3f1d94a49d3cf</sha1>
+  </file>
+  <file name="memorandum-report-counter-intelligence-course-2nd-filipino-battalion-september-27-1944_meta.xml" source="original">
+    <mtime>1485674728</mtime>
+    <size>1359</size>
+    <format>Metadata</format>
+    <md5>832e40cc33eba4afde0a7aa6ed4f140c</md5>
+    <crc32>aedbb1cb</crc32>
+    <sha1>eacbe74862208a56a52976d7fa2b76cdbb3826b1</sha1>
+  </file>
+</files>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="I’ll Live Again By Aurelio Estanislao.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>I’ll Live Again By Aurelio Estanislao.mp3</original>
+    <mtime>1480582606</mtime>
+    <size>35896</size>
+    <md5>1f9ae8a2905a148171893007b6ac6f29</md5>
+    <crc32>5d44295e</crc32>
+    <sha1>cd3462ede6e03eab7f20f083a02159d86b35e106</sha1>
+  </file>
+  <file name="I’ll Live Again By Aurelio Estanislao.mp3" source="original">
+    <mtime>1467543399</mtime>
+    <size>2602212</size>
+    <md5>3ef0aaf362856136a60910bf89f0b80f</md5>
+    <crc32>dddc003e</crc32>
+    <sha1>c719c62b91a2b502cd873ec53dc166e8b40d9a60</sha1>
+    <format>VBR MP3</format>
+    <length>162.61</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="I’ll Live Again By Aurelio Estanislao.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>I’ll Live Again By Aurelio Estanislao.mp3</original>
+    <mtime>1480582586</mtime>
+    <size>1684051</size>
+    <md5>0bfbbd5e7743461b488c2f09a5d30d4f</md5>
+    <crc32>37f54af6</crc32>
+    <sha1>e26435c731a53fae2a461fe2df9f89b476488702</sha1>
+    <length>162.59</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="I’ll Live Again By Aurelio Estanislao.png" source="derivative">
+    <format>PNG</format>
+    <original>I’ll Live Again By Aurelio Estanislao.mp3</original>
+    <mtime>1480582599</mtime>
+    <size>11883</size>
+    <md5>72a2180a597b0923141dcce5c9697655</md5>
+    <crc32>57a82882</crc32>
+    <sha1>3ee5c178969b106de602a6a108767faae7e47428</sha1>
+  </file>
+  <file name="I’ll Live Again By Aurelio Estanislao_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>I’ll Live Again By Aurelio Estanislao.png</original>
+    <mtime>1480582607</mtime>
+    <size>2222</size>
+    <md5>bc83ef61bcda8efeff45d25c5ad1d19c</md5>
+    <crc32>608c450b</crc32>
+    <sha1>d01f68762be221cf32186cbc3c502e6ea6b7bbb1</sha1>
+  </file>
+  <file name="ill-live-again-aurelio-estanislao_archive.torrent" source="metadata">
+    <btih>244b6725c7f18507ba9d752276c31e3c0a75d68a</btih>
+    <mtime>1483895167</mtime>
+    <size>2191</size>
+    <md5>7fff9345bc8b9af0abbf4418216e5cd8</md5>
+    <crc32>7ecd6316</crc32>
+    <sha1>feb68315b232aebcd876bfedaa14309d94ebd0e9</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="ill-live-again-aurelio-estanislao_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>b1b1c80ee6d5dc5365ff438f92148585</md5>
+  </file>
+  <file name="ill-live-again-aurelio-estanislao_meta.sqlite" source="original">
+    <mtime>1467543574</mtime>
+    <size>9216</size>
+    <md5>2a604d17bf8df29177dfe26d18afc846</md5>
+    <crc32>e9667a7a</crc32>
+    <sha1>cfa6639ea57d7fbab6cde6ff8b98a76d56bd5b2b</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="ill-live-again-aurelio-estanislao_meta.xml" source="original">
+    <mtime>1483895163</mtime>
+    <size>807</size>
+    <format>Metadata</format>
+    <md5>4f2c622229982fc946204455ec140389</md5>
+    <crc32>3e80cd7f</crc32>
+    <sha1>031b68d6580082d2e233d60485c01cccb02e7f57</sha1>
+  </file>
+</files>

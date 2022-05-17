@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0576-031745-BVL.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0576-031745-BVL_djvu.xml</original>
+    <mtime>1449728076</mtime>
+    <size>360741</size>
+    <md5>c3d14db8e461bf55b5143a40dca078bb</md5>
+    <crc32>33330651</crc32>
+    <sha1>eedd9d66f8435d217fe4a7c5c210642a875a81ee</sha1>
+  </file>
+  <file name="BVC-0576-031745-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0576-031745-BVL_jp2.zip</original>
+    <mtime>1449718685</mtime>
+    <size>33425</size>
+    <md5>a97023e098ccdc92199f5560ce8bc2cf</md5>
+    <crc32>1c2021f5</crc32>
+    <sha1>b80b145477623d77dd4fac1bc20908ff9c30d7cd</sha1>
+  </file>
+  <file name="BVC-0576-031745-BVL.pdf" source="original">
+    <mtime>1449718622</mtime>
+    <size>1418939</size>
+    <md5>cf07321f9a54cb832ebd4be97568ab98</md5>
+    <crc32>641468dc</crc32>
+    <sha1>03afa0e289ae54bee5f9e85157f92d88b46729e4</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0576-031745-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0576-031745-BVL_jp2.zip</original>
+    <mtime>1449728041</mtime>
+    <size>44367</size>
+    <md5>aeee58cb2264496bf7b5370ea1a82ffc</md5>
+    <crc32>2bc91dea</crc32>
+    <sha1>ad44c83ecf2415b6759f48d3419e077132acd811</sha1>
+  </file>
+  <file name="BVC-0576-031745-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0576-031745-BVL.djvu</original>
+    <mtime>1449728125</mtime>
+    <size>2609</size>
+    <md5>48bc551f9adf5a99f40197f9ac8cc35a</md5>
+    <crc32>00b22a20</crc32>
+    <sha1>cb8c0a0c21004e3969d976f66fb2ccf38e56e37e</sha1>
+  </file>
+  <file name="BVC-0576-031745-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0576-031745-BVL_abbyy.gz</original>
+    <mtime>1449728048</mtime>
+    <size>26061</size>
+    <md5>0ccbd278bf65ad2a4b5bcb426c7e5eaa</md5>
+    <crc32>1483df19</crc32>
+    <sha1>e9fecfd9b3ea54e80579ca5c55bffb8610468b6f</sha1>
+  </file>
+  <file name="BVC-0576-031745-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0576-031745-BVL.pdf</original>
+    <mtime>1449718677</mtime>
+    <size>2028278</size>
+    <md5>91a9c8c41c6b8493c7fba4897d0776f4</md5>
+    <crc32>3270b7c4</crc32>
+    <sha1>2d1a21b7ef3a98f442a56df2c4eeb968985f7216</sha1>
+  </file>
+  <file name="BVC-0576-031745-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0576-031745-BVL_djvu.xml</original>
+    <mtime>1449728078</mtime>
+    <size>866</size>
+    <md5>8f964535ffbb98aca2a35a44b92f3fe5</md5>
+    <crc32>b3f43921</crc32>
+    <sha1>09c9347d5b0b920977d4db6632a210528736ed37</sha1>
+  </file>
+  <file name="BVC-0576-031745-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0576-031745-BVL_djvu.xml</original>
+    <mtime>1449728114</mtime>
+    <size>434103</size>
+    <md5>2aeb1c317b953bbb9d0dc3cd587bb18d</md5>
+    <crc32>241822a6</crc32>
+    <sha1>fa705efc0528106f81658fc868569e810fa15cf6</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530803305</mtime>
+    <size>21232</size>
+    <md5>62b825df8a38fb3f3a372a511adf2647</md5>
+    <crc32>8a6dfc58</crc32>
+    <sha1>fc3a9719ea91fff0bbddf280227c52ff6254e88a</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="gen-orders-no-20-policy-service-during-japanese-occupation_archive.torrent" source="metadata">
+    <btih>e9e5a2aa42ce9ad6b525dbe593750a26287a7e24</btih>
+    <mtime>1530803306</mtime>
+    <size>3819</size>
+    <md5>109b558f87f48c3edaf1ea280e342501</md5>
+    <crc32>55ce0099</crc32>
+    <sha1>70c3fbb05f4779fa9fcbe622864161fb4c6f7c30</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="gen-orders-no-20-policy-service-during-japanese-occupation_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>957a8fd8b4bb5f6d0246ca679fbf211a</md5>
+  </file>
+  <file name="gen-orders-no-20-policy-service-during-japanese-occupation_meta.sqlite" source="original">
+    <mtime>1466260629</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>b2452533310d56dfb9cc07b58298c70d</md5>
+    <crc32>4d746bf8</crc32>
+    <sha1>49c961547fb3850483bbef44beef1493cb455ae0</sha1>
+  </file>
+  <file name="gen-orders-no-20-policy-service-during-japanese-occupation_meta.xml" source="original">
+    <mtime>1483791468</mtime>
+    <size>1183</size>
+    <format>Metadata</format>
+    <md5>d5206d5c04141b87a274f6313fe47fe7</md5>
+    <crc32>9de5209e</crc32>
+    <sha1>dcc4b3d6206e404a3c842c70c761f213787e2edc</sha1>
+  </file>
+</files>

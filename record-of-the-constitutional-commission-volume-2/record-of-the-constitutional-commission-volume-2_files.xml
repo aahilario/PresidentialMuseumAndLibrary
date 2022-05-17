@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530788987</mtime>
+    <size>9623</size>
+    <md5>9a42bde61a854226107030783a23273c</md5>
+    <crc32>e4b3e3a0</crc32>
+    <sha1>488135d8c38938ee76021f0ad627ad0b1d895d77</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="fullRecordOfTheConstitutionalCommissionVolumeIi.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>fullRecordOfTheConstitutionalCommissionVolumeIi_jp2.zip</original>
+    <mtime>1461664263</mtime>
+    <size>254827</size>
+    <md5>ac528e74c89574e30509796c440020f2</md5>
+    <crc32>4e797ce8</crc32>
+    <sha1>3c35e1cc5470060f49be71241f04bbec8fa3b081</sha1>
+  </file>
+  <file name="fullRecordOfTheConstitutionalCommissionVolumeIi.pdf" source="original">
+    <format>Image Container PDF</format>
+    <title>[FULL] Record of the Constitutional Commission Volume II</title>
+    <mtime>1461658967</mtime>
+    <size>911396185</size>
+    <md5>048a4b25fd9237e18a0a6c734e96eed8</md5>
+    <crc32>f42ed910</crc32>
+    <sha1>d6540dc20344d4193d1ea55b5a138fcc8f713c9b</sha1>
+  </file>
+  <file name="fullRecordOfTheConstitutionalCommissionVolumeIi_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>fullRecordOfTheConstitutionalCommissionVolumeIi_jp2.zip</original>
+    <mtime>1461693285</mtime>
+    <size>55540813</size>
+    <md5>7777dd13dc0993a457263a7f4967d93e</md5>
+    <crc32>17f78184</crc32>
+    <sha1>0381fb3f2eb7abf1604941f1497f5aae9d2b052f</sha1>
+  </file>
+  <file name="fullRecordOfTheConstitutionalCommissionVolumeIi_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>fullRecordOfTheConstitutionalCommissionVolumeIi_djvu.xml</original>
+    <mtime>1461694094</mtime>
+    <size>3619603</size>
+    <md5>aaccb9092f5957af3725fd66ed5e0281</md5>
+    <crc32>cafa9ae3</crc32>
+    <sha1>002dec48dcdc42bc1e8ced47728fb9d4faf97f55</sha1>
+  </file>
+  <file name="fullRecordOfTheConstitutionalCommissionVolumeIi_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>fullRecordOfTheConstitutionalCommissionVolumeIi_abbyy.gz</original>
+    <mtime>1461694062</mtime>
+    <size>34296425</size>
+    <md5>261e1969abfc89967e07cbac3a974ef4</md5>
+    <crc32>bf35a582</crc32>
+    <sha1>67982830ac152cee5b9010af55567c0dd473b94b</sha1>
+  </file>
+  <file name="fullRecordOfTheConstitutionalCommissionVolumeIi_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>fullRecordOfTheConstitutionalCommissionVolumeIi.pdf</original>
+    <mtime>1461664168</mtime>
+    <size>1213067495</size>
+    <md5>988c0f3e778780e09098ca2a4230fe55</md5>
+    <crc32>23b0ee02</crc32>
+    <sha1>43fc1bc7571bcc0fe1a5e9b46adb229eb6c32a13</sha1>
+  </file>
+  <file name="fullRecordOfTheConstitutionalCommissionVolumeIi_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>fullRecordOfTheConstitutionalCommissionVolumeIi_djvu.xml</original>
+    <mtime>1461694089</mtime>
+    <size>241651</size>
+    <md5>852d25de5cf2fc7135df7c90218537cc</md5>
+    <crc32>c7beded2</crc32>
+    <sha1>5ce239a93fd1ae49a92915fa9d6b25034245be17</sha1>
+  </file>
+  <file name="fullRecordOfTheConstitutionalCommissionVolumeIi_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>fullRecordOfTheConstitutionalCommissionVolumeIi_djvu.xml</original>
+    <mtime>1461706783</mtime>
+    <size>220300939</size>
+    <md5>9e8634c08ce2055feb8d97b4e033fd3e</md5>
+    <crc32>85ed117d</crc32>
+    <sha1>8e8b85bf392fb26d96ff5004a0328e2dc646d849</sha1>
+  </file>
+  <file name="record-of-the-constitutional-commission-volume-2_archive.torrent" source="metadata">
+    <btih>5a363aaea89aafb9de5ab36af87f9a4cca4b974c</btih>
+    <mtime>1530788988</mtime>
+    <size>27720</size>
+    <md5>f08c67083476d728d095b5944e8efa0a</md5>
+    <crc32>3e680041</crc32>
+    <sha1>f5285e2e55161a75074318b2780c5fe433e290a9</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="record-of-the-constitutional-commission-volume-2_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>9dc452905bb02b66cc6c0e613eadd6bd</md5>
+  </file>
+  <file name="record-of-the-constitutional-commission-volume-2_meta.sqlite" source="original">
+    <mtime>1463248253</mtime>
+    <size>6144</size>
+    <format>Metadata</format>
+    <md5>186b0d5bf3b549dc2ee866e818ff39c6</md5>
+    <crc32>03c98d4c</crc32>
+    <sha1>9c1c4c8ba541088a639a4bad3f36da4cd3f553f4</sha1>
+  </file>
+  <file name="record-of-the-constitutional-commission-volume-2_meta.xml" source="original">
+    <mtime>1483501973</mtime>
+    <size>1119</size>
+    <format>Metadata</format>
+    <md5>6bb00b978c676811e966d658e73f7338</md5>
+    <crc32>eaf1fb9c</crc32>
+    <sha1>ad34b9efb8588f64f0f765dc2991cca02f2ded5f</sha1>
+  </file>
+</files>

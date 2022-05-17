@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="The Malolos Congress.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>The Malolos Congress_djvu.xml</original>
+    <mtime>1434702724</mtime>
+    <size>7208481</size>
+    <md5>c83765f2708690ced0c1f5fff16fc6d0</md5>
+    <crc32>5315360c</crc32>
+    <sha1>daf49a088e4df69408f1cf0321143dd7e690e64a</sha1>
+  </file>
+  <file name="The Malolos Congress.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>The Malolos Congress_jp2.zip</original>
+    <mtime>1434698397</mtime>
+    <size>181967</size>
+    <md5>4cc409358aef7b3045ad9a782b8d12e7</md5>
+    <crc32>9c37e417</crc32>
+    <sha1>5c0e8d5aed583564dd70b0ed426d29f6aeffaf7d</sha1>
+  </file>
+  <file name="The Malolos Congress.pdf" source="original">
+    <mtime>1434698036</mtime>
+    <size>55946835</size>
+    <md5>9012f07bfcb6b971e1d34d117d17ca51</md5>
+    <crc32>ee0e8c1c</crc32>
+    <sha1>6cce76cdf39d61e9f8d08495e3eafc3bf028291f</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="The Malolos Congress_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>The Malolos Congress_jp2.zip</original>
+    <mtime>1434702062</mtime>
+    <size>2935338</size>
+    <md5>d89c27c6d5b2c0732005625a9e2186b3</md5>
+    <crc32>829cec3c</crc32>
+    <sha1>ce5f0b676c88c4147fc8f416faf91fc46abf6418</sha1>
+  </file>
+  <file name="The Malolos Congress_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>The Malolos Congress.djvu</original>
+    <mtime>1434703825</mtime>
+    <size>185346</size>
+    <md5>f89a76ba5cf41e70794e165079ae478d</md5>
+    <crc32>ddbe0b8c</crc32>
+    <sha1>2abd3f3ecea989bdf153a77b23b5b34430032a4e</sha1>
+  </file>
+  <file name="The Malolos Congress_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>The Malolos Congress_abbyy.gz</original>
+    <mtime>1434702106</mtime>
+    <size>1682513</size>
+    <md5>31f187a2742e662a4317af97e78b5084</md5>
+    <crc32>c5c6faf7</crc32>
+    <sha1>9ea5da92bd97abfea3adf5ed40b5232387a6ea31</sha1>
+  </file>
+  <file name="The Malolos Congress_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>The Malolos Congress.pdf</original>
+    <mtime>1434698368</mtime>
+    <size>70313384</size>
+    <md5>abb811c48d0423145cd52c3ceaafeb0b</md5>
+    <crc32>37ff35c3</crc32>
+    <sha1>aeba58a7a901c5fff4ea8109f3d1002a2226c88f</sha1>
+  </file>
+  <file name="The Malolos Congress_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>The Malolos Congress_djvu.xml</original>
+    <mtime>1434702726</mtime>
+    <size>28326</size>
+    <md5>f7d5c0d619fcf0e3b41f7b68ef1d785e</md5>
+    <crc32>74a7eddb</crc32>
+    <sha1>080a97847e5a9673835a060c7348c92df159c6fd</sha1>
+  </file>
+  <file name="The Malolos Congress_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>The Malolos Congress_djvu.xml</original>
+    <mtime>1434703804</mtime>
+    <size>14146205</size>
+    <md5>78cb199bbe676616b973e1c32a236311</md5>
+    <crc32>ecf97eb5</crc32>
+    <sha1>107997ce0d0c774969e9955d822391b80ad4d7ce</sha1>
+  </file>
+  <file name="TheMalolosCongress_archive.torrent" source="metadata">
+    <btih>8a64fdd67d2dc329e6124b70ff1f95a5d792c7e6</btih>
+    <mtime>1530947817</mtime>
+    <size>9146</size>
+    <md5>bc16d42a97bd9d94a73fc4ddf4af01b0</md5>
+    <crc32>ee4f582d</crc32>
+    <sha1>c2e97f13d6b9637f305dc8fe901afe8912846a8f</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="TheMalolosCongress_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>5befe4db71022332b237c32134bba4d0</md5>
+  </file>
+  <file name="TheMalolosCongress_meta.sqlite" source="original">
+    <mtime>1467919601</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>84eb42fccb65dc5e3975458fb086c86d</md5>
+    <crc32>ca04ac53</crc32>
+    <sha1>1c5fb48f34ff22d03e04752bfa4871d5cfa48801</sha1>
+  </file>
+  <file name="TheMalolosCongress_meta.xml" source="original">
+    <mtime>1482520133</mtime>
+    <size>1165</size>
+    <format>Metadata</format>
+    <md5>ee22a33a814c17d89d15de2f59218777</md5>
+    <crc32>f8c4bbe6</crc32>
+    <sha1>794d118214018a5a271e3efc7552a8d510e1d33b</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530947815</mtime>
+    <size>8273</size>
+    <md5>48866be01886d9c62d8f14f752073b98</md5>
+    <crc32>1ddb0a0b</crc32>
+    <sha1>7e890607b87e7c88a368f9df3d3fbdbdd4c5f818</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

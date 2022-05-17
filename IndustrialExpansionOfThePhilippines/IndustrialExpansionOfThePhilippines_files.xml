@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Industrial expansion of the Philippines.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>Industrial expansion of the Philippines_djvu.xml</original>
+    <mtime>1431591920</mtime>
+    <size>3226923</size>
+    <md5>16cf9a46668fe9c4d237b90f67b85697</md5>
+    <crc32>a6102ec1</crc32>
+    <sha1>213d53e9c1409152d57a1ef34a1451c8658691ad</sha1>
+  </file>
+  <file name="Industrial expansion of the Philippines.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Industrial expansion of the Philippines_jp2.zip</original>
+    <mtime>1431590829</mtime>
+    <size>349866</size>
+    <md5>868f9805a1b30c9e6666b47d6af564ed</md5>
+    <crc32>2c7f1cf2</crc32>
+    <sha1>a5b655dde5d089b7a86677da9d2c623691613c7b</sha1>
+  </file>
+  <file name="Industrial expansion of the Philippines.pdf" source="original">
+    <mtime>1431590251</mtime>
+    <size>18451742</size>
+    <md5>c39f14242a995cd29038a9d459b0fa79</md5>
+    <crc32>6e212908</crc32>
+    <sha1>0a3c217f2c6f4c66645a276d2c29e3ee28fd1a38</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="Industrial expansion of the Philippines_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Industrial expansion of the Philippines_jp2.zip</original>
+    <mtime>1431591611</mtime>
+    <size>748839</size>
+    <md5>211c9a37eefe90b9dfe864232c169769</md5>
+    <crc32>e6bd3650</crc32>
+    <sha1>56faefef855fd4856681786069715c7b0ca062cc</sha1>
+  </file>
+  <file name="Industrial expansion of the Philippines_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Industrial expansion of the Philippines.djvu</original>
+    <mtime>1431592490</mtime>
+    <size>46334</size>
+    <md5>5cdf0d3a731be107c8df5214df98882e</md5>
+    <crc32>092f889b</crc32>
+    <sha1>a01e2a77031a6dc05bb0f5160ec4c6b82792fc8c</sha1>
+  </file>
+  <file name="Industrial expansion of the Philippines_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Industrial expansion of the Philippines_abbyy.gz</original>
+    <mtime>1431591627</mtime>
+    <size>406099</size>
+    <md5>47baa0ffef51751b96d3047b24cb90f6</md5>
+    <crc32>72a42313</crc32>
+    <sha1>96ca0a8726b28059d4c0aa983128a66d91ea3513</sha1>
+  </file>
+  <file name="Industrial expansion of the Philippines_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Industrial expansion of the Philippines.pdf</original>
+    <mtime>1431590791</mtime>
+    <size>26818855</size>
+    <md5>a5115b56e5daba9714d04b0061f72580</md5>
+    <crc32>7e47a2d2</crc32>
+    <sha1>9b9493f72a7268ac1f289ee0dc8eb871552957c8</sha1>
+  </file>
+  <file name="Industrial expansion of the Philippines_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Industrial expansion of the Philippines_djvu.xml</original>
+    <mtime>1431591922</mtime>
+    <size>10104</size>
+    <md5>2bcd4e1f0985ae96a7c126bd27929a46</md5>
+    <crc32>380387ff</crc32>
+    <sha1>46f1fb19d6d19a84bb4f7f73577fd33317fb2c95</sha1>
+  </file>
+  <file name="Industrial expansion of the Philippines_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>Industrial expansion of the Philippines_djvu.xml</original>
+    <mtime>1431592476</mtime>
+    <size>7221345</size>
+    <md5>2d11beb35815a46b9d5edf13652c35fe</md5>
+    <crc32>a853a6df</crc32>
+    <sha1>d5e055aeca7e8449ca7b31c23ee81663f9479b36</sha1>
+  </file>
+  <file name="IndustrialExpansionOfThePhilippines_archive.torrent" source="metadata">
+    <btih>f3ef0a009fec8e49f7cbe99f973dcdfeb24950cd</btih>
+    <mtime>1530677906</mtime>
+    <size>5826</size>
+    <md5>87c7d8b60914516ede9a15a39c43c9d9</md5>
+    <crc32>7c76633a</crc32>
+    <sha1>c1a62830cd00a831ed1f8b2f13baec1163261c8b</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="IndustrialExpansionOfThePhilippines_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>985e278402f996cf53bd95af136d4cf3</md5>
+  </file>
+  <file name="IndustrialExpansionOfThePhilippines_meta.sqlite" source="original">
+    <mtime>1463389638</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>971951a2973d58669f9a418db5a2509a</md5>
+    <crc32>656ea7ba</crc32>
+    <sha1>b65437fd762817e9d6735dda73868eec8c1df473</sha1>
+  </file>
+  <file name="IndustrialExpansionOfThePhilippines_meta.xml" source="original">
+    <mtime>1482724643</mtime>
+    <size>1411</size>
+    <format>Metadata</format>
+    <md5>757d9b3e588f6d432de93879a17c2880</md5>
+    <crc32>9228ede8</crc32>
+    <sha1>d972c9ec3d84c5fe48c42d4a777a0db5154e94de</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530677905</mtime>
+    <size>13866</size>
+    <md5>602baf608af449bed569eb9d38f02c4d</md5>
+    <crc32>c7416029</crc32>
+    <sha1>52ca8e8be3c7b4b2ab0d68d4410684b96c838ccc</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+</files>

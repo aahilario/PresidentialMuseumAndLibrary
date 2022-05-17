@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Philippines Vol. 1 No. 5.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>Philippines Vol. 1 No. 5_djvu.xml</original>
+    <mtime>1431497435</mtime>
+    <size>7248423</size>
+    <md5>79482529cf93d259d61977f6efc0cf1f</md5>
+    <crc32>9051e780</crc32>
+    <sha1>b234b0ac7b0d9f4f3e572c68c3233ee4431fdba0</sha1>
+  </file>
+  <file name="Philippines Vol. 1 No. 5.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Philippines Vol. 1 No. 5_jp2.zip</original>
+    <mtime>1431495626</mtime>
+    <size>269487</size>
+    <md5>59cbc0f0f33f2d5614ab17547c649e81</md5>
+    <crc32>065b62f3</crc32>
+    <sha1>eed4a3f9a86694677bf8b9a8655f1919eb19e6c2</sha1>
+  </file>
+  <file name="Philippines Vol. 1 No. 5.pdf" source="original">
+    <mtime>1431495074</mtime>
+    <size>5340119</size>
+    <md5>b0ccb02315b8cbe368ad3fcc50b17ae5</md5>
+    <crc32>3414431e</crc32>
+    <sha1>4431f50121479826da1ba263c217549dc664e873</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="Philippines Vol. 1 No. 5_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Philippines Vol. 1 No. 5_jp2.zip</original>
+    <mtime>1431497093</mtime>
+    <size>1410106</size>
+    <md5>a84fff9ecfc35384278deb39488b6a82</md5>
+    <crc32>5a1013a3</crc32>
+    <sha1>9619a8f370bde46b09b05ecce9c6ac6198c41e19</sha1>
+  </file>
+  <file name="Philippines Vol. 1 No. 5_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Philippines Vol. 1 No. 5.djvu</original>
+    <mtime>1431497930</mtime>
+    <size>88987</size>
+    <md5>6fd06120005ae5594f09ce00180401ca</md5>
+    <crc32>1f081c6e</crc32>
+    <sha1>d872b996c2caa8cd312812f99d91d3d9e77ef849</sha1>
+  </file>
+  <file name="Philippines Vol. 1 No. 5_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Philippines Vol. 1 No. 5_abbyy.gz</original>
+    <mtime>1431497127</mtime>
+    <size>809929</size>
+    <md5>375d1fceaf4a42a75510a7334c374252</md5>
+    <crc32>9f4b0f3f</crc32>
+    <sha1>0179a7d16913d6c28c810d9ebddedbe42d451cca</sha1>
+  </file>
+  <file name="Philippines Vol. 1 No. 5_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Philippines Vol. 1 No. 5.pdf</original>
+    <mtime>1431495577</mtime>
+    <size>43142397</size>
+    <md5>b818a34b108a0b9e90dae10e33057674</md5>
+    <crc32>a9602991</crc32>
+    <sha1>b2dd8bee271a3efeb0dd2d2692498813ec22613d</sha1>
+  </file>
+  <file name="Philippines Vol. 1 No. 5_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Philippines Vol. 1 No. 5_djvu.xml</original>
+    <mtime>1431497440</mtime>
+    <size>7996</size>
+    <md5>33790e1505e2028a79cb03778aac8d92</md5>
+    <crc32>055a58bb</crc32>
+    <sha1>f2c6cbf8b6788b5ae06243a98d832d01f0c8de64</sha1>
+  </file>
+  <file name="Philippines Vol. 1 No. 5_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>Philippines Vol. 1 No. 5_djvu.xml</original>
+    <mtime>1431497909</mtime>
+    <size>9782936</size>
+    <md5>cf0555d87f687f06b94754f8448c394a</md5>
+    <crc32>4ec1192c</crc32>
+    <sha1>37e4903f71f48021f9d8aae7bf8bffde24d785f9</sha1>
+  </file>
+  <file name="PhilippinesVol.1No.5_archive.torrent" source="metadata">
+    <btih>15f60d544376b0762bb97cb3cdf9840abb334e7c</btih>
+    <mtime>1530808650</mtime>
+    <size>5955</size>
+    <md5>c0f624979e8200106e6a439e00897613</md5>
+    <crc32>740a1c77</crc32>
+    <sha1>f79eff122c81dc9434d05da36a06828a5c6a3fca</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="PhilippinesVol.1No.5_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>015a9f95d0df66b310df067ee79caaf0</md5>
+  </file>
+  <file name="PhilippinesVol.1No.5_meta.sqlite" source="original">
+    <mtime>1467686565</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>a5ca64e499aef5b63ebfd35051cc47a4</md5>
+    <crc32>a35e6bdb</crc32>
+    <sha1>1dc763722b142373f1fb177d15cdb5b6f49c8018</sha1>
+  </file>
+  <file name="PhilippinesVol.1No.5_meta.xml" source="original">
+    <mtime>1483214950</mtime>
+    <size>1304</size>
+    <format>Metadata</format>
+    <md5>f96bacf6698bef067a54f888d98efd4b</md5>
+    <crc32>ac8686c0</crc32>
+    <sha1>b5ef9ffd2e6aa3cbb8de2b08089dc2c4e4568ca9</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530808649</mtime>
+    <size>17927</size>
+    <md5>973cc6d8e29c675ce84edea0e976ef22</md5>
+    <crc32>7a3da767</crc32>
+    <sha1>b9ba322fa87982c96e5ee6662fd224db30751369</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+</files>

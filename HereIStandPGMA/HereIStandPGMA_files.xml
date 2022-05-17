@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Here I Stand PGMA.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>Here I Stand PGMA_djvu.xml</original>
+    <mtime>1433075421</mtime>
+    <size>2572970</size>
+    <md5>351564d6d948b8732e99f594ee63647d</md5>
+    <crc32>6db78f34</crc32>
+    <sha1>4b5b36b6980c5f5f32651f0a624333357d9cdfed</sha1>
+  </file>
+  <file name="Here I Stand PGMA.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Here I Stand PGMA_jp2.zip</original>
+    <mtime>1433074146</mtime>
+    <size>248221</size>
+    <md5>b32a1970c1c49e6a9bc4f3dbc2a8bc07</md5>
+    <crc32>9ca65caf</crc32>
+    <sha1>43a0c03be3dd346d3ff4a2238a8f9ed89f91c921</sha1>
+  </file>
+  <file name="Here I Stand PGMA.pdf" source="original">
+    <mtime>1433073066</mtime>
+    <size>22161273</size>
+    <md5>2bbb005f0367b82d4ccf41d8a761c56f</md5>
+    <crc32>bceb953f</crc32>
+    <sha1>43bef0de4232c984e4e7785e8608666dc8920a4d</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="Here I Stand PGMA_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Here I Stand PGMA_jp2.zip</original>
+    <mtime>1433075174</mtime>
+    <size>908848</size>
+    <md5>2e7e7c6881d818fc70f9c4de27bcee3c</md5>
+    <crc32>f59f9d6f</crc32>
+    <sha1>fe50aeda2d35a8d4321902c7cd2f9fb641f07b15</sha1>
+  </file>
+  <file name="Here I Stand PGMA_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Here I Stand PGMA.djvu</original>
+    <mtime>1433075835</mtime>
+    <size>61889</size>
+    <md5>f3799297d562c6989e3353d943cb5099</md5>
+    <crc32>c50870bf</crc32>
+    <sha1>ef8699d05a3027dcb47370a3ee064b5b6a6fc94a</sha1>
+  </file>
+  <file name="Here I Stand PGMA_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Here I Stand PGMA_abbyy.gz</original>
+    <mtime>1433075192</mtime>
+    <size>553541</size>
+    <md5>e3b3459608df8e3195ca6456fbd49b4a</md5>
+    <crc32>8334430b</crc32>
+    <sha1>64214468746e850a5a74f1aec96a9d3d4b6ffac0</sha1>
+  </file>
+  <file name="Here I Stand PGMA_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Here I Stand PGMA.pdf</original>
+    <mtime>1433074124</mtime>
+    <size>28165109</size>
+    <md5>eaa445675ef89aa05dd4a914e148a957</md5>
+    <crc32>7dcdf4b7</crc32>
+    <sha1>1859a84fc87c1c0f57a88050aad9d3f1c4e08583</sha1>
+  </file>
+  <file name="Here I Stand PGMA_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Here I Stand PGMA_djvu.xml</original>
+    <mtime>1433075423</mtime>
+    <size>15465</size>
+    <md5>7bf793533d7e9591dffafaa7bacd14dd</md5>
+    <crc32>e91df50f</crc32>
+    <sha1>32d65c7430ce634a6976402ffdaca4bd75140fa9</sha1>
+  </file>
+  <file name="Here I Stand PGMA_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>Here I Stand PGMA_djvu.xml</original>
+    <mtime>1433075822</mtime>
+    <size>5199997</size>
+    <md5>5421d824aa5b5db291b734da77020308</md5>
+    <crc32>9902cd5f</crc32>
+    <sha1>6032516890785b011164eca4dff42656ed5f1509</sha1>
+  </file>
+  <file name="HereIStandPGMA_archive.torrent" source="metadata">
+    <btih>28bd7eeb8caddb9c9548240e805baa2757c1e848</btih>
+    <mtime>1531043708</mtime>
+    <size>5536</size>
+    <md5>33965ac3bbbdc24d79e342b36bfee893</md5>
+    <crc32>947def99</crc32>
+    <sha1>a740bd3062463bd3b5cdedda1536c70156d2b973</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="HereIStandPGMA_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>19b14c9c3e506e177cb8e96e3bf0f572</md5>
+  </file>
+  <file name="HereIStandPGMA_meta.sqlite" source="original">
+    <mtime>1466970406</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>c57d9941ed84dd19bb4594edf2986cd7</md5>
+    <crc32>06d36faf</crc32>
+    <sha1>7d367d07108e177e973912efbf9767a45defbb76</sha1>
+  </file>
+  <file name="HereIStandPGMA_meta.xml" source="original">
+    <mtime>1483062586</mtime>
+    <size>1289</size>
+    <format>Metadata</format>
+    <md5>233e24060e077f2f1b5897540ab64a2a</md5>
+    <crc32>1630ab8a</crc32>
+    <sha1>b77f173f92c532e44a4dc22e5008b6c3e1936f59</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1531043698</mtime>
+    <size>21518</size>
+    <md5>908a732cfe0a493116d10d9f92893d91</md5>
+    <crc32>7e7ecc82</crc32>
+    <sha1>a6ecf3abd51b3f1eb5a7640cbc0d6be4bc9d1499</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0276-XXXXXX-BMI.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0276-XXXXXX-BMI_jp2.zip</original>
+    <mtime>1459134258</mtime>
+    <size>302358</size>
+    <md5>42ed2a8575231e79d2c8c32f942ec5c1</md5>
+    <crc32>70b76357</crc32>
+    <sha1>c8bd0e0b54bbd3b7f4dcf7e897e87e185baecd08</sha1>
+  </file>
+  <file name="BVC-0276-XXXXXX-BMI.pdf" source="original">
+    <format>Image Container PDF</format>
+    <mtime>1459133572</mtime>
+    <size>25139034</size>
+    <md5>58a48d09f59479bff4cb2c7fac7a9adc</md5>
+    <crc32>540ff4e8</crc32>
+    <sha1>4519dde45300295fbf6805074373455811212253</sha1>
+  </file>
+  <file name="BVC-0276-XXXXXX-BMI_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0276-XXXXXX-BMI_jp2.zip</original>
+    <mtime>1459134643</mtime>
+    <size>761116</size>
+    <md5>977e53e96733c5b254d4d55f150e7607</md5>
+    <crc32>312475ef</crc32>
+    <sha1>edf6554915cb57bf2a6f0ff8ebda40cc61164c22</sha1>
+  </file>
+  <file name="BVC-0276-XXXXXX-BMI_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0276-XXXXXX-BMI_djvu.xml</original>
+    <mtime>1459134666</mtime>
+    <size>47393</size>
+    <md5>39492944a70cbbb2cad0c1560bc4f7cd</md5>
+    <crc32>690f81d1</crc32>
+    <sha1>b8154a00bed07979d337d02f4245857b093a2df1</sha1>
+  </file>
+  <file name="BVC-0276-XXXXXX-BMI_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0276-XXXXXX-BMI_abbyy.gz</original>
+    <mtime>1459134658</mtime>
+    <size>464573</size>
+    <md5>ee9f9b9fd3fcfc737dca1e1db87c82b8</md5>
+    <crc32>7f2ede2e</crc32>
+    <sha1>c31eb769a7d05c2d59800019bd24188a99b1d900</sha1>
+  </file>
+  <file name="BVC-0276-XXXXXX-BMI_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0276-XXXXXX-BMI.pdf</original>
+    <mtime>1459134218</mtime>
+    <size>36278678</size>
+    <md5>924d96a20d8aae04ac34023f8ff6b31b</md5>
+    <crc32>c1ee402b</crc32>
+    <sha1>0016b3bdbcfe384b3141593fb04935380691f292</sha1>
+  </file>
+  <file name="BVC-0276-XXXXXX-BMI_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0276-XXXXXX-BMI_djvu.xml</original>
+    <mtime>1459134665</mtime>
+    <size>9803</size>
+    <md5>3dd9a211d58fd19cc661ed47bb5f0642</md5>
+    <crc32>dd1b9d81</crc32>
+    <sha1>0e623beba52fe263bf6ce7d1d85f35556eca0279</sha1>
+  </file>
+  <file name="BVC-0276-XXXXXX-BMI_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0276-XXXXXX-BMI_djvu.xml</original>
+    <mtime>1459135076</mtime>
+    <size>7880094</size>
+    <md5>36b5e29aee18d021a231c2b3e4e2a28b</md5>
+    <crc32>f65139b8</crc32>
+    <sha1>b1ae9289949e873696d4882c00ee04c0e9d16129</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530976552</mtime>
+    <size>15123</size>
+    <md5>cd28faf7ee32f92f583f4d0d4012d9ce</md5>
+    <crc32>db714442</crc32>
+    <sha1>0dc8fa074947347a55960c0ec140956591e263d8</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="by-laws-baguio-military-institute_archive.torrent" source="metadata">
+    <btih>8bd917ad1262636a72ffee915ea6639d2ebed700</btih>
+    <mtime>1530976554</mtime>
+    <size>5967</size>
+    <md5>fe77cd4dcec246b85fe97f44040f0747</md5>
+    <crc32>a4dc4617</crc32>
+    <sha1>42ee8177ac05850b8c82bac49fe6586e1dea4c01</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="by-laws-baguio-military-institute_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>3d1adcc58773098822b8bf64223fbc92</md5>
+  </file>
+  <file name="by-laws-baguio-military-institute_meta.sqlite" source="original">
+    <mtime>1466263592</mtime>
+    <size>6144</size>
+    <format>Metadata</format>
+    <md5>97c16db3f7a5b36032146b3c9285071b</md5>
+    <crc32>f8fb07a7</crc32>
+    <sha1>39bfeb9a232a1481bd7f5581c88ab2be8eb4a35f</sha1>
+  </file>
+  <file name="by-laws-baguio-military-institute_meta.xml" source="original">
+    <mtime>1482163189</mtime>
+    <size>1033</size>
+    <format>Metadata</format>
+    <md5>162c2d9324cb5c639fc6a00fe22a1186</md5>
+    <crc32>f3871954</crc32>
+    <sha1>9a5ff8075d1c183aa9c59fb6061f4a64840f5e91</sha1>
+  </file>
+</files>

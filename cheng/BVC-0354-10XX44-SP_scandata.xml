@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>cheng</bookId>
+    <leafCount>3</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5042</origWidth>
+      <origHeight>6658</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5042</w>
+        <h>6658</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4977</origWidth>
+      <origHeight>6731</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4977</w>
+        <h>6731</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5088</origWidth>
+      <origHeight>6665</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5088</w>
+        <h>6665</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

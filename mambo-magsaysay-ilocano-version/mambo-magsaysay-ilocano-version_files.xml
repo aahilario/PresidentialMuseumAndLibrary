@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Mambo Magsaysay (Ilocano Version).afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>Mambo Magsaysay (Ilocano Version).mp3</original>
+    <mtime>1467544796</mtime>
+    <size>34688</size>
+    <md5>37be4f57d9bb9a54244dd6ebf4b0732e</md5>
+    <crc32>2e00bb6e</crc32>
+    <sha1>c52cfbcbf4f0522a93377a0cff824970317d7ece</sha1>
+  </file>
+  <file name="Mambo Magsaysay (Ilocano Version).mp3" source="original">
+    <mtime>1467543513</mtime>
+    <size>2554147</size>
+    <md5>829f9f66171b07e13432b58874ced31f</md5>
+    <crc32>788b0ab3</crc32>
+    <sha1>3f88f4074bcd8effe867bb45bcd869b2f45b3b76</sha1>
+    <format>VBR MP3</format>
+    <length>159.61</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Mambo Magsaysay (Ilocano Version).ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Mambo Magsaysay (Ilocano Version).mp3</original>
+    <mtime>1467544783</mtime>
+    <size>1479195</size>
+    <md5>c176371985a4f51388ab854577c1ca7b</md5>
+    <crc32>aeda3b00</crc32>
+    <sha1>66a98774f2c272cd27ce2589e4b0006508ca9f3d</sha1>
+    <length>159.58</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Mambo Magsaysay (Ilocano Version).png" source="derivative">
+    <format>PNG</format>
+    <original>Mambo Magsaysay (Ilocano Version).mp3</original>
+    <mtime>1467544788</mtime>
+    <size>11834</size>
+    <md5>f120206727ef34175b711589ad3abd22</md5>
+    <crc32>155bea33</crc32>
+    <sha1>30caa20b115e33fc6aafe045dd1b0d9508aab5e8</sha1>
+  </file>
+  <file name="Mambo Magsaysay (Ilocano Version)_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Mambo Magsaysay (Ilocano Version).mp3</original>
+    <mtime>1467544789</mtime>
+    <size>211742</size>
+    <md5>abfd4dde4315fe19276e73d87b231c3b</md5>
+    <crc32>447561e1</crc32>
+    <sha1>e68df0f3409143482927a28852dd4df7e23cc35f</sha1>
+  </file>
+  <file name="Mambo Magsaysay (Ilocano Version)_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Mambo Magsaysay (Ilocano Version).png</original>
+    <mtime>1467544805</mtime>
+    <size>2054</size>
+    <md5>e98f3d56a36a9e4fed07fbb1529a077b</md5>
+    <crc32>b3d90a5c</crc32>
+    <sha1>de53a2fbf620e4cb4349bd3f805683c603344170</sha1>
+  </file>
+  <file name="mambo-magsaysay-ilocano-version_archive.torrent" source="metadata">
+    <btih>8995af1db4aa80a3dfa3d4b813b7857e334bfb9b</btih>
+    <mtime>1483900964</mtime>
+    <size>2979</size>
+    <md5>4c4a4d2561fad9c120c33061ec09d18b</md5>
+    <crc32>92f4ea42</crc32>
+    <sha1>52a9efc9d65afd076bdae9f2a4c3dfc83fd18c7e</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="mambo-magsaysay-ilocano-version_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>4ca9718e2889b8bda14f1f5a267dde7d</md5>
+  </file>
+  <file name="mambo-magsaysay-ilocano-version_meta.sqlite" source="original">
+    <mtime>1467543699</mtime>
+    <size>9216</size>
+    <md5>a031aa85702508e1add9a519e59e7813</md5>
+    <crc32>4396d40f</crc32>
+    <sha1>a6bf960ff823351c0a35bff7fd5336b6cfec6033</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="mambo-magsaysay-ilocano-version_meta.xml" source="original">
+    <mtime>1483900963</mtime>
+    <size>906</size>
+    <format>Metadata</format>
+    <md5>d320ffc32a22c2ed04c4e418010eff8e</md5>
+    <crc32>3cfa6873</crc32>
+    <sha1>1e0ddad5ecf51b8b85bd5050ade78b073e0de7df</sha1>
+  </file>
+</files>

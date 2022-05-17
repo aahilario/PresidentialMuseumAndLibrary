@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0545-092045-BVL.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0545-092045-BVL_djvu.xml</original>
+    <mtime>1449561884</mtime>
+    <size>235797</size>
+    <md5>7afc484413151a3c95eaf1312f1355b8</md5>
+    <crc32>3b61015f</crc32>
+    <sha1>58f102c780687b78499a274cf35ec0e4d276a0c7</sha1>
+  </file>
+  <file name="BVC-0545-092045-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0545-092045-BVL_jp2.zip</original>
+    <mtime>1449561831</mtime>
+    <size>26956</size>
+    <md5>5621de5a368821318f0f6b4642db106e</md5>
+    <crc32>830ad0db</crc32>
+    <sha1>45dfcb891a90555e53745569d098f34d0fe5a2f1</sha1>
+  </file>
+  <file name="BVC-0545-092045-BVL.pdf" source="original">
+    <mtime>1449561751</mtime>
+    <size>1190170</size>
+    <md5>3d1ccf6e0738d5b93eb590dbae8a7515</md5>
+    <crc32>4cebe585</crc32>
+    <sha1>86eed943a37b4cc5147cad644c9afa1720d69411</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0545-092045-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0545-092045-BVL_jp2.zip</original>
+    <mtime>1449561849</mtime>
+    <size>49330</size>
+    <md5>7feff1dbcc82a92e426af3372c07e544</md5>
+    <crc32>6d33257e</crc32>
+    <sha1>c44ab9f7483b615529825e8badde168a24c0ddde</sha1>
+  </file>
+  <file name="BVC-0545-092045-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0545-092045-BVL.djvu</original>
+    <mtime>1449561928</mtime>
+    <size>3098</size>
+    <md5>b8d86e2399acfa963a63669a3c0214c4</md5>
+    <crc32>a97de02e</crc32>
+    <sha1>e77cac9f7b1a9dc863f89247cad6c4ec43cef983</sha1>
+  </file>
+  <file name="BVC-0545-092045-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0545-092045-BVL_abbyy.gz</original>
+    <mtime>1449561856</mtime>
+    <size>28952</size>
+    <md5>6960805ede8fb8ce6b6009d4c402767e</md5>
+    <crc32>5b441788</crc32>
+    <sha1>df1b6f02cf85d38a8b35cbd3f93a886206b8edec</sha1>
+  </file>
+  <file name="BVC-0545-092045-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0545-092045-BVL.pdf</original>
+    <mtime>1449561820</mtime>
+    <size>1733008</size>
+    <md5>5c53101fa9250ab534b11696fdcb70a2</md5>
+    <crc32>9f17ce3c</crc32>
+    <sha1>51891fa6ef1c7785cb0d0e30a3e09bdd97413acf</sha1>
+  </file>
+  <file name="BVC-0545-092045-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0545-092045-BVL_djvu.xml</original>
+    <mtime>1449561885</mtime>
+    <size>871</size>
+    <md5>796572699e8d6414e0e4ee0914b21aa3</md5>
+    <crc32>a897486a</crc32>
+    <sha1>61b00e44ca83fc3135a8944e1b992badbf16f845</sha1>
+  </file>
+  <file name="BVC-0545-092045-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0545-092045-BVL_djvu.xml</original>
+    <mtime>1449561919</mtime>
+    <size>385646</size>
+    <md5>b3eeb7a2a7610e3942d2c653a703b7d2</md5>
+    <crc32>76004f89</crc32>
+    <sha1>b0a694af534fffd8baa977f4413fd9647dc4917a</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530784392</mtime>
+    <size>13099</size>
+    <md5>a9d56cb8a38db5c4e2d01b6fc18e81f0</md5>
+    <crc32>ae47b56f</crc32>
+    <sha1>5c16fb935cac48286ed7a398549ee1468f3ddf0f</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="letter-from-hertel-pariseau-to-basilio-valdes-september-20-1945_archive.torrent" source="metadata">
+    <btih>90870bb3a7f20d9c9b35c16e32d6b3b9854c55c7</btih>
+    <mtime>1530784393</mtime>
+    <size>3847</size>
+    <md5>8c73f71c461f473b61ffff669b570d81</md5>
+    <crc32>8d64925d</crc32>
+    <sha1>cf3f627c75ca5f7dc3636e0ba4d9769ae51ab4ce</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="letter-from-hertel-pariseau-to-basilio-valdes-september-20-1945_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>faf3af7b9b07a758a04474b855722240</md5>
+  </file>
+  <file name="letter-from-hertel-pariseau-to-basilio-valdes-september-20-1945_meta.sqlite" source="original">
+    <mtime>1466259480</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>b76b63cc6810245f706b1bd1cabfda8d</md5>
+    <crc32>8ab0a005</crc32>
+    <sha1>5822a5556c90a82843eb0147f4bb23af7cf4eca0</sha1>
+  </file>
+  <file name="letter-from-hertel-pariseau-to-basilio-valdes-september-20-1945_meta.xml" source="original">
+    <mtime>1482696957</mtime>
+    <size>1216</size>
+    <format>Metadata</format>
+    <md5>3055bb056d499033b1380e46d270c35f</md5>
+    <crc32>e0a53a60</crc32>
+    <sha1>25bf348d95baf9eece0fd7085b1e7c345122053e</sha1>
+  </file>
+</files>

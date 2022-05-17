@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0507-010546-HPSP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0507-010546-HPSP_jp2.zip</original>
+    <mtime>1451874123</mtime>
+    <size>10929</size>
+    <md5>a865aa70f092eeff1694643e6e925749</md5>
+    <crc32>18cf9d7d</crc32>
+    <sha1>0f2e9a0523001a7d69830176909d7a1728fdeb48</sha1>
+  </file>
+  <file name="BVC-0507-010546-HPSP.pdf" source="original">
+    <mtime>1451873974</mtime>
+    <size>1903348</size>
+    <md5>e04c495314c787d4adc93190a99e0910</md5>
+    <crc32>d1ad4331</crc32>
+    <sha1>3a8c2627faafd64210ebf95760796a7d547ee312</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0507-010546-HPSP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0507-010546-HPSP_jp2.zip</original>
+    <mtime>1451874157</mtime>
+    <size>13613</size>
+    <md5>898b503c6055161cda484a4d3e5b22fe</md5>
+    <crc32>5c74267f</crc32>
+    <sha1>c126a5a32ec50a5077aaba84736a14d5043d0756</sha1>
+  </file>
+  <file name="BVC-0507-010546-HPSP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0507-010546-HPSP_djvu.xml</original>
+    <mtime>1456644087</mtime>
+    <size>784</size>
+    <md5>cda82c560362341132fc901fb8011af2</md5>
+    <crc32>de6ce439</crc32>
+    <sha1>e1ede89a7db9c727b81aed985ec204a35ce27549</sha1>
+  </file>
+  <file name="BVC-0507-010546-HPSP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0507-010546-HPSP_abbyy.gz</original>
+    <mtime>1451874164</mtime>
+    <size>7701</size>
+    <md5>ac240e0067451ef0c162d454c77a2eb9</md5>
+    <crc32>8199c380</crc32>
+    <sha1>d82e37ca7a0ac8fd61a3a8d432225282fe034754</sha1>
+  </file>
+  <file name="BVC-0507-010546-HPSP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0507-010546-HPSP.pdf</original>
+    <mtime>1451874115</mtime>
+    <size>1150848</size>
+    <md5>b86f5af77ca1336a9539ca6b0c6b5d56</md5>
+    <crc32>d58d4d6b</crc32>
+    <sha1>638f6c29776040c13ace81cff7612fb0b402c4fc</sha1>
+  </file>
+  <file name="BVC-0507-010546-HPSP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0507-010546-HPSP_djvu.xml</original>
+    <mtime>1451874175</mtime>
+    <size>564</size>
+    <md5>2cbd148f17e8a51cb147c5b678a521ba</md5>
+    <crc32>89578052</crc32>
+    <sha1>2f57de8c6e7325b15fa8caa61c9aec1bc73cea0d</sha1>
+  </file>
+  <file name="BVC-0507-010546-HPSP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0507-010546-HPSP_djvu.xml</original>
+    <mtime>1451874193</mtime>
+    <size>180618</size>
+    <md5>0d2febd7900a643aae55cb2819bb6c40</md5>
+    <crc32>ec4e38ad</crc32>
+    <sha1>0adf40ef724fdc8f718d148debc35ca7cbde19f6</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1531272118</mtime>
+    <size>12544</size>
+    <md5>1f4e6803eaaeb43497c66ae7e22717a1</md5>
+    <crc32>45a11ac8</crc32>
+    <sha1>0cd7fa43ff9150a233494a6debafb47868f0d04b</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="letter-from-ust-office-of-the-rector-to-basilio-valdes_archive.torrent" source="metadata">
+    <btih>d48c18c0e8a63d40bf1fcaca0a9b5412ec626f71</btih>
+    <mtime>1531272120</mtime>
+    <size>3574</size>
+    <md5>ab6e1326f725d3161086fc5da5588f0c</md5>
+    <crc32>f6aba58c</crc32>
+    <sha1>0298d43200ac5489e6628e05be868b36bbfce23e</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="letter-from-ust-office-of-the-rector-to-basilio-valdes_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>9a0983e693100c45afa10430533ffa07</md5>
+  </file>
+  <file name="letter-from-ust-office-of-the-rector-to-basilio-valdes_meta.sqlite" source="original">
+    <mtime>1466407986</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>9bcb31d940a9713caa17155357783903</md5>
+    <crc32>3c644bf0</crc32>
+    <sha1>0b20b8cb833f5e58b1397e78b8e8a2d911fef6a3</sha1>
+  </file>
+  <file name="letter-from-ust-office-of-the-rector-to-basilio-valdes_meta.xml" source="original">
+    <mtime>1483196337</mtime>
+    <size>1304</size>
+    <format>Metadata</format>
+    <md5>0dcb9ce0914c901c9eaeab03a5633c83</md5>
+    <crc32>c1a6ae44</crc32>
+    <sha1>adb7b369965c26ca8d53bba3110cfb10209fd04a</sha1>
+  </file>
+</files>

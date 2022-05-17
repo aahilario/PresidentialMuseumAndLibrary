@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0085-121036-OP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0085-121036-OP_jp2.zip</original>
+    <mtime>1449546934</mtime>
+    <size>15706</size>
+    <md5>9a81cf80e05a2491d78392f25a970388</md5>
+    <crc32>37042849</crc32>
+    <sha1>8313737ca0c047cb8dbd22de7843699db4ae7fa8</sha1>
+  </file>
+  <file name="BVC-0085-121036-OP.pdf" source="original">
+    <mtime>1449546887</mtime>
+    <size>527368</size>
+    <md5>7ad1993eab3e39005e808d5d0e6df6cc</md5>
+    <crc32>e7cce8cf</crc32>
+    <sha1>b6364eaea4c383a01f53a0e2121a778c0c5e9da2</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0085-121036-OP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0085-121036-OP_jp2.zip</original>
+    <mtime>1449547244</mtime>
+    <size>16174</size>
+    <md5>e2c6a116bfbe3be7bb9c38193a7d65eb</md5>
+    <crc32>6a342399</crc32>
+    <sha1>38a5893d5d7969842fdf0661bf9142bfbf276327</sha1>
+  </file>
+  <file name="BVC-0085-121036-OP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0085-121036-OP_djvu.xml</original>
+    <mtime>1456645469</mtime>
+    <size>896</size>
+    <md5>55a99f02b515bcdbed5837b72e64fe78</md5>
+    <crc32>55dfa423</crc32>
+    <sha1>a4a5efd0abb988332c4eba2b4e8c44257c27496a</sha1>
+  </file>
+  <file name="BVC-0085-121036-OP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0085-121036-OP_abbyy.gz</original>
+    <mtime>1449547250</mtime>
+    <size>10229</size>
+    <md5>ddf1b3cfb35f1227b3feb4fd02042d5d</md5>
+    <crc32>d56e46b3</crc32>
+    <sha1>49cb6cd4fc4994a6a8902daf4bf9f6766960eb37</sha1>
+  </file>
+  <file name="BVC-0085-121036-OP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0085-121036-OP.pdf</original>
+    <mtime>1449546927</mtime>
+    <size>695170</size>
+    <md5>d2bee7e5fe25141396cc74993a556aad</md5>
+    <crc32>8cdb65f7</crc32>
+    <sha1>7bb2806dddbc4fa91dadfe87edfb5d665ac5a1ba</sha1>
+  </file>
+  <file name="BVC-0085-121036-OP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0085-121036-OP_djvu.xml</original>
+    <mtime>1449547265</mtime>
+    <size>564</size>
+    <md5>7902497e1b1401c13103abbb66734867</md5>
+    <crc32>db444ad4</crc32>
+    <sha1>edd89a32f76aad9ab0fae457b453d9e918239ba3</sha1>
+  </file>
+  <file name="BVC-0085-121036-OP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0085-121036-OP_djvu.xml</original>
+    <mtime>1449547279</mtime>
+    <size>135543</size>
+    <md5>5412453de7204476fded5501813b0958</md5>
+    <crc32>610f3b8f</crc32>
+    <sha1>d2e9fb24e47eda389922b01b583152b027b0b395</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530763248</mtime>
+    <size>10968</size>
+    <md5>499353f7d49df9a52f679520a6eda385</md5>
+    <crc32>ddde8903</crc32>
+    <sha1>959e1518ce0308b3298e97f94da3ffa327b20428</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="special-orders-no-270-composition-of-board-of-officers_archive.torrent" source="metadata">
+    <btih>3b3120d011df03b7d446d11dae076db257ee814c</btih>
+    <mtime>1530763248</mtime>
+    <size>3475</size>
+    <md5>a16d2681e5649a02823728c46615f811</md5>
+    <crc32>53cae223</crc32>
+    <sha1>82b92988e2166339080716c293c8c78ca61656e7</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="special-orders-no-270-composition-of-board-of-officers_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>e571e61e6fb3f18d84e75f93256a4bc1</md5>
+  </file>
+  <file name="special-orders-no-270-composition-of-board-of-officers_meta.sqlite" source="original">
+    <mtime>1463849604</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>780e6133336b38ee24ff0959c00a77a9</md5>
+    <crc32>9a5bdafb</crc32>
+    <sha1>0fcf81b6bce4aae97dab9c0f250ffd17c8e8a33f</sha1>
+  </file>
+  <file name="special-orders-no-270-composition-of-board-of-officers_meta.xml" source="original">
+    <mtime>1484845447</mtime>
+    <size>1169</size>
+    <format>Metadata</format>
+    <md5>811771298475a050e37dd74ea6c3416f</md5>
+    <crc32>67ac6f69</crc32>
+    <sha1>eafa2a4ca2219c11426f0b20f96af891e2decafd</sha1>
+  </file>
+</files>

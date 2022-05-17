@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0398-062634-CP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0398-062634-CP_jp2.zip</original>
+    <mtime>1450688393</mtime>
+    <size>15954</size>
+    <md5>06820594467e250f66bf9d911ee1897f</md5>
+    <crc32>d3a93d5c</crc32>
+    <sha1>c642aa0c1d28f27e927ce7f7903d0ce5d5934634</sha1>
+  </file>
+  <file name="BVC-0398-062634-CP.pdf" source="original">
+    <mtime>1450688338</mtime>
+    <size>696520</size>
+    <md5>458032e9c27cd9deb251510087f51b47</md5>
+    <crc32>7a15fde3</crc32>
+    <sha1>0e1560cbe41266e773585ba5ada8a58bc5e3128b</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0398-062634-CP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0398-062634-CP_jp2.zip</original>
+    <mtime>1450688406</mtime>
+    <size>14925</size>
+    <md5>b49b839c79e0c9fb7b792a6ff0f7d7fd</md5>
+    <crc32>d1ad80f2</crc32>
+    <sha1>35d18b7b2d929445df47cb9b30c6bcc5db56929a</sha1>
+  </file>
+  <file name="BVC-0398-062634-CP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0398-062634-CP_djvu.xml</original>
+    <mtime>1456644705</mtime>
+    <size>774</size>
+    <md5>c1e823cd5f55f37303f2512f5034bacb</md5>
+    <crc32>5775a989</crc32>
+    <sha1>7fdbd8245bce91aadbeacb44d12d6bf5af296a72</sha1>
+  </file>
+  <file name="BVC-0398-062634-CP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0398-062634-CP_abbyy.gz</original>
+    <mtime>1450688412</mtime>
+    <size>9379</size>
+    <md5>c7fb1238baf75640350fc3e3d31a2d38</md5>
+    <crc32>0d1df00e</crc32>
+    <sha1>3ef752247a465b58f3f67eca4fad09d42726c598</sha1>
+  </file>
+  <file name="BVC-0398-062634-CP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0398-062634-CP.pdf</original>
+    <mtime>1450688387</mtime>
+    <size>975016</size>
+    <md5>245ff5cba40b66940d9c7096fdcb9a47</md5>
+    <crc32>fef68e6d</crc32>
+    <sha1>08002e2cdb600f334b0d1324102f9ced23b9ac83</sha1>
+  </file>
+  <file name="BVC-0398-062634-CP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0398-062634-CP_djvu.xml</original>
+    <mtime>1450688422</mtime>
+    <size>573</size>
+    <md5>78e96b66742f100ecf3a1777263edd4f</md5>
+    <crc32>f9e9bc6e</crc32>
+    <sha1>616d0e7046d7e8aa5c2ff322c271a4c312a35042</sha1>
+  </file>
+  <file name="BVC-0398-062634-CP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0398-062634-CP_djvu.xml</original>
+    <mtime>1450688434</mtime>
+    <size>185239</size>
+    <md5>8fa063ee2fbd98dc8e51905da66a4673</md5>
+    <crc32>f7d08877</crc32>
+    <sha1>d3ab290ee51906d66e94230a4fbd3854722dc38a</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530783441</mtime>
+    <size>14737</size>
+    <md5>3fc8074797ce0d466b5394bb961d57f2</md5>
+    <crc32>d47454b5</crc32>
+    <sha1>436f8dae0c84eafae9ebe622f561dfa683c34087</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="letter-from-basiliio-valdes-unidentified-gentleman-june-26-1934_archive.torrent" source="metadata">
+    <btih>b3e886b7d27bd2b7a84d659fd98b678a1708eae6</btih>
+    <mtime>1530783443</mtime>
+    <size>3572</size>
+    <md5>f94827e564d9a318cf07f9098c719473</md5>
+    <crc32>c4ade139</crc32>
+    <sha1>618b8f3f81e5e90712d4276cc5b4bdb84c006dd0</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="letter-from-basiliio-valdes-unidentified-gentleman-june-26-1934_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>10e9571bb9754dcde26fcbd5bbc6d12b</md5>
+  </file>
+  <file name="letter-from-basiliio-valdes-unidentified-gentleman-june-26-1934_meta.sqlite" source="original">
+    <mtime>1466331925</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>0d81b6429a10c1e1ad8ffba1369326f8</md5>
+    <crc32>08296538</crc32>
+    <sha1>6e642a77489aed8d15e32028337b7f0dc8b95774</sha1>
+  </file>
+  <file name="letter-from-basiliio-valdes-unidentified-gentleman-june-26-1934_meta.xml" source="original">
+    <mtime>1482450613</mtime>
+    <size>1204</size>
+    <format>Metadata</format>
+    <md5>a1376fa61c876f7ddcdcf50fac755931</md5>
+    <crc32>dc588070</crc32>
+    <sha1>5f475fbe89cc431d9fcb72a7e6b80cec179de16f</sha1>
+  </file>
+</files>

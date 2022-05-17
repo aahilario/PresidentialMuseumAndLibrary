@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="We Want Magsaysay.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>We Want Magsaysay.mp3</original>
+    <mtime>1467544813</mtime>
+    <size>44312</size>
+    <md5>d717664309a8885bb61a199c9e75e50a</md5>
+    <crc32>245a00d7</crc32>
+    <sha1>7546687e1f9ff9bf5a11a0f2203c018896f3b591</sha1>
+  </file>
+  <file name="We Want Magsaysay.mp3" source="original">
+    <mtime>1467543882</mtime>
+    <size>2996348</size>
+    <md5>9f6e8219a8276a66dd9dcd7733e05ae7</md5>
+    <crc32>582fe5bc</crc32>
+    <sha1>4ac415ce0f485dae9597c86dfda787dc204b01fb</sha1>
+    <format>VBR MP3</format>
+    <length>187.25</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="We Want Magsaysay.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>We Want Magsaysay.mp3</original>
+    <mtime>1467544797</mtime>
+    <size>1952935</size>
+    <md5>6353715027706d47194ff492119701f4</md5>
+    <crc32>1e011d1b</crc32>
+    <sha1>73de8178220a594f609c0b7f1e46a7cc6c3c13ea</sha1>
+    <length>187.22</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="We Want Magsaysay.png" source="derivative">
+    <format>PNG</format>
+    <original>We Want Magsaysay.mp3</original>
+    <mtime>1467544803</mtime>
+    <size>10857</size>
+    <md5>efd007f954f7737c1a6f59ecb133066a</md5>
+    <crc32>9851f18f</crc32>
+    <sha1>b8969a0dc52368da2e9be133e2311af87337d679</sha1>
+  </file>
+  <file name="We Want Magsaysay_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>We Want Magsaysay.mp3</original>
+    <mtime>1467544805</mtime>
+    <size>197414</size>
+    <md5>c59a50163848b4f7c97deb755071c7ce</md5>
+    <crc32>fb00a541</crc32>
+    <sha1>589608af1660a2f6f26e8ab3a681c2244c541af5</sha1>
+  </file>
+  <file name="We Want Magsaysay_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>We Want Magsaysay.png</original>
+    <mtime>1467544822</mtime>
+    <size>1968</size>
+    <md5>b9f04714690694cdf3fc950b9c1a88c8</md5>
+    <crc32>d5bf0f27</crc32>
+    <sha1>fdada79229faac2948951b55c5b94180d82dc400</sha1>
+  </file>
+  <file name="we-want-magsaysay_archive.torrent" source="metadata">
+    <btih>fac7bef9c37a76ac9bdf50df316766f3c1481825</btih>
+    <mtime>1483953835</mtime>
+    <size>2777</size>
+    <md5>2571d5c39cf29a018a1c309155810faa</md5>
+    <crc32>b8d08e50</crc32>
+    <sha1>f2f41dbd5933b35bacaa9382679df3a00ac403e6</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="we-want-magsaysay_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>48f24c84a727f9b6696c477a052e8124</md5>
+  </file>
+  <file name="we-want-magsaysay_meta.sqlite" source="original">
+    <mtime>1467544129</mtime>
+    <size>9216</size>
+    <md5>a9f4db548a583a83f11e4f3bfe8fdc96</md5>
+    <crc32>03f557dd</crc32>
+    <sha1>60934e5e3049e77146bda5f14a54e18c76f22e9d</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="we-want-magsaysay_meta.xml" source="original">
+    <mtime>1483953835</mtime>
+    <size>859</size>
+    <format>Metadata</format>
+    <md5>6aede4b92fa24e3e827aca01b345429a</md5>
+    <crc32>c8e0471a</crc32>
+    <sha1>e1eb030ce39a8177949da50d208bba87b23c6ef6</sha1>
+  </file>
+</files>

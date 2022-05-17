@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0614-121444-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0614-121444-BVL_jp2.zip</original>
+    <mtime>1449734257</mtime>
+    <size>16008</size>
+    <md5>d4be83c199379d6632a3a50e273065bb</md5>
+    <crc32>1c5d267c</crc32>
+    <sha1>352d9d6b5b11632af1940b514350a149dcf95326</sha1>
+  </file>
+  <file name="BVC-0614-121444-BVL.pdf" source="original">
+    <mtime>1449734200</mtime>
+    <size>640377</size>
+    <md5>7d2202ff60b58fa216911651329ec004</md5>
+    <crc32>ee242e79</crc32>
+    <sha1>480f847663ee269f99c2d71f58d2c5a8fd233886</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0614-121444-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0614-121444-BVL_jp2.zip</original>
+    <mtime>1449737577</mtime>
+    <size>25983</size>
+    <md5>8f18537faaf772e6646da226de69bd55</md5>
+    <crc32>d92d42d0</crc32>
+    <sha1>0eb6a87b9ab048a8c14aa33a490e4494d30b31a0</sha1>
+  </file>
+  <file name="BVC-0614-121444-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0614-121444-BVL_djvu.xml</original>
+    <mtime>1456644629</mtime>
+    <size>1544</size>
+    <md5>c33b58e8247fbb215479c3ff363c2e23</md5>
+    <crc32>76c5c4f3</crc32>
+    <sha1>8533e55d97214db37d0903d29e85bf105f36aae2</sha1>
+  </file>
+  <file name="BVC-0614-121444-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0614-121444-BVL_abbyy.gz</original>
+    <mtime>1449737584</mtime>
+    <size>14255</size>
+    <md5>87d4b04a817a02783a57d899d07eedca</md5>
+    <crc32>59794cca</crc32>
+    <sha1>f98bd9958a4020708f75a19a85f7b95b189eb0ac</sha1>
+  </file>
+  <file name="BVC-0614-121444-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0614-121444-BVL.pdf</original>
+    <mtime>1449734250</mtime>
+    <size>845297</size>
+    <md5>23b8444cabf3c425edb798eb3a4f067e</md5>
+    <crc32>21713088</crc32>
+    <sha1>99cec54d31bbdb0fce2f37db0b848380bec4f14c</sha1>
+  </file>
+  <file name="BVC-0614-121444-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0614-121444-BVL_djvu.xml</original>
+    <mtime>1449737599</mtime>
+    <size>588</size>
+    <md5>3745ed53fbf98400fbffcacdabe407f0</md5>
+    <crc32>f0f73976</crc32>
+    <sha1>3a164e6b470a3cbebb39448e91dd698a46b333cf</sha1>
+  </file>
+  <file name="BVC-0614-121444-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0614-121444-BVL_djvu.xml</original>
+    <mtime>1449737613</mtime>
+    <size>205301</size>
+    <md5>a4578760e774903a7f8694e72243212a</md5>
+    <crc32>45b58d6f</crc32>
+    <sha1>d45b349c081ddfef091b36deb7beb93f030382ea</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530797508</mtime>
+    <size>11918</size>
+    <md5>f17e728bf16b8e9f365bf6f7a6ebd2a0</md5>
+    <crc32>aa0e903a</crc32>
+    <sha1>8bf1a0b59d206a415f7b9a98d165bb4549228fdd</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="letter-cunanan-to-basilio-valdes-requesting-additional-stamps-december-14-1944_archive.torrent" source="metadata">
+    <btih>5a19a2e6b4056e9e6e35376fccb41016e19c6324</btih>
+    <mtime>1530797508</mtime>
+    <size>3720</size>
+    <md5>1f2ed0c2bfc6687f738d33a4ad9dff28</md5>
+    <crc32>578f388e</crc32>
+    <sha1>aee1564ea6b22be2801b4b9a6cf1c7c84f84c754</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="letter-cunanan-to-basilio-valdes-requesting-additional-stamps-december-14-1944_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>08084afa676a093ef4d04d46fe1301be</md5>
+  </file>
+  <file name="letter-cunanan-to-basilio-valdes-requesting-additional-stamps-december-14-1944_meta.sqlite" source="original">
+    <mtime>1466308090</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>522c36cb260570a24e86f029665abd1e</md5>
+    <crc32>1728defb</crc32>
+    <sha1>75d3825bd5786e40683fb77718a508201d403942</sha1>
+  </file>
+  <file name="letter-cunanan-to-basilio-valdes-requesting-additional-stamps-december-14-1944_meta.xml" source="original">
+    <mtime>1485439051</mtime>
+    <size>1341</size>
+    <format>Metadata</format>
+    <md5>16e9d565d2c219259f18adb1a7c93b47</md5>
+    <crc32>fa5cad73</crc32>
+    <sha1>29c662fc2f38896074e755a45decdbb25c415e18</sha1>
+  </file>
+</files>

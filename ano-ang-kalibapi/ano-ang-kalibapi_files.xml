@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Ano Ang Kalibapi?.epub" source="derivative">
+    <format>EPUB</format>
+    <original>Ano Ang Kalibapi?_abbyy.gz</original>
+    <mtime>1456981962</mtime>
+    <size>36553</size>
+    <md5>2e51d5d656e6dc4e04175b46598c7f3d</md5>
+    <crc32>db8fb5e1</crc32>
+    <sha1>99565cf8d4c6fd0aa1da582d99a3a201df7a003e</sha1>
+  </file>
+  <file name="Ano Ang Kalibapi?.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Ano Ang Kalibapi?_jp2.zip</original>
+    <mtime>1456981239</mtime>
+    <size>287876</size>
+    <md5>bf6c7b403a24d30f330f7651b9330941</md5>
+    <crc32>aac38777</crc32>
+    <sha1>e4a549223bd13ade59fa36f4fd425250153c5b3e</sha1>
+  </file>
+  <file name="Ano Ang Kalibapi?.pdf" source="original">
+    <mtime>1456980728</mtime>
+    <size>30602914</size>
+    <md5>11f38e2b66d6c7a42c01636ebc94eeba</md5>
+    <crc32>b1b353e7</crc32>
+    <sha1>d1dca4cc7465ca61196be18897df2a14ad73ef7e</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="Ano Ang Kalibapi?_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Ano Ang Kalibapi?_jp2.zip</original>
+    <mtime>1456981564</mtime>
+    <size>913020</size>
+    <md5>abb469cd47da305261f1c8ce47c13dba</md5>
+    <crc32>fe68da59</crc32>
+    <sha1>7db8d21552b72b91c7de810466c8d2bd6dfa3f84</sha1>
+  </file>
+  <file name="Ano Ang Kalibapi?_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Ano Ang Kalibapi?_djvu.xml</original>
+    <mtime>1456981591</mtime>
+    <size>61270</size>
+    <md5>dc5974a3d2d951fe1fb6e5574870709f</md5>
+    <crc32>16066bf0</crc32>
+    <sha1>19e5eaa1dae0f0f291901b5fa44f1488cbce272a</sha1>
+  </file>
+  <file name="Ano Ang Kalibapi?_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Ano Ang Kalibapi?_abbyy.gz</original>
+    <mtime>1456981583</mtime>
+    <size>560559</size>
+    <md5>e229c628130440844a92c6760fb5ba92</md5>
+    <crc32>2f775586</crc32>
+    <sha1>a268ef20f02436888695704fe17203c27180a374</sha1>
+  </file>
+  <file name="Ano Ang Kalibapi?_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Ano Ang Kalibapi?.pdf</original>
+    <mtime>1456981212</mtime>
+    <size>48270776</size>
+    <md5>6430379ff8ffe8ea028328c37354777b</md5>
+    <crc32>064d3824</crc32>
+    <sha1>59206820bc3460078772f9a062aedd2971621412</sha1>
+  </file>
+  <file name="Ano Ang Kalibapi?_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Ano Ang Kalibapi?_djvu.xml</original>
+    <mtime>1456981590</mtime>
+    <size>14869</size>
+    <md5>40ec5245c90a8c0ab57192cdab4d377e</md5>
+    <crc32>a338c3a3</crc32>
+    <sha1>71e607923cbf99427714eb8585f9d63db8560b81</sha1>
+  </file>
+  <file name="Ano Ang Kalibapi?_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>Ano Ang Kalibapi?_djvu.xml</original>
+    <mtime>1456981958</mtime>
+    <size>7159384</size>
+    <md5>8fede7db0d03ccb7be9712ff6f6b109e</md5>
+    <crc32>659db634</crc32>
+    <sha1>70bb5682fdbfb868d9397eac3acf6a7c22211d84</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530754172</mtime>
+    <size>12711</size>
+    <md5>1f082e79d1240e938553895250cf9df6</md5>
+    <crc32>fdf16ace</crc32>
+    <sha1>0f86f40d77879dcf670f5246b0b2562b32bacee4</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="ano-ang-kalibapi_archive.torrent" source="metadata">
+    <btih>beb49bb8cf392aa7eee13c4f055708a0928494aa</btih>
+    <mtime>1530754173</mtime>
+    <size>6615</size>
+    <md5>c4a13e94e8ddf7d2323f3217fb89e2cd</md5>
+    <crc32>1f535a98</crc32>
+    <sha1>deec574fb9272a9d2accb644b340a5d7befa2456</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="ano-ang-kalibapi_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>679b81967e344f77c4dc4a4398e17c03</md5>
+  </file>
+  <file name="ano-ang-kalibapi_meta.sqlite" source="original">
+    <mtime>1489693959</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>72fb0c14ff1c559988e2ef073bafb2ac</md5>
+    <crc32>39e22b54</crc32>
+    <sha1>fcb5e5465b3dd3a9f5ee63440e3a83ccc95ab635</sha1>
+  </file>
+  <file name="ano-ang-kalibapi_meta.xml" source="original">
+    <mtime>1498252372</mtime>
+    <size>1069</size>
+    <format>Metadata</format>
+    <md5>e25e29c7ea0b2eb7c0db76592da1f306</md5>
+    <crc32>5f4861dc</crc32>
+    <sha1>1ff7678fdc7f73a956d6d52f88cfd13ba0dd4179</sha1>
+  </file>
+</files>

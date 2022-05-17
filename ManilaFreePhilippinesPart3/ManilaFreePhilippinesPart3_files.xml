@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="MANILA FREE PHILIPPINES PART 3.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>MANILA FREE PHILIPPINES PART 3_djvu.xml</original>
+    <mtime>1433010447</mtime>
+    <size>102223502</size>
+    <md5>afaf71a76a6586abbfdc24ee988f2a5b</md5>
+    <crc32>5a58481c</crc32>
+    <sha1>a5a5f1b810bed72152f056bd0e1386b181f10a6d</sha1>
+  </file>
+  <file name="MANILA FREE PHILIPPINES PART 3.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>MANILA FREE PHILIPPINES PART 3_jp2.zip</original>
+    <mtime>1432986130</mtime>
+    <size>324537</size>
+    <md5>06c145bea643f3937037ddd958b65341</md5>
+    <crc32>b5aad963</crc32>
+    <sha1>d008dcef23a4e8a8c6a7ac03fc24a1ea5404b26d</sha1>
+  </file>
+  <file name="MANILA FREE PHILIPPINES PART 3.pdf" source="original">
+    <mtime>1432982264</mtime>
+    <size>199449746</size>
+    <md5>550be5be4aba0d31e035c7be19d0e7ca</md5>
+    <crc32>dd715d2b</crc32>
+    <sha1>33ff82495fdd8ce2c09d3f45c22f8964eeb98f0c</sha1>
+    <format>Text PDF</format>
+  </file>
+  <file name="MANILA FREE PHILIPPINES PART 3_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>MANILA FREE PHILIPPINES PART 3_jp2.zip</original>
+    <mtime>1433006300</mtime>
+    <size>22511795</size>
+    <md5>ad4f0778a756dde26db792a2eb8ee427</md5>
+    <crc32>6f84321c</crc32>
+    <sha1>8846b6c44e95e32a9058dcfe912579965aa12c81</sha1>
+  </file>
+  <file name="MANILA FREE PHILIPPINES PART 3_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>MANILA FREE PHILIPPINES PART 3.djvu</original>
+    <mtime>1433010609</mtime>
+    <size>1342527</size>
+    <md5>3e2bd65a5c0c7434fc2ce8547615e8ce</md5>
+    <crc32>267978b5</crc32>
+    <sha1>2ba27bf1549fb7c1f31f834ddc56100ac3060451</sha1>
+  </file>
+  <file name="MANILA FREE PHILIPPINES PART 3_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>MANILA FREE PHILIPPINES PART 3_abbyy.gz</original>
+    <mtime>1433006639</mtime>
+    <size>12321231</size>
+    <md5>46f7ec146e24abb3f976b497522bd5bb</md5>
+    <crc32>25c3bab2</crc32>
+    <sha1>3106ffeb8900fb71ae26e8df64b5870ff99f8381</sha1>
+  </file>
+  <file name="MANILA FREE PHILIPPINES PART 3_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>MANILA FREE PHILIPPINES PART 3.pdf</original>
+    <mtime>1432986038</mtime>
+    <size>636574397</size>
+    <md5>778cdb10d5dfb64319fe83741733d285</md5>
+    <crc32>e8d8b4aa</crc32>
+    <sha1>a094ad9edcf52b45521d953ae1f598dcded69d15</sha1>
+  </file>
+  <file name="MANILA FREE PHILIPPINES PART 3_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>MANILA FREE PHILIPPINES PART 3_djvu.xml</original>
+    <mtime>1433010475</mtime>
+    <size>43629</size>
+    <md5>838997f5adf215099e1daaa471d1292a</md5>
+    <crc32>b2459fc6</crc32>
+    <sha1>4ad5fa47699235715e089a0177e15b51aab18528</sha1>
+  </file>
+  <file name="ManilaFreePhilippinesPart3_archive.torrent" source="metadata">
+    <btih>761c8927b49cb3ccdc012ccb1d526f1654e4a65d</btih>
+    <mtime>1530956283</mtime>
+    <size>40478</size>
+    <md5>86b1b0a51b7cf7e9e1ad9e4c8ce86e40</md5>
+    <crc32>547eba5f</crc32>
+    <sha1>ab8f38c928f76292c6a163b178993566e8b2e7f3</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="ManilaFreePhilippinesPart3_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>4067c302cf43ea93ba00e80f46be3650</md5>
+  </file>
+  <file name="ManilaFreePhilippinesPart3_meta.sqlite" source="original">
+    <mtime>1467180433</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>275f415dad4ffa449bd5849f2280057d</md5>
+    <crc32>a6db9de8</crc32>
+    <sha1>95af0d3a688116d01379866275e5b8ffd3ac1eb1</sha1>
+  </file>
+  <file name="ManilaFreePhilippinesPart3_meta.xml" source="original">
+    <mtime>1484485748</mtime>
+    <size>1263</size>
+    <format>Metadata</format>
+    <md5>a77a4c48e4cd3e60f66882f9584c6e5b</md5>
+    <crc32>e68ce19a</crc32>
+    <sha1>bb796c7245431ef5178b91f13781d0549f85be07</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530956273</mtime>
+    <size>27372</size>
+    <md5>7ecb30c950b8bd3b0521b7a319ad5add</md5>
+    <crc32>14cc6b24</crc32>
+    <sha1>33ccf463af1eb0d9cccb31dc163bb4027813761a</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

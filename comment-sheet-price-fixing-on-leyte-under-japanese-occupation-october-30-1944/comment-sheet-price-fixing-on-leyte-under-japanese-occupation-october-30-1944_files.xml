@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0661-103044-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0661-103044-BVL_jp2.zip</original>
+    <mtime>1450153779</mtime>
+    <size>14324</size>
+    <md5>07536c1d1186784dd66d188143b327a2</md5>
+    <crc32>4d8f3816</crc32>
+    <sha1>9cbaf2fda2bd109a2bc81a035d658ee9c9f0d675</sha1>
+  </file>
+  <file name="BVC-0661-103044-BVL.pdf" source="original">
+    <mtime>1450153699</mtime>
+    <size>881802</size>
+    <md5>1f161814749d7dfc0377f9ed71fb0bfc</md5>
+    <crc32>04b496df</crc32>
+    <sha1>90093ec723e04f4293483e43ea1e98c147f7522b</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0661-103044-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0661-103044-BVL_jp2.zip</original>
+    <mtime>1450154111</mtime>
+    <size>30707</size>
+    <md5>ccbea01d3fbe8139e3489ebd8b5e89ad</md5>
+    <crc32>6ac667f0</crc32>
+    <sha1>847cbb11b0032b0b0f298ef50fe234870b5d0641</sha1>
+  </file>
+  <file name="BVC-0661-103044-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0661-103044-BVL_djvu.xml</original>
+    <mtime>1456526139</mtime>
+    <size>1785</size>
+    <md5>51bca77938b4f13d3c354beea13dfe0d</md5>
+    <crc32>bcb71610</crc32>
+    <sha1>3f0ae98720a56d054198c54f22fba3d6cfbbe0e6</sha1>
+  </file>
+  <file name="BVC-0661-103044-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0661-103044-BVL_abbyy.gz</original>
+    <mtime>1450154118</mtime>
+    <size>23611</size>
+    <md5>d431b48db6bc14ddbeeddb43c48d59ea</md5>
+    <crc32>92790e6b</crc32>
+    <sha1>da6e0c351b954ba5b2d0f49260c31c33934a733b</sha1>
+  </file>
+  <file name="BVC-0661-103044-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0661-103044-BVL.pdf</original>
+    <mtime>1450153770</mtime>
+    <size>1210111</size>
+    <md5>b770d9882227e8e15c103584a09612f5</md5>
+    <crc32>f2ac1544</crc32>
+    <sha1>3541939e0fc1e48abaad20ba3a621c67ea5b6258</sha1>
+  </file>
+  <file name="BVC-0661-103044-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0661-103044-BVL_djvu.xml</original>
+    <mtime>1450154137</mtime>
+    <size>587</size>
+    <md5>93a4ea033d47ecd70a9aaade786bf8d1</md5>
+    <crc32>342a7059</crc32>
+    <sha1>6391fda19cd22a6d4130c52e2451845403a19f1e</sha1>
+  </file>
+  <file name="BVC-0661-103044-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0661-103044-BVL_djvu.xml</original>
+    <mtime>1450154157</mtime>
+    <size>280423</size>
+    <md5>f9f52f4616ad4174065abd48013db737</md5>
+    <crc32>652d40a5</crc32>
+    <sha1>c1ddcce7db6954c5008a0b4d6f2f5feae29047c4</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530960164</mtime>
+    <size>18419</size>
+    <md5>b7a88fbce127fdaf2e3e8db6962ba407</md5>
+    <crc32>12012058</crc32>
+    <sha1>281650893742b9d94fe29ad4390402a8e1e5228d</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="comment-sheet-price-fixing-on-leyte-under-japanese-occupation-october-30-1944_archive.torrent" source="metadata">
+    <btih>3ac5d9d32844c66347ab05b8de12544b1137aa18</btih>
+    <mtime>1530960164</mtime>
+    <size>3730</size>
+    <md5>281efe163952db5e925594463bd02dc3</md5>
+    <crc32>b16d8489</crc32>
+    <sha1>ade17d0b72688b1bf9e246e353c78dfa46e76798</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="comment-sheet-price-fixing-on-leyte-under-japanese-occupation-october-30-1944_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>20ae64898afa16ac171e7375019ce1f5</md5>
+  </file>
+  <file name="comment-sheet-price-fixing-on-leyte-under-japanese-occupation-october-30-1944_meta.sqlite" source="original">
+    <mtime>1466310749</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>f664b99d6ef1ca79e1f0c02cbe4a8a27</md5>
+    <crc32>0dd3da58</crc32>
+    <sha1>ca0e9e39fffa33a91f5aa133aa22bc47e98c0f13</sha1>
+  </file>
+  <file name="comment-sheet-price-fixing-on-leyte-under-japanese-occupation-october-30-1944_meta.xml" source="original">
+    <mtime>1484959296</mtime>
+    <size>1465</size>
+    <format>Metadata</format>
+    <md5>059a3ce23702d2b68cada07dc19aaba1</md5>
+    <crc32>e6dbafe3</crc32>
+    <sha1>92f2d325b420b0a169aca0a8bad980294f480f99</sha1>
+  </file>
+</files>

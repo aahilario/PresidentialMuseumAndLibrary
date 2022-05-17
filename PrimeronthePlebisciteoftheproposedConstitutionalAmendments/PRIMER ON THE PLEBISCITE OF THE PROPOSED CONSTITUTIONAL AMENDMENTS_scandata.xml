@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>PrimeronthePlebisciteoftheproposedConstitutionalAmendments</bookId>
+    <leafCount>16</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Title</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4258</origWidth>
+      <origHeight>6132</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4258</w>
+        <h>6132</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4206</origWidth>
+      <origHeight>6116</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4206</w>
+        <h>6116</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4272</origWidth>
+      <origHeight>6112</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4272</w>
+        <h>6112</h>
+      </cropBox>
+    </page>
+    <page leafNum="3">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4336</origWidth>
+      <origHeight>6092</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4336</w>
+        <h>6092</h>
+      </cropBox>
+    </page>
+    <page leafNum="4">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4302</origWidth>
+      <origHeight>6124</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4302</w>
+        <h>6124</h>
+      </cropBox>
+    </page>
+    <page leafNum="5">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4276</origWidth>
+      <origHeight>6111</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4276</w>
+        <h>6111</h>
+      </cropBox>
+    </page>
+    <page leafNum="6">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4290</origWidth>
+      <origHeight>6078</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4290</w>
+        <h>6078</h>
+      </cropBox>
+    </page>
+    <page leafNum="7">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4322</origWidth>
+      <origHeight>6105</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4322</w>
+        <h>6105</h>
+      </cropBox>
+    </page>
+    <page leafNum="8">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4305</origWidth>
+      <origHeight>6132</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4305</w>
+        <h>6132</h>
+      </cropBox>
+    </page>
+    <page leafNum="9">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4305</origWidth>
+      <origHeight>6096</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4305</w>
+        <h>6096</h>
+      </cropBox>
+    </page>
+    <page leafNum="10">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4312</origWidth>
+      <origHeight>6135</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4312</w>
+        <h>6135</h>
+      </cropBox>
+    </page>
+    <page leafNum="11">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4311</origWidth>
+      <origHeight>6086</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4311</w>
+        <h>6086</h>
+      </cropBox>
+    </page>
+    <page leafNum="12">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4223</origWidth>
+      <origHeight>6116</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4223</w>
+        <h>6116</h>
+      </cropBox>
+    </page>
+    <page leafNum="13">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4324</origWidth>
+      <origHeight>6095</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4324</w>
+        <h>6095</h>
+      </cropBox>
+    </page>
+    <page leafNum="14">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4307</origWidth>
+      <origHeight>6120</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4307</w>
+        <h>6120</h>
+      </cropBox>
+    </page>
+    <page leafNum="15">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4355</origWidth>
+      <origHeight>6181</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4355</w>
+        <h>6181</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

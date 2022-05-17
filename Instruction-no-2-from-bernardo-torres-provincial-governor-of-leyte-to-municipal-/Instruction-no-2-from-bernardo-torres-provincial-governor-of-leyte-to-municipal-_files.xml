@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0099-091342-OP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0099-091342-OP_jp2.zip</original>
+    <mtime>1449548320</mtime>
+    <size>16287</size>
+    <md5>1ca41c1298cd4158ed843615eac7fbc2</md5>
+    <crc32>79d22f67</crc32>
+    <sha1>5a417640eaf6cf01e42abc1ae6fe541e82915855</sha1>
+  </file>
+  <file name="BVC-0099-091342-OP.pdf" source="original">
+    <mtime>1449548265</mtime>
+    <size>583698</size>
+    <md5>64ef28908138a28e06fac762b81eeea4</md5>
+    <crc32>57c284ea</crc32>
+    <sha1>d4e1b48fe529891218e3a6711920e599f99fc1b3</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0099-091342-OP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0099-091342-OP_jp2.zip</original>
+    <mtime>1449548332</mtime>
+    <size>12492</size>
+    <md5>27642d64ddea4ff4eb7a7ea73c169f76</md5>
+    <crc32>be22b7ca</crc32>
+    <sha1>173c45f63032eb0aa89caf65a4ac971c696eb72f</sha1>
+  </file>
+  <file name="BVC-0099-091342-OP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0099-091342-OP_djvu.xml</original>
+    <mtime>1456644642</mtime>
+    <size>688</size>
+    <md5>708df0611c909e87b2fb0255e04a3e5d</md5>
+    <crc32>d6bd6c1a</crc32>
+    <sha1>e0fa563d3e5ecbe548ebab41dc5dbfe736738c47</sha1>
+  </file>
+  <file name="BVC-0099-091342-OP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0099-091342-OP_abbyy.gz</original>
+    <mtime>1449548339</mtime>
+    <size>7031</size>
+    <md5>770bcea179d4103f9e0e6a6bbfcb30d0</md5>
+    <crc32>cffe510d</crc32>
+    <sha1>7214a31abe72f49a4c8414e7f3b489e338438551</sha1>
+  </file>
+  <file name="BVC-0099-091342-OP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0099-091342-OP.pdf</original>
+    <mtime>1449548311</mtime>
+    <size>844506</size>
+    <md5>8d11e200a47e439f2938ad6b6943c0d0</md5>
+    <crc32>38c71eda</crc32>
+    <sha1>5be11e82dbb81a9bbc27f684a93728900fc18264</sha1>
+  </file>
+  <file name="BVC-0099-091342-OP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0099-091342-OP_djvu.xml</original>
+    <mtime>1449548358</mtime>
+    <size>590</size>
+    <md5>5a2741082bcca7b6eb422a9856d51a0f</md5>
+    <crc32>6324f030</crc32>
+    <sha1>9076a8365fd25500ac9c6b05fefa2071a5509ad7</sha1>
+  </file>
+  <file name="BVC-0099-091342-OP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0099-091342-OP_djvu.xml</original>
+    <mtime>1449548376</mtime>
+    <size>174574</size>
+    <md5>fe3c5e08bdd519a0139dd61c88b115b3</md5>
+    <crc32>a996535f</crc32>
+    <sha1>86c04b1024034fd63a8367cfe91306c1418fa235</sha1>
+  </file>
+  <file name="Instruction-no-2-from-bernardo-torres-provincial-governor-of-leyte-to-municipal-_archive.torrent" source="metadata">
+    <btih>10109aed3c9c426f2e52be400e6bec003ac65f6f</btih>
+    <mtime>1530840694</mtime>
+    <size>3725</size>
+    <md5>fa533aabd7b5d804ec9b4aec6e6bd924</md5>
+    <crc32>a3744763</crc32>
+    <sha1>a81956840db2bfa3c700fd7760be15ad1a2b7d36</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Instruction-no-2-from-bernardo-torres-provincial-governor-of-leyte-to-municipal-_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>124a51a41ab7034262daf1d6942d472a</md5>
+  </file>
+  <file name="Instruction-no-2-from-bernardo-torres-provincial-governor-of-leyte-to-municipal-_meta.sqlite" source="original">
+    <mtime>1463866974</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>1950d37e2c6c4bd7ad496add004f9df6</md5>
+    <crc32>28e97736</crc32>
+    <sha1>1c60cab8c882cfb0f54d70e761b9c393afeb3b83</sha1>
+  </file>
+  <file name="Instruction-no-2-from-bernardo-torres-provincial-governor-of-leyte-to-municipal-_meta.xml" source="original">
+    <mtime>1484999528</mtime>
+    <size>1348</size>
+    <format>Metadata</format>
+    <md5>852e8bb8407baecc1b5d9b5347543d37</md5>
+    <crc32>1f40d6fa</crc32>
+    <sha1>5b9cad3e7385991dea584175ece7ea3cf2083bdd</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530840694</mtime>
+    <size>14006</size>
+    <md5>8d2615f693bdad55b59da2bb8f9acda4</md5>
+    <crc32>a15b6e15</crc32>
+    <sha1>2913686b3e3206e6e3496b5ef59b67fdfd6dfe10</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>bio-data-basilio-valdes-whos-who-in-the-philippines-september-12-1940</bookId>
+    <leafCount>6</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4812</origWidth>
+      <origHeight>6400</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4812</w>
+        <h>6400</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3333</origWidth>
+      <origHeight>2122</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3333</w>
+        <h>2122</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4805</origWidth>
+      <origHeight>6392</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4805</w>
+        <h>6392</h>
+      </cropBox>
+    </page>
+    <page leafNum="3">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4781</origWidth>
+      <origHeight>6372</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4781</w>
+        <h>6372</h>
+      </cropBox>
+    </page>
+    <page leafNum="4">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3029</origWidth>
+      <origHeight>1525</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3029</w>
+        <h>1525</h>
+      </cropBox>
+    </page>
+    <page leafNum="5">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4778</origWidth>
+      <origHeight>6381</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4778</w>
+        <h>6381</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

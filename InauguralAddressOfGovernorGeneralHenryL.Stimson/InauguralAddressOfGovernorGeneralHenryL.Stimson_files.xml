@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Inaugural Address of Governor-General Henry L. Stimson.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>Inaugural Address of Governor-General Henry L. Stimson_djvu.xml</original>
+    <mtime>1433726709</mtime>
+    <size>2106608</size>
+    <md5>0085459813fe5096178e60b84df156a9</md5>
+    <crc32>e9e69de5</crc32>
+    <sha1>2025aa7cea1157f4a72ea802bf76579f66749443</sha1>
+  </file>
+  <file name="Inaugural Address of Governor-General Henry L. Stimson.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Inaugural Address of Governor-General Henry L. Stimson_jp2.zip</original>
+    <mtime>1433725645</mtime>
+    <size>207553</size>
+    <md5>71cfc5d843fe79e59ed2a6fa32d9cd5b</md5>
+    <crc32>760552b3</crc32>
+    <sha1>b06e140531e4ac7a997964006f58b7ccb94b31f2</sha1>
+  </file>
+  <file name="Inaugural Address of Governor-General Henry L. Stimson.pdf" source="original">
+    <mtime>1433724799</mtime>
+    <size>12816008</size>
+    <md5>fd288ec669cad4449b5b6dd38c5184dc</md5>
+    <crc32>6a1d1af8</crc32>
+    <sha1>56faffadf053e58884d52037ddff7e012fabf25b</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="Inaugural Address of Governor-General Henry L. Stimson_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Inaugural Address of Governor-General Henry L. Stimson_jp2.zip</original>
+    <mtime>1433726526</mtime>
+    <size>446443</size>
+    <md5>965b3131784a9460b67ca3c31f760929</md5>
+    <crc32>11d55fa1</crc32>
+    <sha1>559e30a0a143bdefbed7a326a71b02415985c069</sha1>
+  </file>
+  <file name="Inaugural Address of Governor-General Henry L. Stimson_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Inaugural Address of Governor-General Henry L. Stimson.djvu</original>
+    <mtime>1433727010</mtime>
+    <size>28969</size>
+    <md5>be9f257e03023bea1c5911b853b4a9f5</md5>
+    <crc32>18f4763f</crc32>
+    <sha1>7e9bf3cf5429725c77632ac49aaa39703c26fb93</sha1>
+  </file>
+  <file name="Inaugural Address of Governor-General Henry L. Stimson_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Inaugural Address of Governor-General Henry L. Stimson_abbyy.gz</original>
+    <mtime>1433726539</mtime>
+    <size>269326</size>
+    <md5>5c3811adb6fb1e5d23f00b8f8f8b8a94</md5>
+    <crc32>9e9cac94</crc32>
+    <sha1>a8aa98dc31ab11c861518b77412a7da410ca01bb</sha1>
+  </file>
+  <file name="Inaugural Address of Governor-General Henry L. Stimson_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Inaugural Address of Governor-General Henry L. Stimson.pdf</original>
+    <mtime>1433725612</mtime>
+    <size>19117824</size>
+    <md5>19e33420ff12d9392bee1ed1c254d861</md5>
+    <crc32>10f9a3cb</crc32>
+    <sha1>35a7ceab96511dfb3de35568900c8524f7e0892b</sha1>
+  </file>
+  <file name="Inaugural Address of Governor-General Henry L. Stimson_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Inaugural Address of Governor-General Henry L. Stimson_djvu.xml</original>
+    <mtime>1433726711</mtime>
+    <size>6528</size>
+    <md5>85b37626741668b34fbceab59497d84a</md5>
+    <crc32>0fb23dcb</crc32>
+    <sha1>ea91eef6f83d4c395edafdd0fe3f1523c37d0f82</sha1>
+  </file>
+  <file name="Inaugural Address of Governor-General Henry L. Stimson_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>Inaugural Address of Governor-General Henry L. Stimson_djvu.xml</original>
+    <mtime>1433726999</mtime>
+    <size>3153566</size>
+    <md5>ac87cf2f2ba98227a5387bca39d3b6db</md5>
+    <crc32>9504947b</crc32>
+    <sha1>31c5317a3d5fa6ef592ff7f0b330572e3952904c</sha1>
+  </file>
+  <file name="InauguralAddressOfGovernorGeneralHenryL.Stimson_archive.torrent" source="metadata">
+    <btih>d5d2d9716a62264b595b79c50d74dbc311ca3d4c</btih>
+    <mtime>1531038513</mtime>
+    <size>5325</size>
+    <md5>94033578af3247883df111a2a423ec35</md5>
+    <crc32>d1bb5559</crc32>
+    <sha1>9022e771e4210d90b98561dd1873f4794a08b112</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="InauguralAddressOfGovernorGeneralHenryL.Stimson_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>6ae20731457bb084d43901b0615c3614</md5>
+  </file>
+  <file name="InauguralAddressOfGovernorGeneralHenryL.Stimson_meta.sqlite" source="original">
+    <mtime>1466996193</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>88f51858b8242d7c6e68921e3546d48a</md5>
+    <crc32>942d09d2</crc32>
+    <sha1>932dfe40d82c9c4a4a1ae4009b598a66ea5893a3</sha1>
+  </file>
+  <file name="InauguralAddressOfGovernorGeneralHenryL.Stimson_meta.xml" source="original">
+    <mtime>1483177604</mtime>
+    <size>1435</size>
+    <format>Metadata</format>
+    <md5>e20c994955389d43a88ffef9d52453a9</md5>
+    <crc32>52d71511</crc32>
+    <sha1>1bfc7abbf765b5e94c03aab6445db548a5fa53f5</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1531038511</mtime>
+    <size>9315</size>
+    <md5>23e34f225e291cee179929a05adc9dc4</md5>
+    <crc32>41066a05</crc32>
+    <sha1>f3be590ea35ed62cfd38b222152613bd514b9b94</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

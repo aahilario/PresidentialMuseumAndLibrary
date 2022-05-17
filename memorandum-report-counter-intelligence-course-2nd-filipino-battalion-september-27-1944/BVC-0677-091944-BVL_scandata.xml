@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>memorandum-report-counter-intelligence-course-2nd-filipino-battalion-september-27-1944</bookId>
+    <leafCount>2</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4831</origWidth>
+      <origHeight>6417</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4831</w>
+        <h>6417</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4705</origWidth>
+      <origHeight>6398</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4705</w>
+        <h>6398</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

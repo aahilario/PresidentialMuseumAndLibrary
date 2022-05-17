@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>house-of-representatives-commitee-report-no-662</bookId>
+    <leafCount>4</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4819</origWidth>
+      <origHeight>8003</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4819</w>
+        <h>8003</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4782</origWidth>
+      <origHeight>7969</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4782</w>
+        <h>7969</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4849</origWidth>
+      <origHeight>7856</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4849</w>
+        <h>7856</h>
+      </cropBox>
+    </page>
+    <page leafNum="3">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4783</origWidth>
+      <origHeight>7942</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4783</w>
+        <h>7942</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

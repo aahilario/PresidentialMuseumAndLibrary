@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Philippine Press Clippings Volume VII (1940-1945).djvu" source="derivative">
+    <format>DjVu</format>
+    <original>Philippine Press Clippings Volume VII (1940-1945)_djvu.xml</original>
+    <mtime>1444138777</mtime>
+    <size>89819098</size>
+    <md5>332e535f0486032d378d1730aad18639</md5>
+    <crc32>2e51344d</crc32>
+    <sha1>d82b823b43bbdfce46a94543869a7d79753ed2af</sha1>
+  </file>
+  <file name="Philippine Press Clippings Volume VII (1940-1945).gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Philippine Press Clippings Volume VII (1940-1945)_jp2.zip</original>
+    <mtime>1444129232</mtime>
+    <size>318478</size>
+    <md5>d2bba52b39627e8d8d6acbab1e45137b</md5>
+    <crc32>5ecf0c9e</crc32>
+    <sha1>086d2477b35bf19ff6711e3abb8275350e79ac4b</sha1>
+  </file>
+  <file name="Philippine Press Clippings Volume VII (1940-1945).pdf" source="original">
+    <mtime>1444124694</mtime>
+    <size>402753955</size>
+    <md5>ede5ae38fa2d78bdf72eb9f964488414</md5>
+    <crc32>10bb3481</crc32>
+    <sha1>33c8ff50dad8d06530c4b528e81cca70b6ed1cf7</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="Philippine Press Clippings Volume VII (1940-1945)_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Philippine Press Clippings Volume VII (1940-1945)_jp2.zip</original>
+    <mtime>1444134457</mtime>
+    <size>14231783</size>
+    <md5>31ab62b603b6a8fe8b03d8571f1f29de</md5>
+    <crc32>1af56c97</crc32>
+    <sha1>492ea10a64a4f41fc4fcc0851802b57599aee73d</sha1>
+  </file>
+  <file name="Philippine Press Clippings Volume VII (1940-1945)_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Philippine Press Clippings Volume VII (1940-1945).djvu</original>
+    <mtime>1444143454</mtime>
+    <size>831722</size>
+    <md5>33f3f1fdd48704d586da2f232d1e1336</md5>
+    <crc32>ec607239</crc32>
+    <sha1>58282f3ddbffcec75fb1d8c15e642c80c1ba4852</sha1>
+  </file>
+  <file name="Philippine Press Clippings Volume VII (1940-1945)_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Philippine Press Clippings Volume VII (1940-1945)_abbyy.gz</original>
+    <mtime>1444134733</mtime>
+    <size>7925655</size>
+    <md5>4d8e5b916ef6c41f40fc9461eefd5e05</md5>
+    <crc32>87cf765d</crc32>
+    <sha1>6bd6710717082aee7873e5ad4ac3f2e18cc40c4c</sha1>
+  </file>
+  <file name="Philippine Press Clippings Volume VII (1940-1945)_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Philippine Press Clippings Volume VII (1940-1945).pdf</original>
+    <mtime>1444129020</mtime>
+    <size>471996281</size>
+    <md5>9ec56ebc9fc84e633b2b5708392642de</md5>
+    <crc32>7e6629ad</crc32>
+    <sha1>00bfee6420c5719e6680fc1bb1f6190f38e8594b</sha1>
+  </file>
+  <file name="Philippine Press Clippings Volume VII (1940-1945)_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Philippine Press Clippings Volume VII (1940-1945)_djvu.xml</original>
+    <mtime>1444138788</mtime>
+    <size>49643</size>
+    <md5>bf7ee4ea76e218429b50c9650f695d52</md5>
+    <crc32>f7e0d82b</crc32>
+    <sha1>12df488d49b6b1a8dbe557bc54502f5123d47d4d</sha1>
+  </file>
+  <file name="Philippine Press Clippings Volume VII (1940-1945)_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>Philippine Press Clippings Volume VII (1940-1945)_djvu.xml</original>
+    <mtime>1444143342</mtime>
+    <size>102025494</size>
+    <md5>f88d6e9fdbce0951965ea496f1c462af</md5>
+    <crc32>edad142e</crc32>
+    <sha1>830cb33a9726426cff93d39bfe1c5e7932b47f79</sha1>
+  </file>
+  <file name="PhilippinePressClippingsVol7-1940-1945_archive.torrent" source="metadata">
+    <btih>65cf6379bb40f0578208961fc4a2f034e58cb12c</btih>
+    <mtime>1531008671</mtime>
+    <size>24555</size>
+    <md5>265bd74db7c0f18217617e3c9a0ec7e4</md5>
+    <crc32>cf8cb65a</crc32>
+    <sha1>9a122a053a38c1bd3dd19aa7446f92b385a314dc</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="PhilippinePressClippingsVol7-1940-1945_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>086b09f79530a96ef334b54895e70d63</md5>
+  </file>
+  <file name="PhilippinePressClippingsVol7-1940-1945_meta.sqlite" source="original">
+    <mtime>1463389630</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>fb6c2c73ffeea64eb0d4b3d767dcb8c0</md5>
+    <crc32>d6bbeac8</crc32>
+    <sha1>ae3f99856e7ad0cddd64bbba4b4d4faa2f9593db</sha1>
+  </file>
+  <file name="PhilippinePressClippingsVol7-1940-1945_meta.xml" source="original">
+    <mtime>1485855739</mtime>
+    <size>1233</size>
+    <format>Metadata</format>
+    <md5>94415cc5cc4a377aa9e063ca29d580d8</md5>
+    <crc32>33ab61ea</crc32>
+    <sha1>f048cc2664ffa3bd74f60fcdb87d48c7298baefe</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1531008663</mtime>
+    <size>25137</size>
+    <md5>670a7aa69305a85ccf85abdbdbadf409</md5>
+    <crc32>a8656c34</crc32>
+    <sha1>c0c69f045c6803b2cd79634cffda8103f96fd258</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

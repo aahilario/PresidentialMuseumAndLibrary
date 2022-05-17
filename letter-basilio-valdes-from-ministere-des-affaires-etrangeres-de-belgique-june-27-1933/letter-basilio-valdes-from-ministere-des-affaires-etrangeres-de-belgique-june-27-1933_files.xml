@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0437-062733-CP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0437-062733-CP_jp2.zip</original>
+    <mtime>1451875820</mtime>
+    <size>16019</size>
+    <md5>c478cb2550bc90049edb1a505a48f8b7</md5>
+    <crc32>35d27fcd</crc32>
+    <sha1>b6f8d59d9820ea9f2c252b61e8e7d702a94677cd</sha1>
+  </file>
+  <file name="BVC-0437-062733-CP.pdf" source="original">
+    <mtime>1451875771</mtime>
+    <size>596689</size>
+    <md5>8bab37caba41c078897a70478cc9add8</md5>
+    <crc32>3de01b92</crc32>
+    <sha1>d6aac56add2145d2cb6e30c0acbdf3fc81f21f3d</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0437-062733-CP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0437-062733-CP_jp2.zip</original>
+    <mtime>1451876429</mtime>
+    <size>13592</size>
+    <md5>b728d73d3e844af78c6f2c11bd04c4da</md5>
+    <crc32>4a6b8410</crc32>
+    <sha1>1a24dc05b7c4364b268b92db951e3af85825b8cb</sha1>
+  </file>
+  <file name="BVC-0437-062733-CP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0437-062733-CP_djvu.xml</original>
+    <mtime>1456644439</mtime>
+    <size>792</size>
+    <md5>ec2987225f4d61d8efbf2e1c85e53e66</md5>
+    <crc32>99269ac5</crc32>
+    <sha1>755db4c4e55b18edd3dba5fa1105ef8564bc6dde</sha1>
+  </file>
+  <file name="BVC-0437-062733-CP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0437-062733-CP_abbyy.gz</original>
+    <mtime>1451876435</mtime>
+    <size>8809</size>
+    <md5>975e3326326668615521ce5545d39b4a</md5>
+    <crc32>40d3db67</crc32>
+    <sha1>8a2db19e2185cbbc3acd657a336084282b8aab15</sha1>
+  </file>
+  <file name="BVC-0437-062733-CP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0437-062733-CP.pdf</original>
+    <mtime>1451875813</mtime>
+    <size>819892</size>
+    <md5>31f2aa061782e5bef701a3225f467572</md5>
+    <crc32>0e062144</crc32>
+    <sha1>3e2aa4bb226a6bbcd7b1b0912dd739c13bfffea5</sha1>
+  </file>
+  <file name="BVC-0437-062733-CP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0437-062733-CP_djvu.xml</original>
+    <mtime>1451876446</mtime>
+    <size>595</size>
+    <md5>b80fc4a1fe80272b73a9a6f8da06995f</md5>
+    <crc32>64482585</crc32>
+    <sha1>8fa9dea60645333fa83fb314eb4195f612869902</sha1>
+  </file>
+  <file name="BVC-0437-062733-CP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0437-062733-CP_djvu.xml</original>
+    <mtime>1451876458</mtime>
+    <size>175405</size>
+    <md5>67c71624226b3969044af139095d4d86</md5>
+    <crc32>78005267</crc32>
+    <sha1>2163cc75789dcd89881976b26525dcb91ffd6839</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1531009595</mtime>
+    <size>13627</size>
+    <md5>b798df27ccd5222d85b65ae6c2d335e3</md5>
+    <crc32>92d88e91</crc32>
+    <sha1>0f6ae526a6d3c91853b5fd208ed927586be7a029</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="letter-basilio-valdes-from-ministere-des-affaires-etrangeres-de-belgique-june-27-1933_archive.torrent" source="metadata">
+    <btih>f30d7f6a1f5bd0d5f3f18b45515db8a25512ce6c</btih>
+    <mtime>1531009597</mtime>
+    <size>3773</size>
+    <md5>6277bd93dbfd8e160341d7c99577d779</md5>
+    <crc32>73d2aa0f</crc32>
+    <sha1>2bbde9b86e6310a72316b9e9838addc72cfb8dc8</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="letter-basilio-valdes-from-ministere-des-affaires-etrangeres-de-belgique-june-27-1933_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>be60af15988892c698bd203e15bd8607</md5>
+  </file>
+  <file name="letter-basilio-valdes-from-ministere-des-affaires-etrangeres-de-belgique-june-27-1933_meta.sqlite" source="original">
+    <mtime>1466407414</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>76eae8cffba35a6c70281237d395efc0</md5>
+    <crc32>c4915098</crc32>
+    <sha1>9d85e200c87649b79fd36d3325f86e5d5c9bd320</sha1>
+  </file>
+  <file name="letter-basilio-valdes-from-ministere-des-affaires-etrangeres-de-belgique-june-27-1933_meta.xml" source="original">
+    <mtime>1483318897</mtime>
+    <size>1297</size>
+    <format>Metadata</format>
+    <md5>8b9487c8a10a1e40b9033bfc0c3bf845</md5>
+    <crc32>730ba28d</crc32>
+    <sha1>ca385e0f669bb618391d203b6e037f20833b1954</sha1>
+  </file>
+</files>

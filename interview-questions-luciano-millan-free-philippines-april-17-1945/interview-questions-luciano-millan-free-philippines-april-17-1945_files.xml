@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0338-041745-SP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0338-041745-SP_jp2.zip</original>
+    <mtime>1459738164</mtime>
+    <size>14755</size>
+    <md5>e721a81db878f975af975e44debd3380</md5>
+    <crc32>5695f819</crc32>
+    <sha1>62392215d3e137372adafc7fbf06b281263c71c8</sha1>
+  </file>
+  <file name="BVC-0338-041745-SP.pdf" source="original">
+    <mtime>1459738065</mtime>
+    <size>791600</size>
+    <md5>092ea4338913c21d25b034d9515fc61e</md5>
+    <crc32>d2214bd0</crc32>
+    <sha1>013c44f834f276dc0ea04fcb85fb54e8a13912b3</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0338-041745-SP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0338-041745-SP_jp2.zip</original>
+    <mtime>1459738220</mtime>
+    <size>17439</size>
+    <md5>8ed488eddc514e4231c4ce0ae857d711</md5>
+    <crc32>b2d2c53d</crc32>
+    <sha1>68ec866b0017d63a251010edd9006d19b684c667</sha1>
+  </file>
+  <file name="BVC-0338-041745-SP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0338-041745-SP_djvu.xml</original>
+    <mtime>1459738233</mtime>
+    <size>991</size>
+    <md5>7b65c606bf3350c553059247b13335cb</md5>
+    <crc32>1f4361a0</crc32>
+    <sha1>99320c090658ac1e1404266467dfbd1c274f6910</sha1>
+  </file>
+  <file name="BVC-0338-041745-SP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0338-041745-SP_abbyy.gz</original>
+    <mtime>1459738226</mtime>
+    <size>10686</size>
+    <md5>775a432ddd584b7965d70b44b2607f4c</md5>
+    <crc32>7a0ee26b</crc32>
+    <sha1>536a1998b438faeb299c732e77abb105d8cb36cc</sha1>
+  </file>
+  <file name="BVC-0338-041745-SP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0338-041745-SP.pdf</original>
+    <mtime>1459738157</mtime>
+    <size>1146205</size>
+    <md5>005da5eb0c2cbb08669cdd6054edfcc5</md5>
+    <crc32>d5a0ccc9</crc32>
+    <sha1>f9e88220db4e50409cda5220eb8439d2fc0a2724</sha1>
+  </file>
+  <file name="BVC-0338-041745-SP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0338-041745-SP_djvu.xml</original>
+    <mtime>1459738232</mtime>
+    <size>575</size>
+    <md5>fd0657559e574ffe5331e228e1c58747</md5>
+    <crc32>8c438a73</crc32>
+    <sha1>a7f8016d8bfcc266f2e561184135a649409a0225</sha1>
+  </file>
+  <file name="BVC-0338-041745-SP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0338-041745-SP_djvu.xml</original>
+    <mtime>1459738253</mtime>
+    <size>247904</size>
+    <md5>0ffd2425de5d64223b00cc5964e2b29c</md5>
+    <crc32>00cb1d52</crc32>
+    <sha1>cdac867174a56a8e8576c1ece6bd47250d4879aa</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530564526</mtime>
+    <size>18293</size>
+    <md5>826ab917d6036fc75d8d55936b37ddbd</md5>
+    <crc32>b009d69b</crc32>
+    <sha1>d25e6bd30419764809b9ea1e5973356854ffa5f1</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="interview-questions-luciano-millan-free-philippines-april-17-1945_archive.torrent" source="metadata">
+    <btih>edd395471a462e8385ec179bbe0e80f45dc45135</btih>
+    <mtime>1530564527</mtime>
+    <size>3613</size>
+    <md5>cafcf4b12fe415be9efbc54fcd36c186</md5>
+    <crc32>6fb9b6c5</crc32>
+    <sha1>ba42301488ec8648ab6f326c9e06e029960f527d</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="interview-questions-luciano-millan-free-philippines-april-17-1945_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>fa5b572cf80ad349717aa4ce7edc4ecb</md5>
+  </file>
+  <file name="interview-questions-luciano-millan-free-philippines-april-17-1945_meta.sqlite" source="original">
+    <mtime>1463191479</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>47250ea188bc29236e0d7f57211253e4</md5>
+    <crc32>5668373f</crc32>
+    <sha1>f841b0335da13654e059971ddc27efa95c8b8153</sha1>
+  </file>
+  <file name="interview-questions-luciano-millan-free-philippines-april-17-1945_meta.xml" source="original">
+    <mtime>1485588277</mtime>
+    <size>1314</size>
+    <format>Metadata</format>
+    <md5>b41050bea2e7673bbc49661d0ef84602</md5>
+    <crc32>6ec15657</crc32>
+    <sha1>0f3127effc4d83c5b6987ca4a58fd9e5185a7a66</sha1>
+  </file>
+</files>

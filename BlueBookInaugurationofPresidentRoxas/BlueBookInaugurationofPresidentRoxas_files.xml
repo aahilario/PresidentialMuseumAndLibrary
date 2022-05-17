@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="19460528- Roxas.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>19460528- Roxas_djvu.xml</original>
+    <mtime>1437308221</mtime>
+    <size>14422616</size>
+    <md5>f242260bd1e60adb3b40ee89c1936dad</md5>
+    <crc32>f41c0e18</crc32>
+    <sha1>7567857b8996100052fce5c1b9e4c1995234834c</sha1>
+  </file>
+  <file name="19460528- Roxas.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>19460528- Roxas_jp2.zip</original>
+    <mtime>1437306521</mtime>
+    <size>347702</size>
+    <md5>852693405ee344466ad5f46ca5cfb3b6</md5>
+    <crc32>b1bdf324</crc32>
+    <sha1>603384b8c1d3aaa5d7808768d77fea4445008e43</sha1>
+  </file>
+  <file name="19460528- Roxas.pdf" source="original">
+    <mtime>1437306096</mtime>
+    <size>18377216</size>
+    <md5>a83b46c7e9ca1ced7649d3d69a402232</md5>
+    <crc32>c163ae4c</crc32>
+    <sha1>38098bdce7bed02fd38b6c629b1c692422883b03</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="19460528- Roxas_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>19460528- Roxas_jp2.zip</original>
+    <mtime>1437307512</mtime>
+    <size>2019718</size>
+    <md5>3e681ac81584f4d124da13a4f3085736</md5>
+    <crc32>a2b69975</crc32>
+    <sha1>aa613c49430e367cd482813871bc35e3e8f1fe63</sha1>
+  </file>
+  <file name="19460528- Roxas_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>19460528- Roxas.djvu</original>
+    <mtime>1437309447</mtime>
+    <size>136450</size>
+    <md5>7ea7b045f738578877dd6516f03f68fb</md5>
+    <crc32>88a8b906</crc32>
+    <sha1>db5505183bd2593b0f4651ac82da0d6de5610186</sha1>
+  </file>
+  <file name="19460528- Roxas_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>19460528- Roxas_abbyy.gz</original>
+    <mtime>1437307544</mtime>
+    <size>1284441</size>
+    <md5>d6855c4533308bb06877b4221e6b411b</md5>
+    <crc32>b8b7d963</crc32>
+    <sha1>a811fe3241fffe72cf4b87b08d8ea02bbc5ffb3b</sha1>
+  </file>
+  <file name="19460528- Roxas_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>19460528- Roxas.pdf</original>
+    <mtime>1437306487</mtime>
+    <size>121453138</size>
+    <md5>c6cd5e81911af7fe13ae1a1ebe7048c9</md5>
+    <crc32>8fd28d46</crc32>
+    <sha1>b9f28b1bf0fd0001b9384d9681e27048ffc552f7</sha1>
+  </file>
+  <file name="19460528- Roxas_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>19460528- Roxas_djvu.xml</original>
+    <mtime>1437308224</mtime>
+    <size>29241</size>
+    <md5>1715bf2f960fe129f1870ec745be74de</md5>
+    <crc32>9b162571</crc32>
+    <sha1>87683f1b184de30c289f6d6d4cad4468052c4f3f</sha1>
+  </file>
+  <file name="19460528- Roxas_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>19460528- Roxas_djvu.xml</original>
+    <mtime>1437309420</mtime>
+    <size>20679231</size>
+    <md5>442c3be1f7faac4fa8ce121dc16a1271</md5>
+    <crc32>ef8a758b</crc32>
+    <sha1>5445b711ca9a77f270d9226ce1b4d6be533c0490</sha1>
+  </file>
+  <file name="BlueBookInaugurationofPresidentRoxas_archive.torrent" source="metadata">
+    <btih>98de62275a1b9e8710dd405f62ed9a065b93e2ef</btih>
+    <mtime>1530747332</mtime>
+    <size>10244</size>
+    <md5>39a9f1ba50cd848331b34f21f185cbb4</md5>
+    <crc32>b696a82f</crc32>
+    <sha1>4719211575aab9b7ba9c0cdfab94f8488cfa9ae0</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="BlueBookInaugurationofPresidentRoxas_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>354f91c33e618043da18f0af45f12109</md5>
+  </file>
+  <file name="BlueBookInaugurationofPresidentRoxas_meta.sqlite" source="original">
+    <mtime>1466739453</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>8c47b1858bc7bc737b694dc6881f42c3</md5>
+    <crc32>1e1eb4c5</crc32>
+    <sha1>efbe9b34bad0d3a9d9c33fc4ee2ad8c1a0c84cae</sha1>
+  </file>
+  <file name="BlueBookInaugurationofPresidentRoxas_meta.xml" source="original">
+    <mtime>1483470207</mtime>
+    <size>1115</size>
+    <format>Metadata</format>
+    <md5>b960d5932f3e032dc9f0cfb4b37339c5</md5>
+    <crc32>227c453d</crc32>
+    <sha1>c4244e1f8db373712678fe3ab02059baeaa68508</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530747330</mtime>
+    <size>9751</size>
+    <md5>e0a99cf87b7d8c8796a154dbc916ae27</md5>
+    <crc32>63c4beac</crc32>
+    <sha1>25c50494ac5ecdc9fbe26fe0c04d0ed60aeca89d</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+</files>

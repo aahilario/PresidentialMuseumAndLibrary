@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0672-110444-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0672-110444-BVL_jp2.zip</original>
+    <mtime>1450407167</mtime>
+    <size>15654</size>
+    <md5>1112210872a2a791abc6d7362fe3dcf4</md5>
+    <crc32>7627874d</crc32>
+    <sha1>eb6af9f985ee54dbef5ebc2f47aa1cfc7b2bbc6f</sha1>
+  </file>
+  <file name="BVC-0672-110444-BVL.pdf" source="original">
+    <mtime>1450405222</mtime>
+    <size>563240</size>
+    <md5>13e9a6d6fffab7b10f7333f818fbebed</md5>
+    <crc32>71097d14</crc32>
+    <sha1>c8c67b17ef77d80d3e0ed80e7f3bc1cbb13bfbd9</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0672-110444-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0672-110444-BVL_jp2.zip</original>
+    <mtime>1450407205</mtime>
+    <size>15197</size>
+    <md5>598998bf68a31bd29569a6af74cb301d</md5>
+    <crc32>4759e2ee</crc32>
+    <sha1>06bac1aaab8da52fa0f488704349f15c8ba56c60</sha1>
+  </file>
+  <file name="BVC-0672-110444-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0672-110444-BVL_djvu.xml</original>
+    <mtime>1456644743</mtime>
+    <size>849</size>
+    <md5>ab7a039de02bebf66c2e45caf6f2edae</md5>
+    <crc32>003a01d0</crc32>
+    <sha1>fb2497b4f850b03ffe953150a95fea720d378e47</sha1>
+  </file>
+  <file name="BVC-0672-110444-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0672-110444-BVL_abbyy.gz</original>
+    <mtime>1450407212</mtime>
+    <size>8678</size>
+    <md5>f5a77b5afaf406b020b63ed25a55fbdf</md5>
+    <crc32>a2ee346f</crc32>
+    <sha1>e440c426887410b8715fe0ccf01bf064ee1933bd</sha1>
+  </file>
+  <file name="BVC-0672-110444-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0672-110444-BVL.pdf</original>
+    <mtime>1450407154</mtime>
+    <size>645153</size>
+    <md5>4f25469ccb1d50fe40d8258a1398e00e</md5>
+    <crc32>26723514</crc32>
+    <sha1>5fb2f566e73ab158399e81fb07c7777e0757d262</sha1>
+  </file>
+  <file name="BVC-0672-110444-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0672-110444-BVL_djvu.xml</original>
+    <mtime>1450407236</mtime>
+    <size>601</size>
+    <md5>2667007abbaf9b8a3af2108526ebf4b1</md5>
+    <crc32>885e7d85</crc32>
+    <sha1>c8e2ad3cf49edac52bfc4227c3bb61966f5adc07</sha1>
+  </file>
+  <file name="BVC-0672-110444-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0672-110444-BVL_djvu.xml</original>
+    <mtime>1450407268</mtime>
+    <size>160666</size>
+    <md5>a7a1383019fb314a1f0c6bc4d1e6bcb4</md5>
+    <crc32>6111a28c</crc32>
+    <sha1>7883f5e8c3d26d55ca6c9c79865d0f975314a29c</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530689846</mtime>
+    <size>9402</size>
+    <md5>8e1dc68fc427d9a55cad6f5aef9e46bd</md5>
+    <crc32>bf74a691</crc32>
+    <sha1>4dd6374a7cfa2cecd664902af73cd83da05a3b23</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="memorandum-from-francisco-astilla-re-december-29-1944-macarthur-proclamation-january-6-1945_archive.torrent" source="metadata">
+    <btih>3775d866b94ed33b8d5140b6c4825fb9e4d3304c</btih>
+    <mtime>1530689846</mtime>
+    <size>3818</size>
+    <md5>991d9eab151c86548b611dfe0fed4a22</md5>
+    <crc32>a7f38ae1</crc32>
+    <sha1>c2836f02d037328c778e8e9f4a2ebf1ab56f9ce0</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="memorandum-from-francisco-astilla-re-december-29-1944-macarthur-proclamation-january-6-1945_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>0f8f55f3cb8eb2b0ae6ca291ac761767</md5>
+  </file>
+  <file name="memorandum-from-francisco-astilla-re-december-29-1944-macarthur-proclamation-january-6-1945_meta.sqlite" source="original">
+    <mtime>1466310674</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>2bce2986825b2405d79dccb2643c8bf2</md5>
+    <crc32>7868270d</crc32>
+    <sha1>74238267b69bfcf7d89ed40d5f7c372aafecc5ef</sha1>
+  </file>
+  <file name="memorandum-from-francisco-astilla-re-december-29-1944-macarthur-proclamation-january-6-1945_meta.xml" source="original">
+    <mtime>1485517675</mtime>
+    <size>1533</size>
+    <format>Metadata</format>
+    <md5>26694b5b6a3ab4e01b2ff8f16d0ad863</md5>
+    <crc32>8132f23a</crc32>
+    <sha1>da7565814b56296cd57c2eb182d10a95fcdef2f3</sha1>
+  </file>
+</files>

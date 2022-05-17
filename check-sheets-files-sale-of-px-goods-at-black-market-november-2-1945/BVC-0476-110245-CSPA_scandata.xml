@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>check-sheets-files-sale-of-px-goods-at-black-market-november-2-1945</bookId>
+    <leafCount>5</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4773</origWidth>
+      <origHeight>6393</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4773</w>
+        <h>6393</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4847</origWidth>
+      <origHeight>6412</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4847</w>
+        <h>6412</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4795</origWidth>
+      <origHeight>6360</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4795</w>
+        <h>6360</h>
+      </cropBox>
+    </page>
+    <page leafNum="3">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4748</origWidth>
+      <origHeight>6377</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4748</w>
+        <h>6377</h>
+      </cropBox>
+    </page>
+    <page leafNum="4">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4791</origWidth>
+      <origHeight>6441</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4791</w>
+        <h>6441</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

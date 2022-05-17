@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0660-102844-BVL.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0660-102844-BVL_djvu.xml</original>
+    <mtime>1450151225</mtime>
+    <size>359548</size>
+    <md5>7eb6e72700ea03e1b37794387159c64c</md5>
+    <crc32>8390c7e0</crc32>
+    <sha1>eeecb98e0bc52ebe6374cf99a0d3762f710e016b</sha1>
+  </file>
+  <file name="BVC-0660-102844-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0660-102844-BVL_jp2.zip</original>
+    <mtime>1450151054</mtime>
+    <size>36241</size>
+    <md5>444d9767a89eaefdd8f31db10d2e0fad</md5>
+    <crc32>9a63a8c5</crc32>
+    <sha1>43fd7a980c392419cd96ec15c25e2915f843c7e5</sha1>
+  </file>
+  <file name="BVC-0660-102844-BVL.pdf" source="original">
+    <mtime>1450150931</mtime>
+    <size>1829049</size>
+    <md5>532e52b7cba17b77c39eaf2fe6894596</md5>
+    <crc32>aae2b991</crc32>
+    <sha1>0bdbb3518f2795812925269fc6649a08285c84bb</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0660-102844-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0660-102844-BVL_jp2.zip</original>
+    <mtime>1450151188</mtime>
+    <size>54438</size>
+    <md5>b6ab29e81d92d5df38c40c831d1999c3</md5>
+    <crc32>1f49c250</crc32>
+    <sha1>13cfb8cc8da4f218e0ba78a7e3563ed2c9cc559d</sha1>
+  </file>
+  <file name="BVC-0660-102844-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0660-102844-BVL.djvu</original>
+    <mtime>1450151278</mtime>
+    <size>3098</size>
+    <md5>55f0357f966575007990e8a1e24a64bd</md5>
+    <crc32>51ab1613</crc32>
+    <sha1>b2ea565661fa118f1fba079e261759f81be98c73</sha1>
+  </file>
+  <file name="BVC-0660-102844-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0660-102844-BVL_abbyy.gz</original>
+    <mtime>1450151194</mtime>
+    <size>35136</size>
+    <md5>cb7f8091ce6cc3c78d6ed59fec27e249</md5>
+    <crc32>4c6f2d35</crc32>
+    <sha1>4120738221552fd5e2ec05cfdb4ef6d01c0661ef</sha1>
+  </file>
+  <file name="BVC-0660-102844-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0660-102844-BVL.pdf</original>
+    <mtime>1450151043</mtime>
+    <size>2413774</size>
+    <md5>0a97269b1d24dbcb9caf781f88e737e6</md5>
+    <crc32>874f6b39</crc32>
+    <sha1>b313b3aef1f9a3094bb857f7838cbc53622da876</sha1>
+  </file>
+  <file name="BVC-0660-102844-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0660-102844-BVL_djvu.xml</original>
+    <mtime>1450151226</mtime>
+    <size>1157</size>
+    <md5>c296ddc405d8ef51863dcbf1dd96d5f2</md5>
+    <crc32>6e12848c</crc32>
+    <sha1>fae0e1d2332ed6680650b3f63100e88d722fd73c</sha1>
+  </file>
+  <file name="BVC-0660-102844-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0660-102844-BVL_djvu.xml</original>
+    <mtime>1450151270</mtime>
+    <size>561187</size>
+    <md5>240b7c8aa784169b863cf4ae1f7e2503</md5>
+    <crc32>37e287d8</crc32>
+    <sha1>a11ae5fdb1bebc1606651ae6943255323c7f115a</sha1>
+  </file>
+  <file name="information-loyalty-checks-tacloban-october-28-1944_archive.torrent" source="metadata">
+    <btih>b8e17ebd06a2a44f290082a8845505a59e073359</btih>
+    <mtime>1484684859</mtime>
+    <size>3663</size>
+    <md5>5e163931b2d0e0fe4db267013d3fd5b8</md5>
+    <crc32>02f76b87</crc32>
+    <sha1>d35fad7199e8004124615b9e678192e00fc6956a</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="information-loyalty-checks-tacloban-october-28-1944_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>e99135aeaca3f70b83ace1af470bed6b</md5>
+  </file>
+  <file name="information-loyalty-checks-tacloban-october-28-1944_meta.sqlite" source="original">
+    <mtime>1466310440</mtime>
+    <size>12288</size>
+    <format>Metadata</format>
+    <md5>bd0c2f261d066df077b52a98419d9671</md5>
+    <crc32>e82a49ec</crc32>
+    <sha1>31152dd1f5dd4e7c574d77ae5b021e32b344fccb</sha1>
+  </file>
+  <file name="information-loyalty-checks-tacloban-october-28-1944_meta.xml" source="original">
+    <mtime>1484684857</mtime>
+    <size>1748</size>
+    <format>Metadata</format>
+    <md5>655a7c50ba32ed06c1a6c2942590960a</md5>
+    <crc32>8d1633ff</crc32>
+    <sha1>b8fbf7ed15ecf7d2bf9e79a5e49915efcd0e7221</sha1>
+  </file>
+</files>

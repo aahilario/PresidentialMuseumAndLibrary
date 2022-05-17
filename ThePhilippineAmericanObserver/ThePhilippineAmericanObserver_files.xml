@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="The Philippine-American Observer.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>The Philippine-American Observer_djvu.xml</original>
+    <mtime>1431604296</mtime>
+    <size>19498243</size>
+    <md5>4f6358eecb479538a7448cd26518a261</md5>
+    <crc32>905990d1</crc32>
+    <sha1>df79b2cf2b4b10f2514ef905a89100cae8650c04</sha1>
+  </file>
+  <file name="The Philippine-American Observer.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>The Philippine-American Observer_jp2.zip</original>
+    <mtime>1431598550</mtime>
+    <size>307524</size>
+    <md5>1880ead461f724d67cb0e4e57b85a772</md5>
+    <crc32>4f5e5ed1</crc32>
+    <sha1>7ceedf8f48d0a7e82fe009948982d4840c6d8259</sha1>
+  </file>
+  <file name="The Philippine-American Observer.pdf" source="original">
+    <mtime>1431597453</mtime>
+    <size>20959531</size>
+    <md5>e2ea4148e19b4d528d1b478303cf7c0b</md5>
+    <crc32>2a6305b9</crc32>
+    <sha1>42ef337157efba231835fc63a5a2e81e663edceb</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="The Philippine-American Observer_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>The Philippine-American Observer_jp2.zip</original>
+    <mtime>1431603038</mtime>
+    <size>4333329</size>
+    <md5>6e35b07aec97aeadc89bb43b03b0db5c</md5>
+    <crc32>81308e0e</crc32>
+    <sha1>8e1ebe349d16b259f0083cb25a11b1d3cedce6cb</sha1>
+  </file>
+  <file name="The Philippine-American Observer_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>The Philippine-American Observer.djvu</original>
+    <mtime>1431606051</mtime>
+    <size>276271</size>
+    <md5>61d17531605ee2b9eded1a30d393552a</md5>
+    <crc32>6147ef6f</crc32>
+    <sha1>06e8424ee0a532b32dc7709146c171b531b1d9f7</sha1>
+  </file>
+  <file name="The Philippine-American Observer_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>The Philippine-American Observer_abbyy.gz</original>
+    <mtime>1431603124</mtime>
+    <size>2671919</size>
+    <md5>a5aad969e468462000fcdfdf3d962fb5</md5>
+    <crc32>443b7140</crc32>
+    <sha1>324eb3ec2a87a1418a36f234d552a1e99e305078</sha1>
+  </file>
+  <file name="The Philippine-American Observer_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>The Philippine-American Observer.pdf</original>
+    <mtime>1431598476</mtime>
+    <size>148005498</size>
+    <md5>1adb7e63ecb151d36090e48f26ac3bd2</md5>
+    <crc32>03433665</crc32>
+    <sha1>b8efb56bfc6a49ecf1bdf1d57aeb0bfcbdaa84a2</sha1>
+  </file>
+  <file name="The Philippine-American Observer_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>The Philippine-American Observer_djvu.xml</original>
+    <mtime>1431604303</mtime>
+    <size>20862</size>
+    <md5>866329726afdf8740dcf5d2ebe170815</md5>
+    <crc32>fe09125e</crc32>
+    <sha1>3e821fd6205e26fea817004b212b41feabf2ac90</sha1>
+  </file>
+  <file name="The Philippine-American Observer_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>The Philippine-American Observer_djvu.xml</original>
+    <mtime>1431606007</mtime>
+    <size>30890547</size>
+    <md5>1bfcdbda75fa0a7e61a9b4c04615504c</md5>
+    <crc32>e4ffd637</crc32>
+    <sha1>da114eb86ff0609042e3b63ee7946a80720277e3</sha1>
+  </file>
+  <file name="ThePhilippineAmericanObserver_archive.torrent" source="metadata">
+    <btih>3f1e7fa138a73abc9f0ec0cc28fad9212bd3eb8c</btih>
+    <mtime>1530923973</mtime>
+    <size>12176</size>
+    <md5>53e6f1358b0ab33fec7f2cc396940000</md5>
+    <crc32>c0255370</crc32>
+    <sha1>32aa422eecd4d397f434859ce46b0f0ebe7360e8</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="ThePhilippineAmericanObserver_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>7f78aeac4d8ae1a0eadf08b798a3b10d</md5>
+  </file>
+  <file name="ThePhilippineAmericanObserver_meta.sqlite" source="original">
+    <mtime>1463390410</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>daa7014a692ed55800e11b7c151d0106</md5>
+    <crc32>f629fb72</crc32>
+    <sha1>d4cbbcc309ec506d2b7fff6b3a22d6923d6c879e</sha1>
+  </file>
+  <file name="ThePhilippineAmericanObserver_meta.xml" source="original">
+    <mtime>1483068781</mtime>
+    <size>1375</size>
+    <format>Metadata</format>
+    <md5>15740c69d62513ea6a9f40aef03fc322</md5>
+    <crc32>4e66f846</crc32>
+    <sha1>1c7b249a90e5db627400dbbe99f32722c5ab0362</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530923971</mtime>
+    <size>13119</size>
+    <md5>ac4cd78cd6b5ff9a1c4b1d4ad8d238bc</md5>
+    <crc32>91f87863</crc32>
+    <sha1>9e418e3240435522bbf187998b2c3c1c82888db7</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

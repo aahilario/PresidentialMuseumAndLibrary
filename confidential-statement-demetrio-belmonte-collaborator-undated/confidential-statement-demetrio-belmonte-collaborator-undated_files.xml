@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0439-XXXXXX-CSPA.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0439-XXXXXX-CSPA_jp2.zip</original>
+    <mtime>1459494190</mtime>
+    <size>43991</size>
+    <md5>61b7588c2f9b91abcc440e99a9a7c37e</md5>
+    <crc32>042a6147</crc32>
+    <sha1>8359fa08c9cc7b033f9961fce7a0514af88a980a</sha1>
+  </file>
+  <file name="BVC-0439-XXXXXX-CSPA.pdf" source="original">
+    <mtime>1459494055</mtime>
+    <size>2618512</size>
+    <md5>fcbf0c5d956773fe8f36bf85f5a2403c</md5>
+    <crc32>56500838</crc32>
+    <sha1>44c594eee991264f752113240c043637297b19e2</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0439-XXXXXX-CSPA_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0439-XXXXXX-CSPA_jp2.zip</original>
+    <mtime>1459494244</mtime>
+    <size>146514</size>
+    <md5>ec6bf2cfcda3ba0c795c307e17a8acd4</md5>
+    <crc32>8aa661bc</crc32>
+    <sha1>f9f6ed738bdb78edb2f3bf90b981e3456fe52107</sha1>
+  </file>
+  <file name="BVC-0439-XXXXXX-CSPA_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0439-XXXXXX-CSPA_djvu.xml</original>
+    <mtime>1459494260</mtime>
+    <size>9621</size>
+    <md5>3bf4d2ff9093c7afcd12c2d4c57b5ac3</md5>
+    <crc32>6e653762</crc32>
+    <sha1>900fbe496ef5fffea21d46f6cb2cce9ecf574df4</sha1>
+  </file>
+  <file name="BVC-0439-XXXXXX-CSPA_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0439-XXXXXX-CSPA_abbyy.gz</original>
+    <mtime>1459494253</mtime>
+    <size>92553</size>
+    <md5>240b91ec6cc84bbec88d4424f7dc9ef0</md5>
+    <crc32>7c8c49eb</crc32>
+    <sha1>9cafb39cb1c0485968f6524d5c640a53518deee0</sha1>
+  </file>
+  <file name="BVC-0439-XXXXXX-CSPA_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0439-XXXXXX-CSPA.pdf</original>
+    <mtime>1459494181</mtime>
+    <size>3884488</size>
+    <md5>18c979e8512f87576e4f40a475b5eac6</md5>
+    <crc32>623175e2</crc32>
+    <sha1>7dd4e5920e88179dcad2881dafcc853fb5abbd51</sha1>
+  </file>
+  <file name="BVC-0439-XXXXXX-CSPA_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0439-XXXXXX-CSPA_djvu.xml</original>
+    <mtime>1459494259</mtime>
+    <size>1167</size>
+    <md5>0b450c93b0ae7609bf85b877c95c7237</md5>
+    <crc32>a0f93dff</crc32>
+    <sha1>f73af6dcc71c7dbb4431589af261c9416d0b52da</sha1>
+  </file>
+  <file name="BVC-0439-XXXXXX-CSPA_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0439-XXXXXX-CSPA_djvu.xml</original>
+    <mtime>1459494299</mtime>
+    <size>827547</size>
+    <md5>e5e9f3b8d9840a1c594e927723cb7139</md5>
+    <crc32>81bd630b</crc32>
+    <sha1>c3e94c7c4059f79298b60081c12701492f6cf980</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1531270889</mtime>
+    <size>17409</size>
+    <md5>ba7a1de0baebf6d93d164d03cb90cd6f</md5>
+    <crc32>d44e520e</crc32>
+    <sha1>0b12da99f12b239def074bccfb75908443dc104d</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="confidential-statement-demetrio-belmonte-collaborator-undated_archive.torrent" source="metadata">
+    <btih>a0958fead0ffd84697ca9f7a6b23e6f8bd246f7d</btih>
+    <mtime>1531270890</mtime>
+    <size>3801</size>
+    <md5>0832683fd8e2da9aea7e84a0890fcd7e</md5>
+    <crc32>00e9515a</crc32>
+    <sha1>7ed7ffd3cc05154a22d5e91d85cb9dfaec0809c9</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="confidential-statement-demetrio-belmonte-collaborator-undated_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>2fdc8db77ef0d360cd59192a8502f693</md5>
+  </file>
+  <file name="confidential-statement-demetrio-belmonte-collaborator-undated_meta.sqlite" source="original">
+    <mtime>1467474075</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>9abc42239eb0a97236fa9fa1fbfc033e</md5>
+    <crc32>9f63cc67</crc32>
+    <sha1>89fc1fe60a8cc3e46b3e2fdd93b77e61bcc3661f</sha1>
+  </file>
+  <file name="confidential-statement-demetrio-belmonte-collaborator-undated_meta.xml" source="original">
+    <mtime>1484582034</mtime>
+    <size>1344</size>
+    <format>Metadata</format>
+    <md5>bcac97d15665d8da1d41ddb544ea463f</md5>
+    <crc32>ea243ae7</crc32>
+    <sha1>676b140a19c692612adb47134f69dee181efeb74</sha1>
+  </file>
+</files>

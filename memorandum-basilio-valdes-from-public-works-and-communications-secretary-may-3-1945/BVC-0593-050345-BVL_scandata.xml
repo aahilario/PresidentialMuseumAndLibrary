@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>memorandum-basilio-valdes-from-public-works-and-communications-secretary-may-3-1945</bookId>
+    <leafCount>1</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4807</origWidth>
+      <origHeight>6338</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4807</w>
+        <h>6338</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+  </pageData>
+</book>

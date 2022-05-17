@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="In Memoriam Emilio Aguinaldo.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>In Memoriam Emilio Aguinaldo_jp2.zip</original>
+    <mtime>1459842888</mtime>
+    <size>228538</size>
+    <md5>a28aaf2c7706d1db4034083731e65809</md5>
+    <crc32>f844ce8c</crc32>
+    <sha1>c4be950ea24c2d725d123c7388f5ad117d38bc96</sha1>
+  </file>
+  <file name="In Memoriam Emilio Aguinaldo.pdf" source="original">
+    <mtime>1459842791</mtime>
+    <size>2621773</size>
+    <md5>13c95b719cdd7d9c318500593cc60604</md5>
+    <crc32>557339d2</crc32>
+    <sha1>db4cf116a2f083fdca49551cfa6675a92074098a</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="In Memoriam Emilio Aguinaldo_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>In Memoriam Emilio Aguinaldo_jp2.zip</original>
+    <mtime>1459843940</mtime>
+    <size>531832</size>
+    <md5>4e1f75fdb66752ab55296978ad7b5c5d</md5>
+    <crc32>0db2f8fb</crc32>
+    <sha1>40d24270699c7492232c362f88833be607066819</sha1>
+  </file>
+  <file name="In Memoriam Emilio Aguinaldo_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>In Memoriam Emilio Aguinaldo_djvu.xml</original>
+    <mtime>1459843960</mtime>
+    <size>33628</size>
+    <md5>ce5aa11e3b63f7209352557f06a1230e</md5>
+    <crc32>88d495bb</crc32>
+    <sha1>2bdf2af045e2c0653512787bfbcc07566c81a7a9</sha1>
+  </file>
+  <file name="In Memoriam Emilio Aguinaldo_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>In Memoriam Emilio Aguinaldo_abbyy.gz</original>
+    <mtime>1459843953</mtime>
+    <size>309918</size>
+    <md5>cfb86558e2def142b54b65d47f939f54</md5>
+    <crc32>cf8a740a</crc32>
+    <sha1>f9f2438d140ea59915baa31e682e9f347fdc06de</sha1>
+  </file>
+  <file name="In Memoriam Emilio Aguinaldo_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>In Memoriam Emilio Aguinaldo.pdf</original>
+    <mtime>1459842872</mtime>
+    <size>12458716</size>
+    <md5>e77710569dfda42541d4729519f7f93c</md5>
+    <crc32>1ca33b45</crc32>
+    <sha1>e346c1f9f9037063ff2e4d6787bc6416f00cd07b</sha1>
+  </file>
+  <file name="In Memoriam Emilio Aguinaldo_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>In Memoriam Emilio Aguinaldo_djvu.xml</original>
+    <mtime>1459843959</mtime>
+    <size>7107</size>
+    <md5>0d751c1306116900095350414ccdd374</md5>
+    <crc32>f2b153b4</crc32>
+    <sha1>96f4a036639300673011a972487bc98f950b9f24</sha1>
+  </file>
+  <file name="In Memoriam Emilio Aguinaldo_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>In Memoriam Emilio Aguinaldo_djvu.xml</original>
+    <mtime>1459844080</mtime>
+    <size>2469699</size>
+    <md5>15eeb558ba7cc4f70ab9c720e985c133</md5>
+    <crc32>62b30933</crc32>
+    <sha1>15f4a3c339104774faa1da43e90a3715903cbee1</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530888486</mtime>
+    <size>14252</size>
+    <md5>b92d3f843c5d128d6e9a24f40075f2c2</md5>
+    <crc32>45508257</crc32>
+    <sha1>8c627898c11bad3a624209acf9bee545ba5f6671</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="in-memoriam-emilio-aguinaldo_archive.torrent" source="metadata">
+    <btih>b738b715f6cf15808706125a757c102580e73809</btih>
+    <mtime>1530888489</mtime>
+    <size>3991</size>
+    <md5>147d235639676db5e65911933e5ac82a</md5>
+    <crc32>f20b5989</crc32>
+    <sha1>ee2ac637d849174f9ef9115b5a96b09da2d78dff</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="in-memoriam-emilio-aguinaldo_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>e9162970652983af480b5c3ef9e9dd6b</md5>
+  </file>
+  <file name="in-memoriam-emilio-aguinaldo_meta.sqlite" source="original">
+    <mtime>1463518256</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>9fd1df5e58e3ae7abe4a6e233a084d1b</md5>
+    <crc32>aea80b7c</crc32>
+    <sha1>ba3872ad0a21a19204b287dbecc222c5bcb3bcf8</sha1>
+  </file>
+  <file name="in-memoriam-emilio-aguinaldo_meta.xml" source="original">
+    <mtime>1484017925</mtime>
+    <size>929</size>
+    <format>Metadata</format>
+    <md5>a079c8a5f4de1e328b89a2ad16e5ce13</md5>
+    <crc32>db393ed8</crc32>
+    <sha1>819ee5de21fc498d527e7737eb8117f04b250a5e</sha1>
+  </file>
+</files>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0436-062838-CP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0436-062838-CP_jp2.zip</original>
+    <mtime>1451875372</mtime>
+    <size>16228</size>
+    <md5>5a185b2ecc6120a883ab29012e7eb1b9</md5>
+    <crc32>93666f8b</crc32>
+    <sha1>5d48d19310a414f04bc70f69aacf791c3abc542b</sha1>
+  </file>
+  <file name="BVC-0436-062838-CP.pdf" source="original">
+    <mtime>1451875327</mtime>
+    <size>544630</size>
+    <md5>9bd2848884b63203de222569b06f419f</md5>
+    <crc32>2d30eb2e</crc32>
+    <sha1>5fd8c93f99e88063434798867dbe3dfa5f32ec77</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0436-062838-CP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0436-062838-CP_jp2.zip</original>
+    <mtime>1451875381</mtime>
+    <size>12080</size>
+    <md5>3183a9bfab4d254c4e003b79896999b5</md5>
+    <crc32>072b3984</crc32>
+    <sha1>85a65bc04e55680565972daf441272990d3cc900</sha1>
+  </file>
+  <file name="BVC-0436-062838-CP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0436-062838-CP_djvu.xml</original>
+    <mtime>1456644621</mtime>
+    <size>690</size>
+    <md5>5812760066a0c04995a91fa9fe69013f</md5>
+    <crc32>47e78490</crc32>
+    <sha1>9391b31d817ae656ad7e2a94bb1e3de3d041d34a</sha1>
+  </file>
+  <file name="BVC-0436-062838-CP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0436-062838-CP_abbyy.gz</original>
+    <mtime>1451875387</mtime>
+    <size>7490</size>
+    <md5>ff831b16dac9795c2cadc53e203c3431</md5>
+    <crc32>fb7ff4a0</crc32>
+    <sha1>7b259b02a90727b4cbe17d1da2303039797ffd13</sha1>
+  </file>
+  <file name="BVC-0436-062838-CP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0436-062838-CP.pdf</original>
+    <mtime>1451875366</mtime>
+    <size>766803</size>
+    <md5>197ee4a4aa3ac9b3a4f58d8ed3e49339</md5>
+    <crc32>078cc222</crc32>
+    <sha1>f69b8054b7225178caec8209c4e7080317f64b5e</sha1>
+  </file>
+  <file name="BVC-0436-062838-CP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0436-062838-CP_djvu.xml</original>
+    <mtime>1451875397</mtime>
+    <size>561</size>
+    <md5>073cd87741dd15da56e489c96549abe6</md5>
+    <crc32>4b34ee56</crc32>
+    <sha1>92aac7a26659e5561389bd2dacbb2794cbaeac91</sha1>
+  </file>
+  <file name="BVC-0436-062838-CP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0436-062838-CP_djvu.xml</original>
+    <mtime>1451875410</mtime>
+    <size>155915</size>
+    <md5>cf77f14c43bd77372aaa7af09abd17b5</md5>
+    <crc32>e3bb987c</crc32>
+    <sha1>33d6008ed74b427c3de21ba59cfaac1d161048e4</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530887550</mtime>
+    <size>12784</size>
+    <md5>74c75c9158e1810fb835f2cc83a407fd</md5>
+    <crc32>fd13e772</crc32>
+    <sha1>292ab6b7d6fd7c25cb2820534ccaccece913c5f4</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="letter-basilio-valdes-to-manuel-alzate-june-28-1938_archive.torrent" source="metadata">
+    <btih>523cc0e76f636822b89586a357338e1e0c2fc4d8</btih>
+    <mtime>1530887551</mtime>
+    <size>3447</size>
+    <md5>a25047dfb895abeaa9656bb98afbd623</md5>
+    <crc32>dbf395a5</crc32>
+    <sha1>fe977f42676cc7c55675454fe203d96231c5f4b4</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="letter-basilio-valdes-to-manuel-alzate-june-28-1938_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>d9eb5c9ccb84a64d84490fe7cea99081</md5>
+  </file>
+  <file name="letter-basilio-valdes-to-manuel-alzate-june-28-1938_meta.sqlite" source="original">
+    <mtime>1466408934</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>c87bac202ab7adf1250fe8a28c160013</md5>
+    <crc32>3024193f</crc32>
+    <sha1>6c2dd6ee096cfff936e8c65218dc43fe7960c9ac</sha1>
+  </file>
+  <file name="letter-basilio-valdes-to-manuel-alzate-june-28-1938_meta.xml" source="original">
+    <mtime>1483298422</mtime>
+    <size>1298</size>
+    <format>Metadata</format>
+    <md5>df881048006491aa18bb54af31190993</md5>
+    <crc32>cead0256</crc32>
+    <sha1>bfc8e04198082ce272163f47978d443f620254e8</sha1>
+  </file>
+</files>

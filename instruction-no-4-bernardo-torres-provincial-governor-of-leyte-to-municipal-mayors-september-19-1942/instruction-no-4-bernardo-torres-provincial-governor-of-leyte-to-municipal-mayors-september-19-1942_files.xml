@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0106-091942-OP.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0106-091942-OP_djvu.xml</original>
+    <mtime>1449549607</mtime>
+    <size>849735</size>
+    <md5>a7f11971099a26472c86e857147a56f9</md5>
+    <crc32>aad81097</crc32>
+    <sha1>b2a92d3ffeb3712fe6c45a4b8b8a86f654ea4c6b</sha1>
+  </file>
+  <file name="BVC-0106-091942-OP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0106-091942-OP_jp2.zip</original>
+    <mtime>1449549315</mtime>
+    <size>53921</size>
+    <md5>00da21f39741a3fc3a20025bc72e4f37</md5>
+    <crc32>9c17f97d</crc32>
+    <sha1>8f1ed61b15ac9670c8466e150b21025e5ba0f469</sha1>
+  </file>
+  <file name="BVC-0106-091942-OP.pdf" source="original">
+    <mtime>1449549083</mtime>
+    <size>4160061</size>
+    <md5>59e4558dee1b20a30738567c88f8e8cb</md5>
+    <crc32>806ec92c</crc32>
+    <sha1>dabee82f1321076b935e8347e4da61ff3c78bc9a</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0106-091942-OP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0106-091942-OP_jp2.zip</original>
+    <mtime>1449549532</mtime>
+    <size>173847</size>
+    <md5>6a003f06c9d4fefc81f096e6b0b1ba7f</md5>
+    <crc32>3446e68c</crc32>
+    <sha1>495bcec4e93f0d2a5c9dc46c15dcfda0e7bb7df5</sha1>
+  </file>
+  <file name="BVC-0106-091942-OP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0106-091942-OP.djvu</original>
+    <mtime>1449549704</mtime>
+    <size>10375</size>
+    <md5>d9b1fe1fbbca4b8758b38f6b6a2aa9cf</md5>
+    <crc32>2ad79fec</crc32>
+    <sha1>7e57b8b4d9596e2e8d4f91ef25e833b4fd1d19a2</sha1>
+  </file>
+  <file name="BVC-0106-091942-OP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0106-091942-OP_abbyy.gz</original>
+    <mtime>1449549541</mtime>
+    <size>100456</size>
+    <md5>10c761bedc68d959f1bf31ce4278e774</md5>
+    <crc32>5e32c86f</crc32>
+    <sha1>ca3c10aedad53c43546c6b1c4672b0ca183c7548</sha1>
+  </file>
+  <file name="BVC-0106-091942-OP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0106-091942-OP.pdf</original>
+    <mtime>1449549298</mtime>
+    <size>6690060</size>
+    <md5>34450999ee1d2deadd1bedf039b58936</md5>
+    <crc32>bde839f7</crc32>
+    <sha1>93a52ea3240711fde2823c63f7a3b44e8f8fb210</sha1>
+  </file>
+  <file name="BVC-0106-091942-OP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0106-091942-OP_djvu.xml</original>
+    <mtime>1449549608</mtime>
+    <size>1503</size>
+    <md5>3c13caa5699bcf788fb3aaf1dd165caf</md5>
+    <crc32>f1633a0c</crc32>
+    <sha1>25156e9dabc24ee56cd18e83e04904de1feda814</sha1>
+  </file>
+  <file name="BVC-0106-091942-OP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0106-091942-OP_djvu.xml</original>
+    <mtime>1449549693</mtime>
+    <size>1300637</size>
+    <md5>c2dc66265584e52c266d9369f8a68d9a</md5>
+    <crc32>b3f648f8</crc32>
+    <sha1>ff6178b2d5eb09778990cfcefbb15464fad3d4db</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530573037</mtime>
+    <size>20250</size>
+    <md5>6f8eb9e07052da1c415a0e42c2be204d</md5>
+    <crc32>9ae4b7d0</crc32>
+    <sha1>2b2a5f2e8bd647440f2c34cfd2a32bd353b6a72c</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="instruction-no-4-bernardo-torres-provincial-governor-of-leyte-to-municipal-mayors-september-19-1942_archive.torrent" source="metadata">
+    <btih>ea93a316dbafb4decd3330c300f54d30f353204f</btih>
+    <mtime>1530573039</mtime>
+    <size>4530</size>
+    <md5>b2b7ac13f310b39ccef2dbd192ef5b53</md5>
+    <crc32>258bbbf5</crc32>
+    <sha1>9c9359c6e3ac0c447737f7e1a0efd02ca5deeb27</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="instruction-no-4-bernardo-torres-provincial-governor-of-leyte-to-municipal-mayors-september-19-1942_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>df7de8eb8d5412c7057d9de9d31eba1b</md5>
+  </file>
+  <file name="instruction-no-4-bernardo-torres-provincial-governor-of-leyte-to-municipal-mayors-september-19-1942_meta.sqlite" source="original">
+    <mtime>1466245019</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>63ee59ca73853133cdb15717160d6191</md5>
+    <crc32>694f3068</crc32>
+    <sha1>6b9a7abc97885e26e05744fe2d9be3516358b535</sha1>
+  </file>
+  <file name="instruction-no-4-bernardo-torres-provincial-governor-of-leyte-to-municipal-mayors-september-19-1942_meta.xml" source="original">
+    <mtime>1485079824</mtime>
+    <size>1346</size>
+    <format>Metadata</format>
+    <md5>216495cccc6e372b01cc7cce3d5726b3</md5>
+    <crc32>b9360717</crc32>
+    <sha1>f7d2799c67dff5894b707473969b5db372e743d2</sha1>
+  </file>
+</files>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Philippine Magazine - October 1933.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>Philippine Magazine - October 1933_djvu.xml</original>
+    <mtime>1432111284</mtime>
+    <size>4299744</size>
+    <md5>42b4597cce50cfe83611ce81adfff054</md5>
+    <crc32>f71c714a</crc32>
+    <sha1>0eeed117b9861b7dd471ecc8087960cffd08a67d</sha1>
+  </file>
+  <file name="Philippine Magazine - October 1933.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Philippine Magazine - October 1933_jp2.zip</original>
+    <mtime>1432108951</mtime>
+    <size>303191</size>
+    <md5>915082855c81bca848e3d59d2355cf8c</md5>
+    <crc32>a62681ea</crc32>
+    <sha1>cfc5c4a213189ea140e8cf9b7c7aa251948e1c66</sha1>
+  </file>
+  <file name="Philippine Magazine - October 1933.pdf" source="original">
+    <mtime>1432108055</mtime>
+    <size>4198909</size>
+    <md5>19ab779bc3c622c750255098454a19ea</md5>
+    <crc32>759d7ed3</crc32>
+    <sha1>e5ed5706c56532fcd91845d297edba39bf7ad4b8</sha1>
+    <format>Text PDF</format>
+  </file>
+  <file name="Philippine Magazine - October 1933_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Philippine Magazine - October 1933_jp2.zip</original>
+    <mtime>1432110797</mtime>
+    <size>3081632</size>
+    <md5>384f369f63f07bf5fcbe91c9c8c9a756</md5>
+    <crc32>7c738dcd</crc32>
+    <sha1>114f2e37da81a768369126d3817be74cabaa1dbb</sha1>
+  </file>
+  <file name="Philippine Magazine - October 1933_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Philippine Magazine - October 1933.djvu</original>
+    <mtime>1432111315</mtime>
+    <size>215655</size>
+    <md5>50244ba78f77af62bf9c5018265bb981</md5>
+    <crc32>3a022516</crc32>
+    <sha1>354626f837d2a19af62bd19c308821fd99d28995</sha1>
+  </file>
+  <file name="Philippine Magazine - October 1933_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Philippine Magazine - October 1933_abbyy.gz</original>
+    <mtime>1432110864</mtime>
+    <size>2062055</size>
+    <md5>4b6940ba23fbc28613700febaf72ee34</md5>
+    <crc32>b7f6e9b6</crc32>
+    <sha1>c64d33be5d792fdc5c5d2f75989c0807eb410d53</sha1>
+  </file>
+  <file name="Philippine Magazine - October 1933_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Philippine Magazine - October 1933.pdf</original>
+    <mtime>1432108638</mtime>
+    <size>135589508</size>
+    <md5>7e09b7ba2bf25125f39a93bfae872f84</md5>
+    <crc32>255f978e</crc32>
+    <sha1>b90c1c603a3dca4dce31dc6ea1ba57cc9a792be2</sha1>
+  </file>
+  <file name="Philippine Magazine - October 1933_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Philippine Magazine - October 1933_djvu.xml</original>
+    <mtime>1432111293</mtime>
+    <size>14583</size>
+    <md5>f50fb32b4d80caed3865d0eb8dc3df56</md5>
+    <crc32>1b7089bb</crc32>
+    <sha1>512d277734528ff87e7f48c1261d715d54bf52a8</sha1>
+  </file>
+  <file name="PhilippineMagazineOctober1933_archive.torrent" source="metadata">
+    <btih>4f659b41f78936e5798fdb0292725f2ba94a9f57</btih>
+    <mtime>1530792386</mtime>
+    <size>9051</size>
+    <md5>27fea32edc3331fe320c5f086ac67219</md5>
+    <crc32>138da8d2</crc32>
+    <sha1>04bef07e098e2173259d9f33bac7117c6bf60d47</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="PhilippineMagazineOctober1933_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>277a88fe8dc5912010616e7db48721e4</md5>
+  </file>
+  <file name="PhilippineMagazineOctober1933_meta.sqlite" source="original">
+    <mtime>1467686629</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>ab48db11cb17afeee8ece6550a9688b8</md5>
+    <crc32>9e455ee3</crc32>
+    <sha1>2c85753796faab5b2125692e840e122a52e22ac2</sha1>
+  </file>
+  <file name="PhilippineMagazineOctober1933_meta.xml" source="original">
+    <mtime>1483103326</mtime>
+    <size>1291</size>
+    <format>Metadata</format>
+    <md5>8bd7b0f27bf0df51e6587afd507907e0</md5>
+    <crc32>8dc1e6c5</crc32>
+    <sha1>a9ee1ec75ac27fbe511b7e5f275ecdc70214ee68</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530792383</mtime>
+    <size>18250</size>
+    <md5>4918fc90f69921372da25a0ddf1803f2</md5>
+    <crc32>2344069f</crc32>
+    <sha1>dd379d222505fe5fcc5d4ef88ec5fbb34a38891f</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+</files>

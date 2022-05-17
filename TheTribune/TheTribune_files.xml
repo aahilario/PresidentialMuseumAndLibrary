@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="The Tribune.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>The Tribune_djvu.xml</original>
+    <mtime>1433738903</mtime>
+    <size>11943020</size>
+    <md5>26312e27634a7f4d4cae444d9a940ab2</md5>
+    <crc32>237422d1</crc32>
+    <sha1>ec302d65051531685591b31ce7ba0cfe77232a31</sha1>
+  </file>
+  <file name="The Tribune.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>The Tribune_jp2.zip</original>
+    <mtime>1433729518</mtime>
+    <size>361483</size>
+    <md5>15669ffbb8a35a1b0b8814b2347ac9b1</md5>
+    <crc32>cc9ba278</crc32>
+    <sha1>4b825435dcea99cb7304a0a3a2c732285e3e4421</sha1>
+  </file>
+  <file name="The Tribune.pdf" source="original">
+    <mtime>1433729041</mtime>
+    <size>53905082</size>
+    <md5>ed044ee2d8f84f9b3e06b8cc5b559020</md5>
+    <crc32>fc75d6c2</crc32>
+    <sha1>958dd9736ec0ceff3f90489381ba9623f3054f34</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="The Tribune_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>The Tribune_jp2.zip</original>
+    <mtime>1433738143</mtime>
+    <size>3156296</size>
+    <md5>7c4f7e9d6977dca96bd36e186d43bdd7</md5>
+    <crc32>00960893</crc32>
+    <sha1>4a8464ccbf05716b0710449f2228ca0a04dfa47b</sha1>
+  </file>
+  <file name="The Tribune_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>The Tribune.djvu</original>
+    <mtime>1433739762</mtime>
+    <size>190503</size>
+    <md5>9bdb40b9f87587ead4293e6d4af087f5</md5>
+    <crc32>2602bea4</crc32>
+    <sha1>cb441a5486169fb40a907741bcc5b51d6e4a3ea4</sha1>
+  </file>
+  <file name="The Tribune_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>The Tribune_abbyy.gz</original>
+    <mtime>1433738206</mtime>
+    <size>1875074</size>
+    <md5>910f771522f77d5bf0361616cfb91bb4</md5>
+    <crc32>fe5cfbb8</crc32>
+    <sha1>1d2e7029bdbfbc9aab6603d492f14f2a6b1c4f4a</sha1>
+  </file>
+  <file name="The Tribune_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>The Tribune.pdf</original>
+    <mtime>1433729471</mtime>
+    <size>66397218</size>
+    <md5>cb511f891b5e17794e4221e704081842</md5>
+    <crc32>3fb31eff</crc32>
+    <sha1>87caa3f039651f59fed5688e5d0c45da7966091b</sha1>
+  </file>
+  <file name="The Tribune_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>The Tribune_djvu.xml</original>
+    <mtime>1433738905</mtime>
+    <size>19049</size>
+    <md5>d630a3e9893e64505b0088c83d557245</md5>
+    <crc32>3dc5d4c0</crc32>
+    <sha1>f37e53e132e016536e26a4f3162c4320833c21de</sha1>
+  </file>
+  <file name="The Tribune_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>The Tribune_djvu.xml</original>
+    <mtime>1433739736</mtime>
+    <size>14670045</size>
+    <md5>1a6436bb4d3015253c7544ac1febbf20</md5>
+    <crc32>b409a54d</crc32>
+    <sha1>4271f46a7c21d90a61a732b57d26f1932032932f</sha1>
+  </file>
+  <file name="TheTribune_archive.torrent" source="metadata">
+    <btih>d7ec2c623ad35c307d85754aa5aa6adf717f0ef0</btih>
+    <mtime>1530813794</mtime>
+    <size>8971</size>
+    <md5>019a3a32334ce1950da43383af999352</md5>
+    <crc32>964aebf1</crc32>
+    <sha1>75d7771fef3276ce52d30d7501621837868512b3</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="TheTribune_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>fb310cefadca91598d09333446348244</md5>
+  </file>
+  <file name="TheTribune_meta.sqlite" source="original">
+    <mtime>1467934093</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>ce0290a7a932869d261aeac2232496f8</md5>
+    <crc32>53598189</crc32>
+    <sha1>495bec167cbc2ed2b185e6abd2c7afc5c814e05c</sha1>
+  </file>
+  <file name="TheTribune_meta.xml" source="original">
+    <mtime>1483369495</mtime>
+    <size>1196</size>
+    <format>Metadata</format>
+    <md5>f5acba0aa9c9d4c52270cfc04c50d52f</md5>
+    <crc32>11530c1a</crc32>
+    <sha1>3e132adff509ba760ba9513dbb44da78128768b0</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530813791</mtime>
+    <size>23688</size>
+    <md5>a889066f245f3c731ae8708076eb3fee</md5>
+    <crc32>b09de26a</crc32>
+    <sha1>2514e7bcd31516d06fddb1083013df87ec8102ab</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+</files>

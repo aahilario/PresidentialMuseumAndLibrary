@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0381-090839-CP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0381-090839-CP_jp2.zip</original>
+    <mtime>1450677186</mtime>
+    <size>17693</size>
+    <md5>e7e2c6b2636c1078b29f3fbdfcc9df44</md5>
+    <crc32>647e7a95</crc32>
+    <sha1>436b5c044991715d7dfb06e650e90738c0c60344</sha1>
+  </file>
+  <file name="BVC-0381-090839-CP.pdf" source="original">
+    <mtime>1450677094</mtime>
+    <size>645519</size>
+    <md5>739643c7f3036fde6c37acd4eef0f7b3</md5>
+    <crc32>6d9b0177</crc32>
+    <sha1>76b06318c9dfa2697eadf2bb8ea57b860c893edf</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0381-090839-CP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0381-090839-CP_jp2.zip</original>
+    <mtime>1450677197</mtime>
+    <size>8553</size>
+    <md5>e7de2e71542cfa4e57bd995aaf835df4</md5>
+    <crc32>d54b4aa7</crc32>
+    <sha1>db1c56889ef9887fe6fe3e2f040159c6f2d30cc5</sha1>
+  </file>
+  <file name="BVC-0381-090839-CP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0381-090839-CP_djvu.xml</original>
+    <mtime>1455992274</mtime>
+    <size>456</size>
+    <md5>c8a0652103533a1422dffc4b93ebc71f</md5>
+    <crc32>4bbdab79</crc32>
+    <sha1>7695ae6c8781823e2b35aea0714a3990bbb6d437</sha1>
+  </file>
+  <file name="BVC-0381-090839-CP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0381-090839-CP_abbyy.gz</original>
+    <mtime>1450677220</mtime>
+    <size>5483</size>
+    <md5>11c14f050d2cb99cc65ea05cb7c36b4e</md5>
+    <crc32>3939781b</crc32>
+    <sha1>6b65301478ebb6f0187f9a1844494efcb444b544</sha1>
+  </file>
+  <file name="BVC-0381-090839-CP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0381-090839-CP.pdf</original>
+    <mtime>1450677173</mtime>
+    <size>837257</size>
+    <md5>b672cc073c8e9821cfb9445ed92eef51</md5>
+    <crc32>944d87b6</crc32>
+    <sha1>6549b157795c6403e736cdf4d93beddb5252bbd3</sha1>
+  </file>
+  <file name="BVC-0381-090839-CP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0381-090839-CP_djvu.xml</original>
+    <mtime>1450677274</mtime>
+    <size>581</size>
+    <md5>dd2c238c34360a4a3402669240189df4</md5>
+    <crc32>81cf7acf</crc32>
+    <sha1>0fbd83fe5981fa86464894db1bfc299e91b4fdfa</sha1>
+  </file>
+  <file name="BVC-0381-090839-CP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0381-090839-CP_djvu.xml</original>
+    <mtime>1450677273</mtime>
+    <size>134627</size>
+    <md5>23e145d3153520a2c8f52aa3279fc97a</md5>
+    <crc32>c3bc8fe3</crc32>
+    <sha1>495ee63db2ee072b33a629569596628c4e476f34</sha1>
+  </file>
+  <file name="BVC-0382-082339-CP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0382-082339-CP_jp2.zip</original>
+    <mtime>1450677182</mtime>
+    <size>16234</size>
+    <md5>af9db0e14ec05b05377bce78f8c96d1e</md5>
+    <crc32>0cde939a</crc32>
+    <sha1>17d651b66658fd638c2c53b41b27d1bf4b5d2760</sha1>
+  </file>
+  <file name="BVC-0382-082339-CP.pdf" source="original">
+    <mtime>1450677112</mtime>
+    <size>878665</size>
+    <md5>63ab01c25a573743d1a6b8bd556eb8ca</md5>
+    <crc32>de0c0fce</crc32>
+    <sha1>a7689ef5e7a84beafcd517656d9f345e853a1084</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0382-082339-CP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0382-082339-CP_jp2.zip</original>
+    <mtime>1450677212</mtime>
+    <size>39830</size>
+    <md5>5e7ce8ce6246dc4a252b6dfb2949c953</md5>
+    <crc32>922077ad</crc32>
+    <sha1>b27ba92016ec77eb2574f79e04858dcfdf1deaf8</sha1>
+  </file>
+  <file name="BVC-0382-082339-CP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0382-082339-CP_djvu.xml</original>
+    <mtime>1455992261</mtime>
+    <size>2490</size>
+    <md5>4b89a54b4ca1a6229c03b5acc0534824</md5>
+    <crc32>2617b445</crc32>
+    <sha1>0e4c2e575ba7a6ca98c52725f2918a30dc53632f</sha1>
+  </file>
+  <file name="BVC-0382-082339-CP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0382-082339-CP_abbyy.gz</original>
+    <mtime>1450677219</mtime>
+    <size>22881</size>
+    <md5>71ba901f6667265645708e9e714425af</md5>
+    <crc32>9bce02cb</crc32>
+    <sha1>2d17afee29e07ad51f33d2a769617cb87154ed90</sha1>
+  </file>
+  <file name="BVC-0382-082339-CP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0382-082339-CP.pdf</original>
+    <mtime>1450677152</mtime>
+    <size>1439446</size>
+    <md5>6af177f41bfddc4043dc7bb670a23245</md5>
+    <crc32>d95ab751</crc32>
+    <sha1>d56bf9ca39babdc6c2d6438ba366f68262e29464</sha1>
+  </file>
+  <file name="BVC-0382-082339-CP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0382-082339-CP_djvu.xml</original>
+    <mtime>1450677248</mtime>
+    <size>581</size>
+    <md5>91b0b9058bddaf60de14c61367f8a4d6</md5>
+    <crc32>fafe1865</crc32>
+    <sha1>948332f0236d6cf4cdc7d58266edc1c4f4b39e89</sha1>
+  </file>
+  <file name="BVC-0382-082339-CP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0382-082339-CP_djvu.xml</original>
+    <mtime>1450677247</mtime>
+    <size>269209</size>
+    <md5>6c941575b1ea9cf627b0eb2735675d54</md5>
+    <crc32>0742dafa</crc32>
+    <sha1>8e49a796d35ab76e31764011dacc38be1c8e1d11</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530879080</mtime>
+    <size>12766</size>
+    <md5>7da887aae79a44c6dc3ef6df6ec7448f</md5>
+    <crc32>3e85cc82</crc32>
+    <sha1>00e02ea5304c0c6f7860650792b3ea8b293eeb20</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="confidential-census-of-professions-1939-basilio-valdes-september-8-1939_archive.torrent" source="metadata">
+    <btih>6d229954800cef15a9b33bfed129f0bbe3e81c66</btih>
+    <mtime>1530879081</mtime>
+    <size>5190</size>
+    <md5>5861bd401c55af2e3453137643d519dc</md5>
+    <crc32>4f9447cd</crc32>
+    <sha1>cf36467e43e8eab25ad8b9de1f0694c5fd3f9637</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="confidential-census-of-professions-1939-basilio-valdes-september-8-1939_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>c5b96928b79697345c05ee924bc6e130</md5>
+  </file>
+  <file name="confidential-census-of-professions-1939-basilio-valdes-september-8-1939_meta.sqlite" source="original">
+    <mtime>1450677115</mtime>
+    <size>10240</size>
+    <format>Metadata</format>
+    <md5>245c7a75b2429929b67b45126331b4e8</md5>
+    <crc32>e32b380f</crc32>
+    <sha1>739a5a90cfc0d5dc80c81367d8661d04f467c208</sha1>
+  </file>
+  <file name="confidential-census-of-professions-1939-basilio-valdes-september-8-1939_meta.xml" source="original">
+    <mtime>1485695917</mtime>
+    <size>1284</size>
+    <format>Metadata</format>
+    <md5>8a6449c3a0d7f2b12c1c118b4d23101b</md5>
+    <crc32>f66047e4</crc32>
+    <sha1>4b96d966f460173fc6f233411367f7f909f52532</sha1>
+  </file>
+</files>

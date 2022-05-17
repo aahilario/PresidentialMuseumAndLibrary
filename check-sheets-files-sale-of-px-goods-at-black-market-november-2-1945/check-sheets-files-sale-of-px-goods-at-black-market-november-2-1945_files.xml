@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0476-110245-CSPA.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0476-110245-CSPA_djvu.xml</original>
+    <mtime>1452168851</mtime>
+    <size>725229</size>
+    <md5>37756598968bdb78061424f9710fad30</md5>
+    <crc32>b434632a</crc32>
+    <sha1>882ed2f9293dc09df262e6c6e7bab1cc93ae2dde</sha1>
+  </file>
+  <file name="BVC-0476-110245-CSPA.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0476-110245-CSPA_jp2.zip</original>
+    <mtime>1450669797</mtime>
+    <size>59249</size>
+    <md5>4e720f157fa29e09526231f2b744e393</md5>
+    <crc32>6d46e813</crc32>
+    <sha1>58f3e0c23d14e811273d7f29cddf9d46d310c898</sha1>
+  </file>
+  <file name="BVC-0476-110245-CSPA.pdf" source="original">
+    <mtime>1450669550</mtime>
+    <size>3598176</size>
+    <md5>de2ccb80d6811584c4833d634913c01f</md5>
+    <crc32>724e3ac0</crc32>
+    <sha1>72f1e4c9396cbfb8db2287769b31a8e4eb3c60cf</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0476-110245-CSPA_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0476-110245-CSPA_jp2.zip</original>
+    <mtime>1450669940</mtime>
+    <size>95248</size>
+    <md5>62acf6736984033fc8b29e8817a504a5</md5>
+    <crc32>36e390ad</crc32>
+    <sha1>bb695f22e7c5df6ccb948d86ff66a618fd15cb63</sha1>
+  </file>
+  <file name="BVC-0476-110245-CSPA_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0476-110245-CSPA.djvu</original>
+    <mtime>1452168858</mtime>
+    <size>5532</size>
+    <md5>3fb89e1b5377c141e1955e1359ce31d8</md5>
+    <crc32>66b71051</crc32>
+    <sha1>a3ebd831c8c10cd1fb228d907eb4b92607e23e7a</sha1>
+  </file>
+  <file name="BVC-0476-110245-CSPA_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0476-110245-CSPA_abbyy.gz</original>
+    <mtime>1450669949</mtime>
+    <size>61190</size>
+    <md5>85b6c83da82fc875174aaafe52b262d1</md5>
+    <crc32>9fe47c7d</crc32>
+    <sha1>8ab466cb9f5acda7b79e850ee4f37ea4dd2d0c55</sha1>
+  </file>
+  <file name="BVC-0476-110245-CSPA_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0476-110245-CSPA.pdf</original>
+    <mtime>1450669778</mtime>
+    <size>4713995</size>
+    <md5>f5070e76633d1cdca57edcf748788066</md5>
+    <crc32>dd6b162a</crc32>
+    <sha1>2757ff04ae81f61c0581edea06863efd443e7396</sha1>
+  </file>
+  <file name="BVC-0476-110245-CSPA_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0476-110245-CSPA_djvu.xml</original>
+    <mtime>1450669977</mtime>
+    <size>1769</size>
+    <md5>1346c2977fe1f9a36d37db487a2d8e79</md5>
+    <crc32>3fb9c195</crc32>
+    <sha1>3cab9316fa260c5a51191b809e8b0ef620bea5b2</sha1>
+  </file>
+  <file name="BVC-0476-110245-CSPA_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0476-110245-CSPA_djvu.xml</original>
+    <mtime>1450670056</mtime>
+    <size>1023621</size>
+    <md5>b2e48c8d326e6dd4f60f7c812031367d</md5>
+    <crc32>1fb6b43b</crc32>
+    <sha1>a7833397e47fe6d76459506d75b810cd109e3674</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530741968</mtime>
+    <size>9796</size>
+    <md5>c2d1eeabc72b0c51f4bb8b838e0fe333</md5>
+    <crc32>de49f386</crc32>
+    <sha1>7670c71e6eb8f760c3090170c27bc3a4122c09dc</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="check-sheets-files-sale-of-px-goods-at-black-market-november-2-1945_archive.torrent" source="metadata">
+    <btih>0a1bd9f6c08f8708e3102ca09cc2cd00bf69d4e2</btih>
+    <mtime>1530741968</mtime>
+    <size>4133</size>
+    <md5>35759615950626ca566082f1632d2e08</md5>
+    <crc32>42f2a426</crc32>
+    <sha1>0b8c4d3a4f79ceda2ce24d96920a3f7abe06d542</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="check-sheets-files-sale-of-px-goods-at-black-market-november-2-1945_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>3a2821ac090b034f2cab1ad78c14b617</md5>
+  </file>
+  <file name="check-sheets-files-sale-of-px-goods-at-black-market-november-2-1945_meta.sqlite" source="original">
+    <mtime>1466322130</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>7987cce28b1a0db5145d4e0412062e15</md5>
+    <crc32>c0791d40</crc32>
+    <sha1>f005b89cbfdcf6159b44ff25374ad8f7b8740bb9</sha1>
+  </file>
+  <file name="check-sheets-files-sale-of-px-goods-at-black-market-november-2-1945_meta.xml" source="original">
+    <mtime>1485160343</mtime>
+    <size>1331</size>
+    <format>Metadata</format>
+    <md5>c901268677738b7e172ab95dd25103b3</md5>
+    <crc32>e775185c</crc32>
+    <sha1>f2642778fca2c0bc4527442f658e6010ca0cd0bc</sha1>
+  </file>
+</files>

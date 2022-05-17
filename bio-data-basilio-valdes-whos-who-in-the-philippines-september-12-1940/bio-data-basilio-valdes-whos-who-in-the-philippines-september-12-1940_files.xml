@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0378-091240-CP.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0378-091240-CP_djvu.xml</original>
+    <mtime>1452123016</mtime>
+    <size>584803</size>
+    <md5>060878382781ada0af80ef520daf777a</md5>
+    <crc32>a232d9e0</crc32>
+    <sha1>0124efde138ea653b9891e77337f432ff74d2c8d</sha1>
+  </file>
+  <file name="BVC-0378-091240-CP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0378-091240-CP_jp2.zip</original>
+    <mtime>1451877020</mtime>
+    <size>69555</size>
+    <md5>7801d8c5ec1e4d3a39268c21b4f2af2a</md5>
+    <crc32>c61673c1</crc32>
+    <sha1>812d0efdd4ed47f60b3c68f7124546dc2b70c9c7</sha1>
+  </file>
+  <file name="BVC-0378-091240-CP.pdf" source="original">
+    <mtime>1451876889</mtime>
+    <size>2968284</size>
+    <md5>b3ee6f8813d52cf60f827697c467b59e</md5>
+    <crc32>7938aac7</crc32>
+    <sha1>2772f8f7cd9b4c9cfc8657aeef00087ba5c6fbb9</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0378-091240-CP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0378-091240-CP_jp2.zip</original>
+    <mtime>1451877071</mtime>
+    <size>111991</size>
+    <md5>aa75be3d5bd61d506f5ae4fe31114349</md5>
+    <crc32>febc19dd</crc32>
+    <sha1>5ce761214ddce49740d6ae96992e0eec10463cbe</sha1>
+  </file>
+  <file name="BVC-0378-091240-CP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0378-091240-CP.djvu</original>
+    <mtime>1452123024</mtime>
+    <size>6930</size>
+    <md5>44e5e02cbb1af1192a73d059d5fa0ca3</md5>
+    <crc32>e77d0ac4</crc32>
+    <sha1>79e6c17ff166aad805c4151a461cb93beee86ac6</sha1>
+  </file>
+  <file name="BVC-0378-091240-CP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0378-091240-CP_abbyy.gz</original>
+    <mtime>1451877078</mtime>
+    <size>68147</size>
+    <md5>652dbe8cc9425e24f0b21b44173bdb3f</md5>
+    <crc32>67523383</crc32>
+    <sha1>cfa9e70b5d30a9206b3f2f55b93024e1ddbeae07</sha1>
+  </file>
+  <file name="BVC-0378-091240-CP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0378-091240-CP.pdf</original>
+    <mtime>1451877010</mtime>
+    <size>4421020</size>
+    <md5>e794a6b7afe1b2e9e0107046b235e1aa</md5>
+    <crc32>23431dc3</crc32>
+    <sha1>11562dfe78ba000ec509ce790ba263be3da7b4d5</sha1>
+  </file>
+  <file name="BVC-0378-091240-CP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0378-091240-CP_djvu.xml</original>
+    <mtime>1451877099</mtime>
+    <size>2069</size>
+    <md5>db09d93bf70078330b5aa63bdb70a7e4</md5>
+    <crc32>9d0f901a</crc32>
+    <sha1>e0d89a6dd48bf6cc633426b931b16546c7d561db</sha1>
+  </file>
+  <file name="BVC-0378-091240-CP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0378-091240-CP_djvu.xml</original>
+    <mtime>1451877149</mtime>
+    <size>919861</size>
+    <md5>0b7377e222c512cb25fe30bbc25dfa37</md5>
+    <crc32>db98ea38</crc32>
+    <sha1>667ffb04e71a7a8217582f93aa408220ffcb8526</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530921287</mtime>
+    <size>17658</size>
+    <md5>a95f8d1f58c80ead5d5ec8e0d8327443</md5>
+    <crc32>cebdbd0c</crc32>
+    <sha1>0a9d99cc6964fe8b0095b1214707c044a1607cdd</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="bio-data-basilio-valdes-whos-who-in-the-philippines-september-12-1940_archive.torrent" source="metadata">
+    <btih>4015d3cfd773a1402f7ceeb2979a1e16b2cc201d</btih>
+    <mtime>1530921288</mtime>
+    <size>4091</size>
+    <md5>bd4fb08e8e22c9caa930e23a98cf3adb</md5>
+    <crc32>25dce92f</crc32>
+    <sha1>87df40329a173dc20e403d5aca09e2ca799ca1f1</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="bio-data-basilio-valdes-whos-who-in-the-philippines-september-12-1940_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>8c43b5afe7285ffcf11447cf6dfb7a3b</md5>
+  </file>
+  <file name="bio-data-basilio-valdes-whos-who-in-the-philippines-september-12-1940_meta.sqlite" source="original">
+    <mtime>1466410971</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>ba69ea39507ac972db16643a10eda1d7</md5>
+    <crc32>d3eef226</crc32>
+    <sha1>aebe17c147f52910c11a7b26ca8a9b9890f1a31d</sha1>
+  </file>
+  <file name="bio-data-basilio-valdes-whos-who-in-the-philippines-september-12-1940_meta.xml" source="original">
+    <mtime>1483420877</mtime>
+    <size>1253</size>
+    <format>Metadata</format>
+    <md5>73a66320e0d16ab60d794b0a0c98b393</md5>
+    <crc32>a5cd9904</crc32>
+    <sha1>6dcf4a1e5a27fb5feb8bade01956d86059560dcb</sha1>
+  </file>
+</files>

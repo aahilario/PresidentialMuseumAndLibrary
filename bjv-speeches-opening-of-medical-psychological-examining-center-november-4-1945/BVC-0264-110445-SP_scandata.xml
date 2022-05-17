@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>bjv-speeches-opening-of-medical-psychological-examining-center-november-4-1945</bookId>
+    <leafCount>5</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4896</origWidth>
+      <origHeight>6427</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4896</w>
+        <h>6427</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4870</origWidth>
+      <origHeight>6369</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4870</w>
+        <h>6369</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4838</origWidth>
+      <origHeight>6422</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4838</w>
+        <h>6422</h>
+      </cropBox>
+    </page>
+    <page leafNum="3">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4816</origWidth>
+      <origHeight>6389</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4816</w>
+        <h>6389</h>
+      </cropBox>
+    </page>
+    <page leafNum="4">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4797</origWidth>
+      <origHeight>6317</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4797</w>
+        <h>6317</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

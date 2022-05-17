@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="PhilippinesMagazineFebruary1941_archive.torrent" source="metadata">
+    <btih>f74fc0fa3a925bc02d5cd3df7c6be609bff47c5a</btih>
+    <mtime>1530682805</mtime>
+    <size>6584</size>
+    <md5>4240a8f73b838fa9eb4a88e53d0c573c</md5>
+    <crc32>a994f739</crc32>
+    <sha1>f1e723666f4ae6fae3f32948e8cfe13ce17a0830</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="PhilippinesMagazineFebruary1941_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>ee408ecf6e5126ad4748473ecf6c7ac7</md5>
+  </file>
+  <file name="PhilippinesMagazineFebruary1941_meta.sqlite" source="original">
+    <mtime>1466013673</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>ec9981f68c51bf0d8048040e78945c23</md5>
+    <crc32>6506105b</crc32>
+    <sha1>82d9a239830cdb3ef08c34a62739eecd1903ea16</sha1>
+  </file>
+  <file name="PhilippinesMagazineFebruary1941_meta.xml" source="original">
+    <mtime>1483071520</mtime>
+    <size>1304</size>
+    <format>Metadata</format>
+    <md5>26e44160792d63936add6babc928a976</md5>
+    <crc32>9d1b4046</crc32>
+    <sha1>7447280f35365f99c91c97d83c7e8136e3db1a39</sha1>
+  </file>
+  <file name="Philippines_February_1941.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>Philippines_February_1941_djvu.xml</original>
+    <mtime>1431446162</mtime>
+    <size>5326508</size>
+    <md5>0d050dd89acf27e554259db3aa44ed22</md5>
+    <crc32>cafff6d1</crc32>
+    <sha1>dd299e7a9a0d97732d95df7c11062cc98275765e</sha1>
+  </file>
+  <file name="Philippines_February_1941.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Philippines_February_1941_jp2.zip</original>
+    <mtime>1431444043</mtime>
+    <size>277277</size>
+    <md5>6ac5edf26c763c76c61844c8f8bd0484</md5>
+    <crc32>6e4713c5</crc32>
+    <sha1>941102355cd932280e655c0f30f6a7ab1851cfca</sha1>
+  </file>
+  <file name="Philippines_February_1941.pdf" source="original">
+    <mtime>1431443376</mtime>
+    <size>26689672</size>
+    <md5>3845a4ec343e02113465fcfeb474a468</md5>
+    <crc32>23a67981</crc32>
+    <sha1>263cbd2b385392d9a9a765adea3073fadd427931</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="Philippines_February_1941_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Philippines_February_1941_jp2.zip</original>
+    <mtime>1431445802</mtime>
+    <size>1452861</size>
+    <md5>534c470246598e7fa231545fd237d323</md5>
+    <crc32>50bbfe6b</crc32>
+    <sha1>3f7d3272d0f9d6fcba396ce81cee4b4be88cce7d</sha1>
+  </file>
+  <file name="Philippines_February_1941_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Philippines_February_1941.djvu</original>
+    <mtime>1431446726</mtime>
+    <size>94840</size>
+    <md5>d26582b7dfe956775f954c01872ff249</md5>
+    <crc32>388f91e6</crc32>
+    <sha1>a6b5adc8e4aba9dd856a2d42b2a9eb26c9b72ae8</sha1>
+  </file>
+  <file name="Philippines_February_1941_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Philippines_February_1941_abbyy.gz</original>
+    <mtime>1431445833</mtime>
+    <size>848023</size>
+    <md5>8e0ef5206b343295709aa0ff62fc998d</md5>
+    <crc32>a7c25b28</crc32>
+    <sha1>383b67596e9c7abbd7dad6f5bfda88df5364faf5</sha1>
+  </file>
+  <file name="Philippines_February_1941_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Philippines_February_1941.pdf</original>
+    <mtime>1431444002</mtime>
+    <size>38392074</size>
+    <md5>3deef5902ddca6197e22e529dc030f8f</md5>
+    <crc32>8c0ea348</crc32>
+    <sha1>465d07ab5c201662675f5e6825da7d5209efd0a9</sha1>
+  </file>
+  <file name="Philippines_February_1941_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Philippines_February_1941_djvu.xml</original>
+    <mtime>1431446164</mtime>
+    <size>8605</size>
+    <md5>2481138d4a7ae44f921ec687f88a2406</md5>
+    <crc32>1b7a0834</crc32>
+    <sha1>f6769ab07e33e3edf97ce0f2632694ec2193fa09</sha1>
+  </file>
+  <file name="Philippines_February_1941_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>Philippines_February_1941_djvu.xml</original>
+    <mtime>1431446704</mtime>
+    <size>8398542</size>
+    <md5>bb72bfadb7238460dfb16171ce42827a</md5>
+    <crc32>8770f3dd</crc32>
+    <sha1>f8eb8d9ce23cb3df7e9f88adcfd4ba2a23e81d40</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530682801</mtime>
+    <size>14290</size>
+    <md5>f6abdd1fe4d6e9f8eada48f6c89616fc</md5>
+    <crc32>dce9cc88</crc32>
+    <sha1>6ea7d79bcb3e165bf55105929794968b49f68c50</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+</files>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>letter-basilio-valdes-from-m-verlinden-august-15-1936</bookId>
+    <leafCount>3</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5036</origWidth>
+      <origHeight>6611</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5036</w>
+        <h>6611</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5002</origWidth>
+      <origHeight>6645</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5002</w>
+        <h>6645</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>2758</origWidth>
+      <origHeight>2120</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>2758</w>
+        <h>2120</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

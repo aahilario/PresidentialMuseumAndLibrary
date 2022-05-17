@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Commonwealth of the Philippines Department of Information and Public Relations.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>Commonwealth of the Philippines Department of Information and Public Relations_djvu.xml</original>
+    <mtime>1431789708</mtime>
+    <size>57435890</size>
+    <md5>1fd06fd4ceac50da6ab50f4b16520085</md5>
+    <crc32>7ca18d10</crc32>
+    <sha1>d01502a8950efc8ba5b2b79de2b64b56e74fe550</sha1>
+  </file>
+  <file name="Commonwealth of the Philippines Department of Information and Public Relations.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Commonwealth of the Philippines Department of Information and Public Relations_jp2.zip</original>
+    <mtime>1431762300</mtime>
+    <size>313213</size>
+    <md5>e9aa65cfd25d11fca433bcef30e77ee0</md5>
+    <crc32>df5fb4ba</crc32>
+    <sha1>22f43cd0a29cea024cc02ea778528413a0029410</sha1>
+  </file>
+  <file name="Commonwealth of the Philippines Department of Information and Public Relations.pdf" source="original">
+    <mtime>1431759650</mtime>
+    <size>212463475</size>
+    <md5>55dc75bff0106207cb7dc7679bcb5abf</md5>
+    <crc32>ad423cb2</crc32>
+    <sha1>acbb5c8ffdcd33d650771a8c6b6b567665c78195</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="Commonwealth of the Philippines Department of Information and Public Relations_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Commonwealth of the Philippines Department of Information and Public Relations_jp2.zip</original>
+    <mtime>1431786124</mtime>
+    <size>10859447</size>
+    <md5>6df306180001708bc6c9561d7c153722</md5>
+    <crc32>6a025d8f</crc32>
+    <sha1>e53c38120d53c1fc4172c7f5c3dbbbed39a410e9</sha1>
+  </file>
+  <file name="Commonwealth of the Philippines Department of Information and Public Relations_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Commonwealth of the Philippines Department of Information and Public Relations.djvu</original>
+    <mtime>1431796592</mtime>
+    <size>651918</size>
+    <md5>67f3acb085a64e417b45f11a5ae4278f</md5>
+    <crc32>4e56a6f8</crc32>
+    <sha1>0a6849ea6df9261327972da9eb8d9926ca2c7e73</sha1>
+  </file>
+  <file name="Commonwealth of the Philippines Department of Information and Public Relations_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Commonwealth of the Philippines Department of Information and Public Relations_abbyy.gz</original>
+    <mtime>1431786286</mtime>
+    <size>6370386</size>
+    <md5>ae25e89dabf023164428797666f3a5b4</md5>
+    <crc32>05108919</crc32>
+    <sha1>6929ca1c9ca00f0f11a7569d3a7fa6aa506255dc</sha1>
+  </file>
+  <file name="Commonwealth of the Philippines Department of Information and Public Relations_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Commonwealth of the Philippines Department of Information and Public Relations.pdf</original>
+    <mtime>1431762227</mtime>
+    <size>453037254</size>
+    <md5>8540a64c998ac0210c4358d03d62f076</md5>
+    <crc32>220051ae</crc32>
+    <sha1>18d534edc70ead44c5d8fddbd91f762f36c26fd6</sha1>
+  </file>
+  <file name="Commonwealth of the Philippines Department of Information and Public Relations_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Commonwealth of the Philippines Department of Information and Public Relations_djvu.xml</original>
+    <mtime>1431789737</mtime>
+    <size>84157</size>
+    <md5>4002e468db99fb3f9e58a53247d2742c</md5>
+    <crc32>bc542655</crc32>
+    <sha1>30c30d6cbb056900d65e57d4e150c63f9eff2d94</sha1>
+  </file>
+  <file name="Commonwealth of the Philippines Department of Information and Public Relations_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>Commonwealth of the Philippines Department of Information and Public Relations_djvu.xml</original>
+    <mtime>1431796441</mtime>
+    <size>96642637</size>
+    <md5>e4fdc0a67f28457058e35ea606667f0e</md5>
+    <crc32>b77f21b3</crc32>
+    <sha1>d6fb520bccf47e6b83d691b31e323e0783d32259</sha1>
+  </file>
+  <file name="CommonwealthOfThePhilippinesDepartmentMiscPublications_archive.torrent" source="metadata">
+    <btih>47825482035b1bb05e5a935124dfff5c58dc099f</btih>
+    <mtime>1530979950</mtime>
+    <size>36138</size>
+    <md5>84ba363a3b3387448d1d72c1e6d224a5</md5>
+    <crc32>3447e183</crc32>
+    <sha1>7dfb5fd7da0c5c6437cf409eeeeb66e69df99cae</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="CommonwealthOfThePhilippinesDepartmentMiscPublications_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>0aa6072eb134bbcf262a12788bcf4ef5</md5>
+  </file>
+  <file name="CommonwealthOfThePhilippinesDepartmentMiscPublications_meta.sqlite" source="original">
+    <mtime>1463389622</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>021034e9a6da7ba2cc17cbf819c50467</md5>
+    <crc32>0c6da15a</crc32>
+    <sha1>c20b140e1afad552b99207681fdd646eac65dfd6</sha1>
+  </file>
+  <file name="CommonwealthOfThePhilippinesDepartmentMiscPublications_meta.xml" source="original">
+    <mtime>1483838735</mtime>
+    <size>1541</size>
+    <format>Metadata</format>
+    <md5>44d61c4cb12f0084bf5d5a05033e057a</md5>
+    <crc32>52fbf6e8</crc32>
+    <sha1>0f5844a4c075e27c3a6aba79fd2bab386e19dc54</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530979944</mtime>
+    <size>22707</size>
+    <md5>e2f3c78e217ec39b412e65d5794a941b</md5>
+    <crc32>5b5ea0c6</crc32>
+    <sha1>6ed013bc3df923f802b60d361e045432a1486eeb</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

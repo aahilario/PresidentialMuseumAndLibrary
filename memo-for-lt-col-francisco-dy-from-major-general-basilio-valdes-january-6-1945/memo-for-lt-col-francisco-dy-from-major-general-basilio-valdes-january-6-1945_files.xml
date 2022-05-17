@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0620-062045-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0620-062045-BVL_jp2.zip</original>
+    <mtime>1449799876</mtime>
+    <size>16541</size>
+    <md5>8dccf94cc2fa5b67a0c6ad613ba88002</md5>
+    <crc32>3f0ce602</crc32>
+    <sha1>1950146200e323fc8876cfa27d5df0de3620d4ed</sha1>
+  </file>
+  <file name="BVC-0620-062045-BVL.pdf" source="original">
+    <mtime>1449799821</mtime>
+    <size>554390</size>
+    <md5>e93ae8e02f9d2d5d70282a6e227e7c56</md5>
+    <crc32>47447979</crc32>
+    <sha1>485dac3938d858ebb91831f2ba05c4b5d31cd7c9</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0620-062045-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0620-062045-BVL_jp2.zip</original>
+    <mtime>1449818438</mtime>
+    <size>12490</size>
+    <md5>2b431ea71800fc0c7bd9ca5ebc0aa303</md5>
+    <crc32>46345df5</crc32>
+    <sha1>875871c1e51bf2d4c740387c0d224c5c6557da58</sha1>
+  </file>
+  <file name="BVC-0620-062045-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0620-062045-BVL_djvu.xml</original>
+    <mtime>1456644747</mtime>
+    <size>698</size>
+    <md5>8f7eee9b0e9c15d255ea56e298be4bd5</md5>
+    <crc32>a7e48945</crc32>
+    <sha1>c4ebc94fc6eef74e8f9cb6ac99a0451804e2e499</sha1>
+  </file>
+  <file name="BVC-0620-062045-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0620-062045-BVL_abbyy.gz</original>
+    <mtime>1449818444</mtime>
+    <size>8403</size>
+    <md5>03ee39ef1b27b4e970ebd8d2e42d6860</md5>
+    <crc32>97534320</crc32>
+    <sha1>118411d1c4f7c9a4bb85432f720cfba43bc42740</sha1>
+  </file>
+  <file name="BVC-0620-062045-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0620-062045-BVL.pdf</original>
+    <mtime>1449799869</mtime>
+    <size>636570</size>
+    <md5>677bc9f2ff3a8463c53a012fa51bd062</md5>
+    <crc32>e483093b</crc32>
+    <sha1>0ba8c554d11295f4e6c03d3ad0e76654a610ae69</sha1>
+  </file>
+  <file name="BVC-0620-062045-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0620-062045-BVL_djvu.xml</original>
+    <mtime>1449818460</mtime>
+    <size>587</size>
+    <md5>c02e6017d3911006fe932625131808cf</md5>
+    <crc32>ca8f4343</crc32>
+    <sha1>e81507d09d88343baa5788b4fe6c0d7c5f4627fb</sha1>
+  </file>
+  <file name="BVC-0620-062045-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0620-062045-BVL_djvu.xml</original>
+    <mtime>1449818477</mtime>
+    <size>169113</size>
+    <md5>348017c8434023783b887a708af82af5</md5>
+    <crc32>c775d00e</crc32>
+    <sha1>c94d6e311ef9e49e5400b7ae67b6cd95a6c15022</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530656979</mtime>
+    <size>10581</size>
+    <md5>fc818b376f4cd0857957d593e518186c</md5>
+    <crc32>e3d08104</crc32>
+    <sha1>6e3c71f86ecfdfcc318da479a15bad5f4b0bb265</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="memo-for-lt-col-francisco-dy-from-major-general-basilio-valdes-january-6-1945_archive.torrent" source="metadata">
+    <btih>1008333c314a8cef751dba6c52dd846977c59da5</btih>
+    <mtime>1530656980</mtime>
+    <size>3689</size>
+    <md5>9ab26b147f4b357df9544058706ae5e1</md5>
+    <crc32>2dca3abd</crc32>
+    <sha1>88cef10dd8c69f110ee4818855bee865abf07336</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="memo-for-lt-col-francisco-dy-from-major-general-basilio-valdes-january-6-1945_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>0157443cee06622b82ff1d720772eff4</md5>
+  </file>
+  <file name="memo-for-lt-col-francisco-dy-from-major-general-basilio-valdes-january-6-1945_meta.sqlite" source="original">
+    <mtime>1466312085</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>ec437f36d6eded7e55ab9bae7c59fcb0</md5>
+    <crc32>603657d1</crc32>
+    <sha1>1c883fed2057a1f0e88041fd224746f7bdc1a89e</sha1>
+  </file>
+  <file name="memo-for-lt-col-francisco-dy-from-major-general-basilio-valdes-january-6-1945_meta.xml" source="original">
+    <mtime>1482286594</mtime>
+    <size>1344</size>
+    <format>Metadata</format>
+    <md5>9bef30392446204e6ca3273864c89f1e</md5>
+    <crc32>3d7b3df4</crc32>
+    <sha1>2c1404fbd7ebc8c51e296c66c69596401d80ac6d</sha1>
+  </file>
+</files>

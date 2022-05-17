@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0666-111444-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0666-111444-BVL_jp2.zip</original>
+    <mtime>1450341336</mtime>
+    <size>15598</size>
+    <md5>ea2162398f0dc63a592bdd4482f8c82e</md5>
+    <crc32>e330c21f</crc32>
+    <sha1>4f53bda641a08db0e911d1b8d1f9749d209a64d4</sha1>
+  </file>
+  <file name="BVC-0666-111444-BVL.pdf" source="original">
+    <mtime>1450339785</mtime>
+    <size>553973</size>
+    <md5>d01e996bd8a1817f6897a6fff890c20c</md5>
+    <crc32>f239e645</crc32>
+    <sha1>b165b2f7c4328ab97a56efa00aa067675414389a</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0666-111444-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0666-111444-BVL_jp2.zip</original>
+    <mtime>1450341657</mtime>
+    <size>15921</size>
+    <md5>e0479ef5a72d5601e1a4170cca7a4455</md5>
+    <crc32>ee93b61c</crc32>
+    <sha1>ed92bac4fbfe18462f8329a8a0a806f3e98c8886</sha1>
+  </file>
+  <file name="BVC-0666-111444-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0666-111444-BVL_djvu.xml</original>
+    <mtime>1456646537</mtime>
+    <size>874</size>
+    <md5>b2e942231969deac840a1728b3b4cb59</md5>
+    <crc32>b8ea520f</crc32>
+    <sha1>ae8985e620482836c3fee47caad6130723ac26ac</sha1>
+  </file>
+  <file name="BVC-0666-111444-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0666-111444-BVL_abbyy.gz</original>
+    <mtime>1450341665</mtime>
+    <size>9336</size>
+    <md5>0be2ce26dc6d82c9778be1a16edabd08</md5>
+    <crc32>36127b72</crc32>
+    <sha1>c1f1997da39477e20d62d0800b45027f98d7e372</sha1>
+  </file>
+  <file name="BVC-0666-111444-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0666-111444-BVL.pdf</original>
+    <mtime>1450341320</mtime>
+    <size>731000</size>
+    <md5>803152ab6df2de71a284d12e29d871aa</md5>
+    <crc32>5921e666</crc32>
+    <sha1>97edfcc94406755847cba73be62bd29ba17dff25</sha1>
+  </file>
+  <file name="BVC-0666-111444-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0666-111444-BVL_djvu.xml</original>
+    <mtime>1450341702</mtime>
+    <size>575</size>
+    <md5>80b197fe46f34d4c31cf909781b7088b</md5>
+    <crc32>0b26487f</crc32>
+    <sha1>2a747a7c1d7b8a4f32fb1ff9d077c6c5d2808ff7</sha1>
+  </file>
+  <file name="BVC-0666-111444-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0666-111444-BVL_djvu.xml</original>
+    <mtime>1450341749</mtime>
+    <size>164966</size>
+    <md5>7ab012934315af1e198cb2c39caed04c</md5>
+    <crc32>a6db0d84</crc32>
+    <sha1>994e454283f6cfb63ce62bdbb2a5bd5bcb87fadf</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1531014132</mtime>
+    <size>11010</size>
+    <md5>b922641faaefaa585b92d68625d99016</md5>
+    <crc32>21feb311</crc32>
+    <sha1>e0721b7c106a76bff16b315aa39bdce3cd31308d</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="memo-george-sears-restoration-of-telegraph-lines-november-14-1944_archive.torrent" source="metadata">
+    <btih>e16ebd266e3b593a76d268d7abd5b2d7ca9866b3</btih>
+    <mtime>1531014133</mtime>
+    <size>3578</size>
+    <md5>e2e3d949ad39101050e7d310ab412779</md5>
+    <crc32>aaaac8a3</crc32>
+    <sha1>20a35794d94596b95588a4e2713db263a7eb7183</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="memo-george-sears-restoration-of-telegraph-lines-november-14-1944_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>8435cac801a4f7374d428cb80d85ad49</md5>
+  </file>
+  <file name="memo-george-sears-restoration-of-telegraph-lines-november-14-1944_meta.sqlite" source="original">
+    <mtime>1466311627</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>4fcc31caf06a9a49dc21a2b15e3dceb7</md5>
+    <crc32>242c1346</crc32>
+    <sha1>271de5056396bf977e5dc13aa958755b83fee92e</sha1>
+  </file>
+  <file name="memo-george-sears-restoration-of-telegraph-lines-november-14-1944_meta.xml" source="original">
+    <mtime>1483814843</mtime>
+    <size>1288</size>
+    <format>Metadata</format>
+    <md5>0581fa181ef4eadcfb247b1fc32b39ff</md5>
+    <crc32>6ff9e7b8</crc32>
+    <sha1>6746f48f28031da605ef802620df07cf5bfec9c5</sha1>
+  </file>
+</files>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BARRILLA, CENTRAL BANK MONEY MUSEUM QUARTERLY.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BARRILLA, CENTRAL BANK MONEY MUSEUM QUARTERLY_djvu.xml</original>
+    <mtime>1431855478</mtime>
+    <size>5531331</size>
+    <md5>87e9767da4e0dec36b392ece1e57d05c</md5>
+    <crc32>d759f0ba</crc32>
+    <sha1>5fa8a3c4740ebb7b440b71d43178022bb3928724</sha1>
+  </file>
+  <file name="BARRILLA, CENTRAL BANK MONEY MUSEUM QUARTERLY.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BARRILLA, CENTRAL BANK MONEY MUSEUM QUARTERLY_jp2.zip</original>
+    <mtime>1431853685</mtime>
+    <size>343230</size>
+    <md5>acac0c0bc1bfd1c09e0d67116d56e2e3</md5>
+    <crc32>8ce7687c</crc32>
+    <sha1>efb78bb68044455456d6d22652de565d12d2cc15</sha1>
+  </file>
+  <file name="BARRILLA, CENTRAL BANK MONEY MUSEUM QUARTERLY.pdf" source="original">
+    <mtime>1431853030</mtime>
+    <size>27968905</size>
+    <md5>cb86f958a84e3a72b3477b417cd4aead</md5>
+    <crc32>e8e8ba9c</crc32>
+    <sha1>27d94862d49ff15706efb86ce852ffe56cda8ef3</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BARRILLA, CENTRAL BANK MONEY MUSEUM QUARTERLY_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BARRILLA, CENTRAL BANK MONEY MUSEUM QUARTERLY_jp2.zip</original>
+    <mtime>1431855121</mtime>
+    <size>1026632</size>
+    <md5>ca53053df271776738809586f29207b7</md5>
+    <crc32>e303f155</crc32>
+    <sha1>6b9233853a69f8e1132140b0fad7fef5c2acde47</sha1>
+  </file>
+  <file name="BARRILLA, CENTRAL BANK MONEY MUSEUM QUARTERLY_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BARRILLA, CENTRAL BANK MONEY MUSEUM QUARTERLY.djvu</original>
+    <mtime>1431856040</mtime>
+    <size>67729</size>
+    <md5>ee7f4166640ce61f55367582d7e6490c</md5>
+    <crc32>3e08a496</crc32>
+    <sha1>1f6a1082379ff422b0600a58de3e4e6f2e53c61a</sha1>
+  </file>
+  <file name="BARRILLA, CENTRAL BANK MONEY MUSEUM QUARTERLY_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BARRILLA, CENTRAL BANK MONEY MUSEUM QUARTERLY_abbyy.gz</original>
+    <mtime>1431855141</mtime>
+    <size>647758</size>
+    <md5>65ab0cd60b616fbbd9e3c2377ede0315</md5>
+    <crc32>dd13c40e</crc32>
+    <sha1>7fbbded8784ea2f95a6f47cdb1067f1c79a9978d</sha1>
+  </file>
+  <file name="BARRILLA, CENTRAL BANK MONEY MUSEUM QUARTERLY_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BARRILLA, CENTRAL BANK MONEY MUSEUM QUARTERLY.pdf</original>
+    <mtime>1431853660</mtime>
+    <size>38181719</size>
+    <md5>dd37441071bd2a007cb79f8d1f083177</md5>
+    <crc32>7b8665fa</crc32>
+    <sha1>908c61cbbc87159640dc024de5ab8594c8a97ada</sha1>
+  </file>
+  <file name="BARRILLA, CENTRAL BANK MONEY MUSEUM QUARTERLY_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BARRILLA, CENTRAL BANK MONEY MUSEUM QUARTERLY_djvu.xml</original>
+    <mtime>1431855480</mtime>
+    <size>18157</size>
+    <md5>dbf0f5249aa4c6f3282531f7d33640d4</md5>
+    <crc32>b27e9007</crc32>
+    <sha1>3aca7ba1d8b0cfb1f30fb55da6b13f1c30fd9f11</sha1>
+  </file>
+  <file name="BARRILLA, CENTRAL BANK MONEY MUSEUM QUARTERLY_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BARRILLA, CENTRAL BANK MONEY MUSEUM QUARTERLY_djvu.xml</original>
+    <mtime>1431856023</mtime>
+    <size>8648658</size>
+    <md5>47c7fafa77a8a3631290276f44bdd41d</md5>
+    <crc32>0f2dbae3</crc32>
+    <sha1>970d3ac975943307db6d2ffd1250f989cacec56f</sha1>
+  </file>
+  <file name="BarrillaVolVNo3_archive.torrent" source="metadata">
+    <btih>7aef6f423c5b5df243a418c290711fd4ebf68164</btih>
+    <mtime>1530796883</mtime>
+    <size>6662</size>
+    <md5>6fabe6d14451e4540475e50c7e3fc012</md5>
+    <crc32>d09b7c15</crc32>
+    <sha1>5aaeecc14905c3066d61d7db9f387d1ea8995d0c</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="BarrillaVolVNo3_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>f3e8c7534af0faf9c21140d97a30ab93</md5>
+  </file>
+  <file name="BarrillaVolVNo3_meta.sqlite" source="original">
+    <mtime>1463389319</mtime>
+    <size>12288</size>
+    <format>Metadata</format>
+    <md5>d8c408c64b30ad1efd58e0dd3c0741fc</md5>
+    <crc32>9b674c8b</crc32>
+    <sha1>6c09c7af5bf534239b62ea492943c231521b8efd</sha1>
+  </file>
+  <file name="BarrillaVolVNo3_meta.xml" source="original">
+    <mtime>1482649638</mtime>
+    <size>1459</size>
+    <format>Metadata</format>
+    <md5>e2c62df0d24af5dd3a3cb3483c40eb11</md5>
+    <crc32>ab16bf7e</crc32>
+    <sha1>07e184e2899565af6e95ba70e1fa8726efc44add</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530796882</mtime>
+    <size>16774</size>
+    <md5>63a2ed0d01054a61c54e985360fa7d7a</md5>
+    <crc32>4421e5a8</crc32>
+    <sha1>7fab4e4e7efbb5486fbcf9fa3a99d2ee0d8a807b</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+</files>

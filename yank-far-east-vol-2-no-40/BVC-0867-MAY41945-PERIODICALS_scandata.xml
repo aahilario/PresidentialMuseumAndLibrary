@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>yank-far-east-vol-2-no-40</bookId>
+    <leafCount>17</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>6132</origWidth>
+      <origHeight>8420</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>6132</w>
+        <h>8420</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>6127</origWidth>
+      <origHeight>7686</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>6127</w>
+        <h>7686</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>6115</origWidth>
+      <origHeight>8396</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>6115</w>
+        <h>8396</h>
+      </cropBox>
+    </page>
+    <page leafNum="3">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>6061</origWidth>
+      <origHeight>8422</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>6061</w>
+        <h>8422</h>
+      </cropBox>
+    </page>
+    <page leafNum="4">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>6142</origWidth>
+      <origHeight>8461</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>6142</w>
+        <h>8461</h>
+      </cropBox>
+    </page>
+    <page leafNum="5">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>6132</origWidth>
+      <origHeight>7881</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>6132</w>
+        <h>7881</h>
+      </cropBox>
+    </page>
+    <page leafNum="6">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>6190</origWidth>
+      <origHeight>8404</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>6190</w>
+        <h>8404</h>
+      </cropBox>
+    </page>
+    <page leafNum="7">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>6135</origWidth>
+      <origHeight>8435</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>6135</w>
+        <h>8435</h>
+      </cropBox>
+    </page>
+    <page leafNum="8">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>6265</origWidth>
+      <origHeight>8458</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>6265</w>
+        <h>8458</h>
+      </cropBox>
+    </page>
+    <page leafNum="9">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>6128</origWidth>
+      <origHeight>8436</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>6128</w>
+        <h>8436</h>
+      </cropBox>
+    </page>
+    <page leafNum="10">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>6140</origWidth>
+      <origHeight>7931</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>6140</w>
+        <h>7931</h>
+      </cropBox>
+    </page>
+    <page leafNum="11">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>6065</origWidth>
+      <origHeight>8435</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>6065</w>
+        <h>8435</h>
+      </cropBox>
+    </page>
+    <page leafNum="12">
+      <pageType>Title</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>6103</origWidth>
+      <origHeight>8442</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>6103</w>
+        <h>8442</h>
+      </cropBox>
+    </page>
+    <page leafNum="13">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>6235</origWidth>
+      <origHeight>8374</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>6235</w>
+        <h>8374</h>
+      </cropBox>
+    </page>
+    <page leafNum="14">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>6155</origWidth>
+      <origHeight>8400</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>6155</w>
+        <h>8400</h>
+      </cropBox>
+    </page>
+    <page leafNum="15">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>6165</origWidth>
+      <origHeight>8385</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>6165</w>
+        <h>8385</h>
+      </cropBox>
+    </page>
+    <page leafNum="16">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>6157</origWidth>
+      <origHeight>8398</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>6157</w>
+        <h>8398</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

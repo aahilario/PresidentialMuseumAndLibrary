@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0505-050345-HPSP.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0505-050345-HPSP_djvu.xml</original>
+    <mtime>1452122738</mtime>
+    <size>270960</size>
+    <md5>991dc15bb57a3f292d4a59c3c449bed8</md5>
+    <crc32>3f04b30a</crc32>
+    <sha1>8020c25c766c2f9fd1e320604f7764d29239db32</sha1>
+  </file>
+  <file name="BVC-0505-050345-HPSP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0505-050345-HPSP_jp2.zip</original>
+    <mtime>1451873644</mtime>
+    <size>30590</size>
+    <md5>2b2ddc263ebbfe49ca2c3e5c5b6df067</md5>
+    <crc32>ea2593dd</crc32>
+    <sha1>8677a7422232479673b020aea2139bf94efd3c76</sha1>
+  </file>
+  <file name="BVC-0505-050345-HPSP.pdf" source="original">
+    <mtime>1451873586</mtime>
+    <size>1078033</size>
+    <md5>5442c473504bb5d2d9c5da56585473d4</md5>
+    <crc32>c1fdd9d8</crc32>
+    <sha1>578fbf978fb1a0595950e1147f06b5edb7db3ae9</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0505-050345-HPSP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0505-050345-HPSP_jp2.zip</original>
+    <mtime>1451873678</mtime>
+    <size>40251</size>
+    <md5>b2c73b5cf04642cc4fd7fccaa8f4c242</md5>
+    <crc32>6c8557f6</crc32>
+    <sha1>4e3b7122f44fcb74e6e9183404ecce449974cd11</sha1>
+  </file>
+  <file name="BVC-0505-050345-HPSP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0505-050345-HPSP.djvu</original>
+    <mtime>1452122746</mtime>
+    <size>2370</size>
+    <md5>82bd71d5b0872e642b864284fb208d68</md5>
+    <crc32>8fccecd7</crc32>
+    <sha1>05020021c6fde2779b5baea3f414c030eed02280</sha1>
+  </file>
+  <file name="BVC-0505-050345-HPSP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0505-050345-HPSP_abbyy.gz</original>
+    <mtime>1451873685</mtime>
+    <size>28170</size>
+    <md5>68628f14cda630af805dc801719cf0eb</md5>
+    <crc32>633a5ee1</crc32>
+    <sha1>004c0a79faacf0a52678de8ec8581edb35de6adf</sha1>
+  </file>
+  <file name="BVC-0505-050345-HPSP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0505-050345-HPSP.pdf</original>
+    <mtime>1451873636</mtime>
+    <size>1583157</size>
+    <md5>0c6aa7aa7a9924462d9da229d3330e73</md5>
+    <crc32>4c06d783</crc32>
+    <sha1>2a7d0d558b66188156ed8bc997ee5fc516bd6ab7</sha1>
+  </file>
+  <file name="BVC-0505-050345-HPSP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0505-050345-HPSP_djvu.xml</original>
+    <mtime>1451873699</mtime>
+    <size>842</size>
+    <md5>fea43440d28d216b46e103e534068806</md5>
+    <crc32>fecb3dac</crc32>
+    <sha1>294c3b173b825f863500a6c9a7de2df96c7a628c</sha1>
+  </file>
+  <file name="BVC-0505-050345-HPSP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0505-050345-HPSP_djvu.xml</original>
+    <mtime>1451873727</mtime>
+    <size>397487</size>
+    <md5>9a7dd3d787e94ea66cec142881cd53a8</md5>
+    <crc32>f38a9756</crc32>
+    <sha1>18e62769a7f08a5db69527996b33e63bf11bdb5c</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530793774</mtime>
+    <size>12278</size>
+    <md5>1751c4a8089fa12957fa8a0c9d12061d</md5>
+    <crc32>9289c55c</crc32>
+    <sha1>1bfdf68232e769188b6c75a5e4848fa098edbc17</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="tomas-cabili-speech-in-camp-murphy_archive.torrent" source="metadata">
+    <btih>09a705bceeae66f5bdb9153dbc7243df5192e912</btih>
+    <mtime>1530793775</mtime>
+    <size>3576</size>
+    <md5>1557363062ec5326dea2b560bbe595eb</md5>
+    <crc32>f1bf326b</crc32>
+    <sha1>330be0faec12a17a686c2542bb3067e1ee7f2707</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="tomas-cabili-speech-in-camp-murphy_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>7d79dccaa036745af6bb92bddeb65c91</md5>
+  </file>
+  <file name="tomas-cabili-speech-in-camp-murphy_meta.sqlite" source="original">
+    <mtime>1470181995</mtime>
+    <size>12288</size>
+    <format>Metadata</format>
+    <md5>da454b5aacd95314406545a760dca007</md5>
+    <crc32>fb9b9407</crc32>
+    <sha1>27973f34ad6164311749110c2cfa77b2b766a556</sha1>
+  </file>
+  <file name="tomas-cabili-speech-in-camp-murphy_meta.xml" source="original">
+    <mtime>1483181436</mtime>
+    <size>1480</size>
+    <format>Metadata</format>
+    <md5>52d4281b73ceca856fe47dd548dd9100</md5>
+    <crc32>f1844f86</crc32>
+    <sha1>6238a27a93cac82cea8528bf8d3a1df3f990b71d</sha1>
+  </file>
+</files>

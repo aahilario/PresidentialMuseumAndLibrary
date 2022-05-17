@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0668-110444-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0668-110444-BVL_jp2.zip</original>
+    <mtime>1450341979</mtime>
+    <size>15513</size>
+    <md5>45d63825abdf935cbf44372ca727138c</md5>
+    <crc32>88f38675</crc32>
+    <sha1>8a1e632bf43de7df6d2faec0ff6a48567b07748e</sha1>
+  </file>
+  <file name="BVC-0668-110444-BVL.pdf" source="original">
+    <mtime>1450340734</mtime>
+    <size>517260</size>
+    <md5>6df9972e0de7670383179507e71f936c</md5>
+    <crc32>e9296a53</crc32>
+    <sha1>c48a614489bf2266e998947cfeae8e120be84033</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0668-110444-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0668-110444-BVL_jp2.zip</original>
+    <mtime>1450342302</mtime>
+    <size>18393</size>
+    <md5>379add8d40b0fe80022641b5a5e5e085</md5>
+    <crc32>caf9c476</crc32>
+    <sha1>e3c44c77f48d70f5f970cd2843e1aa4f3cff3152</sha1>
+  </file>
+  <file name="BVC-0668-110444-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0668-110444-BVL_djvu.xml</original>
+    <mtime>1456644859</mtime>
+    <size>1066</size>
+    <md5>b4012d3f31dda609cbe1fc94cfe85bdd</md5>
+    <crc32>5716c1c2</crc32>
+    <sha1>763232b03975faed23ac6abdce2dfcd6d6757c75</sha1>
+  </file>
+  <file name="BVC-0668-110444-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0668-110444-BVL_abbyy.gz</original>
+    <mtime>1450342312</mtime>
+    <size>10760</size>
+    <md5>256830afc573ac845c922df73fd43e24</md5>
+    <crc32>e39107ac</crc32>
+    <sha1>8670503d7ca80b9851e93c728ffed1107e35a24a</sha1>
+  </file>
+  <file name="BVC-0668-110444-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0668-110444-BVL.pdf</original>
+    <mtime>1450341969</mtime>
+    <size>573800</size>
+    <md5>b27090f5447bcee824791bd7f0e2d974</md5>
+    <crc32>eb19ee5f</crc32>
+    <sha1>8824b7e60e7ec43d030edd81ccbd69bdf247396e</sha1>
+  </file>
+  <file name="BVC-0668-110444-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0668-110444-BVL_djvu.xml</original>
+    <mtime>1450342342</mtime>
+    <size>599</size>
+    <md5>247f5097726a9c2d89de66833cf4473f</md5>
+    <crc32>4a5ccc27</crc32>
+    <sha1>af99cc64bb762441792772b2caf0d90d123ce9eb</sha1>
+  </file>
+  <file name="BVC-0668-110444-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0668-110444-BVL_djvu.xml</original>
+    <mtime>1450342368</mtime>
+    <size>148340</size>
+    <md5>cfa7ca569e0907b3506ef852295681c6</md5>
+    <crc32>8b769fb5</crc32>
+    <sha1>9990753072e551afc0403a4c55843ac0e3b2af84</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1531084636</mtime>
+    <size>9582</size>
+    <md5>4c1e0462e43fcbf8b13be8e9dd5e0226</md5>
+    <crc32>b9bd545f</crc32>
+    <sha1>d159cffd30ee7d94db563081a17ea661ddf6442f</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="letter-to-basilio-valdes-from-cunanan-telegraph-instruments-tacloban-palo-november-4-1944_archive.torrent" source="metadata">
+    <btih>45d99978476028b36bc6fd91c70427d740c70dbb</btih>
+    <mtime>1531084636</mtime>
+    <size>3801</size>
+    <md5>ebd4a2d493bfc9b24f855450f2b5615f</md5>
+    <crc32>6f22cbbf</crc32>
+    <sha1>b1f02d92f6443584aa265c475d94564b73e1acab</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="letter-to-basilio-valdes-from-cunanan-telegraph-instruments-tacloban-palo-november-4-1944_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>2d2e71bb9f2467a6ea9ea9ec0914eb41</md5>
+  </file>
+  <file name="letter-to-basilio-valdes-from-cunanan-telegraph-instruments-tacloban-palo-november-4-1944_meta.sqlite" source="original">
+    <mtime>1463633169</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>3b83e4af72e42b87d883c2359db8ee13</md5>
+    <crc32>3b343626</crc32>
+    <sha1>fee25379e84ac89d4b0749a48a8d208c049a0d2d</sha1>
+  </file>
+  <file name="letter-to-basilio-valdes-from-cunanan-telegraph-instruments-tacloban-palo-november-4-1944_meta.xml" source="original">
+    <mtime>1483846245</mtime>
+    <size>1482</size>
+    <format>Metadata</format>
+    <md5>533261591110181f6b4f890cb00dd8ba</md5>
+    <crc32>50075043</crc32>
+    <sha1>258ffee08e67ce4be3a2876c04819ab8e1e5ac3c</sha1>
+  </file>
+</files>

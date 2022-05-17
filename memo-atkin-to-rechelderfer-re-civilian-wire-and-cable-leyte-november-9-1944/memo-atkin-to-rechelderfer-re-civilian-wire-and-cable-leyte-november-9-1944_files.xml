@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0667-110944-BVL.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0667-110944-BVL_djvu.xml</original>
+    <mtime>1450341864</mtime>
+    <size>328282</size>
+    <md5>d5585e7c61bc2d840d52ba1fe4266968</md5>
+    <crc32>980ce4d1</crc32>
+    <sha1>d42e01abe2e14991ecbcbd4eea6a6dff8bb0d7f2</sha1>
+  </file>
+  <file name="BVC-0667-110944-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0667-110944-BVL_jp2.zip</original>
+    <mtime>1450341739</mtime>
+    <size>43894</size>
+    <md5>60e2f0adc59cc6af0b0bfb63f6d0d77c</md5>
+    <crc32>b50ad1ce</crc32>
+    <sha1>145f139f3d03df88db7376566a8b4d26cddd3d5c</sha1>
+  </file>
+  <file name="BVC-0667-110944-BVL.pdf" source="original">
+    <mtime>1450340132</mtime>
+    <size>1691531</size>
+    <md5>2f2298043d88f5b8c93ac0da8b74cacb</md5>
+    <crc32>5df61da2</crc32>
+    <sha1>f5e4c4bbd83be8edccda3693c3dc9b6e626689a8</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0667-110944-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0667-110944-BVL_jp2.zip</original>
+    <mtime>1450341802</mtime>
+    <size>53921</size>
+    <md5>198e0b9dcc62ae12a07495f49cc2b81f</md5>
+    <crc32>1437e9ea</crc32>
+    <sha1>d31c91a4a71496d855223ed19adf82e7c0897064</sha1>
+  </file>
+  <file name="BVC-0667-110944-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0667-110944-BVL.djvu</original>
+    <mtime>1450341953</mtime>
+    <size>3363</size>
+    <md5>687ea5bfda26ef571276bd88d4b26fb6</md5>
+    <crc32>4b67dee8</crc32>
+    <sha1>3bc91aab51a61ff0ffda33f9e926a824e5338404</sha1>
+  </file>
+  <file name="BVC-0667-110944-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0667-110944-BVL_abbyy.gz</original>
+    <mtime>1450341810</mtime>
+    <size>44904</size>
+    <md5>f7f9084f52a0eb227996255014ee4a15</md5>
+    <crc32>01385e79</crc32>
+    <sha1>d18c14d86922f3b0a09b2f67f232ee80fe721e68</sha1>
+  </file>
+  <file name="BVC-0667-110944-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0667-110944-BVL.pdf</original>
+    <mtime>1450341710</mtime>
+    <size>2075091</size>
+    <md5>f83a0b7e6bf9d44fd4a111b10067540b</md5>
+    <crc32>92de8850</crc32>
+    <sha1>325f802919726b1b50e077bb9d7010f46680391e</sha1>
+  </file>
+  <file name="BVC-0667-110944-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0667-110944-BVL_djvu.xml</original>
+    <mtime>1450341865</mtime>
+    <size>1181</size>
+    <md5>5b3fd47133f9d1354b14cbf08743f02f</md5>
+    <crc32>8f4a2595</crc32>
+    <sha1>65d52cc873b5002db92a8df21bda7c84108469f4</sha1>
+  </file>
+  <file name="BVC-0667-110944-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0667-110944-BVL_djvu.xml</original>
+    <mtime>1450341939</mtime>
+    <size>504484</size>
+    <md5>f7ae6c32da3468d4d8cb41b3dcf5c778</md5>
+    <crc32>543b7e66</crc32>
+    <sha1>06870a84e534165e32f0c2000d4804b382a2cac5</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530852803</mtime>
+    <size>13080</size>
+    <md5>96841cf040ba49a736cf4734bdca8949</md5>
+    <crc32>de1f42fa</crc32>
+    <sha1>afb0a6785cefa4bc20bec0d4756868a8519f362b</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="memo-atkin-to-rechelderfer-re-civilian-wire-and-cable-leyte-november-9-1944_archive.torrent" source="metadata">
+    <btih>5e2896e072a1eeba3e8cb72459c5f5ee27359f07</btih>
+    <mtime>1530852803</mtime>
+    <size>3996</size>
+    <md5>24dbb9d3e9b4efd07124051ba4496df6</md5>
+    <crc32>e2ca01f6</crc32>
+    <sha1>30435685b24699f4c22e6c75efa2b9e2f892162b</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="memo-atkin-to-rechelderfer-re-civilian-wire-and-cable-leyte-november-9-1944_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>2ef5e820c3cf1a69756722204a8e6c8b</md5>
+  </file>
+  <file name="memo-atkin-to-rechelderfer-re-civilian-wire-and-cable-leyte-november-9-1944_meta.sqlite" source="original">
+    <mtime>1466311855</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>ead074316d89b565adcacbeb24f3e5e5</md5>
+    <crc32>e45be14b</crc32>
+    <sha1>17281b0ecdf9490d3897ff8fd3a75eff48f43ad7</sha1>
+  </file>
+  <file name="memo-atkin-to-rechelderfer-re-civilian-wire-and-cable-leyte-november-9-1944_meta.xml" source="original">
+    <mtime>1483826800</mtime>
+    <size>1390</size>
+    <format>Metadata</format>
+    <md5>be119a1b6d137e49bad53a397f106637</md5>
+    <crc32>8538900a</crc32>
+    <sha1>25b1443bda6cba1782819a5f5c781fbb72aa3243</sha1>
+  </file>
+</files>

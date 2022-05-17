@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>basilio-valdes-official-papers-inspection-russian-prison-camps-at-aschaffenburg</bookId>
+    <leafCount>3</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4961</origWidth>
+      <origHeight>6365</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4961</w>
+        <h>6365</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4948</origWidth>
+      <origHeight>6361</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4948</w>
+        <h>6361</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4992</origWidth>
+      <origHeight>6309</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4992</w>
+        <h>6309</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

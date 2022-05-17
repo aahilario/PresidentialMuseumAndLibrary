@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0594-042645-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0594-042645-BVL_jp2.zip</original>
+    <mtime>1459388446</mtime>
+    <size>53390</size>
+    <md5>d59a6ff9a0113a9d8856ff79b065fb28</md5>
+    <crc32>f84a22c8</crc32>
+    <sha1>22e16e627b2502375bfb4087a6c3e295f81c29a8</sha1>
+  </file>
+  <file name="BVC-0594-042645-BVL.pdf" source="original">
+    <mtime>1459388342</mtime>
+    <size>2478384</size>
+    <md5>274bc6bd85468eaf6f383ce6f300c905</md5>
+    <crc32>27987de6</crc32>
+    <sha1>2b32626058ce08f34ba215c0a25cdefb7eab805a</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0594-042645-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0594-042645-BVL_jp2.zip</original>
+    <mtime>1459388546</mtime>
+    <size>81269</size>
+    <md5>d2ba1f39cfed3dd44112c82d560acb33</md5>
+    <crc32>baee14d1</crc32>
+    <sha1>f6421caf497c9e6e603921d2d198119ad793d2be</sha1>
+  </file>
+  <file name="BVC-0594-042645-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0594-042645-BVL_djvu.xml</original>
+    <mtime>1459388560</mtime>
+    <size>4980</size>
+    <md5>ab70efd227ead34d5bf52a4f5b35bf6d</md5>
+    <crc32>784b2c4a</crc32>
+    <sha1>f31e0d3fbc4f3c3b6ed8949f4eb1de207d7c0451</sha1>
+  </file>
+  <file name="BVC-0594-042645-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0594-042645-BVL_abbyy.gz</original>
+    <mtime>1459388553</mtime>
+    <size>47908</size>
+    <md5>9c9dd3ea51ed3c94478a5e4d0de6f2a1</md5>
+    <crc32>0c3c5cd6</crc32>
+    <sha1>0d53a5d92e7d6785971c8a7aa49a433f7382be12</sha1>
+  </file>
+  <file name="BVC-0594-042645-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0594-042645-BVL.pdf</original>
+    <mtime>1459388436</mtime>
+    <size>3682193</size>
+    <md5>8f87ab68e1d540ec28d72b094e30eef1</md5>
+    <crc32>4f126029</crc32>
+    <sha1>2e4f38636ec6880f5cd46bdb5cb399c6f3a663cf</sha1>
+  </file>
+  <file name="BVC-0594-042645-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0594-042645-BVL_djvu.xml</original>
+    <mtime>1459388559</mtime>
+    <size>1472</size>
+    <md5>0081e30b30c0ccae2c2f983fa0d3e9b7</md5>
+    <crc32>85bcf096</crc32>
+    <sha1>f7c2045fa1e8859843c0776e37808bd87ede9459</sha1>
+  </file>
+  <file name="BVC-0594-042645-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0594-042645-BVL_djvu.xml</original>
+    <mtime>1459388604</mtime>
+    <size>763807</size>
+    <md5>0208d3c6ae1ed858f8f05c59a5c9cb03</md5>
+    <crc32>8e98ef03</crc32>
+    <sha1>d59589458719338cca714600ff2f8574b3cfb5fc</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530784080</mtime>
+    <size>12316</size>
+    <md5>6a950b8f88f6be19ba65243169e4ab7b</md5>
+    <crc32>7aee0387</crc32>
+    <sha1>268fbbe3761c564491ad8138a049d7b833e6bd68</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="memorandum-for-ismael-mathay-re-communications-service-april-26-1945_archive.torrent" source="metadata">
+    <btih>b7ccd654a257132d409b873b9afbcdf2de747128</btih>
+    <mtime>1530784081</mtime>
+    <size>3835</size>
+    <md5>dcb8511c649b65ad3da7b2c9e90d7353</md5>
+    <crc32>4eb7b3b7</crc32>
+    <sha1>3b59e7c7b9ee4bdb3c162c4b0eaef6e291d46625</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="memorandum-for-ismael-mathay-re-communications-service-april-26-1945_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>923f4e0af96d75157edb15643c577ea8</md5>
+  </file>
+  <file name="memorandum-for-ismael-mathay-re-communications-service-april-26-1945_meta.sqlite" source="original">
+    <mtime>1463599047</mtime>
+    <size>12288</size>
+    <format>Metadata</format>
+    <md5>5a5bd758baa8232b1e17ebca1d1b996a</md5>
+    <crc32>d13bc118</crc32>
+    <sha1>f0349d1a4ab10659f1ca59c969f39ad4a54f3722</sha1>
+  </file>
+  <file name="memorandum-for-ismael-mathay-re-communications-service-april-26-1945_meta.xml" source="original">
+    <mtime>1483299033</mtime>
+    <size>1636</size>
+    <format>Metadata</format>
+    <md5>8718078a50d16217020b4aac70e06af4</md5>
+    <crc32>4906f50c</crc32>
+    <sha1>ebf621400c7029ddcff4e24f69d35f5fab1f9cd8</sha1>
+  </file>
+</files>
