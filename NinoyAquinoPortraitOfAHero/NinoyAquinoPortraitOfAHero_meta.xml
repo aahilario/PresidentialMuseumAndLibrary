@@ -1,27 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
-  <identifier>NinoyAquinoPortraitOfAHero</identifier>
-  <mediatype>texts</mediatype>
-  <collection>presidentialmuseumandlibrary</collection>
-  <creator>Teodoro Benigno</creator>
-  <date>1993</date>
-  <description>This biographical book of Ninoy Aquino written by Teodoro Benigno in observance of  the 10th year anniversary of his death contains the latter part of Ninoy’s life. Some of the information include Ninoy’s life during Martial Law period, his exile to America, his tragic death and martyrdom.</description>
-  <language>eng</language>
-  <licenseurl>http://creativecommons.org/licenses/by-nc/4.0/</licenseurl>
-  <scanner>Internet Archive HTML5 Uploader 1.6.3</scanner>
-  <subject>Ninoy Aquino</subject>
-  <title>Ninoy Aquino Portrait Of A Hero</title>
-  <subject>Corazon C. Aquino</subject>
-  <publicdate>2015-05-31 11:34:02</publicdate>
-  <uploader>cheng.bigay@pcdspo.gov.ph</uploader>
-  <addeddate>2015-05-31 11:34:02</addeddate>
-  <curation>[curator]validator@archive.org[/curator][date]20150531113945[/date][comment]checked for malware[/comment]</curation>
-  <identifier-access>http://archive.org/details/NinoyAquinoPortraitOfAHero</identifier-access>
-  <identifier-ark>ark:/13960/t6sx9s39h</identifier-ark>
-  <ppi>600</ppi>
-  <ocr>ABBYY FineReader 9.0</ocr>
-  <repub_state>4</repub_state>
-  <year>1993</year>
-  <collection>additional_collections</collection>
-  <backup_location>ia905306_12</backup_location>
-</metadata>
+version https://git-lfs.github.com/spec/v1
+oid sha256:1479d557e80278ea3c4eddc17f025005c184a783912c4a15d822961e3a3330ba
+size 1488

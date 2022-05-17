@@ -1,20 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
-  <identifier>mambo-magsaysay-ilocano-version</identifier>
-  <mediatype>texts</mediatype>
-  <collection>presidentialmuseumandlibrary</collection>
-  <description>From The Marching Songs of Raul Manglapus.</description>
-  <scanner>Internet Archive HTML5 Uploader 1.6.3</scanner>
-  <subject>audio</subject>
-  <title>Mambo Magsaysay (Ilocano Version)</title>
-  <subject>Ramon Magsaysay</subject>
-  <publicdate>2016-07-03 10:58:34</publicdate>
-  <uploader>chengbigay@gmail.com</uploader>
-  <addeddate>2016-07-03 10:58:34</addeddate>
-  <collection>additional_collections</collection>
-  <language>Waray</language>
-  <identifier-access>http://archive.org/details/mambo-magsaysay-ilocano-version</identifier-access>
-  <identifier-ark>ark:/13960/t6d26p72h</identifier-ark>
-  <repub_state>4</repub_state>
-  <backup_location>ia906201_26</backup_location>
-</metadata>
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6a5eeca7e26efbf0091a2967b58666962bfdf462e7ae7a4aaa3f04eb4379e0b
+size 906

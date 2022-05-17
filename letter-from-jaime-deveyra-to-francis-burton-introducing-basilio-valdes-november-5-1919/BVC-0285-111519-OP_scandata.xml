@@ -1,23 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<book>
-  <bookData>
-    <dpi>600</dpi>
-    <bookId>letter-from-jaime-deveyra-to-francis-burton-introducing-basilio-valdes-november-5-1919</bookId>
-    <leafCount>1</leafCount>
-  </bookData>
-  <pageData>
-    <page leafNum="0">
-      <pageType>Normal</pageType>
-      <addToAccessFormats>true</addToAccessFormats>
-      <origWidth>4807</origWidth>
-      <origHeight>6368</origHeight>
-      <cropBox>
-        <x>0</x>
-        <y>0</y>
-        <w>4807</w>
-        <h>6368</h>
-      </cropBox>
-      <bookStart>true</bookStart>
-    </page>
-  </pageData>
-</book>
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6d2d17eb12f4a7deed2c4b096bf99062d8e82dc55160cc93a0f5117a3b8eafe
+size 596

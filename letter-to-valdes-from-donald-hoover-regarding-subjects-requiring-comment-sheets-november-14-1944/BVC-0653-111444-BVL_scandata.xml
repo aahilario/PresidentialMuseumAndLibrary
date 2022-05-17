@@ -1,23 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<book>
-  <bookData>
-    <dpi>600</dpi>
-    <bookId>letter-to-valdes-from-donald-hoover-regarding-subjects-requiring-comment-sheets-november-14-1944</bookId>
-    <leafCount>1</leafCount>
-  </bookData>
-  <pageData>
-    <page leafNum="0">
-      <pageType>Normal</pageType>
-      <addToAccessFormats>true</addToAccessFormats>
-      <origWidth>4824</origWidth>
-      <origHeight>6400</origHeight>
-      <cropBox>
-        <x>0</x>
-        <y>0</y>
-        <w>4824</w>
-        <h>6400</h>
-      </cropBox>
-      <bookStart>true</bookStart>
-    </page>
-  </pageData>
-</book>
+version https://git-lfs.github.com/spec/v1
+oid sha256:df305031cdc53c8b115f8ab34831ba9c057e683627395a9c69dddb3909500c12
+size 606

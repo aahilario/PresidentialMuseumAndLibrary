@@ -1,27 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
-  <identifier>GoodFight</identifier>
-  <mediatype>texts</mediatype>
-  <date>1944</date>
-  <description>This book is about the life of President Manuel L. Quezon written by himself. Its introduction was written by General Douglas MacArthur.</description>
-  <language>eng</language>
-  <scanner>Internet Archive HTML5 Uploader 1.6.1</scanner>
-  <subject>Manuel L. Quezon, Autobiography</subject>
-  <title>The Good Fight</title>
-  <subject>Autobiography</subject>
-  <publicdate>2015-05-13 11:43:46</publicdate>
-  <uploader>cheng.bigay@pcdspo.gov.ph</uploader>
-  <addeddate>2015-05-13 11:43:46</addeddate>
-  <curation>[curator]validator@archive.org[/curator][date]20150513114929[/date][comment]checked for malware[/comment]</curation>
-  <identifier-access>http://archive.org/details/GoodFight</identifier-access>
-  <identifier-ark>ark:/13960/t7sn3mw2m</identifier-ark>
-  <ppi>300</ppi>
-  <ocr>ABBYY FineReader 9.0</ocr>
-  <repub_state>4</repub_state>
-  <year>1944</year>
-  <licenseurl>http://creativecommons.org/publicdomain/zero/1.0/</licenseurl>
-  <collection>presidentmanuelquezon</collection>
-  <collection>presidentialmuseumandlibrary</collection>
-  <collection>additional_collections</collection>
-  <backup_location>ia905305_20</backup_location>
-</metadata>
+version https://git-lfs.github.com/spec/v1
+oid sha256:d83972fba32dfa8c54c2ceb09eb98dcc5ed2e6c9860c8830013770a314c2037f
+size 1309

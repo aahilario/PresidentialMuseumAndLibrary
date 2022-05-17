@@ -1,24 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
-  <identifier>ScrapbookClydeTavenner</identifier>
-  <mediatype>texts</mediatype>
-  <collection>presidentialmuseumandlibrary</collection>
-  <creator>Clyde H. Tavenner</creator>
-  <date>1902</date>
-  <description>Scrapbook of Clyde H. Tavenner</description>
-  <language>eng</language>
-  <scanner>Internet Archive HTML5 Uploader 1.6.3</scanner>
-  <subject>Clyde Tavenner</subject>
-  <title>Scrapbook of Clyde H. Tavenner</title>
-  <subject>Scrapbook</subject>
-  <publicdate>2015-07-10 03:14:57</publicdate>
-  <uploader>cheng.bigay@pcdspo.gov.ph</uploader>
-  <addeddate>2015-07-10 03:14:57</addeddate>
-  <collection>additional_collections</collection>
-  <identifier-access>http://archive.org/details/ScrapbookClydeTavenner</identifier-access>
-  <identifier-ark>ark:/13960/t62555g1h</identifier-ark>
-  <ppi>600</ppi>
-  <ocr>ABBYY FineReader 9.0</ocr>
-  <repub_state>4</repub_state>
-  <backup_location>ia905308_2</backup_location>
-</metadata>
+version https://git-lfs.github.com/spec/v1
+oid sha256:f285a5b98a17c76f5259def44e45788d06ca35c597df74e4c849cec4dbf52254
+size 987

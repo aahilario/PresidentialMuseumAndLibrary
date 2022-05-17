@@ -1,23 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<book>
-  <bookData>
-    <dpi>600</dpi>
-    <bookId>letters-basilio-valdes-b-cunanan-restoration-of-postal-service-1945</bookId>
-    <leafCount>1</leafCount>
-  </bookData>
-  <pageData>
-    <page leafNum="0">
-      <pageType>Normal</pageType>
-      <addToAccessFormats>true</addToAccessFormats>
-      <origWidth>4785</origWidth>
-      <origHeight>6407</origHeight>
-      <cropBox>
-        <x>0</x>
-        <y>0</y>
-        <w>4785</w>
-        <h>6407</h>
-      </cropBox>
-      <bookStart>true</bookStart>
-    </page>
-  </pageData>
-</book>
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e05d7f79df3992dc46a6aa05509a1f8375162d16fedb8da8863e7805949ac38
+size 577

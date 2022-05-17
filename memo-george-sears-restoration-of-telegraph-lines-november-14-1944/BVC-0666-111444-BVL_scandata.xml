@@ -1,23 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<book>
-  <bookData>
-    <dpi>600</dpi>
-    <bookId>memo-george-sears-restoration-of-telegraph-lines-november-14-1944</bookId>
-    <leafCount>1</leafCount>
-  </bookData>
-  <pageData>
-    <page leafNum="0">
-      <pageType>Normal</pageType>
-      <addToAccessFormats>true</addToAccessFormats>
-      <origWidth>4861</origWidth>
-      <origHeight>6436</origHeight>
-      <cropBox>
-        <x>0</x>
-        <y>0</y>
-        <w>4861</w>
-        <h>6436</h>
-      </cropBox>
-      <bookStart>true</bookStart>
-    </page>
-  </pageData>
-</book>
+version https://git-lfs.github.com/spec/v1
+oid sha256:f76537b04b2a4bd5cbe9a88a416df440c405df9de16ba61ea554fc5b912d4744
+size 575

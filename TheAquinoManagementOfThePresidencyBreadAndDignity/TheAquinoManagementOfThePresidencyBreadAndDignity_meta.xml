@@ -1,26 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
-  <identifier>TheAquinoManagementOfThePresidencyBreadAndDignity</identifier>
-  <mediatype>texts</mediatype>
-  <collection>presidentialmuseumandlibrary</collection>
-  <creator>Office of the President</creator>
-  <date>1992-06</date>
-  <description>This volume, "Bread and Dignity" attempts to clarify the approach used by Pres. Aquino in providing financial assistance to needy Filipinos. Also, this volume contains the dole-out approach where the President had specifically directed that any form of financial assistance must be seen as an investment rather than plain aid.</description>
-  <language>eng</language>
-  <licenseurl>http://creativecommons.org/licenses/by/4.0/</licenseurl>
-  <scanner>Internet Archive HTML5 Uploader 1.6.3</scanner>
-  <subject>Corazon C. Aquino</subject>
-  <title>The Aquino Management Of The Presidency Bread And Dignity</title>
-  <publicdate>2015-06-08 00:29:24</publicdate>
-  <uploader>cheng.bigay@pcdspo.gov.ph</uploader>
-  <addeddate>2015-06-08 00:29:24</addeddate>
-  <curation>[curator]validator@archive.org[/curator][date]20150608003456[/date][comment]checked for malware[/comment]</curation>
-  <identifier-access>http://archive.org/details/TheAquinoManagementOfThePresidencyBreadAndDignity</identifier-access>
-  <identifier-ark>ark:/13960/t9k398z39</identifier-ark>
-  <ppi>600</ppi>
-  <ocr>ABBYY FineReader 9.0</ocr>
-  <repub_state>4</repub_state>
-  <year>1992</year>
-  <collection>additional_collections</collection>
-  <backup_location>ia905306_24</backup_location>
-</metadata>
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ebf45c55b1fc82060002e02f27000e00f1bb29f76538950825f6d562876bfa7
+size 1566

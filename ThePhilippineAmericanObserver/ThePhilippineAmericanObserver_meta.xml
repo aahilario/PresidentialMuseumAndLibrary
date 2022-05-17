@@ -1,28 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
-  <identifier>ThePhilippineAmericanObserver</identifier>
-  <mediatype>texts</mediatype>
-  <date>1943</date>
-  <description>The Philippine-American Observer&lt;br /&gt;August 1943 Issue&lt;br /&gt;&lt;div&gt;November 1944 Issue&lt;/div&gt;</description>
-  <language>eng</language>
-  <licenseurl>http://creativecommons.org/publicdomain/mark/1.0/</licenseurl>
-  <scanner>Internet Archive HTML5 Uploader 1.6.1</scanner>
-  <subject>Magazine</subject>
-  <title>The Philippine-American Observer</title>
-  <subject>Commonwealth</subject>
-  <subject>Manuel L. Quezon</subject>
-  <subject>Sergio Osmena</subject>
-  <publicdate>2015-05-14 09:57:33</publicdate>
-  <uploader>cheng.bigay@pcdspo.gov.ph</uploader>
-  <addeddate>2015-05-14 09:57:33</addeddate>
-  <curation>[curator]validator@archive.org[/curator][date]20150514100526[/date][comment]checked for malware[/comment]</curation>
-  <identifier-access>http://archive.org/details/ThePhilippineAmericanObserver</identifier-access>
-  <identifier-ark>ark:/13960/t9h455k4t</identifier-ark>
-  <ppi>600</ppi>
-  <ocr>ABBYY FineReader 9.0</ocr>
-  <repub_state>4</repub_state>
-  <collection>presidentmanuelquezon</collection>
-  <collection>presidentialmuseumandlibrary</collection>
-  <collection>additional_collections</collection>
-  <backup_location>ia905305_22</backup_location>
-</metadata>
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b9cc56d7c8d531a62a5c75c8e1b08c3db3627c69f5db0aed3230bfca5cfa2e9
+size 1375

@@ -1,23 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<book>
-  <bookData>
-    <dpi>600</dpi>
-    <bookId>executive-order-no-179-designating-basilio-valdes-chief-of-staff-december-31-1938</bookId>
-    <leafCount>1</leafCount>
-  </bookData>
-  <pageData>
-    <page leafNum="0">
-      <pageType>Normal</pageType>
-      <addToAccessFormats>true</addToAccessFormats>
-      <origWidth>4742</origWidth>
-      <origHeight>6278</origHeight>
-      <cropBox>
-        <x>0</x>
-        <y>0</y>
-        <w>4742</w>
-        <h>6278</h>
-      </cropBox>
-      <bookStart>true</bookStart>
-    </page>
-  </pageData>
-</book>
+version https://git-lfs.github.com/spec/v1
+oid sha256:196a57e9dfe28bf6b7f79d935ec5fa4bc4fe1f6484283d9c9d01969debd357e9
+size 591

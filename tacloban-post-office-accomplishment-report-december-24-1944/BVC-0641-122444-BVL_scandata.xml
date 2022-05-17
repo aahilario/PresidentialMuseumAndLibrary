@@ -1,35 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<book>
-  <bookData>
-    <dpi>600</dpi>
-    <bookId>tacloban-post-office-accomplishment-report-december-24-1944</bookId>
-    <leafCount>2</leafCount>
-  </bookData>
-  <pageData>
-    <page leafNum="0">
-      <pageType>Normal</pageType>
-      <addToAccessFormats>true</addToAccessFormats>
-      <origWidth>4872</origWidth>
-      <origHeight>6370</origHeight>
-      <cropBox>
-        <x>0</x>
-        <y>0</y>
-        <w>4872</w>
-        <h>6370</h>
-      </cropBox>
-      <bookStart>true</bookStart>
-    </page>
-    <page leafNum="1">
-      <pageType>Normal</pageType>
-      <addToAccessFormats>true</addToAccessFormats>
-      <origWidth>5116</origWidth>
-      <origHeight>7855</origHeight>
-      <cropBox>
-        <x>0</x>
-        <y>0</y>
-        <w>5116</w>
-        <h>7855</h>
-      </cropBox>
-    </page>
-  </pageData>
-</book>
+version https://git-lfs.github.com/spec/v1
+oid sha256:9eec8e48d3800808c621227bbf7fa58214d1616e66a76972a23d0c7fd1013498
+size 867

@@ -1,26 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
-  <identifier>PartidoNacionalistaColectivista</identifier>
-  <mediatype>texts</mediatype>
-  <collection>presidentialmuseumandlibrary</collection>
-  <date>1922</date>
-  <description>This book contains the platforms and rules of Partido Nacionalista Colectivista. Its permanent national executive committee was headed by President Manuel L. Quezon.</description>
-  <language>spa</language>
-  <licenseurl>http://creativecommons.org/publicdomain/mark/1.0/</licenseurl>
-  <scanner>Internet Archive HTML5 Uploader 1.6.1</scanner>
-  <subject>Nacionalista</subject>
-  <title>Partido Nacionalista Colectivista</title>
-  <subject>Platforms</subject>
-  <publicdate>2015-05-14 08:38:37</publicdate>
-  <uploader>cheng.bigay@pcdspo.gov.ph</uploader>
-  <addeddate>2015-05-14 08:38:37</addeddate>
-  <curation>[curator]validator@archive.org[/curator][date]20150514085233[/date][comment]checked for malware[/comment]</curation>
-  <identifier-access>http://archive.org/details/PartidoNacionalistaColectivista</identifier-access>
-  <identifier-ark>ark:/13960/t4sj4xb0q</identifier-ark>
-  <ppi>600</ppi>
-  <ocr>ABBYY FineReader 9.0</ocr>
-  <repub_state>4</repub_state>
-  <year>1922</year>
-  <collection>additional_collections</collection>
-  <backup_location>ia905305_22</backup_location>
-</metadata>
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc439bba7923ea3e676b68e0049d751d672ea19da88fe35cb3702cf5edd8e836
+size 1329

@@ -1,28 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
-  <identifier>NationalCommissionOfLaborAndPeasants</identifier>
-  <mediatype>texts</mediatype>
-  <date>1947-09-25</date>
-  <description>This souvenir program of National Commission of Labor and Peasants during the time of Pres. Roxas contains messages, reports, articles related to the programs of National Commission of Labor and Peasants.</description>
-  <language>eng</language>
-  <scanner>Internet Archive HTML5 Uploader 1.6.3</scanner>
-  <subject>souvenir program</subject>
-  <title>National Commission Of Labor And Peasants</title>
-  <subject>National Commission of Labor and Peasants</subject>
-  <subject>Manuel L. Quezon</subject>
-  <publicdate>2015-06-04 07:08:14</publicdate>
-  <uploader>cheng.bigay@pcdspo.gov.ph</uploader>
-  <addeddate>2015-06-04 07:08:14</addeddate>
-  <curation>[curator]validator@archive.org[/curator][date]20150604071352[/date][comment]checked for malware[/comment]</curation>
-  <identifier-access>http://archive.org/details/NationalCommissionOfLaborAndPeasants</identifier-access>
-  <identifier-ark>ark:/13960/t7gr0d825</identifier-ark>
-  <ppi>600</ppi>
-  <ocr>ABBYY FineReader 9.0</ocr>
-  <repub_state>4</repub_state>
-  <year>1947</year>
-  <licenseurl>http://creativecommons.org/licenses/by/4.0/</licenseurl>
-  <collection>presidentmanuelquezon</collection>
-  <collection>presidentialmuseumandlibrary</collection>
-  <collection>additional_collections</collection>
-  <backup_location>ia905306_18</backup_location>
-</metadata>
+version https://git-lfs.github.com/spec/v1
+oid sha256:340d5598d8c3c9b0d7dc0345b8bccae17d2cd40444d5142875ba786c8c5cb650
+size 1509

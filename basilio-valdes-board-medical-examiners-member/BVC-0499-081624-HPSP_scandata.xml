@@ -1,35 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<book>
-  <bookData>
-    <dpi>600</dpi>
-    <bookId>basilio-valdes-board-medical-examiners-member</bookId>
-    <leafCount>2</leafCount>
-  </bookData>
-  <pageData>
-    <page leafNum="0">
-      <pageType>Normal</pageType>
-      <addToAccessFormats>true</addToAccessFormats>
-      <origWidth>4726</origWidth>
-      <origHeight>6255</origHeight>
-      <cropBox>
-        <x>0</x>
-        <y>0</y>
-        <w>4726</w>
-        <h>6255</h>
-      </cropBox>
-      <bookStart>true</bookStart>
-    </page>
-    <page leafNum="1">
-      <pageType>Normal</pageType>
-      <addToAccessFormats>true</addToAccessFormats>
-      <origWidth>4718</origWidth>
-      <origHeight>6262</origHeight>
-      <cropBox>
-        <x>0</x>
-        <y>0</y>
-        <w>4718</w>
-        <h>6262</h>
-      </cropBox>
-    </page>
-  </pageData>
-</book>
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0832f11c3e6660d4e306310aa054d4cbf96d7dc575d3907ce4a73dd65f1dd4b
+size 853

@@ -1,26 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
-  <identifier>FuturePoliticalStatusOfThePeopleOfThePhilippines1915</identifier>
-  <mediatype>texts</mediatype>
-  <collection>presidentialmuseumandlibrary</collection>
-  <date>1915</date>
-  <description>This report was submitted by the Committee on the Philippines. Some of the proposals made were changing the name of the commission to senate, increasing its membership to 24, and allowing Filipinos to elect 22 of its members.</description>
-  <language>eng</language>
-  <licenseurl>http://creativecommons.org/publicdomain/mark/1.0/</licenseurl>
-  <scanner>Internet Archive HTML5 Uploader 1.6.1</scanner>
-  <subject>book</subject>
-  <title>Future Political Status Of The People Of The Philippines</title>
-  <subject>senate</subject>
-  <publicdate>2015-05-13 12:11:53</publicdate>
-  <uploader>cheng.bigay@pcdspo.gov.ph</uploader>
-  <addeddate>2015-05-13 12:11:53</addeddate>
-  <curation>[curator]validator@archive.org[/curator][date]20150513121722[/date][comment]checked for malware[/comment]</curation>
-  <identifier-access>http://archive.org/details/FuturePoliticalStatusOfThePeopleOfThePhilippines1915</identifier-access>
-  <identifier-ark>ark:/13960/t3420dh9k</identifier-ark>
-  <ppi>600</ppi>
-  <ocr>ABBYY FineReader 9.0</ocr>
-  <repub_state>4</repub_state>
-  <collection>additional_collections</collection>
-  <year>1915</year>
-  <backup_location>ia905305_20</backup_location>
-</metadata>
+version https://git-lfs.github.com/spec/v1
+oid sha256:70454207b1c79572e2d99afeead8818dc806ef0518e14f27454e2b7ce1cbb4be
+size 1443

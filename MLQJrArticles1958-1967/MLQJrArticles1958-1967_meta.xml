@@ -1,19 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
-  <identifier>MLQJrArticles1958-1967</identifier>
-  <uploader>cheng.bigay@pcdspo.gov.ph</uploader>
-  <addeddate>2015-05-14 09:28:22.502906</addeddate>
-  <scanner>FTP</scanner>
-  <curation>[curator]validator@archive.org[/curator][date]20150514092949[/date][comment]checked for malware[/comment]</curation>
-  <title>MLQJrArticles1958-1967</title>
-  <mediatype>texts</mediatype>
-  <collection>presidentialmuseumandlibrary</collection>
-  <identifier-access>http://archive.org/details/MLQJrArticles1958-1967</identifier-access>
-  <identifier-ark>ark:/13960/t8tb4mz69</identifier-ark>
-  <ppi>600</ppi>
-  <ocr>ABBYY FineReader 9.0</ocr>
-  <repub_state>4</repub_state>
-  <publicdate>2015-06-18 23:48:39</publicdate>
-  <collection>additional_collections</collection>
-  <backup_location>ia905307_5</backup_location>
-</metadata>
+version https://git-lfs.github.com/spec/v1
+oid sha256:7303ebac530b352e7afa21a4b21f831c5b32aa433f56252f72565e873e20379c
+size 868

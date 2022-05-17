@@ -1,24 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
-  <identifier>PhilippinePressClippingsVol1-1931-1934A</identifier>
-  <mediatype>texts</mediatype>
-  <date>1931</date>
-  <description>&lt;div&gt;This book is a compilation of newspaper clippings from various newspapers such as El Tiempo, Mabuhay, Herald, La Vanguardia, and Tribune among others.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;</description>
-  <language>eng</language>
-  <scanner>Internet Archive HTML5 Uploader 1.6.3</scanner>
-  <subject>clippings</subject>
-  <title>Philippine Press Clippings Volume I (1931-1934 A)</title>
-  <subject>Manuel L. Quezon</subject>
-  <publicdate>2015-10-06 07:09:22</publicdate>
-  <uploader>cheng.bigay@pcdspo.gov.ph</uploader>
-  <addeddate>2015-10-06 07:09:22</addeddate>
-  <identifier-access>http://archive.org/details/PhilippinePressClippingsVol1-1931-1934A</identifier-access>
-  <identifier-ark>ark:/13960/t3808rs2h</identifier-ark>
-  <ppi>600</ppi>
-  <ocr>ABBYY FineReader 11.0</ocr>
-  <repub_state>4</repub_state>
-  <collection>presidentmanuelquezon</collection>
-  <collection>presidentialmuseumandlibrary</collection>
-  <collection>additional_collections</collection>
-  <backup_location>ia905503_4</backup_location>
-</metadata>
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c56c90f3eadc96b1f12c4f0f06177a5a35052539d358f37745fe6c25b728fe0
+size 1231

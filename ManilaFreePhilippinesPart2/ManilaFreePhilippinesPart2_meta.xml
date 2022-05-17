@@ -1,27 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
-  <identifier>ManilaFreePhilippinesPart2</identifier>
-  <mediatype>texts</mediatype>
-  <collection>presidentialmuseumandlibrary</collection>
-  <date>1945</date>
-  <description>2nd part of Manila Free Philippines, a collection of newspapers during World War II.</description>
-  <language>eng</language>
-  <licenseurl>http://creativecommons.org/licenses/by-nc/4.0/</licenseurl>
-  <scanner>Internet Archive HTML5 Uploader 1.6.3</scanner>
-  <subject>World War II</subject>
-  <title>Manila Free Philippines Part 2</title>
-  <subject>newspapers</subject>
-  <subject>clippings</subject>
-  <publicdate>2015-05-30 10:28:15</publicdate>
-  <uploader>cheng.bigay@pcdspo.gov.ph</uploader>
-  <addeddate>2015-05-30 10:28:15</addeddate>
-  <curation>[curator]validator@archive.org[/curator][date]20150530102850[/date][comment]checked for malware[/comment]</curation>
-  <identifier-access>http://archive.org/details/ManilaFreePhilippinesPart2</identifier-access>
-  <identifier-ark>ark:/13960/t6j13hw93</identifier-ark>
-  <ppi>600</ppi>
-  <ocr>ABBYY FineReader 9.0</ocr>
-  <repub_state>4</repub_state>
-  <collection>additional_collections</collection>
-  <year>1945</year>
-  <backup_location>ia905306_10</backup_location>
-</metadata>
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3636206203883fc460c2c775f3a04c2c5e8d40879e664a2e468d3f0e9454241
+size 1264

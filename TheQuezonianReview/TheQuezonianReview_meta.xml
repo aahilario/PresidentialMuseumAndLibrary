@@ -1,27 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
-  <identifier>TheQuezonianReview</identifier>
-  <mediatype>texts</mediatype>
-  <date>1947-09</date>
-  <description>This vol.1 no. 10 issue of “The Quezonian Review” magazine contains documents on The Huks and Dr. Laurel collaborations etc., profiles of Quezon and Osmeña, articles about chaos in Pampanga and features on history, arts, and fashion.</description>
-  <language>eng</language>
-  <licenseurl>http://creativecommons.org/licenses/by-nc-sa/3.0/</licenseurl>
-  <scanner>Internet Archive HTML5 Uploader 1.6.3</scanner>
-  <subject>Manuel L. Quezon</subject>
-  <title>The Quezonian Review</title>
-  <subject>magazines</subject>
-  <publicdate>2015-05-31 11:48:12</publicdate>
-  <uploader>cheng.bigay@pcdspo.gov.ph</uploader>
-  <addeddate>2015-05-31 11:48:12</addeddate>
-  <curation>[curator]validator@archive.org[/curator][date]20150531114836[/date][comment]checked for malware[/comment]</curation>
-  <identifier-access>http://archive.org/details/TheQuezonianReview</identifier-access>
-  <identifier-ark>ark:/13960/t0bw0z95w</identifier-ark>
-  <ppi>600</ppi>
-  <ocr>ABBYY FineReader 9.0</ocr>
-  <repub_state>4</repub_state>
-  <year>1947</year>
-  <collection>presidentmanuelquezon</collection>
-  <collection>presidentialmuseumandlibrary</collection>
-  <collection>additional_collections</collection>
-  <backup_location>ia905306_12</backup_location>
-</metadata>
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4e3d7ece53b87bfe796e40590c9138d68bbd922186475afc0c4302cfcda0066
+size 1419

@@ -1,18 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
-  <identifier>ill-live-again-aurelio-estanislao</identifier>
-  <mediatype>texts</mediatype>
-  <collection>presidentialmuseumandlibrary</collection>
-  <description>by Aurelio Estanislao</description>
-  <scanner>Internet Archive HTML5 Uploader 1.6.3</scanner>
-  <subject>audio</subject>
-  <title>I’ll Live Again </title>
-  <publicdate>2016-07-03 10:56:39</publicdate>
-  <uploader>chengbigay@gmail.com</uploader>
-  <addeddate>2016-07-03 10:56:39</addeddate>
-  <collection>additional_collections</collection>
-  <identifier-access>http://archive.org/details/ill-live-again-aurelio-estanislao</identifier-access>
-  <identifier-ark>ark:/13960/t13n75q2n</identifier-ark>
-  <repub_state>4</repub_state>
-  <backup_location>ia906201_26</backup_location>
-</metadata>
+version https://git-lfs.github.com/spec/v1
+oid sha256:275f5cb55fa4bb2ebe67c361b3d2202ea2ca7f7123952a810f9b222ab5ca2982
+size 807

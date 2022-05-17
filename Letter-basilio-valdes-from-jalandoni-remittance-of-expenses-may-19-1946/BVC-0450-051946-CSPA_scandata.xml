@@ -1,23 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<book>
-  <bookData>
-    <dpi>600</dpi>
-    <bookId>Letter-basilio-valdes-from-jalandoni-remittance-of-expenses-may-19-1946</bookId>
-    <leafCount>1</leafCount>
-  </bookData>
-  <pageData>
-    <page leafNum="0">
-      <pageType>Normal</pageType>
-      <addToAccessFormats>true</addToAccessFormats>
-      <origWidth>4793</origWidth>
-      <origHeight>6391</origHeight>
-      <cropBox>
-        <x>0</x>
-        <y>0</y>
-        <w>4793</w>
-        <h>6391</h>
-      </cropBox>
-      <bookStart>true</bookStart>
-    </page>
-  </pageData>
-</book>
+version https://git-lfs.github.com/spec/v1
+oid sha256:5dffdf313bad043eb4d65a0a49e85ab7f34f00220c680257e91e7ad71c90effa
+size 581

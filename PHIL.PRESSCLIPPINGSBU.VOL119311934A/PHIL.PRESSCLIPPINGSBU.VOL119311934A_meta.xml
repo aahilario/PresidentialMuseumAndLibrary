@@ -1,25 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
-  <identifier>PHIL.PRESSCLIPPINGSBU.VOL119311934A</identifier>
-  <mediatype>texts</mediatype>
-  <collection>presidentialmuseumandlibrary</collection>
-  <scanner>Internet Archive HTML5 Uploader 1.6.1</scanner>
-  <subject>Philippine Press Clippings</subject>
-  <title>Philippine Press Clippings Volume I-A (1931-1934)</title>
-  <publicdate>2015-05-14 05:08:54</publicdate>
-  <uploader>cheng.bigay@pcdspo.gov.ph</uploader>
-  <addeddate>2015-05-14 05:08:54</addeddate>
-  <curation>[curator]validator@archive.org[/curator][date]20150514050944[/date][comment]checked for malware[/comment]</curation>
-  <language>English</language>
-  <identifier-access>http://archive.org/details/PHIL.PRESSCLIPPINGSBU.VOL119311934A</identifier-access>
-  <identifier-ark>ark:/13960/t0rr58x7w</identifier-ark>
-  <ppi>600</ppi>
-  <ocr>ABBYY FineReader 9.0</ocr>
-  <repub_state>4</repub_state>
-  <collection>additional_collections</collection>
-  <licenseurl>http://creativecommons.org/licenses/by-nc/4.0/</licenseurl>
-  <date>1931</date>
-  <year>1931</year>
-  <description>This book is a compilation of newspaper clippings from various newspapers such as El Tiempo, Mabuhay, Herald, La Vanguardia,  and Tribune among others</description>
-  <backup_location>ia905305_22</backup_location>
-</metadata>
+version https://git-lfs.github.com/spec/v1
+oid sha256:93a023824594b453667e1678fc42129992def4639f54122258c6277ee9bfe190
+size 1322

@@ -1,25 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
-  <identifier>BastionDeSanDiego</identifier>
-  <mediatype>texts</mediatype>
-  <collection>presidentialmuseumandlibrary</collection>
-  <creator>Esperanza B. Gatbonton</creator>
-  <date>1985</date>
-  <description>Bastion de San Diego is located on the southern tip of  Manila's walled fortification. </description>
-  <language>eng</language>
-  <scanner>Internet Archive HTML5 Uploader 1.6.3</scanner>
-  <subject>Intramuros</subject>
-  <title>Bastion De San Diego</title>
-  <subject>excavation</subject>
-  <publicdate>2015-06-17 04:46:24</publicdate>
-  <uploader>cheng.bigay@pcdspo.gov.ph</uploader>
-  <addeddate>2015-06-17 04:46:24</addeddate>
-  <curation>[curator]validator@archive.org[/curator][date]20150617044647[/date][comment]checked for malware[/comment]</curation>
-  <identifier-access>http://archive.org/details/BastionDeSanDiego</identifier-access>
-  <identifier-ark>ark:/13960/t8qc3j53r</identifier-ark>
-  <ppi>600</ppi>
-  <ocr>ABBYY FineReader 9.0</ocr>
-  <repub_state>4</repub_state>
-  <collection>additional_collections</collection>
-  <backup_location>ia905307_2</backup_location>
-</metadata>
+version https://git-lfs.github.com/spec/v1
+oid sha256:d071a1bd0c759451b974f89a80fe877c1d8627be4dd57445ddd64e39e166edaa
+size 1157

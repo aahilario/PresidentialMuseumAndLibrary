@@ -1,28 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
-  <identifier>InaugurationProgramQuezon</identifier>
-  <mediatype>texts</mediatype>
-  <creator>Inauguration Committee</creator>
-  <date>1935-11-15</date>
-  <description>Official Program of the Inauguration of Quezon</description>
-  <language>eng</language>
-  <scanner>Internet Archive HTML5 Uploader 1.6.3</scanner>
-  <subject>Manuel L. Quezon</subject>
-  <title>Official Program of the Inauguration of Quezon</title>
-  <subject>Sergio Osmeña</subject>
-  <subject>Commonwealth</subject>
-  <publicdate>2015-07-19 11:38:07</publicdate>
-  <uploader>cheng.bigay@pcdspo.gov.ph</uploader>
-  <addeddate>2015-07-19 11:38:07</addeddate>
-  <identifier-access>http://archive.org/details/InaugurationProgramQuezon</identifier-access>
-  <identifier-ark>ark:/13960/t54f5bp2v</identifier-ark>
-  <ppi>600</ppi>
-  <ocr>ABBYY FineReader 9.0</ocr>
-  <repub_state>4</repub_state>
-  <year>1935</year>
-  <licenseurl>http://creativecommons.org/licenses/by/4.0/</licenseurl>
-  <collection>presidentmanuelquezon</collection>
-  <collection>presidentialmuseumandlibrary</collection>
-  <collection>additional_collections</collection>
-  <backup_location>ia905308_17</backup_location>
-</metadata>
+version https://git-lfs.github.com/spec/v1
+oid sha256:01c594c2f3f5f85d863c72802e86047bb1077b6ddde696e938bc0920d55fc3dc
+size 1218

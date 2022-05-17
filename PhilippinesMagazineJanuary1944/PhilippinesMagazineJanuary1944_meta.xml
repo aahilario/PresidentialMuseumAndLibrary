@@ -1,25 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
-  <identifier>PhilippinesMagazineJanuary1944</identifier>
-  <mediatype>texts</mediatype>
-  <collection>presidentialmuseumandlibrary</collection>
-  <date>1944-01</date>
-  <description>The January 1944 issue of Philippines Magazine features the speech delivered by President Manuel L. Quezon before the Herald Tribune forum in New York, Carlos P. Romulo’s I Am a Filipino, and Filipinos in the U.S. Armed Forces by James G. Wingo, among others.</description>
-  <language>eng</language>
-  <licenseurl>http://creativecommons.org/publicdomain/mark/1.0/</licenseurl>
-  <scanner>Internet Archive HTML5 Uploader 1.6.1</scanner>
-  <subject>Magazines</subject>
-  <title>Philippines Magazine January 1944</title>
-  <publicdate>2015-05-12 15:15:11</publicdate>
-  <uploader>cheng.bigay@pcdspo.gov.ph</uploader>
-  <addeddate>2015-05-12 15:15:11</addeddate>
-  <curation>[curator]validator@archive.org[/curator][date]20150512151602[/date][comment]checked for malware[/comment]</curation>
-  <identifier-access>http://archive.org/details/PhilippinesMagazineJanuary1944</identifier-access>
-  <identifier-ark>ark:/13960/t24b6hk9g</identifier-ark>
-  <ppi>600</ppi>
-  <ocr>ABBYY FineReader 9.0</ocr>
-  <repub_state>4</repub_state>
-  <year>1944</year>
-  <collection>additional_collections</collection>
-  <backup_location>ia905305_19</backup_location>
-</metadata>
+version https://git-lfs.github.com/spec/v1
+oid sha256:f27f186e5ce1771773718cd283f6a5ccebe3045c8f9473fe1e2db7de8199d5c1
+size 1392

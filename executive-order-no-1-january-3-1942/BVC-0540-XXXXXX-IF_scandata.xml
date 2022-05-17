@@ -1,35 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<book>
-  <bookData>
-    <dpi>600</dpi>
-    <bookId>executive-order-no-1-january-3-1942</bookId>
-    <leafCount>2</leafCount>
-  </bookData>
-  <pageData>
-    <page leafNum="0">
-      <pageType>Normal</pageType>
-      <addToAccessFormats>true</addToAccessFormats>
-      <origWidth>4716</origWidth>
-      <origHeight>6212</origHeight>
-      <cropBox>
-        <x>0</x>
-        <y>0</y>
-        <w>4716</w>
-        <h>6212</h>
-      </cropBox>
-      <bookStart>true</bookStart>
-    </page>
-    <page leafNum="1">
-      <pageType>Normal</pageType>
-      <addToAccessFormats>true</addToAccessFormats>
-      <origWidth>4665</origWidth>
-      <origHeight>6236</origHeight>
-      <cropBox>
-        <x>0</x>
-        <y>0</y>
-        <w>4665</w>
-        <h>6236</h>
-      </cropBox>
-    </page>
-  </pageData>
-</book>
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f1df494c94b28b6a8a22e4d2f93b9d22a42c9567e21002922a598f9d7723ee5
+size 843

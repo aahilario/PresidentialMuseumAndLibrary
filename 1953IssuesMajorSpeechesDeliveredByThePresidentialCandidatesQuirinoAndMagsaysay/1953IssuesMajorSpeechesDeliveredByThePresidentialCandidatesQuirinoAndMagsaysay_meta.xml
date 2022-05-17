@@ -1,27 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
-  <identifier>1953IssuesMajorSpeechesDeliveredByThePresidentialCandidatesQuirinoAndMagsaysay</identifier>
-  <mediatype>texts</mediatype>
-  <collection>presidentialmuseumandlibrary</collection>
-  <date>1953</date>
-  <description>This booklet includes major speeches delivered by the presidential candidates, President Elpidio Quirino, and former Defense Secretary Ramon Magsaysay at the University of the East.</description>
-  <language>eng</language>
-  <licenseurl>http://creativecommons.org/publicdomain/mark/1.0/</licenseurl>
-  <scanner>Internet Archive HTML5 Uploader 1.6.1</scanner>
-  <subject>University of The East</subject>
-  <title>The 1953 Issues</title>
-  <subject>Ramon Magsaysay</subject>
-  <subject>Elpidio Quirino</subject>
-  <publicdate>2015-05-12 13:37:02</publicdate>
-  <uploader>cheng.bigay@pcdspo.gov.ph</uploader>
-  <addeddate>2015-05-12 13:37:02</addeddate>
-  <curation>[curator]validator@archive.org[/curator][date]20150512134229[/date][comment]checked for malware[/comment]</curation>
-  <identifier-access>http://archive.org/details/1953IssuesMajorSpeechesDeliveredByThePresidentialCandidatesQuirinoAndMagsaysay</identifier-access>
-  <identifier-ark>ark:/13960/t04x8qs5s</identifier-ark>
-  <ppi>600</ppi>
-  <ocr>ABBYY FineReader 9.0</ocr>
-  <repub_state>4</repub_state>
-  <year>1953</year>
-  <collection>additional_collections</collection>
-  <backup_location>ia905305_19</backup_location>
-</metadata>
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b07f5625b6fc38635ff874f269a594c9aaa5257bfbcac5e9f8917ef2c8b59a2
+size 1474

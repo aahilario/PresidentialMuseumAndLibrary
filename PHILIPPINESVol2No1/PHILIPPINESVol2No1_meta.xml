@@ -1,26 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
-  <identifier>PHILIPPINESVol2No1</identifier>
-  <mediatype>texts</mediatype>
-  <collection>presidentialmuseumandlibrary</collection>
-  <date>1942</date>
-  <description>Philippines Magazine Volume 2 No. 1</description>
-  <language>eng</language>
-  <licenseurl>http://creativecommons.org/licenses/by/4.0/</licenseurl>
-  <scanner>Internet Archive HTML5 Uploader 1.6.1</scanner>
-  <subject>Magazine</subject>
-  <title>Philippines Magazine Vol. 2 No. 1 (August 1942)</title>
-  <publicdate>2015-05-13 05:53:30</publicdate>
-  <uploader>cheng.bigay@pcdspo.gov.ph</uploader>
-  <addeddate>2015-05-13 05:53:30</addeddate>
-  <curation>[curator]validator@archive.org[/curator][date]20150513055908[/date][comment]checked for malware[/comment]</curation>
-  <identifier-access>http://archive.org/details/PHILIPPINESVol2No1</identifier-access>
-  <identifier-ark>ark:/13960/t0qr8805n</identifier-ark>
-  <ppi>600</ppi>
-  <ocr>ABBYY FineReader 9.0</ocr>
-  <repub_state>4</repub_state>
-  <collection>additional_collections</collection>
-  <year>1942</year>
-  <year>1940</year>
-  <backup_location>ia905305_20</backup_location>
-</metadata>
+version https://git-lfs.github.com/spec/v1
+oid sha256:d67233c94203b0a80f7cae77acd482f987269507c3b0efe03f47c7dbb23fa60f
+size 1166

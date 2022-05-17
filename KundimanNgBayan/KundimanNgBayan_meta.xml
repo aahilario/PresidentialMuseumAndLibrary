@@ -1,26 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
-  <identifier>KundimanNgBayan</identifier>
-  <mediatype>texts</mediatype>
-  <collection>presidentialmuseumandlibrary</collection>
-  <date>1943-11-30</date>
-  <description>Kundiman is an art song genre with poetical lyrics. 
-“Mutya ng Silangan” by Amado V. Hernandez is featured in this booklet.</description>
-  <licenseurl>http://creativecommons.org/publicdomain/mark/1.0/</licenseurl>
-  <scanner>Internet Archive HTML5 Uploader 1.6.1</scanner>
-  <subject>Music sheets</subject>
-  <title>Kundiman Ng Bayan</title>
-  <publicdate>2015-05-14 08:02:37</publicdate>
-  <uploader>cheng.bigay@pcdspo.gov.ph</uploader>
-  <addeddate>2015-05-14 08:02:37</addeddate>
-  <curation>[curator]validator@archive.org[/curator][date]20150514080826[/date][comment]checked for malware[/comment]</curation>
-  <language>Filipino</language>
-  <identifier-access>http://archive.org/details/KundimanNgBayan</identifier-access>
-  <identifier-ark>ark:/13960/t9186r28g</identifier-ark>
-  <ppi>600</ppi>
-  <ocr>ABBYY FineReader 9.0</ocr>
-  <repub_state>4</repub_state>
-  <year>1943</year>
-  <collection>additional_collections</collection>
-  <backup_location>ia905305_22</backup_location>
-</metadata>
+version https://git-lfs.github.com/spec/v1
+oid sha256:4577f50403d90045a123c0b34ba69fb9d5cef42618adf928602568648c52b5be
+size 1223

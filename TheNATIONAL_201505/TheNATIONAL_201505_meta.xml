@@ -1,27 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
-  <identifier>TheNATIONAL_201505</identifier>
-  <mediatype>texts</mediatype>
-  <collection>presidentialmuseumandlibrary</collection>
-  <creator>National University </creator>
-  <date>1948-10-14</date>
-  <description>This official school newspaper of National University published on October 14, 1948, vol, 16, no. 6 contains articles on University’s activities, events, and other school related articles.</description>
-  <language>eng</language>
-  <scanner>Internet Archive HTML5 Uploader 1.6.3</scanner>
-  <subject>Mariano F. Jhocson</subject>
-  <title>The NATIONAL, October 14, 1948.</title>
-  <subject>newspapers</subject>
-  <subject>National University</subject>
-  <publicdate>2015-05-31 11:38:31</publicdate>
-  <uploader>cheng.bigay@pcdspo.gov.ph</uploader>
-  <addeddate>2015-05-31 11:38:31</addeddate>
-  <curation>[curator]validator@archive.org[/curator][date]20150531114404[/date][comment]checked for malware[/comment]</curation>
-  <identifier-access>http://archive.org/details/TheNATIONAL_201505</identifier-access>
-  <identifier-ark>ark:/13960/t46q5f72c</identifier-ark>
-  <ppi>600</ppi>
-  <ocr>ABBYY FineReader 9.0</ocr>
-  <repub_state>4</repub_state>
-  <collection>additional_collections</collection>
-  <year>1948</year>
-  <backup_location>ia905306_12</backup_location>
-</metadata>
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3df7a60e1f74d810d9c886b9cfcbef44d716c6456bb8542daa916f83e86a3f5
+size 1345

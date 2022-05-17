@@ -1,35 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<book>
-  <bookData>
-    <dpi>600</dpi>
-    <bookId>tomas-cabili-speech-in-camp-murphy</bookId>
-    <leafCount>2</leafCount>
-  </bookData>
-  <pageData>
-    <page leafNum="0">
-      <pageType>Normal</pageType>
-      <addToAccessFormats>true</addToAccessFormats>
-      <origWidth>4746</origWidth>
-      <origHeight>5408</origHeight>
-      <cropBox>
-        <x>0</x>
-        <y>0</y>
-        <w>4746</w>
-        <h>5408</h>
-      </cropBox>
-      <bookStart>true</bookStart>
-    </page>
-    <page leafNum="1">
-      <pageType>Normal</pageType>
-      <addToAccessFormats>true</addToAccessFormats>
-      <origWidth>4815</origWidth>
-      <origHeight>6336</origHeight>
-      <cropBox>
-        <x>0</x>
-        <y>0</y>
-        <w>4815</w>
-        <h>6336</h>
-      </cropBox>
-    </page>
-  </pageData>
-</book>
+version https://git-lfs.github.com/spec/v1
+oid sha256:c73183193f1e6bc290c61b912eba25efed50253955092c677f3b6992abb69f93
+size 842

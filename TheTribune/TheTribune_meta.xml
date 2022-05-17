@@ -1,27 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
-  <identifier>TheTribune</identifier>
-  <mediatype>texts</mediatype>
-  <collection>presidentialmuseumandlibrary</collection>
-  <creator>The Tribune</creator>
-  <date>1942</date>
-  <description>A collection of The Tribune during World War II in the Philippines</description>
-  <language>eng</language>
-  <scanner>Internet Archive HTML5 Uploader 1.6.3</scanner>
-  <subject>The Tribune</subject>
-  <title>The Tribune - World War II</title>
-  <subject>World War II</subject>
-  <subject>Japanese Occupation</subject>
-  <subject>Fall of Bataan</subject>
-  <publicdate>2015-06-08 02:04:02</publicdate>
-  <uploader>cheng.bigay@pcdspo.gov.ph</uploader>
-  <addeddate>2015-06-08 02:04:02</addeddate>
-  <curation>[curator]validator@archive.org[/curator][date]20150608020426[/date][comment]checked for malware[/comment]</curation>
-  <identifier-access>http://archive.org/details/TheTribune</identifier-access>
-  <identifier-ark>ark:/13960/t5z64189s</identifier-ark>
-  <ppi>600</ppi>
-  <ocr>ABBYY FineReader 9.0</ocr>
-  <repub_state>4</repub_state>
-  <collection>additional_collections</collection>
-  <backup_location>ia905306_24</backup_location>
-</metadata>
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4bf3a0a7e4695be0d5aaf569d115b22fdf103ff25adb024fca5de78410b6a30
+size 1196

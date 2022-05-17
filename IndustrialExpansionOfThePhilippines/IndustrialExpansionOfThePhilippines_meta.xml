@@ -1,26 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
-  <identifier>IndustrialExpansionOfThePhilippines</identifier>
-  <mediatype>texts</mediatype>
-  <date>1943-05-15</date>
-  <description>This report on industrial expansion of the Philippines was submitted to President Manuel L. Quezon. It includes proposal on Philippine corporation for industrial expansion or its industrialization program.</description>
-  <language>eng</language>
-  <licenseurl>http://creativecommons.org/publicdomain/mark/1.0/</licenseurl>
-  <scanner>Internet Archive HTML5 Uploader 1.6.1</scanner>
-  <subject>Manuel L. Quezon</subject>
-  <title>Industrial Expansion Of The Philippines</title>
-  <publicdate>2015-05-14 07:57:32</publicdate>
-  <uploader>cheng.bigay@pcdspo.gov.ph</uploader>
-  <addeddate>2015-05-14 07:57:32</addeddate>
-  <curation>[curator]validator@archive.org[/curator][date]20150514080327[/date][comment]checked for malware[/comment]</curation>
-  <identifier-access>http://archive.org/details/IndustrialExpansionOfThePhilippines</identifier-access>
-  <identifier-ark>ark:/13960/t2x38765s</identifier-ark>
-  <ppi>600</ppi>
-  <ocr>ABBYY FineReader 9.0</ocr>
-  <repub_state>4</repub_state>
-  <year>1943</year>
-  <collection>presidentmanuelquezon</collection>
-  <collection>presidentialmuseumandlibrary</collection>
-  <collection>additional_collections</collection>
-  <backup_location>ia905305_22</backup_location>
-</metadata>
+version https://git-lfs.github.com/spec/v1
+oid sha256:e95eb13f19b0142cfef886ee192d539f063dede6c31385b189ecafc1c4f823f1
+size 1411

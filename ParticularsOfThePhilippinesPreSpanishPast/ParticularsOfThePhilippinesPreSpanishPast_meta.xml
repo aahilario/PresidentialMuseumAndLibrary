@@ -1,26 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
-  <identifier>ParticularsOfThePhilippinesPreSpanishPast</identifier>
-  <mediatype>texts</mediatype>
-  <collection>presidentialmuseumandlibrary</collection>
-  <creator>Austin Craig</creator>
-  <date>1916</date>
-  <description>This book features historical accounts on the Philippines before the Spanish colonization. It includes articles on Chinese knowledge of the Philippines in the third century, Marco Polo’s reference to Sulu, and the Discovery of Mindanao among others.</description>
-  <language>eng</language>
-  <licenseurl>http://creativecommons.org/publicdomain/mark/1.0/</licenseurl>
-  <scanner>Internet Archive HTML5 Uploader 1.6.1</scanner>
-  <subject>Pre-Spanish</subject>
-  <title>Particulars Of The Philippines' Pre Spanish Past</title>
-  <publicdate>2015-05-14 08:36:23</publicdate>
-  <uploader>cheng.bigay@pcdspo.gov.ph</uploader>
-  <addeddate>2015-05-14 08:36:23</addeddate>
-  <curation>[curator]validator@archive.org[/curator][date]20150514084903[/date][comment]checked for malware[/comment]</curation>
-  <identifier-access>http://archive.org/details/ParticularsOfThePhilippinesPreSpanishPast</identifier-access>
-  <identifier-ark>ark:/13960/t2j70wc9r</identifier-ark>
-  <ppi>600</ppi>
-  <ocr>ABBYY FineReader 9.0</ocr>
-  <repub_state>4</repub_state>
-  <collection>additional_collections</collection>
-  <year>1916</year>
-  <backup_location>ia905305_22</backup_location>
-</metadata>
+version https://git-lfs.github.com/spec/v1
+oid sha256:81c98fd39695449e3fef1dcf2be491a510b2c8b8e90ec143b21e0e2e68b995ab
+size 1452

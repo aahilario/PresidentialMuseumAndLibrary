@@ -1,23 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<book>
-  <bookData>
-    <dpi>600</dpi>
-    <bookId>letters-wayne-kaufman-military-merit-medal-july-1-1945</bookId>
-    <leafCount>1</leafCount>
-  </bookData>
-  <pageData>
-    <page leafNum="0">
-      <pageType>Normal</pageType>
-      <addToAccessFormats>true</addToAccessFormats>
-      <origWidth>4844</origWidth>
-      <origHeight>4009</origHeight>
-      <cropBox>
-        <x>0</x>
-        <y>0</y>
-        <w>4844</w>
-        <h>4009</h>
-      </cropBox>
-      <bookStart>true</bookStart>
-    </page>
-  </pageData>
-</book>
+version https://git-lfs.github.com/spec/v1
+oid sha256:9923c632b446fac1f6ca26b9708cdd25af8295159f33906e49f1cb69521e1b2a
+size 564

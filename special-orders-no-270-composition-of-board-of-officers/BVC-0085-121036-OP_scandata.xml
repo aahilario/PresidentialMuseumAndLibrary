@@ -1,23 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<book>
-  <bookData>
-    <dpi>600</dpi>
-    <bookId>special-orders-no-270-composition-of-board-of-officers</bookId>
-    <leafCount>1</leafCount>
-  </bookData>
-  <pageData>
-    <page leafNum="0">
-      <pageType>Normal</pageType>
-      <addToAccessFormats>true</addToAccessFormats>
-      <origWidth>4657</origWidth>
-      <origHeight>6374</origHeight>
-      <cropBox>
-        <x>0</x>
-        <y>0</y>
-        <w>4657</w>
-        <h>6374</h>
-      </cropBox>
-      <bookStart>true</bookStart>
-    </page>
-  </pageData>
-</book>
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e2624f45dba89f00610bb8d51b77b593c64bc9f8ce391c3707177bd8105c83e
+size 564

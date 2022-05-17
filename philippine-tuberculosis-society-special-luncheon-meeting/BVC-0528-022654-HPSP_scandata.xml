@@ -1,23 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<book>
-  <bookData>
-    <dpi>600</dpi>
-    <bookId>philippine-tuberculosis-society-special-luncheon-meeting</bookId>
-    <leafCount>1</leafCount>
-  </bookData>
-  <pageData>
-    <page leafNum="0">
-      <pageType>Normal</pageType>
-      <addToAccessFormats>true</addToAccessFormats>
-      <origWidth>5072</origWidth>
-      <origHeight>6685</origHeight>
-      <cropBox>
-        <x>0</x>
-        <y>0</y>
-        <w>5072</w>
-        <h>6685</h>
-      </cropBox>
-      <bookStart>true</bookStart>
-    </page>
-  </pageData>
-</book>
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d70ccf1e3d5671a82fd4ec7cb94a3fae41dd607b33113eeb0a50526c869f5a8
+size 566

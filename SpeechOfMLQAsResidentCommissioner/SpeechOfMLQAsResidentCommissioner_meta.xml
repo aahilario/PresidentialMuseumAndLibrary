@@ -1,28 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
-  <identifier>SpeechOfMLQAsResidentCommissioner</identifier>
-  <mediatype>texts</mediatype>
-  <creator>Lucio B. Carrasco</creator>
-  <date>1907</date>
-  <description>This document is a compilation of President Manuel L Quezon’s speeches when he was a resident commissioner from 1907- 1919. It was compiled by Lucio B. Carrasco.</description>
-  <language>eng</language>
-  <licenseurl>http://creativecommons.org/publicdomain/zero/1.0/</licenseurl>
-  <scanner>Internet Archive HTML5 Uploader 1.6.1</scanner>
-  <subject>Manuel L. Quezon</subject>
-  <title>Speech Of Manuel L. Quezon As Resident Commissioner</title>
-  <subject>Resident Commissioner</subject>
-  <publicdate>2015-05-14 09:30:06</publicdate>
-  <uploader>cheng.bigay@pcdspo.gov.ph</uploader>
-  <addeddate>2015-05-14 09:30:06</addeddate>
-  <curation>[curator]validator@archive.org[/curator][date]20150514093334[/date][comment]checked for malware[/comment]</curation>
-  <identifier-access>http://archive.org/details/SpeechOfMLQAsResidentCommissioner</identifier-access>
-  <identifier-ark>ark:/13960/t5p87qj33</identifier-ark>
-  <ppi>600</ppi>
-  <ocr>ABBYY FineReader 9.0</ocr>
-  <repub_state>4</repub_state>
-  <year>1907</year>
-  <collection>presidentmanuelquezon</collection>
-  <collection>presidentialmuseumandlibrary</collection>
-  <collection>additional_collections</collection>
-  <backup_location>ia905305_22</backup_location>
-</metadata>
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ef107aa17d2afa1b7413243af225287d03cb234e229e223ef6a7d2699dd0aa7
+size 1453

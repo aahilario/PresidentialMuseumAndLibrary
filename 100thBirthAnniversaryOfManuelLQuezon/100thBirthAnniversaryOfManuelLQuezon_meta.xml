@@ -1,26 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
-  <identifier>100thBirthAnniversaryOfManuelLQuezon</identifier>
-  <mediatype>texts</mediatype>
-  <date>1978</date>
-  <description>This book was part of the 1978 Manuel L. Quezon Souvenir Program spearheaded by the 1978 MLQ Centennial Committee. It features Manuel L. Quezon’s biography, his notable achievements, MLQ Code of Ethics and Citizenship, and some memoirs.</description>
-  <language>eng</language>
-  <licenseurl>http://creativecommons.org/publicdomain/mark/1.0/</licenseurl>
-  <scanner>Internet Archive HTML5 Uploader 1.6.1</scanner>
-  <subject>Manuel L. Quezon, Souvenir Program</subject>
-  <title>100th Birth Anniversary of Manuel L. Quezon</title>
-  <publicdate>2015-05-12 13:24:37</publicdate>
-  <uploader>cheng.bigay@pcdspo.gov.ph</uploader>
-  <addeddate>2015-05-12 13:24:37</addeddate>
-  <curation>[curator]validator@archive.org[/curator][date]20150512133523[/date][comment]checked for malware[/comment]</curation>
-  <identifier-access>http://archive.org/details/100thBirthAnniversaryOfManuelLQuezon</identifier-access>
-  <identifier-ark>ark:/13960/t3323cm1g</identifier-ark>
-  <ppi>600</ppi>
-  <ocr>ABBYY FineReader 9.0</ocr>
-  <repub_state>4</repub_state>
-  <year>1978</year>
-  <collection>presidentmanuelquezon</collection>
-  <collection>presidentialmuseumandlibrary</collection>
-  <collection>additional_collections</collection>
-  <backup_location>ia905305_19</backup_location>
-</metadata>
+version https://git-lfs.github.com/spec/v1
+oid sha256:02a35b74fa7cbe17ebeaa66fccf5faab5318f77f17728e77c89188329468359a
+size 1462

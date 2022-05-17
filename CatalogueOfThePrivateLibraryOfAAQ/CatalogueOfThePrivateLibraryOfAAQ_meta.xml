@@ -1,25 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
-  <identifier>CatalogueOfThePrivateLibraryOfAAQ</identifier>
-  <mediatype>texts</mediatype>
-  <collection>presidentialmuseumandlibrary</collection>
-  <date>1937</date>
-  <description>This catalog is a list of record of all the books in the private library of Mrs. Aurora Quezon. The books are arranged alphabetically by the authors’ names. Each book is listed by giving in order its authors, title, and place and date of publications followed by its call number.</description>
-  <language>eng</language>
-  <licenseurl>http://creativecommons.org/licenses/by-nc-sa/3.0/</licenseurl>
-  <scanner>Internet Archive HTML5 Uploader 1.6.3</scanner>
-  <subject>Aurora Quezon</subject>
-  <title>Catalogue of the Private Library of Mrs. Aurora Quezon</title>
-  <publicdate>2015-05-31 11:15:20</publicdate>
-  <uploader>cheng.bigay@pcdspo.gov.ph</uploader>
-  <addeddate>2015-05-31 11:15:20</addeddate>
-  <curation>[curator]validator@archive.org[/curator][date]20150531111544[/date][comment]checked for malware[/comment]</curation>
-  <identifier-access>http://archive.org/details/CatalogueOfThePrivateLibraryOfAAQ</identifier-access>
-  <identifier-ark>ark:/13960/t7zk8tg2g</identifier-ark>
-  <ppi>600</ppi>
-  <ocr>ABBYY FineReader 9.0</ocr>
-  <repub_state>4</repub_state>
-  <collection>additional_collections</collection>
-  <year>1937</year>
-  <backup_location>ia905306_12</backup_location>
-</metadata>
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6792b1fea56e0fc7417b7b8e8e4ba1c73fcf7f6a0fda132b416da5eeb36aaf6
+size 1440

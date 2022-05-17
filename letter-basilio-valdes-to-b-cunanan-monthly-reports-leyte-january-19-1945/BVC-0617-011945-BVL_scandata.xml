@@ -1,23 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<book>
-  <bookData>
-    <dpi>600</dpi>
-    <bookId>letter-basilio-valdes-to-b-cunanan-monthly-reports-leyte-january-19-1945</bookId>
-    <leafCount>1</leafCount>
-  </bookData>
-  <pageData>
-    <page leafNum="0">
-      <pageType>Normal</pageType>
-      <addToAccessFormats>true</addToAccessFormats>
-      <origWidth>4790</origWidth>
-      <origHeight>6343</origHeight>
-      <cropBox>
-        <x>0</x>
-        <y>0</y>
-        <w>4790</w>
-        <h>6343</h>
-      </cropBox>
-      <bookStart>true</bookStart>
-    </page>
-  </pageData>
-</book>
+version https://git-lfs.github.com/spec/v1
+oid sha256:c285821757d08d0cfa4816ec7c459dc8698865486a97575f920531967c4f0f36
+size 582

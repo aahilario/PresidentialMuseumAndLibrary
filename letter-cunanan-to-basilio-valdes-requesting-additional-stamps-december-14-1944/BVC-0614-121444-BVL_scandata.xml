@@ -1,23 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<book>
-  <bookData>
-    <dpi>600</dpi>
-    <bookId>letter-cunanan-to-basilio-valdes-requesting-additional-stamps-december-14-1944</bookId>
-    <leafCount>1</leafCount>
-  </bookData>
-  <pageData>
-    <page leafNum="0">
-      <pageType>Normal</pageType>
-      <addToAccessFormats>true</addToAccessFormats>
-      <origWidth>4814</origWidth>
-      <origHeight>6389</origHeight>
-      <cropBox>
-        <x>0</x>
-        <y>0</y>
-        <w>4814</w>
-        <h>6389</h>
-      </cropBox>
-      <bookStart>true</bookStart>
-    </page>
-  </pageData>
-</book>
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d3c08370b054150425baea088f281e47c50824d5a86e36e3033691d93b331c7
+size 588

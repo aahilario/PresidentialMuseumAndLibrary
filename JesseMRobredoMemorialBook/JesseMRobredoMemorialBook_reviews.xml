@@ -1,16 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<reviews itemIdentifier="JesseMRobredoMemorialBook">
-  <review>
-    <reviewbody>Very interesting read. Jesse Robredo proves that Filipinos CAN resist the temptations of corruption even when they serve in public / government office.</reviewbody>
-    <reviewtitle>Thank you for making this available online</reviewtitle>
-    <reviewer>bituina</reviewer>
-    <reviewer_itemname>@bituina</reviewer_itemname>
-    <reviewdate>2019-08-18 03:23:30</reviewdate>
-    <createdate>2019-08-18 03:23:30</createdate>
-    <stars>5</stars>
-  </review>
-  <info>
-    <num_reviews>1</num_reviews>
-    <avg_rating>5.00</avg_rating>
-  </info>
-</reviews>
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfe00d4df8c8241ba10ced2772b02ce4be1ff690796a7788e04e9d09e650d2ce
+size 671

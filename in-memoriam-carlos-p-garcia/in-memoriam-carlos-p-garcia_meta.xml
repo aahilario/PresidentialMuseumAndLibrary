@@ -1,22 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
-  <identifier>in-memoriam-carlos-p-garcia</identifier>
-  <mediatype>texts</mediatype>
-  <collection>presidentialmuseumandlibrary</collection>
-  <date>1971</date>
-  <description>In Memoriam Carlos P. Garcia</description>
-  <language>eng</language>
-  <scanner>Internet Archive HTML5 Uploader 1.6.3</scanner>
-  <subject>Carlos P. Garcia</subject>
-  <title>In Memoriam Carlos P. Garcia</title>
-  <publicdate>2016-04-05 07:50:35</publicdate>
-  <uploader>cheng.bigay@pcdspo.gov.ph</uploader>
-  <addeddate>2016-04-05 07:50:35</addeddate>
-  <collection>additional_collections</collection>
-  <identifier-access>http://archive.org/details/in-memoriam-carlos-p-garcia</identifier-access>
-  <identifier-ark>ark:/13960/t81k3wh4q</identifier-ark>
-  <ppi>400</ppi>
-  <ocr>ABBYY FineReader 11.0</ocr>
-  <repub_state>4</repub_state>
-  <backup_location>ia906104_13</backup_location>
-</metadata>
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e02010f505c771497b3e93b22999e7bebe3dda64637743831258b3a5f49b09c
+size 927

@@ -1,25 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
-  <identifier>PhilippinesDecember1940</identifier>
-  <mediatype>texts</mediatype>
-  <collection>presidentialmuseumandlibrary</collection>
-  <date>1940-12</date>
-  <description>This December 1940 issue of the Philippines Magazine includes a brief profile of personalities such as Paul V. McNutt, Leo Kocialkowski, Harry B. Hawes, Francisco Varona, Pilar N. Ravelo, Joaquin M. Elizalde, and Maj Gen. James G. Harbord; message of President Manuel L. Quezon on the Philippine Commonwealth; speech on independence and economics by former finance minister Manuel Roxas.</description>
-  <language>eng</language>
-  <scanner>Internet Archive HTML5 Uploader 1.6.1</scanner>
-  <subject>Magazine</subject>
-  <title>Philippines Magazine Vol. 1 No. 1 (December 1940)</title>
-  <publicdate>2015-05-12 14:48:58</publicdate>
-  <uploader>cheng.bigay@pcdspo.gov.ph</uploader>
-  <addeddate>2015-05-12 14:48:58</addeddate>
-  <curation>[curator]validator@archive.org[/curator][date]20150512145503[/date][comment]checked for malware[/comment]</curation>
-  <identifier-access>http://archive.org/details/PhilippinesDecember1940</identifier-access>
-  <identifier-ark>ark:/13960/t2w416756</identifier-ark>
-  <ppi>600</ppi>
-  <ocr>ABBYY FineReader 9.0</ocr>
-  <repub_state>4</repub_state>
-  <collection>additional_collections</collection>
-  <year>1940</year>
-  <licenseurl>http://creativecommons.org/licenses/by/4.0/</licenseurl>
-  <backup_location>ia905305_19</backup_location>
-</metadata>
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b186105955ae05881d42a50ffe5bb68e1ffc0cc521c39cf47f817f2d4274c24
+size 1513

@@ -1,35 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<book>
-  <bookData>
-    <dpi>600</dpi>
-    <bookId>basilio-valdes-reply-letter-may-24-1919</bookId>
-    <leafCount>2</leafCount>
-  </bookData>
-  <pageData>
-    <page leafNum="0">
-      <pageType>Normal</pageType>
-      <addToAccessFormats>true</addToAccessFormats>
-      <origWidth>4994</origWidth>
-      <origHeight>6377</origHeight>
-      <cropBox>
-        <x>0</x>
-        <y>0</y>
-        <w>4994</w>
-        <h>6377</h>
-      </cropBox>
-      <bookStart>true</bookStart>
-    </page>
-    <page leafNum="1">
-      <pageType>Normal</pageType>
-      <addToAccessFormats>true</addToAccessFormats>
-      <origWidth>4860</origWidth>
-      <origHeight>6422</origHeight>
-      <cropBox>
-        <x>0</x>
-        <y>0</y>
-        <w>4860</w>
-        <h>6422</h>
-      </cropBox>
-    </page>
-  </pageData>
-</book>
+version https://git-lfs.github.com/spec/v1
+oid sha256:09ca568d0738a05c1186f9610c2eac452ca401a9ee337e9052c166f39a16c32e
+size 847

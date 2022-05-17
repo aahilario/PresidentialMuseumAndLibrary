@@ -1,24 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
-  <identifier>TheMalolosCongress</identifier>
-  <mediatype>texts</mediatype>
-  <collection>presidentialmuseumandlibrary</collection>
-  <creator>The National Historical Institute</creator>
-  <date>1999</date>
-  <description>The Malolos Congress&lt;div&gt;A Centennial publication on the inauguration of the Philippine Republic&lt;br /&gt;(January 23, 1899 - January 3, 1999)&lt;/div&gt;</description>
-  <language>eng</language>
-  <licenseurl>http://creativecommons.org/licenses/by-nc-nd/3.0/</licenseurl>
-  <scanner>Internet Archive HTML5 Uploader 1.6.3</scanner>
-  <subject>Malolos Congress</subject>
-  <title>The Malolos Congress</title>
-  <publicdate>2015-06-19 07:13:57</publicdate>
-  <uploader>cheng.bigay@pcdspo.gov.ph</uploader>
-  <addeddate>2015-06-19 07:13:57</addeddate>
-  <identifier-access>http://archive.org/details/TheMalolosCongress</identifier-access>
-  <identifier-ark>ark:/13960/t6837b144</identifier-ark>
-  <ppi>600</ppi>
-  <ocr>ABBYY FineReader 9.0</ocr>
-  <repub_state>4</repub_state>
-  <collection>additional_collections</collection>
-  <backup_location>ia905307_6</backup_location>
-</metadata>
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee6dc02c6f6217bd3f5d6065345d0c45efbfcda589f7df34e26ea149ee403ebb
+size 1165

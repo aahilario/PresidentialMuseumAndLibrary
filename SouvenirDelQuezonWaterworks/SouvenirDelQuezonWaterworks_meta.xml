@@ -1,26 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
-  <identifier>SouvenirDelQuezonWaterworks</identifier>
-  <mediatype>texts</mediatype>
-  <date>1920-04</date>
-  <description>This pamphlet contains the program on the inauguration of the Quezon Water Works in Tayabas, Quezon.</description>
-  <language>spa</language>
-  <scanner>Internet Archive HTML5 Uploader 1.6.1</scanner>
-  <subject>Manuel L. Quezon</subject>
-  <title>Souvenir Del Quezon Waterworks</title>
-  <subject>Souvenir</subject>
-  <publicdate>2015-05-14 09:24:24</publicdate>
-  <uploader>cheng.bigay@pcdspo.gov.ph</uploader>
-  <addeddate>2015-05-14 09:24:24</addeddate>
-  <curation>[curator]validator@archive.org[/curator][date]20150514093225[/date][comment]checked for malware[/comment]</curation>
-  <identifier-access>http://archive.org/details/SouvenirDelQuezonWaterworks</identifier-access>
-  <identifier-ark>ark:/13960/t14n2mr8s</identifier-ark>
-  <ppi>600</ppi>
-  <ocr>ABBYY FineReader 9.0</ocr>
-  <repub_state>4</repub_state>
-  <year>1920</year>
-  <collection>presidentmanuelquezon</collection>
-  <collection>presidentialmuseumandlibrary</collection>
-  <collection>additional_collections</collection>
-  <backup_location>ia905305_22</backup_location>
-</metadata>
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c808be445f41163b72281addf78fa8632dd752c8cbd9cd26da3746a3103f8bb
+size 1231

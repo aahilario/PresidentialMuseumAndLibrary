@@ -1,26 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
-  <identifier>AuditorForPortoRicoAndThePhilippineIslandsContent</identifier>
-  <mediatype>texts</mediatype>
-  <collection>presidentialmuseumandlibrary</collection>
-  <date>1926</date>
-  <description>This document includes statements from Hon. Pedro Guevara, Resident Commissioner of the Philippine Islands and Hon. Sergio Osmena, member of the Senate of the Philippine Islands.</description>
-  <language>eng</language>
-  <licenseurl>http://creativecommons.org/publicdomain/mark/1.0/</licenseurl>
-  <scanner>Internet Archive HTML5 Uploader 1.6.1</scanner>
-  <subject>HGearings</subject>
-  <title>Auditor For Porto Rico And The Philippine Islands</title>
-  <subject>United States Senate</subject>
-  <publicdate>2015-05-13 10:50:48</publicdate>
-  <uploader>cheng.bigay@pcdspo.gov.ph</uploader>
-  <addeddate>2015-05-13 10:50:48</addeddate>
-  <curation>[curator]validator@archive.org[/curator][date]20150513105646[/date][comment]checked for malware[/comment]</curation>
-  <identifier-access>http://archive.org/details/AuditorForPortoRicoAndThePhilippineIslandsContent</identifier-access>
-  <identifier-ark>ark:/13960/t9m36869h</identifier-ark>
-  <ppi>600</ppi>
-  <ocr>ABBYY FineReader 9.0</ocr>
-  <repub_state>4</repub_state>
-  <collection>additional_collections</collection>
-  <year>1926</year>
-  <backup_location>ia905305_20</backup_location>
-</metadata>
+version https://git-lfs.github.com/spec/v1
+oid sha256:5056fa394fcf4e30a058bb32db3b7b5387534f68042f8d7c9049b13c1361f4e0
+size 1402

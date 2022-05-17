@@ -1,24 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
-  <identifier>ano-ang-kalibapi</identifier>
-  <mediatype>texts</mediatype>
-  <collection>presidentialmuseumandlibrary</collection>
-  <collection>additional_collections</collection>
-  <creator>Department of Information, Imperial Japanese Army</creator>
-  <description>Ano ang Kalibapi&lt;br /&gt;(What is Kalibapi) </description>
-  <language>eng</language>
-  <scanner>Internet Archive HTML5 Uploader 1.6.3</scanner>
-  <subject>Second Republic</subject>
-  <title>Ano ang Kalibapi</title>
-  <publicdate>2016-03-03 04:52:10</publicdate>
-  <uploader>cheng.bigay@pcdspo.gov.ph</uploader>
-  <addeddate>2016-03-03 04:52:10</addeddate>
-  <identifier-access>http://archive.org/details/ano-ang-kalibapi</identifier-access>
-  <identifier-ark>ark:/13960/t8cg40x0v</identifier-ark>
-  <ppi>600</ppi>
-  <ocr>ABBYY FineReader 11.0</ocr>
-  <repub_state>4</repub_state>
-  <backup_location>ia906101_9</backup_location>
-  <openlibrary_edition>OL1261869M</openlibrary_edition>
-  <openlibrary_work>OL17603040W</openlibrary_work>
-</metadata>
+version https://git-lfs.github.com/spec/v1
+oid sha256:54471b1e3b9b646d0d3bac1603f824db5a40b57f1d73e37b7cbba3a77297a927
+size 1069
