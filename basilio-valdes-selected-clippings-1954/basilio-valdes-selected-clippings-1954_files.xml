@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0525-XXXXXX-HPSP.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0525-XXXXXX-HPSP_djvu.xml</original>
+    <mtime>1452117742</mtime>
+    <size>6283352</size>
+    <md5>a7e9daefafd73adaee667916ae1be43a</md5>
+    <crc32>8f690759</crc32>
+    <sha1>e1b08a9ddff73e567fa17c059809c5c9ee600bce</sha1>
+  </file>
+  <file name="BVC-0525-XXXXXX-HPSP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0525-XXXXXX-HPSP_jp2.zip</original>
+    <mtime>1451882636</mtime>
+    <size>289893</size>
+    <md5>15cd5491661a5ac460fe47f16d58734b</md5>
+    <crc32>648fad51</crc32>
+    <sha1>28b68ca1a36828b16551085ee45572a23c401419</sha1>
+  </file>
+  <file name="BVC-0525-XXXXXX-HPSP.pdf" source="original">
+    <mtime>1451882150</mtime>
+    <size>28581563</size>
+    <md5>db9fe99925001d30173c27ac2e4996c5</md5>
+    <crc32>1f10af65</crc32>
+    <sha1>6c9f65041d620d4efa0e90bf07cf41a2af14bd79</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0525-XXXXXX-HPSP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0525-XXXXXX-HPSP_jp2.zip</original>
+    <mtime>1451883840</mtime>
+    <size>1202060</size>
+    <md5>1917af72073ea36f3427e6c0f574fd4d</md5>
+    <crc32>b4b70b85</crc32>
+    <sha1>76c5e44085df3ecce18418687df60111a8a9207c</sha1>
+  </file>
+  <file name="BVC-0525-XXXXXX-HPSP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0525-XXXXXX-HPSP.djvu</original>
+    <mtime>1452117756</mtime>
+    <size>71725</size>
+    <md5>0dc70d9dac466dda2d0f26602dafc9fa</md5>
+    <crc32>0035d659</crc32>
+    <sha1>04e6892020c093d452392e07a9f9ad1d37d6a2f1</sha1>
+  </file>
+  <file name="BVC-0525-XXXXXX-HPSP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0525-XXXXXX-HPSP_abbyy.gz</original>
+    <mtime>1451883861</mtime>
+    <size>703463</size>
+    <md5>d1ffb9e9639e164918601de53ade4d74</md5>
+    <crc32>abfb8296</crc32>
+    <sha1>1a178c69402b329a86bb6e92cf70f587940231f4</sha1>
+  </file>
+  <file name="BVC-0525-XXXXXX-HPSP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0525-XXXXXX-HPSP.pdf</original>
+    <mtime>1451882572</mtime>
+    <size>42153715</size>
+    <md5>9c670d623c27131464ce766dd7e16a35</md5>
+    <crc32>14023305</crc32>
+    <sha1>1d95753c5f6e5809202aa72e0268422cf2fadfd1</sha1>
+  </file>
+  <file name="BVC-0525-XXXXXX-HPSP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0525-XXXXXX-HPSP_djvu.xml</original>
+    <mtime>1451883967</mtime>
+    <size>9808</size>
+    <md5>596f4e84aef65317800583dcf472aea0</md5>
+    <crc32>d97f1fd2</crc32>
+    <sha1>a8f8d9db42d73e55f6662dba5f509e67ee5aa9eb</sha1>
+  </file>
+  <file name="BVC-0525-XXXXXX-HPSP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0525-XXXXXX-HPSP_djvu.xml</original>
+    <mtime>1451884320</mtime>
+    <size>8092077</size>
+    <md5>f9cf988836443fc8f02fb3a0841c4b2f</md5>
+    <crc32>8ee3aa9b</crc32>
+    <sha1>1f084634451278eafff5c11fe2bf75b6bca9a40f</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530893366</mtime>
+    <size>15393</size>
+    <md5>d6c9cc74635d2488a0a0b60ea48590df</md5>
+    <crc32>e5624c8d</crc32>
+    <sha1>945781bc259e9e7c923bf408cc426b4db3bec1b9</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="basilio-valdes-selected-clippings-1954_archive.torrent" source="metadata">
+    <btih>a78608c4bbd540fdd78b3c29a670a787d054f913</btih>
+    <mtime>1530893367</mtime>
+    <size>6822</size>
+    <md5>b8e7b2e5f6f0f0c61b9bd57c91d7444d</md5>
+    <crc32>cfc55d51</crc32>
+    <sha1>8407c05ba7bb196b1d44d67525edb93effad5109</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="basilio-valdes-selected-clippings-1954_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>e907e32476bb082fdba090265b2796af</md5>
+  </file>
+  <file name="basilio-valdes-selected-clippings-1954_meta.sqlite" source="original">
+    <mtime>1466826744</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>70c444876ce699da3b8d268b76e9b966</md5>
+    <crc32>6b3e2ae5</crc32>
+    <sha1>aa8fed4e9c4dc92f81732e962d3dfecbc771ddb3</sha1>
+  </file>
+  <file name="basilio-valdes-selected-clippings-1954_meta.xml" source="original">
+    <mtime>1483772040</mtime>
+    <size>1054</size>
+    <format>Metadata</format>
+    <md5>ab72368b497f095220f6dea77911c566</md5>
+    <crc32>101c9cd0</crc32>
+    <sha1>020aa4e0566093f36dbd2f9a4a4623db31d0504a</sha1>
+  </file>
+</files>

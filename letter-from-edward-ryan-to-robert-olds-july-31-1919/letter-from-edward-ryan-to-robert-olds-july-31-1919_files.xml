@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0286-073119-OP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0286-073119-OP_jp2.zip</original>
+    <mtime>1449478252</mtime>
+    <size>16880</size>
+    <md5>9aef34ef258288de99357cb51cf3004c</md5>
+    <crc32>e7d62bb2</crc32>
+    <sha1>89a5dfb2b556b3a422aadb7ac9c00b3249d89982</sha1>
+  </file>
+  <file name="BVC-0286-073119-OP.pdf" source="original">
+    <mtime>1449478180</mtime>
+    <size>773390</size>
+    <md5>2e1e0f04c47b584770527e8c17ca4dfb</md5>
+    <crc32>e7b78b5d</crc32>
+    <sha1>a316d7e1147be696143b66eb8d0a0f00ab2e1dfa</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0286-073119-OP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0286-073119-OP_jp2.zip</original>
+    <mtime>1449479190</mtime>
+    <size>18676</size>
+    <md5>e529403ea0a89be86d38f1b0f177bec0</md5>
+    <crc32>b385570b</crc32>
+    <sha1>812f8ca759cdae59c49f4f98c90d52832718914a</sha1>
+  </file>
+  <file name="BVC-0286-073119-OP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0286-073119-OP_djvu.xml</original>
+    <mtime>1456644706</mtime>
+    <size>1037</size>
+    <md5>e62452b29c82bb0303c5f2bbf05fcfd4</md5>
+    <crc32>80b01d3f</crc32>
+    <sha1>109e4e02f0941a410761b509d9ccce7c1eec9e2e</sha1>
+  </file>
+  <file name="BVC-0286-073119-OP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0286-073119-OP_abbyy.gz</original>
+    <mtime>1449479196</mtime>
+    <size>10637</size>
+    <md5>6ad96aa8a1357b089764a4348925d117</md5>
+    <crc32>feef20b4</crc32>
+    <sha1>8f89c60cb68f216bac54db825c7f66b0286be54b</sha1>
+  </file>
+  <file name="BVC-0286-073119-OP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0286-073119-OP.pdf</original>
+    <mtime>1449478245</mtime>
+    <size>1092355</size>
+    <md5>52679bccce90654de7590f6f63c959c4</md5>
+    <crc32>fb610a47</crc32>
+    <sha1>4034f6071051c7ee1db23390d73ded942b9e9a64</sha1>
+  </file>
+  <file name="BVC-0286-073119-OP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0286-073119-OP_djvu.xml</original>
+    <mtime>1449479212</mtime>
+    <size>561</size>
+    <md5>7b1a505037d50bb3091acb556227202c</md5>
+    <crc32>5f5cff0c</crc32>
+    <sha1>436513084bc9f599357edcf4337e0cff1f60ce46</sha1>
+  </file>
+  <file name="BVC-0286-073119-OP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0286-073119-OP_djvu.xml</original>
+    <mtime>1449479226</mtime>
+    <size>202247</size>
+    <md5>38178b3f9724ea764af8c3ec43130110</md5>
+    <crc32>fc66491f</crc32>
+    <sha1>15c6155cbc3f34f37a620e83885237f4a81aeadd</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530870230</mtime>
+    <size>14146</size>
+    <md5>b8338bea486b0ac40539740a1eac38b7</md5>
+    <crc32>c8e23059</crc32>
+    <sha1>3a084302c39fd0a7e5e0b0f4f6dc4cc157b992a3</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="letter-from-edward-ryan-to-robert-olds-july-31-1919_archive.torrent" source="metadata">
+    <btih>269ad5aff2d1d51dfb349eaf720c99592b3d2068</btih>
+    <mtime>1530870230</mtime>
+    <size>3492</size>
+    <md5>29c666989ed917193a8832e8004f190b</md5>
+    <crc32>a44d81b6</crc32>
+    <sha1>9b086da08bd294d58263848df9db2c7b17127fd2</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="letter-from-edward-ryan-to-robert-olds-july-31-1919_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>12883935cc295cb6c5682818eb06cf5d</md5>
+  </file>
+  <file name="letter-from-edward-ryan-to-robert-olds-july-31-1919_meta.sqlite" source="original">
+    <mtime>1463846904</mtime>
+    <size>12288</size>
+    <format>Metadata</format>
+    <md5>a3f1a3bc1c9397cb0daf1df967055707</md5>
+    <crc32>61031366</crc32>
+    <sha1>539505fe51661371b71d5ca79e55eef8a2b17e33</sha1>
+  </file>
+  <file name="letter-from-edward-ryan-to-robert-olds-july-31-1919_meta.xml" source="original">
+    <mtime>1485771504</mtime>
+    <size>1828</size>
+    <format>Metadata</format>
+    <md5>61c8f67eedf4afc4f1a0125ac1ea33cc</md5>
+    <crc32>24e6551b</crc32>
+    <sha1>0aac9cb3213ab48b8b37767cc1df50d622308c72</sha1>
+  </file>
+</files>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0368-041345-SP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0368-041345-SP_jp2.zip</original>
+    <mtime>1451958848</mtime>
+    <size>16601</size>
+    <md5>c801acab7fd2b080436384b137c1f30e</md5>
+    <crc32>dd6ea40c</crc32>
+    <sha1>c01df155be108750866dff7f809fb8020bb49308</sha1>
+  </file>
+  <file name="BVC-0368-041345-SP.pdf" source="original">
+    <mtime>1451958778</mtime>
+    <size>729092</size>
+    <md5>05d1850fd1d871adefe36f72ac5be9f1</md5>
+    <crc32>b77323c3</crc32>
+    <sha1>dd77bd824f83e162ecdb37f38ac455f14ccddec8</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0368-041345-SP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0368-041345-SP_jp2.zip</original>
+    <mtime>1451958954</mtime>
+    <size>27176</size>
+    <md5>7c9b11d4104f5ec827fc6b71f8d2de08</md5>
+    <crc32>9391c1ad</crc32>
+    <sha1>2ccbbc55badea61315cb330d06bff4b6fc157465</sha1>
+  </file>
+  <file name="BVC-0368-041345-SP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0368-041345-SP_djvu.xml</original>
+    <mtime>1456644436</mtime>
+    <size>1497</size>
+    <md5>e46de0f4d3a53b9dca5c0756b3985a2b</md5>
+    <crc32>a70b0426</crc32>
+    <sha1>1b0a4ae3bc1d10f8aa972e2cbd0047e69ca0c85c</sha1>
+  </file>
+  <file name="BVC-0368-041345-SP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0368-041345-SP_abbyy.gz</original>
+    <mtime>1451958961</mtime>
+    <size>14880</size>
+    <md5>244bd6c1c5f259eedaf44a47bbf12ffd</md5>
+    <crc32>1905b455</crc32>
+    <sha1>6b0f811b9509f968c04d887bef139e24c90aab5a</sha1>
+  </file>
+  <file name="BVC-0368-041345-SP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0368-041345-SP.pdf</original>
+    <mtime>1451958837</mtime>
+    <size>1022140</size>
+    <md5>febf1cd057beb1a07b496d923030aae0</md5>
+    <crc32>c38e239d</crc32>
+    <sha1>5493915bf0408be319eee0f36083a6ffbbad76e3</sha1>
+  </file>
+  <file name="BVC-0368-041345-SP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0368-041345-SP_djvu.xml</original>
+    <mtime>1451958975</mtime>
+    <size>577</size>
+    <md5>7a2747c925bc0b765b1d4bffeb9bffe9</md5>
+    <crc32>f10cf00c</crc32>
+    <sha1>4cddbe16a446d990c5ffb25ce3becf2e84cfe48a</sha1>
+  </file>
+  <file name="BVC-0368-041345-SP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0368-041345-SP_djvu.xml</original>
+    <mtime>1451959003</mtime>
+    <size>230024</size>
+    <md5>eaea1146d382db4f81af0b62e4e08ccd</md5>
+    <crc32>a6a696db</crc32>
+    <sha1>dfbbd709a155f8fe2afb3f771e2a6b610b4660bf</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1531012963</mtime>
+    <size>16729</size>
+    <md5>72ac8102e4befa6be257565e0d5ab13b</md5>
+    <crc32>2c98fcbb</crc32>
+    <sha1>e9e65de84c4b3f6ecdb0c4b99d6ce711aaf21424</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="statement-basilio-valdes-death-of-president-roosevelt-april-13-1945_archive.torrent" source="metadata">
+    <btih>76ffd20764ec6fcf8351c12c69dbf3bb9b0450ee</btih>
+    <mtime>1531012964</mtime>
+    <size>3614</size>
+    <md5>a4dfb618461c2bebc5eb53bf3a512f66</md5>
+    <crc32>97e6096a</crc32>
+    <sha1>bf09d1015a1c63013e6025fb10d7dbd123d1a401</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="statement-basilio-valdes-death-of-president-roosevelt-april-13-1945_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>edb4ef6ad185ad89347e4685d23f06fc</md5>
+  </file>
+  <file name="statement-basilio-valdes-death-of-president-roosevelt-april-13-1945_meta.sqlite" source="original">
+    <mtime>1464080602</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>1fd878ad75e5774008200a9ca7f4c76c</md5>
+    <crc32>a6d96bee</crc32>
+    <sha1>8808532915bc06f99a87a146ebb8fb15c1d69da4</sha1>
+  </file>
+  <file name="statement-basilio-valdes-death-of-president-roosevelt-april-13-1945_meta.xml" source="original">
+    <mtime>1482391571</mtime>
+    <size>1294</size>
+    <format>Metadata</format>
+    <md5>43055e4839110242f215765cb707f778</md5>
+    <crc32>967ff20a</crc32>
+    <sha1>2f686dad038de1407f8a3be82c2a5f2fd6b29686</sha1>
+  </file>
+</files>

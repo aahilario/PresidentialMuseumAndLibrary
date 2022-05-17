@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>memorandum-distinguished-conduct-star-buckley-soriano-fernando-undated</bookId>
+    <leafCount>1</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4750</origWidth>
+      <origHeight>6022</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4750</w>
+        <h>6022</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+  </pageData>
+</book>

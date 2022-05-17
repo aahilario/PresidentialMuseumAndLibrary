@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>letter-basilio-valdes-from-robt-s-bleightler-november-25-1945</bookId>
+    <leafCount>1</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4395</origWidth>
+      <origHeight>6432</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4395</w>
+        <h>6432</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+  </pageData>
+</book>

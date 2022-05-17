@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>list-of-published-writings-of-major-general-basilio-valdes-1934</bookId>
+    <leafCount>6</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4816</origWidth>
+      <origHeight>6395</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4816</w>
+        <h>6395</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4798</origWidth>
+      <origHeight>6388</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4798</w>
+        <h>6388</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4820</origWidth>
+      <origHeight>6350</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4820</w>
+        <h>6350</h>
+      </cropBox>
+    </page>
+    <page leafNum="3">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4808</origWidth>
+      <origHeight>6365</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4808</w>
+        <h>6365</h>
+      </cropBox>
+    </page>
+    <page leafNum="4">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4850</origWidth>
+      <origHeight>6403</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4850</w>
+        <h>6403</h>
+      </cropBox>
+    </page>
+    <page leafNum="5">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4848</origWidth>
+      <origHeight>6398</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4848</w>
+        <h>6398</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

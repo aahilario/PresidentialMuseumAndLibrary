@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0869-JN151943-PERIODICALS.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0869-JN151943-PERIODICALS_djvu.xml</original>
+    <mtime>1449555614</mtime>
+    <size>1600878</size>
+    <md5>70dc1d2f6a2c72a96622b5c0ac2157d2</md5>
+    <crc32>a8cc4179</crc32>
+    <sha1>a91ad93a2d9caffb2399e52394262ed0d0cf1b4f</sha1>
+  </file>
+  <file name="BVC-0869-JN151943-PERIODICALS.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0869-JN151943-PERIODICALS_jp2.zip</original>
+    <mtime>1449554991</mtime>
+    <size>153051</size>
+    <md5>1212cee82f7b883ee9fc281b15b0bdd6</md5>
+    <crc32>b56166fc</crc32>
+    <sha1>7fda04bcdbdb44c250819f2767f6d6aa636dac0e</sha1>
+  </file>
+  <file name="BVC-0869-JN151943-PERIODICALS.pdf" source="original">
+    <mtime>1449554794</mtime>
+    <size>23358213</size>
+    <md5>4aa0c0468750b602bc9d0a1976e73e36</md5>
+    <crc32>7bc8ea3e</crc32>
+    <sha1>9a53d2a0d66af177fbce3572844b6a8054700f0f</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0869-JN151943-PERIODICALS_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0869-JN151943-PERIODICALS_jp2.zip</original>
+    <mtime>1449555420</mtime>
+    <size>970216</size>
+    <md5>ab595fdfeb18bbb1e35e1928c9aa50ad</md5>
+    <crc32>d6965da0</crc32>
+    <sha1>2bbbb0e642948fa51c4f0c98a4d3349d2bba4344</sha1>
+  </file>
+  <file name="BVC-0869-JN151943-PERIODICALS_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0869-JN151943-PERIODICALS.djvu</original>
+    <mtime>1449555886</mtime>
+    <size>60451</size>
+    <md5>a4b179e928e9babeb0e1e85ca097649c</md5>
+    <crc32>06da1f77</crc32>
+    <sha1>cf6cc8c8d02279e76f9908d4c4eb1803814312cc</sha1>
+  </file>
+  <file name="BVC-0869-JN151943-PERIODICALS_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0869-JN151943-PERIODICALS_abbyy.gz</original>
+    <mtime>1449555445</mtime>
+    <size>565250</size>
+    <md5>231b7941bb78266dad6772fde16eb853</md5>
+    <crc32>493e6d13</crc32>
+    <sha1>8b50f8081233d9e6037cb250d68d65a242a24a0e</sha1>
+  </file>
+  <file name="BVC-0869-JN151943-PERIODICALS_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0869-JN151943-PERIODICALS.pdf</original>
+    <mtime>1449554933</mtime>
+    <size>18533305</size>
+    <md5>e8f146517833b3191501d51da0fdcef8</md5>
+    <crc32>ad2fa6f1</crc32>
+    <sha1>dabf028b3fdb5acb1d1547900918d538b4786b47</sha1>
+  </file>
+  <file name="BVC-0869-JN151943-PERIODICALS_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0869-JN151943-PERIODICALS_djvu.xml</original>
+    <mtime>1449555616</mtime>
+    <size>3826</size>
+    <md5>5d4ca15adb2332031b3bc57ee7bdbf86</md5>
+    <crc32>11fa0d86</crc32>
+    <sha1>c6f9b7fc8a6f9a4c6b8b488960caaf6b4d82603a</sha1>
+  </file>
+  <file name="BVC-0869-JN151943-PERIODICALS_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0869-JN151943-PERIODICALS_djvu.xml</original>
+    <mtime>1449555870</mtime>
+    <size>3243393</size>
+    <md5>0f201660630c847144861a85052f8387</md5>
+    <crc32>ec867a21</crc32>
+    <sha1>084c308693bd8e1d551d0a18270f13f101083fe5</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530668336</mtime>
+    <size>18470</size>
+    <md5>b9865cfddaa746b87ed01565452f8924</md5>
+    <crc32>3d3b9fb3</crc32>
+    <sha1>e791f25f01db897f26719f9765ded6369d0a9cc8</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="philippines-magazine-volume-iii-no-4_archive.torrent" source="metadata">
+    <btih>1735ffc3bd998c421082116d71a7d4fc21c9f735</btih>
+    <mtime>1530668336</mtime>
+    <size>5401</size>
+    <md5>015e23ae653114fd853c03aa56a80e68</md5>
+    <crc32>0f94e58b</crc32>
+    <sha1>4f2200d7f3932963a61abb0e3d90001e44d1bbb7</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="philippines-magazine-volume-iii-no-4_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>8bbf6abb48c3df5afbeb43c97124442c</md5>
+  </file>
+  <file name="philippines-magazine-volume-iii-no-4_meta.sqlite" source="original">
+    <mtime>1466245262</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>d31d10acdeab51cfee90f54cb58a3d7b</md5>
+    <crc32>7d908abe</crc32>
+    <sha1>8b0a627f135efa1184b6417dcde5dcd4e7bc38c2</sha1>
+  </file>
+  <file name="philippines-magazine-volume-iii-no-4_meta.xml" source="original">
+    <mtime>1485636242</mtime>
+    <size>1093</size>
+    <format>Metadata</format>
+    <md5>9ff7952dfdfa1d0b161752551d8661df</md5>
+    <crc32>6c2473c1</crc32>
+    <sha1>efa880c760b448e443f6b3791bc0868fec366ef4</sha1>
+  </file>
+</files>

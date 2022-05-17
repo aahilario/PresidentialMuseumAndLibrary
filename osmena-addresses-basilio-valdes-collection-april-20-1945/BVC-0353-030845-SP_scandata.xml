@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>osmena-addresses-basilio-valdes-collection-april-20-1945</bookId>
+    <leafCount>7</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3451</origWidth>
+      <origHeight>5508</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3451</w>
+        <h>5508</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3341</origWidth>
+      <origHeight>5367</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3341</w>
+        <h>5367</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3459</origWidth>
+      <origHeight>5448</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3459</w>
+        <h>5448</h>
+      </cropBox>
+    </page>
+    <page leafNum="3">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3433</origWidth>
+      <origHeight>5411</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3433</w>
+        <h>5411</h>
+      </cropBox>
+    </page>
+    <page leafNum="4">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3431</origWidth>
+      <origHeight>5418</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3431</w>
+        <h>5418</h>
+      </cropBox>
+    </page>
+    <page leafNum="5">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3415</origWidth>
+      <origHeight>5532</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3415</w>
+        <h>5532</h>
+      </cropBox>
+    </page>
+    <page leafNum="6">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3408</origWidth>
+      <origHeight>4975</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3408</w>
+        <h>4975</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>memorandum-for-president-osmena-separate-pa-officers-and-men-who-served-during-the-japanese-regime</bookId>
+    <leafCount>7</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4792</origWidth>
+      <origHeight>6386</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4792</w>
+        <h>6386</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4831</origWidth>
+      <origHeight>6382</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4831</w>
+        <h>6382</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4792</origWidth>
+      <origHeight>6353</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4792</w>
+        <h>6353</h>
+      </cropBox>
+    </page>
+    <page leafNum="3">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4795</origWidth>
+      <origHeight>6370</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4795</w>
+        <h>6370</h>
+      </cropBox>
+    </page>
+    <page leafNum="4">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4812</origWidth>
+      <origHeight>6390</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4812</w>
+        <h>6390</h>
+      </cropBox>
+    </page>
+    <page leafNum="5">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4840</origWidth>
+      <origHeight>6438</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4840</w>
+        <h>6438</h>
+      </cropBox>
+    </page>
+    <page leafNum="6">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4802</origWidth>
+      <origHeight>6332</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4802</w>
+        <h>6332</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0527-050854-HPSP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0527-050854-HPSP_jp2.zip</original>
+    <mtime>1451878373</mtime>
+    <size>17016</size>
+    <md5>86da6dbbc2b7299d4746783101ea063b</md5>
+    <crc32>a8072034</crc32>
+    <sha1>e20651096997df657b9c1d31baf88097ccaab6ce</sha1>
+  </file>
+  <file name="BVC-0527-050854-HPSP.pdf" source="original">
+    <mtime>1451878316</mtime>
+    <size>789679</size>
+    <md5>a10491ad1dec7a2b9c9ea1c377f91453</md5>
+    <crc32>169e6eac</crc32>
+    <sha1>c48ec8ffa38d33983d1f39a1c04633b99f47fcdd</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0527-050854-HPSP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0527-050854-HPSP_jp2.zip</original>
+    <mtime>1451878692</mtime>
+    <size>32795</size>
+    <md5>52b2f03f671a1435458a2cee644b7e62</md5>
+    <crc32>5133cf63</crc32>
+    <sha1>b6b11c6f2dc6be7090c5515497e90c9d358144a6</sha1>
+  </file>
+  <file name="BVC-0527-050854-HPSP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0527-050854-HPSP_djvu.xml</original>
+    <mtime>1456643371</mtime>
+    <size>2058</size>
+    <md5>42e3e57e3f27cbcb4eb505a36a351a82</md5>
+    <crc32>4cddd98d</crc32>
+    <sha1>aeee8ae9f82da204a3517a4dfae712abdcb2ac3c</sha1>
+  </file>
+  <file name="BVC-0527-050854-HPSP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0527-050854-HPSP_abbyy.gz</original>
+    <mtime>1451878699</mtime>
+    <size>19712</size>
+    <md5>a64d1f14ea7df12c504ffebf1e754224</md5>
+    <crc32>f7e26035</crc32>
+    <sha1>477729f0fa86ad1c4b2abb6279a451b360311470</sha1>
+  </file>
+  <file name="BVC-0527-050854-HPSP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0527-050854-HPSP.pdf</original>
+    <mtime>1451878365</mtime>
+    <size>1168929</size>
+    <md5>743176a81704cf9efcacee769d51a2e0</md5>
+    <crc32>e0b1d136</crc32>
+    <sha1>50afc039bd446fdd11f03c42d143e006e215e8b9</sha1>
+  </file>
+  <file name="BVC-0527-050854-HPSP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0527-050854-HPSP_djvu.xml</original>
+    <mtime>1451878710</mtime>
+    <size>554</size>
+    <md5>35bf48df3e90480bd60d8df8107e35dc</md5>
+    <crc32>03790d81</crc32>
+    <sha1>860442924dffc88399d064346f6d9d6d24e0751f</sha1>
+  </file>
+  <file name="BVC-0527-050854-HPSP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0527-050854-HPSP_djvu.xml</original>
+    <mtime>1451878725</mtime>
+    <size>205785</size>
+    <md5>82e626fcd8ce745b770f3128ee1315bb</md5>
+    <crc32>69c169fd</crc32>
+    <sha1>3b8d295802eb088c8a215fb4559ed4eb2a1b996a</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530961653</mtime>
+    <size>13872</size>
+    <md5>cfb7747f6c9f2e945ebaea2c25af8fcf</md5>
+    <crc32>2ba214ae</crc32>
+    <sha1>eee48822449b8108b404bfafa0cf7990c9973f1e</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="letter-from-basilio-valdes-to-the-members-of_archive.torrent" source="metadata">
+    <btih>833a01066b50f85b7ac52c763d327c27e4f3493b</btih>
+    <mtime>1530961653</mtime>
+    <size>3444</size>
+    <md5>cd7ee9cfcac55643cd7665dd27b94167</md5>
+    <crc32>fe431960</crc32>
+    <sha1>5440fe9f8c5ad941679e1da7879385b228ae86d3</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="letter-from-basilio-valdes-to-the-members-of_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>5ce57b4fcc28c8f1303949adcb4a2010</md5>
+  </file>
+  <file name="letter-from-basilio-valdes-to-the-members-of_meta.sqlite" source="original">
+    <mtime>1464930587</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>1a98b1fa81334a101d74eea467f8a437</md5>
+    <crc32>ee069ed7</crc32>
+    <sha1>8d2427fe0d8bee3ed0224ca10d5fbd9812806969</sha1>
+  </file>
+  <file name="letter-from-basilio-valdes-to-the-members-of_meta.xml" source="original">
+    <mtime>1483524133</mtime>
+    <size>1234</size>
+    <format>Metadata</format>
+    <md5>35ac82b0586421f047a113e6ff42b446</md5>
+    <crc32>a56fd3c4</crc32>
+    <sha1>22ec5c4e264231c55ee07c341ccb3d879628a4c6</sha1>
+  </file>
+</files>

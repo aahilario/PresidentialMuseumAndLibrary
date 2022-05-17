@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0469-071745-CSPA.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0469-071745-CSPA_jp2.zip</original>
+    <mtime>1450667799</mtime>
+    <size>16058</size>
+    <md5>3dfdcbe249cbf20ff1a71f7587caad1d</md5>
+    <crc32>07ebc1bd</crc32>
+    <sha1>2c22eca0c7f6cb158ffd312fea3fc270fddb6346</sha1>
+  </file>
+  <file name="BVC-0469-071745-CSPA.pdf" source="original">
+    <mtime>1450667734</mtime>
+    <size>827738</size>
+    <md5>c723c763eefd6047cad0810490b1573f</md5>
+    <crc32>5e98108b</crc32>
+    <sha1>cb6adc07e82980bf11a3184bab35f8d898ff818e</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0469-071745-CSPA_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0469-071745-CSPA_jp2.zip</original>
+    <mtime>1450667821</mtime>
+    <size>29940</size>
+    <md5>33cfcaaacc78f9c77d6f4cceae4b1710</md5>
+    <crc32>5e4cf574</crc32>
+    <sha1>aebbaeab56675cecd1a7b703d942e17d536c4562</sha1>
+  </file>
+  <file name="BVC-0469-071745-CSPA_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0469-071745-CSPA_djvu.xml</original>
+    <mtime>1456644650</mtime>
+    <size>1824</size>
+    <md5>ecfef8c81749cc032034a4d59699e586</md5>
+    <crc32>f6ca3e81</crc32>
+    <sha1>db392b25c0d401be2e51ec84e1b84996fbe83ed0</sha1>
+  </file>
+  <file name="BVC-0469-071745-CSPA_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0469-071745-CSPA_abbyy.gz</original>
+    <mtime>1450667828</mtime>
+    <size>17609</size>
+    <md5>7d3062ae4215bb1663305356bc7dcc1f</md5>
+    <crc32>75240939</crc32>
+    <sha1>a9fed575028a052a847e089326d0d3fc0e8f5631</sha1>
+  </file>
+  <file name="BVC-0469-071745-CSPA_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0469-071745-CSPA.pdf</original>
+    <mtime>1450667792</mtime>
+    <size>1134933</size>
+    <md5>0f8f16b3b80aaf1a9e3c960eaf53d14b</md5>
+    <crc32>378cd008</crc32>
+    <sha1>0d4f0fd2658c3c21dc923c9d9933b5d5eeedc7e9</sha1>
+  </file>
+  <file name="BVC-0469-071745-CSPA_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0469-071745-CSPA_djvu.xml</original>
+    <mtime>1450667838</mtime>
+    <size>610</size>
+    <md5>d76055358b9b632c4825391fa289e6e9</md5>
+    <crc32>50f69a9b</crc32>
+    <sha1>9ae15e2c2256bcd6ab48b9fa42f4e55208c81c00</sha1>
+  </file>
+  <file name="BVC-0469-071745-CSPA_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0469-071745-CSPA_djvu.xml</original>
+    <mtime>1450667858</mtime>
+    <size>249398</size>
+    <md5>8c0b290fae07e3fce2b434ed00964e46</md5>
+    <crc32>b27cf491</crc32>
+    <sha1>bbeb263498777c94c0c5696f4d06ca8469166230</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530960909</mtime>
+    <size>16918</size>
+    <md5>56727599d759cb17156a67cf6fb01ee2</md5>
+    <crc32>75ae7bc9</crc32>
+    <sha1>83e64303fbb444ca97425a46b95ff9f13bc1ca81</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="memo-basilio-valdes-from-parsons-recommending-presidential-citation-award-to-guerrillas-july-17-1945_archive.torrent" source="metadata">
+    <btih>e8fbae7e32a0e5063290dbf7ce657d3456a11f5a</btih>
+    <mtime>1530960909</mtime>
+    <size>3954</size>
+    <md5>d6f7ca58bc815b52131b0b0494b3d416</md5>
+    <crc32>30964336</crc32>
+    <sha1>c1f8a7c20eb4edadef1acdefa90df4ac881e7517</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="memo-basilio-valdes-from-parsons-recommending-presidential-citation-award-to-guerrillas-july-17-1945_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>355c983dc3f76db4e9fb10c81b48abfe</md5>
+  </file>
+  <file name="memo-basilio-valdes-from-parsons-recommending-presidential-citation-award-to-guerrillas-july-17-1945_meta.sqlite" source="original">
+    <mtime>1466317950</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>68664e577080c6098a505407139f3868</md5>
+    <crc32>ca78b78c</crc32>
+    <sha1>a32bbcf8381d60007a756483f418a1344320dd2d</sha1>
+  </file>
+  <file name="memo-basilio-valdes-from-parsons-recommending-presidential-citation-award-to-guerrillas-july-17-1945_meta.xml" source="original">
+    <mtime>1485024018</mtime>
+    <size>1584</size>
+    <format>Metadata</format>
+    <md5>fd4f1e9eb5193f2549ed76409bcdb56c</md5>
+    <crc32>b8d9ba8b</crc32>
+    <sha1>4425a1c6b6aa74c8bd5ab3af464a1333f5e5b4cc</sha1>
+  </file>
+</files>

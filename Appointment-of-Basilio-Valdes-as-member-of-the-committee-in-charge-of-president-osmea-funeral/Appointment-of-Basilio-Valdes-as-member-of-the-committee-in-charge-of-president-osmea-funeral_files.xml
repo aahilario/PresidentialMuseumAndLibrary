@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Appointment-of-Basilio-Valdes-as-member-of-the-committee-in-charge-of-president-osmea-funeral_archive.torrent" source="metadata">
+    <btih>137c62df57ea81e8a4301b2ee9bc81b7fd62273f</btih>
+    <mtime>1530782550</mtime>
+    <size>4270</size>
+    <md5>17d83cfe555024c77a8715344ae22656</md5>
+    <crc32>edd363fa</crc32>
+    <sha1>859c1aa7d3d0f10edaadfcb166f5262bef2cf6f9</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Appointment-of-Basilio-Valdes-as-member-of-the-committee-in-charge-of-president-osmea-funeral_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>fd7fffb2042a8343905558f9f3ae5e59</md5>
+  </file>
+  <file name="Appointment-of-Basilio-Valdes-as-member-of-the-committee-in-charge-of-president-osmea-funeral_meta.sqlite" source="original">
+    <mtime>1466815817</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>672261eb0637197a7cad1033e4239b01</md5>
+    <crc32>ffb1bdec</crc32>
+    <sha1>76fac1dc747d580cb8b5306a2ea949baa1c41456</sha1>
+  </file>
+  <file name="Appointment-of-Basilio-Valdes-as-member-of-the-committee-in-charge-of-president-osmea-funeral_meta.xml" source="original">
+    <mtime>1483676042</mtime>
+    <size>1324</size>
+    <format>Metadata</format>
+    <md5>25b8a995be14432c05f57b7f1eca7633</md5>
+    <crc32>c4b8385b</crc32>
+    <sha1>30b5503f8bd282b8bbc8c8b17d26aeec1b99ceaf</sha1>
+  </file>
+  <file name="BVC-0520-102361-HPSP.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0520-102361-HPSP_djvu.xml</original>
+    <mtime>1452358894</mtime>
+    <size>507145</size>
+    <md5>17820ddfc317b3bba6de6b6f53bfe69f</md5>
+    <crc32>62cdcd98</crc32>
+    <sha1>d78d29a4408a140261c8bdf594b42216192f9f6f</sha1>
+  </file>
+  <file name="BVC-0520-102361-HPSP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0520-102361-HPSP_jp2.zip</original>
+    <mtime>1451880825</mtime>
+    <size>47859</size>
+    <md5>ca5f15a18a2ef0b415adee9a73fa7cfc</md5>
+    <crc32>1a9010df</crc32>
+    <sha1>27330918a22184fa949fafccbfc408f1e7cfeac0</sha1>
+  </file>
+  <file name="BVC-0520-102361-HPSP.pdf" source="original">
+    <mtime>1451880692</mtime>
+    <size>2739962</size>
+    <md5>d9546c45d4b6a5ddfdbcb8db1b2f2c1e</md5>
+    <crc32>b77b119f</crc32>
+    <sha1>b0d6b0f3a291839d2d55ed6eedf142baa36a55e1</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0520-102361-HPSP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0520-102361-HPSP_jp2.zip</original>
+    <mtime>1451880922</mtime>
+    <size>64596</size>
+    <md5>eac257fce2140ffa6feda583431d96ab</md5>
+    <crc32>5d5fbd21</crc32>
+    <sha1>f7134e19e729a56ee608d12e1cb93cbf620f2744</sha1>
+  </file>
+  <file name="BVC-0520-102361-HPSP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0520-102361-HPSP.djvu</original>
+    <mtime>1452358901</mtime>
+    <size>3953</size>
+    <md5>15f2735303c7dbda43571b2934993af0</md5>
+    <crc32>16aa6799</crc32>
+    <sha1>4a4d782d17495cfd037b78e6adbaf1891c26ec50</sha1>
+  </file>
+  <file name="BVC-0520-102361-HPSP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0520-102361-HPSP_abbyy.gz</original>
+    <mtime>1451880929</mtime>
+    <size>39477</size>
+    <md5>6c3d6d7f9138a1bc9d97df76e3eab3ac</md5>
+    <crc32>eeab1111</crc32>
+    <sha1>d3a144ede5c23426eb6e1f54c65764e8b2ee2ea4</sha1>
+  </file>
+  <file name="BVC-0520-102361-HPSP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0520-102361-HPSP.pdf</original>
+    <mtime>1451880814</mtime>
+    <size>3705147</size>
+    <md5>6a1350ce360205bd26897d94c8ad2480</md5>
+    <crc32>1e93686f</crc32>
+    <sha1>759ea6e11b665de895bb8c6ebf13c856aa7c22e1</sha1>
+  </file>
+  <file name="BVC-0520-102361-HPSP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0520-102361-HPSP_djvu.xml</original>
+    <mtime>1451880948</mtime>
+    <size>1497</size>
+    <md5>fc3aad705b1fdef79eb78e514f186a66</md5>
+    <crc32>510eba40</crc32>
+    <sha1>4c300393f6c9e61824c74116a5a041695e5a0ea2</sha1>
+  </file>
+  <file name="BVC-0520-102361-HPSP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0520-102361-HPSP_djvu.xml</original>
+    <mtime>1451880993</mtime>
+    <size>703849</size>
+    <md5>a533f1db63aa734ffbfad5c32d5b0d55</md5>
+    <crc32>9d5df617</crc32>
+    <sha1>4f33c4393eb02fcc64ea21456ad93cb95250ed41</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530782547</mtime>
+    <size>10897</size>
+    <md5>f5d0f13d261a130c28314b4ef82e2862</md5>
+    <crc32>ef765db0</crc32>
+    <sha1>1b6009552bffbbd9c8ce9af7d512e4d04936bf0d</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+</files>

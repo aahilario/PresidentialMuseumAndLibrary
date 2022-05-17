@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>transcript-basilio-valdes-broadcast-army-reorganizaton-post-office-reopening-december-1-1944</bookId>
+    <leafCount>2</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4789</origWidth>
+      <origHeight>6404</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4789</w>
+        <h>6404</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4861</origWidth>
+      <origHeight>6398</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4861</w>
+        <h>6398</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

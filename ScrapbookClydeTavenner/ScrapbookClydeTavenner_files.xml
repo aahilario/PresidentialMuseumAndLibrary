@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Scrapbook - Clyde H. Tavenner.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>Scrapbook - Clyde H. Tavenner_djvu.xml</original>
+    <mtime>1436509871</mtime>
+    <size>57590155</size>
+    <md5>2f3c47a794e86965f3563e149b57e184</md5>
+    <crc32>38104301</crc32>
+    <sha1>9948b59f44c074ee0e91b1e500721efa3b8b69b0</sha1>
+  </file>
+  <file name="Scrapbook - Clyde H. Tavenner.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Scrapbook - Clyde H. Tavenner_jp2.zip</original>
+    <mtime>1436499937</mtime>
+    <size>286704</size>
+    <md5>0a1b6699ab11c9f579aa42897bbcc2c7</md5>
+    <crc32>8ac53c88</crc32>
+    <sha1>fec45685ad3813e01224c8326df55faf03e9b36c</sha1>
+  </file>
+  <file name="Scrapbook - Clyde H. Tavenner.pdf" source="original">
+    <mtime>1436498097</mtime>
+    <size>157114310</size>
+    <md5>4c3abf910dae829e788f59cfdfe91d1c</md5>
+    <crc32>f0f86283</crc32>
+    <sha1>140858f3abfc21fc7c62691e7d8786e3d1ddae5d</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="Scrapbook - Clyde H. Tavenner_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Scrapbook - Clyde H. Tavenner_jp2.zip</original>
+    <mtime>1436507449</mtime>
+    <size>4739891</size>
+    <md5>e003e2057ac4727e45a65e95a7c13c9f</md5>
+    <crc32>589ed0a6</crc32>
+    <sha1>64b1c8d175f39e73af47c88c1094fbd3c9ea1a9a</sha1>
+  </file>
+  <file name="Scrapbook - Clyde H. Tavenner_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Scrapbook - Clyde H. Tavenner.djvu</original>
+    <mtime>1436513703</mtime>
+    <size>273385</size>
+    <md5>bff0f3f0e1d667b96ca12d5c8baf1e73</md5>
+    <crc32>06eb888c</crc32>
+    <sha1>bae88a8f1a0cc7bed428837fd489377cc1fba5a8</sha1>
+  </file>
+  <file name="Scrapbook - Clyde H. Tavenner_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Scrapbook - Clyde H. Tavenner_abbyy.gz</original>
+    <mtime>1436507510</mtime>
+    <size>2746885</size>
+    <md5>f721a1a4a62ad8fff301695c05f7cd57</md5>
+    <crc32>6a8cd3bb</crc32>
+    <sha1>653d7c36b3c6ca00e43f786c964d6810b6e67c15</sha1>
+  </file>
+  <file name="Scrapbook - Clyde H. Tavenner_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Scrapbook - Clyde H. Tavenner.pdf</original>
+    <mtime>1436499870</mtime>
+    <size>313246258</size>
+    <md5>bde6b02e7e26ba22d29ea0e0a5736b42</md5>
+    <crc32>035e0ed1</crc32>
+    <sha1>bc16bcc4cbe36190ed8c80343b761dbef3fe69ae</sha1>
+  </file>
+  <file name="Scrapbook - Clyde H. Tavenner_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Scrapbook - Clyde H. Tavenner_djvu.xml</original>
+    <mtime>1436509877</mtime>
+    <size>46339</size>
+    <md5>9516325c5249adaf42c9721504878e3a</md5>
+    <crc32>c80a54be</crc32>
+    <sha1>747572b95651db6511777928172975545a21a67f</sha1>
+  </file>
+  <file name="Scrapbook - Clyde H. Tavenner_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>Scrapbook - Clyde H. Tavenner_djvu.xml</original>
+    <mtime>1436513626</mtime>
+    <size>76614449</size>
+    <md5>be0982c0a16a9050ca2bf2ed196b2ae8</md5>
+    <crc32>9f776abf</crc32>
+    <sha1>ba88bea62f7e683c7606c921f846c108ea343327</sha1>
+  </file>
+  <file name="ScrapbookClydeTavenner_archive.torrent" source="metadata">
+    <btih>1f38ac7c760a03d0a6dc144580d70db1834ffb59</btih>
+    <mtime>1530647879</mtime>
+    <size>26806</size>
+    <md5>13f8b32c5be68b8e54e330360aeb7d3b</md5>
+    <crc32>b894a0a4</crc32>
+    <sha1>ed27933fbf9e08cb2168621251b7d64f49a06358</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="ScrapbookClydeTavenner_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>59682a05ed37ef80a1d38fc01ab84f96</md5>
+  </file>
+  <file name="ScrapbookClydeTavenner_meta.sqlite" source="original">
+    <mtime>1467800478</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>3aaa2352b1e90c37dd53db4c723184fd</md5>
+    <crc32>10c567cb</crc32>
+    <sha1>20dab73b948e0db8bee346d3bce0dbb3ffd36193</sha1>
+  </file>
+  <file name="ScrapbookClydeTavenner_meta.xml" source="original">
+    <mtime>1482670136</mtime>
+    <size>987</size>
+    <format>Metadata</format>
+    <md5>3406031de43383fa293ae7555b107713</md5>
+    <crc32>88f014ac</crc32>
+    <sha1>f3a88f872b2ca1358008726ad3e966bef5fd4e39</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530647875</mtime>
+    <size>12088</size>
+    <md5>be70bef6f0c82a61a656c8f11001e1d1</md5>
+    <crc32>807a2545</crc32>
+    <sha1>dd88769e0bdf0e989bad1f32f719523488a4fc81</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+</files>

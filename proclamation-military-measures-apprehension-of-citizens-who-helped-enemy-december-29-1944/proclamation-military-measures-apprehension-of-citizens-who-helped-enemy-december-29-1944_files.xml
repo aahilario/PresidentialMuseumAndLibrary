@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0548-XXXXXX-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0548-XXXXXX-BVL_jp2.zip</original>
+    <mtime>1455009803</mtime>
+    <size>15128</size>
+    <md5>5aa86ddfda9e97b55003d3252e522bc3</md5>
+    <crc32>8003f649</crc32>
+    <sha1>4ecc56cdcab0f83192b11f45a4e3dd4dcf2b67ce</sha1>
+  </file>
+  <file name="BVC-0548-XXXXXX-BVL.pdf" source="original">
+    <mtime>1455007049</mtime>
+    <size>686444</size>
+    <md5>af7de2c44e3c9d8c8ce8e955404f0461</md5>
+    <crc32>4ea7a1a9</crc32>
+    <sha1>7d6ad7b03913e30a17bc9b1a985caf2c9a06a365</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0548-XXXXXX-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0548-XXXXXX-BVL_jp2.zip</original>
+    <mtime>1455009881</mtime>
+    <size>24521</size>
+    <md5>287c0af99c22c1702d13105d759ff97e</md5>
+    <crc32>7c55ba1e</crc32>
+    <sha1>c558bf165324c870c59c4a4b5363c3fa39ed7fd4</sha1>
+  </file>
+  <file name="BVC-0548-XXXXXX-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0548-XXXXXX-BVL_djvu.xml</original>
+    <mtime>1456644888</mtime>
+    <size>1400</size>
+    <md5>64df2f4cf699b5d47903550349c47a12</md5>
+    <crc32>71d8c76e</crc32>
+    <sha1>cd6aa39de2df164c102b535fff4fadd5c33aa1a2</sha1>
+  </file>
+  <file name="BVC-0548-XXXXXX-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0548-XXXXXX-BVL_abbyy.gz</original>
+    <mtime>1455009889</mtime>
+    <size>15412</size>
+    <md5>952c8cbefbe0703f02efcdf472a4a1a1</md5>
+    <crc32>dc39c762</crc32>
+    <sha1>725cc0ffdf7c6b9f12c9bd15043ad77a26607039</sha1>
+  </file>
+  <file name="BVC-0548-XXXXXX-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0548-XXXXXX-BVL.pdf</original>
+    <mtime>1455009791</mtime>
+    <size>998983</size>
+    <md5>94f37d4158a7aa4814df9eb17154e5e4</md5>
+    <crc32>1650a798</crc32>
+    <sha1>1b374d093cab9b633cf3a16a876814978870e228</sha1>
+  </file>
+  <file name="BVC-0548-XXXXXX-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0548-XXXXXX-BVL_djvu.xml</original>
+    <mtime>1455009912</mtime>
+    <size>599</size>
+    <md5>25f0b3928cebec7141d352bc022cc129</md5>
+    <crc32>66bb7f75</crc32>
+    <sha1>7b4185a4091865132fb0946a4b310e98e837b2ee</sha1>
+  </file>
+  <file name="BVC-0548-XXXXXX-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0548-XXXXXX-BVL_djvu.xml</original>
+    <mtime>1455009941</mtime>
+    <size>230511</size>
+    <md5>222ff19352463bfecaedcdb8414b193f</md5>
+    <crc32>bc926831</crc32>
+    <sha1>d957232c29370e33538af1d964678a1460194177</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530924436</mtime>
+    <size>14225</size>
+    <md5>ba154dd32cde23f3e7814192f1d36df3</md5>
+    <crc32>56a0b2ac</crc32>
+    <sha1>57f87ae30e80519413c5b142b1e3896207ca7c9e</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="proclamation-military-measures-apprehension-of-citizens-who-helped-enemy-december-29-1944_archive.torrent" source="metadata">
+    <btih>64f4d718b86ed96aba8ff845865227be9499ce80</btih>
+    <mtime>1530924437</mtime>
+    <size>3822</size>
+    <md5>44d272436dfdb9c68eb1e8dc834a7d40</md5>
+    <crc32>a193726d</crc32>
+    <sha1>7080560e66d959e7892191479b5e8e6a35971254</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="proclamation-military-measures-apprehension-of-citizens-who-helped-enemy-december-29-1944_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>efa562303a5864dea1ca0692470ae4b8</md5>
+  </file>
+  <file name="proclamation-military-measures-apprehension-of-citizens-who-helped-enemy-december-29-1944_meta.sqlite" source="original">
+    <mtime>1467338853</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>3512ac64caebf1f52d8c1f5bc4c0f74e</md5>
+    <crc32>bef9dc05</crc32>
+    <sha1>4b24f7dbfc06fc345718c009d87aa668f64ee01a</sha1>
+  </file>
+  <file name="proclamation-military-measures-apprehension-of-citizens-who-helped-enemy-december-29-1944_meta.xml" source="original">
+    <mtime>1485773351</mtime>
+    <size>1577</size>
+    <format>Metadata</format>
+    <md5>889f5bd81bef2fa61e59b6e217d7ace8</md5>
+    <crc32>ab5d4646</crc32>
+    <sha1>8e0357ad353ead5ba815ef3afda7d26988fa8803</sha1>
+  </file>
+</files>

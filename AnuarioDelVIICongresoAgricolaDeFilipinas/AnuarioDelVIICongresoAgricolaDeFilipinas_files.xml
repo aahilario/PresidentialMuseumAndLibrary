@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Anuario Del VII Congreso Agricola de Filipinas.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>Anuario Del VII Congreso Agricola de Filipinas_djvu.xml</original>
+    <mtime>1431526976</mtime>
+    <size>16895039</size>
+    <md5>4dbd84f2ffa04e4cb4a34f6b947181d9</md5>
+    <crc32>eafbf1a0</crc32>
+    <sha1>8c0b42bd8481ba5601f74438ab4141c8b4ad7731</sha1>
+  </file>
+  <file name="Anuario Del VII Congreso Agricola de Filipinas.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Anuario Del VII Congreso Agricola de Filipinas_jp2.zip</original>
+    <mtime>1431511406</mtime>
+    <size>328498</size>
+    <md5>1c880d2e94304d4368b1fa3ab50e7b3a</md5>
+    <crc32>70f4b08d</crc32>
+    <sha1>b8d67be31c79f7fd0e85ee2d3224797f48e4e3c9</sha1>
+  </file>
+  <file name="Anuario Del VII Congreso Agricola de Filipinas.pdf" source="original">
+    <mtime>1431510038</mtime>
+    <size>24986808</size>
+    <md5>650ebcd634e69dcdc0332008dd1117bf</md5>
+    <crc32>2f60433c</crc32>
+    <sha1>dd1d8bedaf95ffaf413f074d8f469f0c7e389698</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="Anuario Del VII Congreso Agricola de Filipinas_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Anuario Del VII Congreso Agricola de Filipinas_jp2.zip</original>
+    <mtime>1431526231</mtime>
+    <size>5636629</size>
+    <md5>287566e93fda25331ed2d06cc9e419ff</md5>
+    <crc32>49ff8cbc</crc32>
+    <sha1>75ca7692446a39720b8d2547bad8a33c1577e814</sha1>
+  </file>
+  <file name="Anuario Del VII Congreso Agricola de Filipinas_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Anuario Del VII Congreso Agricola de Filipinas.djvu</original>
+    <mtime>1431528045</mtime>
+    <size>338323</size>
+    <md5>442d2770d48d4241ba7c3b0954facc5a</md5>
+    <crc32>2684c4a8</crc32>
+    <sha1>8f7cb50eba3f5c37171b653e125f6c2f77951749</sha1>
+  </file>
+  <file name="Anuario Del VII Congreso Agricola de Filipinas_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Anuario Del VII Congreso Agricola de Filipinas_abbyy.gz</original>
+    <mtime>1431526304</mtime>
+    <size>3144660</size>
+    <md5>8bb095c9992bdb45f734af32886a575e</md5>
+    <crc32>4675baa0</crc32>
+    <sha1>91a4e290b120918e23748812c86ecce3cf3c970c</sha1>
+  </file>
+  <file name="Anuario Del VII Congreso Agricola de Filipinas_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Anuario Del VII Congreso Agricola de Filipinas.pdf</original>
+    <mtime>1431511348</mtime>
+    <size>91400096</size>
+    <md5>9f1230c760542c08214cda01ca19d592</md5>
+    <crc32>b09e1ed6</crc32>
+    <sha1>b24a75e74cd3256705442012c3c498a7548b5a0d</sha1>
+  </file>
+  <file name="Anuario Del VII Congreso Agricola de Filipinas_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Anuario Del VII Congreso Agricola de Filipinas_djvu.xml</original>
+    <mtime>1431526980</mtime>
+    <size>14893</size>
+    <md5>195414eacd40777480131a841aaa0e1a</md5>
+    <crc32>98aa1e81</crc32>
+    <sha1>2c23239292dd47115aa109295715f49370d8cb25</sha1>
+  </file>
+  <file name="Anuario Del VII Congreso Agricola de Filipinas_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>Anuario Del VII Congreso Agricola de Filipinas_djvu.xml</original>
+    <mtime>1431528007</mtime>
+    <size>24061360</size>
+    <md5>31be8f4ffa661021245e4ff3c87d133c</md5>
+    <crc32>2a57e144</crc32>
+    <sha1>666ea4150d94c0164c0b4177280b16dfa0fc9405</sha1>
+  </file>
+  <file name="AnuarioDelVIICongresoAgricolaDeFilipinas_archive.torrent" source="metadata">
+    <btih>70f03019a5fc3cc8ebdd05d767d29fcca20bf846</btih>
+    <mtime>1530614134</mtime>
+    <size>10118</size>
+    <md5>fb6330019fe1253455e16c65065c10ce</md5>
+    <crc32>22642251</crc32>
+    <sha1>9ab809132c6265f99402dd6458279b975b620b6c</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="AnuarioDelVIICongresoAgricolaDeFilipinas_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>638771058ae403e0ccac8a95ae1e6ef5</md5>
+  </file>
+  <file name="AnuarioDelVIICongresoAgricolaDeFilipinas_meta.sqlite" source="original">
+    <mtime>1466686201</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>c6489ce5190bc08c61742c0bc20b7a1e</md5>
+    <crc32>6e33d605</crc32>
+    <sha1>80f89a3d7e133b8c0b73165d8b3a0685bf67b985</sha1>
+  </file>
+  <file name="AnuarioDelVIICongresoAgricolaDeFilipinas_meta.xml" source="original">
+    <mtime>1484011250</mtime>
+    <size>1283</size>
+    <format>Metadata</format>
+    <md5>24c065f5e3dee64c1d4f6f1643acee51</md5>
+    <crc32>5953babe</crc32>
+    <sha1>8ba8c90a2d9a01678123ec7e98b53a5734c32093</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530614133</mtime>
+    <size>6955</size>
+    <md5>e911dc2dc1d03de9f1dc1889385010d9</md5>
+    <crc32>2ca36f72</crc32>
+    <sha1>0febb95bedf9a9e39bcb0ac4ae7fb9e9888e5a8b</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+</files>

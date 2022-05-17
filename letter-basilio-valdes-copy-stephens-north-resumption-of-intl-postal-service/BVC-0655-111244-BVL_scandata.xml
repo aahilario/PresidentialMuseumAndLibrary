@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>letter-basilio-valdes-copy-stephens-north-resumption-of-intl-postal-service</bookId>
+    <leafCount>2</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4867</origWidth>
+      <origHeight>6368</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4867</w>
+        <h>6368</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4824</origWidth>
+      <origHeight>6432</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4824</w>
+        <h>6432</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

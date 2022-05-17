@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0095-010137-OP.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0095-010137-OP_djvu.xml</original>
+    <mtime>1449548904</mtime>
+    <size>2601662</size>
+    <md5>51c5ed87f08fbcb3fce5929c7ccca94d</md5>
+    <crc32>56ea3afa</crc32>
+    <sha1>4080b21a5c28b3cd420db7d6d14c099e9e3e4700</sha1>
+  </file>
+  <file name="BVC-0095-010137-OP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0095-010137-OP_jp2.zip</original>
+    <mtime>1449548090</mtime>
+    <size>192534</size>
+    <md5>f5965900a77daf8615aac4ede472c046</md5>
+    <crc32>5c4d71c1</crc32>
+    <sha1>b74270560398fe2763b46450df59250c6ca3a251</sha1>
+  </file>
+  <file name="BVC-0095-010137-OP.pdf" source="original">
+    <mtime>1449547812</mtime>
+    <size>11575857</size>
+    <md5>45834f20af489356d5515632a3d11114</md5>
+    <crc32>6cdb2360</crc32>
+    <sha1>c0c90ad9291f94e14bb9b268adccb99412b102ba</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0095-010137-OP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0095-010137-OP_jp2.zip</original>
+    <mtime>1449548702</mtime>
+    <size>459404</size>
+    <md5>6db0701d17839aa4ccbc05dd7ef40ec6</md5>
+    <crc32>11df8522</crc32>
+    <sha1>e658877776c7417b2bbb5f6b64bf3e7983a50e22</sha1>
+  </file>
+  <file name="BVC-0095-010137-OP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0095-010137-OP.djvu</original>
+    <mtime>1449549291</mtime>
+    <size>29158</size>
+    <md5>7fdc0ff243538241ee70975c8a11ad0e</md5>
+    <crc32>8963fb8b</crc32>
+    <sha1>1eec18a07a28c54a4da1128c96f47e991e531034</sha1>
+  </file>
+  <file name="BVC-0095-010137-OP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0095-010137-OP_abbyy.gz</original>
+    <mtime>1449548715</mtime>
+    <size>339841</size>
+    <md5>014d087f6e429443481c892aacaf30af</md5>
+    <crc32>e83da4b1</crc32>
+    <sha1>da11048a608b85f02b205a9753e74aea46e8bdaf</sha1>
+  </file>
+  <file name="BVC-0095-010137-OP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0095-010137-OP.pdf</original>
+    <mtime>1449548046</mtime>
+    <size>16453067</size>
+    <md5>cf3abd090466984b28d4daff261c4912</md5>
+    <crc32>8e4396fe</crc32>
+    <sha1>184ed1cdce1b305d87a69deac2e88f379690cabf</sha1>
+  </file>
+  <file name="BVC-0095-010137-OP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0095-010137-OP_djvu.xml</original>
+    <mtime>1449548905</mtime>
+    <size>5060</size>
+    <md5>1d9a8989f841451157f7b9de672b7aa0</md5>
+    <crc32>ab440536</crc32>
+    <sha1>00ffebc5181bb5b3470237ec03a93df8dfd35fdc</sha1>
+  </file>
+  <file name="BVC-0095-010137-OP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0095-010137-OP_djvu.xml</original>
+    <mtime>1449549201</mtime>
+    <size>3590911</size>
+    <md5>f901783973ff6c348da7c6c3a20e0866</md5>
+    <crc32>48b8f099</crc32>
+    <sha1>71b03116c57a493ee22359c27297ec24051aa889</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530877151</mtime>
+    <size>21464</size>
+    <md5>0b4e992132acdc834acaa16a2441e695</md5>
+    <crc32>6e582ccd</crc32>
+    <sha1>18121cefd6a788ff03f7930eecf6748ccbe2dbc8</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="philippine-army-proposed-initial-seniority-list-of-officers-january-1-1937_archive.torrent" source="metadata">
+    <btih>cec6f37a05fcf36221f50541ec3cc199c26a69f2</btih>
+    <mtime>1530877152</mtime>
+    <size>5147</size>
+    <md5>73b7327f3e611478305b4eac8c4d1bbb</md5>
+    <crc32>fd423d45</crc32>
+    <sha1>cb07a96aff53970815f7b840727273853cb7d2ab</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="philippine-army-proposed-initial-seniority-list-of-officers-january-1-1937_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>5a2f47793a942ebbf68fbb77029fd60c</md5>
+  </file>
+  <file name="philippine-army-proposed-initial-seniority-list-of-officers-january-1-1937_meta.sqlite" source="original">
+    <mtime>1463848007</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>9d21ee70598bcce23d45b31a623f2982</md5>
+    <crc32>078b670d</crc32>
+    <sha1>89852289cfa3b839ab52aab1191d6bf423aa6aef</sha1>
+  </file>
+  <file name="philippine-army-proposed-initial-seniority-list-of-officers-january-1-1937_meta.xml" source="original">
+    <mtime>1484965391</mtime>
+    <size>1215</size>
+    <format>Metadata</format>
+    <md5>baae2242222e1f6a342a4ceeb1b987e8</md5>
+    <crc32>a0359720</crc32>
+    <sha1>23c0d098b76ca345bb6a6baf817bf232619abdd5</sha1>
+  </file>
+</files>

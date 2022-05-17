@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="An appraisal of a great commoner.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>An appraisal of a great commoner_djvu.xml</original>
+    <mtime>1431510093</mtime>
+    <size>5570796</size>
+    <md5>f582673bbd8ce5126fd090dbab68ae68</md5>
+    <crc32>0a142222</crc32>
+    <sha1>54647ba7a7ac7ad5354d6edaf53718be714e71c7</sha1>
+  </file>
+  <file name="An appraisal of a great commoner.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>An appraisal of a great commoner_jp2.zip</original>
+    <mtime>1431507297</mtime>
+    <size>308370</size>
+    <md5>d1b843d6c1d7a89866b7b11b4f3d61e1</md5>
+    <crc32>2ce8807c</crc32>
+    <sha1>61a8a7d1e1e59b41cfae704e12cdeabbd4ee15d1</sha1>
+  </file>
+  <file name="An appraisal of a great commoner.pdf" source="original">
+    <mtime>1431506303</mtime>
+    <size>10154137</size>
+    <md5>678796c9d8e4110fbe548f09c5cc6b52</md5>
+    <crc32>7b2581f3</crc32>
+    <sha1>c402044ec1b3cb6877d497a31fcab6329260164c</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="An appraisal of a great commoner_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>An appraisal of a great commoner_jp2.zip</original>
+    <mtime>1431509767</mtime>
+    <size>1491345</size>
+    <md5>c091e3b8708c2cdb5ab2b1c83631e9e4</md5>
+    <crc32>188613f0</crc32>
+    <sha1>9f0f195c65a4ca6421c2aeb4765c894e5e85dc15</sha1>
+  </file>
+  <file name="An appraisal of a great commoner_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>An appraisal of a great commoner.djvu</original>
+    <mtime>1431510611</mtime>
+    <size>90828</size>
+    <md5>562efd9c3f2165644635ccacd7bfbde3</md5>
+    <crc32>94b0297e</crc32>
+    <sha1>891e7b394e01e052b81cee8784aae93a83a0f834</sha1>
+  </file>
+  <file name="An appraisal of a great commoner_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>An appraisal of a great commoner_abbyy.gz</original>
+    <mtime>1431509792</mtime>
+    <size>839701</size>
+    <md5>6db986ec6937245048476695a8197fc8</md5>
+    <crc32>4bfa12b1</crc32>
+    <sha1>ca2cab23f738c4839c88239ce8c452b141b2029e</sha1>
+  </file>
+  <file name="An appraisal of a great commoner_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>An appraisal of a great commoner.pdf</original>
+    <mtime>1431507271</mtime>
+    <size>31050701</size>
+    <md5>454d9bf287bdeea8e91c79f2c60daae4</md5>
+    <crc32>3fa247c5</crc32>
+    <sha1>1ab281f0316f09228cc0d2d96062bda3185966b5</sha1>
+  </file>
+  <file name="An appraisal of a great commoner_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>An appraisal of a great commoner_djvu.xml</original>
+    <mtime>1431510095</mtime>
+    <size>18767</size>
+    <md5>b510211983d453cc71fbfeca43bd2363</md5>
+    <crc32>7e79a7ee</crc32>
+    <sha1>307f88f46f23cc9ca65f4d7024ea545d9bb02f95</sha1>
+  </file>
+  <file name="An appraisal of a great commoner_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>An appraisal of a great commoner_djvu.xml</original>
+    <mtime>1431510586</mtime>
+    <size>8774322</size>
+    <md5>8d26390aca34b4f0da62a2745d187b95</md5>
+    <crc32>d3d28c23</crc32>
+    <sha1>98552e1948580f847e2cee7d7457bb2cf68b0b15</sha1>
+  </file>
+  <file name="AnAppraisalOfAGreatCommoner_archive.torrent" source="metadata">
+    <btih>28875f13ca2bc3114d52850a69e1b4c863f5adce</btih>
+    <mtime>1483864360</mtime>
+    <size>5595</size>
+    <md5>11f579ecaa4ee518db7310e3a701a643</md5>
+    <crc32>b13856db</crc32>
+    <sha1>d105967a5a5e0b2dab3ce196bc7ec59f4559725b</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="AnAppraisalOfAGreatCommoner_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>c1fa4f511c46cda0e5b9d2ac12a80dfc</md5>
+  </file>
+  <file name="AnAppraisalOfAGreatCommoner_meta.sqlite" source="original">
+    <mtime>1466682492</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>f8868768c80bbeaf28f3e2e22c6fe50c</md5>
+    <crc32>0d273e83</crc32>
+    <sha1>cca2b4ee15b61a17bb845c3aff7b3f3da5afe0de</sha1>
+  </file>
+  <file name="AnAppraisalOfAGreatCommoner_meta.xml" source="original">
+    <mtime>1483864359</mtime>
+    <size>1435</size>
+    <format>Metadata</format>
+    <md5>7fcbdbcd2834733030c28c293c534328</md5>
+    <crc32>ba70f35e</crc32>
+    <sha1>1e261fd5b43625c3905827502453542ef8ccf2eb</sha1>
+  </file>
+</files>

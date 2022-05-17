@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>postwar-resume-dr-basilio-valdes-1955</bookId>
+    <leafCount>3</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5128</origWidth>
+      <origHeight>6686</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5128</w>
+        <h>6686</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5135</origWidth>
+      <origHeight>6672</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5135</w>
+        <h>6672</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5126</origWidth>
+      <origHeight>6672</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5126</w>
+        <h>6672</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

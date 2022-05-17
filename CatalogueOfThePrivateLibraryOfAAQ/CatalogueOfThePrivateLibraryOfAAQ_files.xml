@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="CATALOGUE OF THE PRIVATE LIBRARY.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>CATALOGUE OF THE PRIVATE LIBRARY_djvu.xml</original>
+    <mtime>1433075859</mtime>
+    <size>13904130</size>
+    <md5>980e0fd65872620626ff37af4928fa63</md5>
+    <crc32>08c3a050</crc32>
+    <sha1>43f79b034ad1aea05e596e4fc56dca91c1328f68</sha1>
+  </file>
+  <file name="CATALOGUE OF THE PRIVATE LIBRARY.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>CATALOGUE OF THE PRIVATE LIBRARY_jp2.zip</original>
+    <mtime>1433071757</mtime>
+    <size>315794</size>
+    <md5>eb2b1fe3ac1bc5caa26a27e10b5df6d7</md5>
+    <crc32>f1c3870e</crc32>
+    <sha1>36d5ad3612e02ae06ae38bbc1daa40efd00ba28e</sha1>
+  </file>
+  <file name="CATALOGUE OF THE PRIVATE LIBRARY.pdf" source="original">
+    <mtime>1433070919</mtime>
+    <size>67082172</size>
+    <md5>8233a1b2bc24a2c5bccb98cbf57648fd</md5>
+    <crc32>20d00d47</crc32>
+    <sha1>d24a5e36cbb8dcf805b9fb50fbefd939b796be6c</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="CATALOGUE OF THE PRIVATE LIBRARY_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>CATALOGUE OF THE PRIVATE LIBRARY_jp2.zip</original>
+    <mtime>1433074662</mtime>
+    <size>1480817</size>
+    <md5>5b4c1d51127b06c65bcbb250e54c9693</md5>
+    <crc32>e69540e4</crc32>
+    <sha1>c44dbe3b75554faf1cd773244ae3208c78f920c7</sha1>
+  </file>
+  <file name="CATALOGUE OF THE PRIVATE LIBRARY_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>CATALOGUE OF THE PRIVATE LIBRARY.djvu</original>
+    <mtime>1433077372</mtime>
+    <size>87909</size>
+    <md5>79660b1d7ed69d48077f8674244e73f8</md5>
+    <crc32>3274746a</crc32>
+    <sha1>46eba37ac2b2c497f37ecc45cea0299e95080d75</sha1>
+  </file>
+  <file name="CATALOGUE OF THE PRIVATE LIBRARY_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>CATALOGUE OF THE PRIVATE LIBRARY_abbyy.gz</original>
+    <mtime>1433074727</mtime>
+    <size>854716</size>
+    <md5>af0458e2565cb399095c2046787e4e27</md5>
+    <crc32>216b2027</crc32>
+    <sha1>c27b2fac1261e4f691ffa528bfe65b82228d4c30</sha1>
+  </file>
+  <file name="CATALOGUE OF THE PRIVATE LIBRARY_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>CATALOGUE OF THE PRIVATE LIBRARY.pdf</original>
+    <mtime>1433071710</mtime>
+    <size>97942952</size>
+    <md5>cb4271ea17a6b0d0746a0efbc3d270d2</md5>
+    <crc32>9fd4af87</crc32>
+    <sha1>066e85bfc5ca12184ba9aa0e6137a24f110c9d50</sha1>
+  </file>
+  <file name="CATALOGUE OF THE PRIVATE LIBRARY_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>CATALOGUE OF THE PRIVATE LIBRARY_djvu.xml</original>
+    <mtime>1433075862</mtime>
+    <size>29840</size>
+    <md5>f4d63fdf23a4d12a4fa5e71a182cfd85</md5>
+    <crc32>c5353abd</crc32>
+    <sha1>8728db7df598288b86df018753e0d9cbe6fe0ab6</sha1>
+  </file>
+  <file name="CATALOGUE OF THE PRIVATE LIBRARY_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>CATALOGUE OF THE PRIVATE LIBRARY_djvu.xml</original>
+    <mtime>1433077342</mtime>
+    <size>18369552</size>
+    <md5>5082039ba6e8e746e1d802524e48101a</md5>
+    <crc32>1a714b81</crc32>
+    <sha1>1845620149c4592ff437c52f4d18d55d40daa35c</sha1>
+  </file>
+  <file name="CatalogueOfThePrivateLibraryOfAAQ_archive.torrent" source="metadata">
+    <btih>d8e81ea3d4e9d52070fb781f0f47c01695bef92d</btih>
+    <mtime>1530906017</mtime>
+    <size>11188</size>
+    <md5>b55678425c52614bc7629ea5baf8cc04</md5>
+    <crc32>0b3688ad</crc32>
+    <sha1>679ca72335cb7c77b6c76f6cf957dc376d686c63</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="CatalogueOfThePrivateLibraryOfAAQ_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>47cb5229a56ad414b181c6926bdbce95</md5>
+  </file>
+  <file name="CatalogueOfThePrivateLibraryOfAAQ_meta.sqlite" source="original">
+    <mtime>1466771868</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>ed0a8456b819221797657822f5974fda</md5>
+    <crc32>84cb09c0</crc32>
+    <sha1>c999f98b64813903bdff4c98e2a558540323b317</sha1>
+  </file>
+  <file name="CatalogueOfThePrivateLibraryOfAAQ_meta.xml" source="original">
+    <mtime>1482969452</mtime>
+    <size>1440</size>
+    <format>Metadata</format>
+    <md5>0512ad4a5c6d38976a321b32102ce8a1</md5>
+    <crc32>493a4b6e</crc32>
+    <sha1>c9d24b469d37a5354c1135bb79be610567cea393</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530906015</mtime>
+    <size>18485</size>
+    <md5>1b17a1e22a05b1373ec9379cabd2d5bc</md5>
+    <crc32>62e4f604</crc32>
+    <sha1>f891c11cb43d8ca4d7ea6cbfc1b371c83fb633cd</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0549-XXXXXX-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0549-XXXXXX-BVL_jp2.zip</original>
+    <mtime>1455011577</mtime>
+    <size>17380</size>
+    <md5>17575209c79ad35420b7ab697681e973</md5>
+    <crc32>2ff57c50</crc32>
+    <sha1>b7f7abe7c6a4d3ace34f256b0328fcfdd52b418a</sha1>
+  </file>
+  <file name="BVC-0549-XXXXXX-BVL.pdf" source="original">
+    <mtime>1455007419</mtime>
+    <size>832555</size>
+    <md5>0196ff1a781642c7ae02d18d31c30767</md5>
+    <crc32>bc28c68c</crc32>
+    <sha1>9d5ad2888a595e45a27833a2e1fedf8cb183e5ac</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0549-XXXXXX-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0549-XXXXXX-BVL_jp2.zip</original>
+    <mtime>1455014295</mtime>
+    <size>24852</size>
+    <md5>56dd1dded73f82a582c0343bd4c92013</md5>
+    <crc32>131deebd</crc32>
+    <sha1>37cae1cd19a78261f07348da92a0b1e967a3e9c1</sha1>
+  </file>
+  <file name="BVC-0549-XXXXXX-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0549-XXXXXX-BVL_djvu.xml</original>
+    <mtime>1456644886</mtime>
+    <size>1559</size>
+    <md5>f7c1f5fc4d7f0134710c9bddb9ffbc6d</md5>
+    <crc32>56905391</crc32>
+    <sha1>fa509d6c8b71a363a4a624d7bf1442180044b73d</sha1>
+  </file>
+  <file name="BVC-0549-XXXXXX-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0549-XXXXXX-BVL_abbyy.gz</original>
+    <mtime>1455014302</mtime>
+    <size>14116</size>
+    <md5>2e0ebe7613ae3748810d122a70612a6f</md5>
+    <crc32>d48cceaa</crc32>
+    <sha1>c4b0da75c513c94b98205cd30a966ccda7239888</sha1>
+  </file>
+  <file name="BVC-0549-XXXXXX-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0549-XXXXXX-BVL.pdf</original>
+    <mtime>1455011566</mtime>
+    <size>1202938</size>
+    <md5>90d3004dbf31232e6582fbff1bdb5753</md5>
+    <crc32>def91878</crc32>
+    <sha1>c921b0dbb5fac23e04fa3b28b0c9fc2377dedb57</sha1>
+  </file>
+  <file name="BVC-0549-XXXXXX-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0549-XXXXXX-BVL_djvu.xml</original>
+    <mtime>1455014321</mtime>
+    <size>580</size>
+    <md5>d750e45beda03e4100f75ab39f55ff05</md5>
+    <crc32>ce341106</crc32>
+    <sha1>64e6ef3a2184cd207b427c968a60401f8778b197</sha1>
+  </file>
+  <file name="BVC-0549-XXXXXX-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0549-XXXXXX-BVL_djvu.xml</original>
+    <mtime>1455014342</mtime>
+    <size>229526</size>
+    <md5>2318e83dc831a370683fb3dd7ce45753</md5>
+    <crc32>5a97cdc5</crc32>
+    <sha1>9095ff39f47ae2b931b0bbc91c1a1379546a4897</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1531045214</mtime>
+    <size>15152</size>
+    <md5>2efb5ec914b9a0daf3ee509d802988b7</md5>
+    <crc32>180fb4f9</crc32>
+    <sha1>c003fba375c2bddd4dbd7de77f50830648c5a21a</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="memorandum-distinguished-conduct-star-buckley-soriano-fernando-undated_archive.torrent" source="metadata">
+    <btih>1df6d0859d36e80ee32b04ca114dba0289d4356e</btih>
+    <mtime>1531045215</mtime>
+    <size>3668</size>
+    <md5>4cfe196857e827ab850c65de36837c50</md5>
+    <crc32>f3c3b173</crc32>
+    <sha1>dfa496551fde2ef9a6dbe031b6e3983057fbd15b</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="memorandum-distinguished-conduct-star-buckley-soriano-fernando-undated_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>d74dcda4e5721312e8b49d8f2d9c9235</md5>
+  </file>
+  <file name="memorandum-distinguished-conduct-star-buckley-soriano-fernando-undated_meta.sqlite" source="original">
+    <mtime>1467984390</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>244e35caa6451098f1209f34e019ed16</md5>
+    <crc32>f106f20a</crc32>
+    <sha1>12cbf5553f1dbab5db660d8ed938d3181b8b3528</sha1>
+  </file>
+  <file name="memorandum-distinguished-conduct-star-buckley-soriano-fernando-undated_meta.xml" source="original">
+    <mtime>1485792752</mtime>
+    <size>1487</size>
+    <format>Metadata</format>
+    <md5>bd556e972608a2e747387ad38b006947</md5>
+    <crc32>6a01a46d</crc32>
+    <sha1>bdd63828931b264dab5a7b0376dae70d1903e615</sha1>
+  </file>
+</files>

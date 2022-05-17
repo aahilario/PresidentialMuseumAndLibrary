@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0395-010238-CP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0395-010238-CP_jp2.zip</original>
+    <mtime>1450687796</mtime>
+    <size>15089</size>
+    <md5>554691102dbb5e796f8ac92f4470c8f1</md5>
+    <crc32>640be62d</crc32>
+    <sha1>82d63ea0c47d6c1664e629b361205d44f1f118c6</sha1>
+  </file>
+  <file name="BVC-0395-010238-CP.pdf" source="original">
+    <mtime>1450687740</mtime>
+    <size>763457</size>
+    <md5>49864c3fb16cfa4775fadc0b948330c7</md5>
+    <crc32>bc1287cb</crc32>
+    <sha1>2d9406282c41961e37299bb0fa7b8ffe9951e79d</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0395-010238-CP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0395-010238-CP_jp2.zip</original>
+    <mtime>1450687814</mtime>
+    <size>20969</size>
+    <md5>4d0031f0ffaa54d51e760049c3b3f92d</md5>
+    <crc32>682720a2</crc32>
+    <sha1>6e001a27f55dd3decae6c18a29be1aa0cef339e4</sha1>
+  </file>
+  <file name="BVC-0395-010238-CP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0395-010238-CP_djvu.xml</original>
+    <mtime>1456644928</mtime>
+    <size>1252</size>
+    <md5>fb24e4b12a0ee16d71ebd42bea54d898</md5>
+    <crc32>6daf9e84</crc32>
+    <sha1>d1debb9b129091794485cbb2ef9b30e349305cf8</sha1>
+  </file>
+  <file name="BVC-0395-010238-CP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0395-010238-CP_abbyy.gz</original>
+    <mtime>1450687820</mtime>
+    <size>13425</size>
+    <md5>c07413557fb7ca45b63758bf313a2a19</md5>
+    <crc32>e3ece998</crc32>
+    <sha1>9fb10fb472fbea68f7b8622b17da0ef94ffeb51b</sha1>
+  </file>
+  <file name="BVC-0395-010238-CP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0395-010238-CP.pdf</original>
+    <mtime>1450687789</mtime>
+    <size>1146535</size>
+    <md5>08173f534371202abc2847fab4871317</md5>
+    <crc32>3e89222c</crc32>
+    <sha1>23be673da412bb236f674e8c3a6a8a892ef31d48</sha1>
+  </file>
+  <file name="BVC-0395-010238-CP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0395-010238-CP_djvu.xml</original>
+    <mtime>1450687829</mtime>
+    <size>573</size>
+    <md5>f73ca642bb9ec65ea2d05900cf3fdbd3</md5>
+    <crc32>d69b24ee</crc32>
+    <sha1>39d27c36095a2b628435d94ab99643123989e068</sha1>
+  </file>
+  <file name="BVC-0395-010238-CP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0395-010238-CP_djvu.xml</original>
+    <mtime>1450687842</mtime>
+    <size>200270</size>
+    <md5>384f7857778c29387d4a763e01e81baa</md5>
+    <crc32>851fc0dd</crc32>
+    <sha1>08883d7d8520eeeb7a3c6ca8d1e365cf59536a60</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530847815</mtime>
+    <size>17420</size>
+    <md5>8f589452a3b589b2726c5183366eaeb1</md5>
+    <crc32>663b465a</crc32>
+    <sha1>28993810f8b4f50853e68721dadf4f8d8fbcbcc6</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="oath-of-office-brigadier-general-basilio-valdes-january-13-1936_archive.torrent" source="metadata">
+    <btih>c8d34bb318bb6e022b02367dfcbc3c05e084fb6c</btih>
+    <mtime>1530847816</mtime>
+    <size>3599</size>
+    <md5>387cd74ebfc8645e5efb2a586007e683</md5>
+    <crc32>542d4193</crc32>
+    <sha1>0d197f12fc7eb412205b4244f990265fade674e5</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="oath-of-office-brigadier-general-basilio-valdes-january-13-1936_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>b4eb59b5cb0fe8c70d29fde5390220ca</md5>
+  </file>
+  <file name="oath-of-office-brigadier-general-basilio-valdes-january-13-1936_meta.sqlite" source="original">
+    <mtime>1466340937</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>58ee3d882043d0b668b56c9386a059d1</md5>
+    <crc32>5b21447b</crc32>
+    <sha1>b239e2e642001e529d45f3828e7f34fc5612245b</sha1>
+  </file>
+  <file name="oath-of-office-brigadier-general-basilio-valdes-january-13-1936_meta.xml" source="original">
+    <mtime>1482433478</mtime>
+    <size>1225</size>
+    <format>Metadata</format>
+    <md5>1933b5c24a52911d5d2e971f61cc7a1e</md5>
+    <crc32>6492870a</crc32>
+    <sha1>804fa512ef3b16503df360054885e5dbb2814f41</sha1>
+  </file>
+</files>

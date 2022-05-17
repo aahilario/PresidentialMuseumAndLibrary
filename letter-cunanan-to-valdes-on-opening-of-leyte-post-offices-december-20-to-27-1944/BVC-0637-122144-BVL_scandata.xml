@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>567</dpi>
+    <bookId>letter-cunanan-to-valdes-on-opening-of-leyte-post-offices-december-20-to-27-1944</bookId>
+    <leafCount>1</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4567</origWidth>
+      <origHeight>3939</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4567</w>
+        <h>3939</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+  </pageData>
+</book>

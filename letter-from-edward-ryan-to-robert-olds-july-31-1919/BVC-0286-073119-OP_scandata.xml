@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>letter-from-edward-ryan-to-robert-olds-july-31-1919</bookId>
+    <leafCount>1</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5068</origWidth>
+      <origHeight>6686</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5068</w>
+        <h>6686</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+  </pageData>
+</book>

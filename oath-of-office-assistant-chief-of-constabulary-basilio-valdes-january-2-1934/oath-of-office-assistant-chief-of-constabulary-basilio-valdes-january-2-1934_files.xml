@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0401-010234-CP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0401-010234-CP_jp2.zip</original>
+    <mtime>1450751797</mtime>
+    <size>14926</size>
+    <md5>b5564a4d9b2796514462e892f23cdcd1</md5>
+    <crc32>7c1d2177</crc32>
+    <sha1>ad19dc1bcfcaf479f9fd628db91f0cfce7c09128</sha1>
+  </file>
+  <file name="BVC-0401-010234-CP.pdf" source="original">
+    <mtime>1450751735</mtime>
+    <size>707065</size>
+    <md5>a6a90e4c60e9dfa858cbaaf81eaf6c15</md5>
+    <crc32>70eaf05c</crc32>
+    <sha1>3869b99c47de6862b1fcbdc6be3d957b8ad94bf2</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0401-010234-CP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0401-010234-CP_jp2.zip</original>
+    <mtime>1450751848</mtime>
+    <size>22641</size>
+    <md5>2cabe6f4f56ecb94e2fa8619f97d8356</md5>
+    <crc32>f0598c40</crc32>
+    <sha1>1a4684650f267a74d5a2a11cf40a52c1da17c67b</sha1>
+  </file>
+  <file name="BVC-0401-010234-CP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0401-010234-CP_djvu.xml</original>
+    <mtime>1456644649</mtime>
+    <size>1297</size>
+    <md5>c12b5e5d3218a907d2d4376b365439bc</md5>
+    <crc32>d7e4a201</crc32>
+    <sha1>47ac506db41c21042910b183fb622079b1810cbf</sha1>
+  </file>
+  <file name="BVC-0401-010234-CP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0401-010234-CP_abbyy.gz</original>
+    <mtime>1450751854</mtime>
+    <size>13063</size>
+    <md5>2514dc3da5107bd7d2487bbaaeb62ea0</md5>
+    <crc32>c32d37b0</crc32>
+    <sha1>565e82875d21ad8619ee668679382ec50d65a749</sha1>
+  </file>
+  <file name="BVC-0401-010234-CP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0401-010234-CP.pdf</original>
+    <mtime>1450751790</mtime>
+    <size>1007982</size>
+    <md5>25fef502b4dce6e49d856efbb233a8bd</md5>
+    <crc32>df981693</crc32>
+    <sha1>4b3d7a53fe7f5be575f782552f33fc9c8584beb4</sha1>
+  </file>
+  <file name="BVC-0401-010234-CP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0401-010234-CP_djvu.xml</original>
+    <mtime>1450751864</mtime>
+    <size>586</size>
+    <md5>b7161a813cd7ca276a5efe7efecca9a4</md5>
+    <crc32>17cbe658</crc32>
+    <sha1>be962b805237c8e69398c66ef8f18504c97f6c72</sha1>
+  </file>
+  <file name="BVC-0401-010234-CP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0401-010234-CP_djvu.xml</original>
+    <mtime>1450751880</mtime>
+    <size>207347</size>
+    <md5>a6c940588f09d6bdd9acbcdd91902333</md5>
+    <crc32>ecc9d44d</crc32>
+    <sha1>b841f90c67334bcd769ad39d602c3735596fca13</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530871201</mtime>
+    <size>17077</size>
+    <md5>2fe656920b9f918da268e4cbc308d493</md5>
+    <crc32>d59d4f02</crc32>
+    <sha1>214504e23e53cc1340bc8dab0be6bb59847f55c5</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="oath-of-office-assistant-chief-of-constabulary-basilio-valdes-january-2-1934_archive.torrent" source="metadata">
+    <btih>6013fa37f04527dec979494e92ae65bbd7066c74</btih>
+    <mtime>1530871202</mtime>
+    <size>3695</size>
+    <md5>946942f546a2f9b65867d52aeb97c5e9</md5>
+    <crc32>fe81f5af</crc32>
+    <sha1>6e819c7a0105641d9c71a8299b66cfaabd28a1dd</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="oath-of-office-assistant-chief-of-constabulary-basilio-valdes-january-2-1934_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>c4da35b71ee7160cee7a110e32767172</md5>
+  </file>
+  <file name="oath-of-office-assistant-chief-of-constabulary-basilio-valdes-january-2-1934_meta.sqlite" source="original">
+    <mtime>1466335994</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>f1fc8af7516fcc924fe5ccc189c4d402</md5>
+    <crc32>d07bba78</crc32>
+    <sha1>5875bcb45b15038517c8fa59865ac31a0c1e81af</sha1>
+  </file>
+  <file name="oath-of-office-assistant-chief-of-constabulary-basilio-valdes-january-2-1934_meta.xml" source="original">
+    <mtime>1483702333</mtime>
+    <size>1240</size>
+    <format>Metadata</format>
+    <md5>a8fa723878d32cd1da9dde92057fb51f</md5>
+    <crc32>676f10d0</crc32>
+    <sha1>0494250909110863ab6fdd37bc6a223d5d90a12f</sha1>
+  </file>
+</files>

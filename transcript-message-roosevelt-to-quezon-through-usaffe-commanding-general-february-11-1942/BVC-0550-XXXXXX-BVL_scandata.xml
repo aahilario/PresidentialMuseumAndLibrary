@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>transcript-message-roosevelt-to-quezon-through-usaffe-commanding-general-february-11-1942</bookId>
+    <leafCount>2</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4955</origWidth>
+      <origHeight>6392</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4955</w>
+        <h>6392</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4802</origWidth>
+      <origHeight>6390</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4802</w>
+        <h>6390</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

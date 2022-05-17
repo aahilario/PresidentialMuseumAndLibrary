@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0537-022745-IF.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0537-022745-IF_jp2.zip</original>
+    <mtime>1454980824</mtime>
+    <size>16944</size>
+    <md5>3b4d508c45a72472bcd67e91b6a11ad9</md5>
+    <crc32>7fef3eae</crc32>
+    <sha1>910f53d8a38aef8ebb06b9786cbbff7d15fadbc7</sha1>
+  </file>
+  <file name="BVC-0537-022745-IF.pdf" source="original">
+    <mtime>1454980770</mtime>
+    <size>457586</size>
+    <md5>1076164229e5d3336923e6ce162c594f</md5>
+    <crc32>f6f92b0e</crc32>
+    <sha1>bb874ead7e9ce88bd8ffc6b14b835f6ee990a93f</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0537-022745-IF_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0537-022745-IF_jp2.zip</original>
+    <mtime>1454981133</mtime>
+    <size>7042</size>
+    <md5>8e69c1edc5034213386411bf743adc57</md5>
+    <crc32>22fe130c</crc32>
+    <sha1>ca52ca5ca21833ee4f8f70b1aaa0e2a99bb44be5</sha1>
+  </file>
+  <file name="BVC-0537-022745-IF_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0537-022745-IF_djvu.xml</original>
+    <mtime>1456644928</mtime>
+    <size>388</size>
+    <md5>4c994fba2a0eb8c0a5e213c69ddb9992</md5>
+    <crc32>2efe5b9a</crc32>
+    <sha1>3289311685238233a1b9a69cf3f9e6d5384b72cd</sha1>
+  </file>
+  <file name="BVC-0537-022745-IF_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0537-022745-IF_abbyy.gz</original>
+    <mtime>1454981140</mtime>
+    <size>4284</size>
+    <md5>95e84e7d32241f8f6f86f2c27f878eee</md5>
+    <crc32>63319f46</crc32>
+    <sha1>c630bf51acd76045569c89d4470304e5ed1a808d</sha1>
+  </file>
+  <file name="BVC-0537-022745-IF_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0537-022745-IF.pdf</original>
+    <mtime>1454980813</mtime>
+    <size>612709</size>
+    <md5>b4ead88b82b0e688871d1fa1211fb1c9</md5>
+    <crc32>ff7287b5</crc32>
+    <sha1>b70e029bbaaf102484534a7dea8946b24a84037c</sha1>
+  </file>
+  <file name="BVC-0537-022745-IF_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0537-022745-IF_djvu.xml</original>
+    <mtime>1454981158</mtime>
+    <size>592</size>
+    <md5>6c6e550339e4e3817f585db79e30ed2e</md5>
+    <crc32>f4350188</crc32>
+    <sha1>7cfea21fcaf69f0fd78f1e185717524a75b6a507</sha1>
+  </file>
+  <file name="BVC-0537-022745-IF_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0537-022745-IF_djvu.xml</original>
+    <mtime>1454981186</mtime>
+    <size>114250</size>
+    <md5>520807ca7b1a5cb130cd7d12530ee851</md5>
+    <crc32>855eeb83</crc32>
+    <sha1>2a5fe125043e863a25a0772b65154a4abc22992c</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530629024</mtime>
+    <size>8848</size>
+    <md5>ef59c38dc42dadd06363793e629f6e3d</md5>
+    <crc32>320b916b</crc32>
+    <sha1>5900d7dd4f5d74059070ba4cc6580f2595c931fc</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="letter-basilio-valdes-from-president-osmena-health-public-welfare-february-27-1945_archive.torrent" source="metadata">
+    <btih>d3f99c24e8ee3e6987cb6f7de99e618e2ffacd56</btih>
+    <mtime>1530629025</mtime>
+    <size>3724</size>
+    <md5>2ae75b14f241e3675b918c30255d6300</md5>
+    <crc32>e4b6ec9d</crc32>
+    <sha1>510f3962270df038cfc6d6ed50e811428868849f</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="letter-basilio-valdes-from-president-osmena-health-public-welfare-february-27-1945_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>e3e9da0b4b0c90653a0f29f07c95c076</md5>
+  </file>
+  <file name="letter-basilio-valdes-from-president-osmena-health-public-welfare-february-27-1945_meta.sqlite" source="original">
+    <mtime>1464089225</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>7d61f96dafcd3ed6db8f378d061bf0f5</md5>
+    <crc32>2d3f20a3</crc32>
+    <sha1>fc91219db29ef2c087f8922eabe96775153f9a86</sha1>
+  </file>
+  <file name="letter-basilio-valdes-from-president-osmena-health-public-welfare-february-27-1945_meta.xml" source="original">
+    <mtime>1483446988</mtime>
+    <size>1450</size>
+    <format>Metadata</format>
+    <md5>444364d8382b03e7a2883cd25f26886e</md5>
+    <crc32>2078542b</crc32>
+    <sha1>64cd539057fe4ff3705aabff46bf65a1af816f86</sha1>
+  </file>
+</files>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Today Began Yesterday - Leon Maria Guerrero.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Today Began Yesterday - Leon Maria Guerrero_jp2.zip</original>
+    <mtime>1474352108</mtime>
+    <size>305663</size>
+    <md5>5163950e56643b23e281cdcacded397d</md5>
+    <crc32>986c5ee5</crc32>
+    <sha1>c8cafa9d229c150f41b1dfc6470f7cb5a2e58ff8</sha1>
+  </file>
+  <file name="Today Began Yesterday - Leon Maria Guerrero.pdf" source="original">
+    <mtime>1474351254</mtime>
+    <size>44371057</size>
+    <md5>9e86c921bf8b4de6234100e81e74a1e8</md5>
+    <crc32>80bd7420</crc32>
+    <sha1>8fc5eeb2d3873df178da16a3481fde54a52d013a</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="Today Began Yesterday - Leon Maria Guerrero_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Today Began Yesterday - Leon Maria Guerrero_jp2.zip</original>
+    <mtime>1474352642</mtime>
+    <size>1872293</size>
+    <md5>757bbc95591a78fd1bacdc69364130de</md5>
+    <crc32>123fa783</crc32>
+    <sha1>2aa39001b9e8f3aecca07e57faf1acb6d5484e83</sha1>
+  </file>
+  <file name="Today Began Yesterday - Leon Maria Guerrero_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Today Began Yesterday - Leon Maria Guerrero_djvu.xml</original>
+    <mtime>1474353101</mtime>
+    <size>121537</size>
+    <md5>77ee1a92d33307dc75048d71d9483568</md5>
+    <crc32>be837a8e</crc32>
+    <sha1>e895a690ff64110b6540b08a6ffea51663a14be9</sha1>
+  </file>
+  <file name="Today Began Yesterday - Leon Maria Guerrero_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Today Began Yesterday - Leon Maria Guerrero_abbyy.gz</original>
+    <mtime>1474352682</mtime>
+    <size>1073379</size>
+    <md5>8d43dbdcb5458a3d27ca740be5fe0d07</md5>
+    <crc32>4b83453f</crc32>
+    <sha1>0635573090575cdaaa11030a678dd426e02f9f9c</sha1>
+  </file>
+  <file name="Today Began Yesterday - Leon Maria Guerrero_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Today Began Yesterday - Leon Maria Guerrero.pdf</original>
+    <mtime>1474352081</mtime>
+    <size>77054886</size>
+    <md5>ce1325c1336d75f9ea759a1653c98e51</md5>
+    <crc32>a5e671e1</crc32>
+    <sha1>98579df0140f0386033c5d05543c875394394609</sha1>
+  </file>
+  <file name="Today Began Yesterday - Leon Maria Guerrero_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Today Began Yesterday - Leon Maria Guerrero_djvu.xml</original>
+    <mtime>1474353103</mtime>
+    <size>19379</size>
+    <md5>cec3789b562abf586fa23949158ec6e9</md5>
+    <crc32>cbec45e4</crc32>
+    <sha1>8db5b481ff31a006e8ab1de996efa2101216dd26</sha1>
+  </file>
+  <file name="Today Began Yesterday - Leon Maria Guerrero_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>Today Began Yesterday - Leon Maria Guerrero_djvu.xml</original>
+    <mtime>1474353099</mtime>
+    <size>8716503</size>
+    <md5>6ff9ba5fe5fe34307e72114ea2f4e83c</md5>
+    <crc32>26b68ff1</crc32>
+    <sha1>3294ee6ab56a3817bac11d96ca69047ec68daec3</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530667872</mtime>
+    <size>13999</size>
+    <md5>fb64f0616752e646204bb7ea47c248fe</md5>
+    <crc32>3eb97ef3</crc32>
+    <sha1>de871e7cecff5901724982b8e39901a349ed798c</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="today-began-yesterday-leon-maria-guerrero_archive.torrent" source="metadata">
+    <btih>1395c0d243d53ac660448e6ec41d8eca8d2ffc2d</btih>
+    <mtime>1530667873</mtime>
+    <size>8616</size>
+    <md5>83f17817605acf82f264c102d125cd2c</md5>
+    <crc32>ea378606</crc32>
+    <sha1>3f11c3d97d715d608367e0835159e2af6bb16c55</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="today-began-yesterday-leon-maria-guerrero_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>d823cc8b5161dad4e3670df143de2a46</md5>
+  </file>
+  <file name="today-began-yesterday-leon-maria-guerrero_meta.sqlite" source="original">
+    <mtime>1474351271</mtime>
+    <size>11264</size>
+    <md5>bccc22a5c33ce99b541b908a568f0613</md5>
+    <crc32>ed54dc17</crc32>
+    <sha1>8757afbae04dbf3dd2b50daf043fb49c6a4ee2d4</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="today-began-yesterday-leon-maria-guerrero_meta.xml" source="original">
+    <mtime>1486198066</mtime>
+    <size>1133</size>
+    <format>Metadata</format>
+    <md5>79a3c80f13df70892e01ab76471743d4</md5>
+    <crc32>a26dd0c6</crc32>
+    <sha1>248379680e721833e0e149594a93205f02bd4e61</sha1>
+  </file>
+</files>

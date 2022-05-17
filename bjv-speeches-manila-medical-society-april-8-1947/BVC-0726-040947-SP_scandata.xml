@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>bjv-speeches-manila-medical-society-april-8-1947</bookId>
+    <leafCount>8</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4862</origWidth>
+      <origHeight>6161</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4862</w>
+        <h>6161</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4828</origWidth>
+      <origHeight>6158</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4828</w>
+        <h>6158</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4848</origWidth>
+      <origHeight>6157</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4848</w>
+        <h>6157</h>
+      </cropBox>
+    </page>
+    <page leafNum="3">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4898</origWidth>
+      <origHeight>6161</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4898</w>
+        <h>6161</h>
+      </cropBox>
+    </page>
+    <page leafNum="4">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4912</origWidth>
+      <origHeight>6162</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4912</w>
+        <h>6162</h>
+      </cropBox>
+    </page>
+    <page leafNum="5">
+      <pageType>Title</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4836</origWidth>
+      <origHeight>6168</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4836</w>
+        <h>6168</h>
+      </cropBox>
+    </page>
+    <page leafNum="6">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4846</origWidth>
+      <origHeight>6174</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4846</w>
+        <h>6174</h>
+      </cropBox>
+    </page>
+    <page leafNum="7">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4885</origWidth>
+      <origHeight>6166</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4885</w>
+        <h>6166</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

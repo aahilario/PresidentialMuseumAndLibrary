@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Jesse Robredo Memorial Book.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>Jesse Robredo Memorial Book_djvu.xml</original>
+    <mtime>1439784170</mtime>
+    <size>6666050</size>
+    <md5>93a9cd5f90ded37064fbaf17cb860277</md5>
+    <crc32>96a33c18</crc32>
+    <sha1>215a432a381620fec83557a4f64440e49dd6f941</sha1>
+  </file>
+  <file name="Jesse Robredo Memorial Book.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Jesse Robredo Memorial Book_jp2.zip</original>
+    <mtime>1439782395</mtime>
+    <size>92110</size>
+    <md5>53f1dbcc065aa78bac20e1a9ec23bc3e</md5>
+    <crc32>8fbb7dbe</crc32>
+    <sha1>2826562d47ed217670c85d7a66dad162196000c9</sha1>
+  </file>
+  <file name="Jesse Robredo Memorial Book.pdf" source="original">
+    <mtime>1439781926</mtime>
+    <size>12210154</size>
+    <md5>1fcb9152decad64975578db8f0cced26</md5>
+    <crc32>9aadfe26</crc32>
+    <sha1>9be329418a0b346a01045ce67169c739ba3979d6</sha1>
+    <format>Text PDF</format>
+  </file>
+  <file name="Jesse Robredo Memorial Book_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Jesse Robredo Memorial Book_jp2.zip</original>
+    <mtime>1439783446</mtime>
+    <size>3454146</size>
+    <md5>8c28e837dd48a50c5f0e0291938ca6b9</md5>
+    <crc32>006067ed</crc32>
+    <sha1>286acb186803c31355a49b01a4e0ee2943c28fcb</sha1>
+  </file>
+  <file name="Jesse Robredo Memorial Book_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Jesse Robredo Memorial Book.djvu</original>
+    <mtime>1439784198</mtime>
+    <size>276763</size>
+    <md5>a4f613a1cad3d08597ca558eabb6603f</md5>
+    <crc32>d6e8d4b6</crc32>
+    <sha1>731e6819ba9af78c89dd1306909ed97c4e3988a7</sha1>
+  </file>
+  <file name="Jesse Robredo Memorial Book_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Jesse Robredo Memorial Book_abbyy.gz</original>
+    <mtime>1439783524</mtime>
+    <size>2558803</size>
+    <md5>716b0e5c63cf5561a423f286948f3354</md5>
+    <crc32>49b23601</crc32>
+    <sha1>5690dbee5040bf33f7bc5eec0fe1aec57265a948</sha1>
+  </file>
+  <file name="Jesse Robredo Memorial Book_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Jesse Robredo Memorial Book.pdf</original>
+    <mtime>1439782363</mtime>
+    <size>83266155</size>
+    <md5>1bc2bf933f91514f196ef6245fd4160d</md5>
+    <crc32>5f03a8d2</crc32>
+    <sha1>3c29d274cb0e896af641e2120100e78d19390f98</sha1>
+  </file>
+  <file name="Jesse Robredo Memorial Book_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Jesse Robredo Memorial Book_djvu.xml</original>
+    <mtime>1439784173</mtime>
+    <size>84128</size>
+    <md5>d1f0280160bcbe673b5e96056858c671</md5>
+    <crc32>fc1eb7a3</crc32>
+    <sha1>0cb86965df16d0b2168e5fae06702d7b7260925c</sha1>
+  </file>
+  <file name="JesseMRobredoMemorialBook_archive.torrent" source="metadata">
+    <btih>fc67045da131d60b355408eac85cfd1b8ca2a1a3</btih>
+    <mtime>1566098617</mtime>
+    <size>7398</size>
+    <md5>490c42499759a3707739c3649dba4cd5</md5>
+    <crc32>b18436cd</crc32>
+    <sha1>e2fdd704e5daf15ad4a1a95bd78179c9faa814b1</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="JesseMRobredoMemorialBook_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>bfcb2db0569b2708a07ffcc5d9d1068b</md5>
+  </file>
+  <file name="JesseMRobredoMemorialBook_meta.sqlite" source="original">
+    <mtime>1467008175</mtime>
+    <size>12288</size>
+    <format>Metadata</format>
+    <md5>0073c4e2f9b41e69591137118afb0e30</md5>
+    <crc32>b551c994</crc32>
+    <sha1>b3cb45ff495480502357256de76356a304831b3a</sha1>
+  </file>
+  <file name="JesseMRobredoMemorialBook_meta.xml" source="original">
+    <mtime>1484361373</mtime>
+    <size>2079</size>
+    <format>Metadata</format>
+    <md5>421dcac88d66f0371db4d6e78394b3c0</md5>
+    <crc32>01041e73</crc32>
+    <sha1>5bddf2ae6b630a5e9965ee1d2470ffd5ea02a649</sha1>
+  </file>
+  <file name="JesseMRobredoMemorialBook_reviews.xml" source="original">
+    <mtime>1566098613</mtime>
+    <size>671</size>
+    <md5>c641a9cb856dc827d7927df091752dd8</md5>
+    <crc32>e2aec817</crc32>
+    <sha1>28972f46c830241813f44b5a9a851021bb374bc1</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1566098614</mtime>
+    <size>1200</size>
+    <md5>2127c626daf6c360f8c6338c7811debf</md5>
+    <crc32>d195e97c</crc32>
+    <sha1>4d92cebb8c9c4fec41506ac3803e5b319d02f433</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

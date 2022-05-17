@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>InauguralHymn1971ConstitutionalConvention</bookId>
+    <leafCount>8</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Title</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4264</origWidth>
+      <origHeight>6036</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4264</w>
+        <h>6036</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4216</origWidth>
+      <origHeight>5962</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4216</w>
+        <h>5962</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4278</origWidth>
+      <origHeight>6018</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4278</w>
+        <h>6018</h>
+      </cropBox>
+    </page>
+    <page leafNum="3">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4184</origWidth>
+      <origHeight>6028</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4184</w>
+        <h>6028</h>
+      </cropBox>
+    </page>
+    <page leafNum="4">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4264</origWidth>
+      <origHeight>6035</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4264</w>
+        <h>6035</h>
+      </cropBox>
+    </page>
+    <page leafNum="5">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4212</origWidth>
+      <origHeight>6028</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4212</w>
+        <h>6028</h>
+      </cropBox>
+    </page>
+    <page leafNum="6">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4248</origWidth>
+      <origHeight>6040</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4248</w>
+        <h>6040</h>
+      </cropBox>
+    </page>
+    <page leafNum="7">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4254</origWidth>
+      <origHeight>6008</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4254</w>
+        <h>6008</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

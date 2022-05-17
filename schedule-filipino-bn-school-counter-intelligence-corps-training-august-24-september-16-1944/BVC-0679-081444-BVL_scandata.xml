@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>schedule-filipino-bn-school-counter-intelligence-corps-training-august-24-september-16-1944</bookId>
+    <leafCount>5</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4893</origWidth>
+      <origHeight>6413</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4893</w>
+        <h>6413</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4820</origWidth>
+      <origHeight>6435</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4820</w>
+        <h>6435</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5035</origWidth>
+      <origHeight>6374</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5035</w>
+        <h>6374</h>
+      </cropBox>
+    </page>
+    <page leafNum="3">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4885</origWidth>
+      <origHeight>6421</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4885</w>
+        <h>6421</h>
+      </cropBox>
+    </page>
+    <page leafNum="4">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4865</origWidth>
+      <origHeight>6322</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4865</w>
+        <h>6322</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

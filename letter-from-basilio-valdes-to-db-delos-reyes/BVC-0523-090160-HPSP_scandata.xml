@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>letter-from-basilio-valdes-to-db-delos-reyes</bookId>
+    <leafCount>14</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5228</origWidth>
+      <origHeight>6395</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5228</w>
+        <h>6395</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5212</origWidth>
+      <origHeight>6318</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5212</w>
+        <h>6318</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5222</origWidth>
+      <origHeight>6316</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5222</w>
+        <h>6316</h>
+      </cropBox>
+    </page>
+    <page leafNum="3">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5370</origWidth>
+      <origHeight>8140</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5370</w>
+        <h>8140</h>
+      </cropBox>
+    </page>
+    <page leafNum="4">
+      <pageType>Title</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5185</origWidth>
+      <origHeight>6387</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5185</w>
+        <h>6387</h>
+      </cropBox>
+    </page>
+    <page leafNum="5">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3641</origWidth>
+      <origHeight>5328</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3641</w>
+        <h>5328</h>
+      </cropBox>
+    </page>
+    <page leafNum="6">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4997</origWidth>
+      <origHeight>6299</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4997</w>
+        <h>6299</h>
+      </cropBox>
+    </page>
+    <page leafNum="7">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5140</origWidth>
+      <origHeight>6137</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5140</w>
+        <h>6137</h>
+      </cropBox>
+    </page>
+    <page leafNum="8">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5115</origWidth>
+      <origHeight>6304</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5115</w>
+        <h>6304</h>
+      </cropBox>
+    </page>
+    <page leafNum="9">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5215</origWidth>
+      <origHeight>6215</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5215</w>
+        <h>6215</h>
+      </cropBox>
+    </page>
+    <page leafNum="10">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5166</origWidth>
+      <origHeight>6255</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5166</w>
+        <h>6255</h>
+      </cropBox>
+    </page>
+    <page leafNum="11">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5148</origWidth>
+      <origHeight>6250</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5148</w>
+        <h>6250</h>
+      </cropBox>
+    </page>
+    <page leafNum="12">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5129</origWidth>
+      <origHeight>6353</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5129</w>
+        <h>6353</h>
+      </cropBox>
+    </page>
+    <page leafNum="13">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5136</origWidth>
+      <origHeight>6285</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5136</w>
+        <h>6285</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

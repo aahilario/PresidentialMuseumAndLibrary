@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>letter-basilio-valdes-from-manuel-azalte-appointment-as-constabulary-chief-june-27-1938</bookId>
+    <leafCount>2</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5365</origWidth>
+      <origHeight>2334</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5365</w>
+        <h>2334</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4788</origWidth>
+      <origHeight>6395</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4788</w>
+        <h>6395</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0379-020140-CP.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0379-020140-CP_djvu.xml</original>
+    <mtime>1452124667</mtime>
+    <size>851827</size>
+    <md5>d87483ce413eb4df87d6fd124ad8730c</md5>
+    <crc32>c52d3091</crc32>
+    <sha1>357d8419156858d459040d5c1a7542a63d7aa581</sha1>
+  </file>
+  <file name="BVC-0379-020140-CP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0379-020140-CP_jp2.zip</original>
+    <mtime>1451877413</mtime>
+    <size>80947</size>
+    <md5>c2930e0d5a80a8e144eb3804162fd8f1</md5>
+    <crc32>9892bb62</crc32>
+    <sha1>8ff3968bed86f5e4e528e28fb7e1f47bf6c9d4f1</sha1>
+  </file>
+  <file name="BVC-0379-020140-CP.pdf" source="original">
+    <mtime>1451877287</mtime>
+    <size>3581371</size>
+    <md5>87320c383517a9dc511edc6654d1d13c</md5>
+    <crc32>f49a4d6c</crc32>
+    <sha1>07c5156169dc26998b6be9cb48bcd8b3dcbb47e0</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0379-020140-CP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0379-020140-CP_jp2.zip</original>
+    <mtime>1451877479</mtime>
+    <size>136067</size>
+    <md5>ed5e0b7f48a66096ba273e0ba1926ed2</md5>
+    <crc32>22b06749</crc32>
+    <sha1>377935c4c33bf0d0d7571872b995ce67574c45c8</sha1>
+  </file>
+  <file name="BVC-0379-020140-CP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0379-020140-CP.djvu</original>
+    <mtime>1452124676</mtime>
+    <size>8405</size>
+    <md5>045ea017fd943b761b807bd9431b68c1</md5>
+    <crc32>d647e109</crc32>
+    <sha1>47568068fe7767e2aa98d132cc3ac810abab1803</sha1>
+  </file>
+  <file name="BVC-0379-020140-CP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0379-020140-CP_abbyy.gz</original>
+    <mtime>1451877488</mtime>
+    <size>84660</size>
+    <md5>fcb3c0888059d51239637b42ea37a36d</md5>
+    <crc32>173d80a5</crc32>
+    <sha1>f8d921f2e30427e7d8a988b2e5da89a90402b42b</sha1>
+  </file>
+  <file name="BVC-0379-020140-CP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0379-020140-CP.pdf</original>
+    <mtime>1451877401</mtime>
+    <size>5083289</size>
+    <md5>a205ce7b173e205756616771629ca357</md5>
+    <crc32>97f05ae8</crc32>
+    <sha1>b075445333ed00f69fce51c08bdb6fe58af9dc00</sha1>
+  </file>
+  <file name="BVC-0379-020140-CP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0379-020140-CP_djvu.xml</original>
+    <mtime>1451877512</mtime>
+    <size>2031</size>
+    <md5>50e3140a88fa7a4919ef302de4477713</md5>
+    <crc32>80c4e9cc</crc32>
+    <sha1>8e79af0d60b9be4c4042d49b58ccfd21a2c2e936</sha1>
+  </file>
+  <file name="BVC-0379-020140-CP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0379-020140-CP_djvu.xml</original>
+    <mtime>1451877579</mtime>
+    <size>1151368</size>
+    <md5>6dc9489157fae3b958e6013bbc36f2db</md5>
+    <crc32>f2090b20</crc32>
+    <sha1>cbf21513f2425af7de3531e0493f54c337f799a0</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530894694</mtime>
+    <size>13171</size>
+    <md5>16591679eb17469697535312fa7688d6</md5>
+    <crc32>f41687a2</crc32>
+    <sha1>7aab825e5d7bee5760888150cbd91c279901cc28</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="curriculum-vitae-basilio-valdes_archive.torrent" source="metadata">
+    <btih>530b1a8b3b59c5efda4e2dafd9a475c01e3434c1</btih>
+    <mtime>1530894694</mtime>
+    <size>3813</size>
+    <md5>e05e3d47a8465548c221172d0781748a</md5>
+    <crc32>ac780ad9</crc32>
+    <sha1>e44dbb9a0dd14afe587f65afe0b6a42f077dc1fd</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="curriculum-vitae-basilio-valdes_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>e98e44c8110dbbc7614fc84a8c1f3c49</md5>
+  </file>
+  <file name="curriculum-vitae-basilio-valdes_meta.sqlite" source="original">
+    <mtime>1466411074</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>68a8e66423e6814f69c2fae1b8b3e9be</md5>
+    <crc32>d72449b8</crc32>
+    <sha1>88df8f60773e4ff79a6d1f551676ba1a6308d32b</sha1>
+  </file>
+  <file name="curriculum-vitae-basilio-valdes_meta.xml" source="original">
+    <mtime>1483443083</mtime>
+    <size>1080</size>
+    <format>Metadata</format>
+    <md5>266a4e8a7c65b9f17b68504deb0bab88</md5>
+    <crc32>63fa498c</crc32>
+    <sha1>60fb05db7ba2b757cf075597fa19cbd7cf390f6d</sha1>
+  </file>
+</files>

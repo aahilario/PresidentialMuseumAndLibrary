@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Sixth Annual Report of the United States High Commissioner to the Philippine Islands.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>Sixth Annual Report of the United States High Commissioner to the Philippine Islands_djvu.xml</original>
+    <mtime>1431623480</mtime>
+    <size>38780407</size>
+    <md5>b17f90024aabf7118e272f3a1d852617</md5>
+    <crc32>352c087c</crc32>
+    <sha1>88ba9f6ba35551f419cf90315a4653d8cfc42923</sha1>
+  </file>
+  <file name="Sixth Annual Report of the United States High Commissioner to the Philippine Islands.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Sixth Annual Report of the United States High Commissioner to the Philippine Islands_jp2.zip</original>
+    <mtime>1431596531</mtime>
+    <size>331560</size>
+    <md5>e1ec86d70f38048b95f99d38234095f6</md5>
+    <crc32>7cf9e987</crc32>
+    <sha1>524451eba53dc31b6141fddedef156757eeeeb8a</sha1>
+  </file>
+  <file name="Sixth Annual Report of the United States High Commissioner to the Philippine Islands.pdf" source="original">
+    <mtime>1431595481</mtime>
+    <size>43709934</size>
+    <md5>eb706e6b4213181266a104de15af7e78</md5>
+    <crc32>f9fe2fe1</crc32>
+    <sha1>4c0730545115cc57374bbbbbaa67997689f576b3</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="Sixth Annual Report of the United States High Commissioner to the Philippine Islands_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Sixth Annual Report of the United States High Commissioner to the Philippine Islands_jp2.zip</original>
+    <mtime>1431621696</mtime>
+    <size>12517162</size>
+    <md5>8a9619de67d0335dc487f45902f3e59f</md5>
+    <crc32>7055a65c</crc32>
+    <sha1>33cc7716ec23b3b3536e29869ad75a897d603a41</sha1>
+  </file>
+  <file name="Sixth Annual Report of the United States High Commissioner to the Philippine Islands_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Sixth Annual Report of the United States High Commissioner to the Philippine Islands.djvu</original>
+    <mtime>1431625763</mtime>
+    <size>733571</size>
+    <md5>3b209452e208606930ac383b5a4e4693</md5>
+    <crc32>ba4efbc5</crc32>
+    <sha1>35783f33ef87be7d430949df368ed149880c479d</sha1>
+  </file>
+  <file name="Sixth Annual Report of the United States High Commissioner to the Philippine Islands_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Sixth Annual Report of the United States High Commissioner to the Philippine Islands_abbyy.gz</original>
+    <mtime>1431621887</mtime>
+    <size>7025119</size>
+    <md5>6bf2ab5fe451a7bfc8cedd0ce8d77c68</md5>
+    <crc32>135708bc</crc32>
+    <sha1>2d1063138fed999258397d64a706fafce0843309</sha1>
+  </file>
+  <file name="Sixth Annual Report of the United States High Commissioner to the Philippine Islands_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Sixth Annual Report of the United States High Commissioner to the Philippine Islands.pdf</original>
+    <mtime>1431596500</mtime>
+    <size>179418616</size>
+    <md5>f00b2991d3d3943e118ade0ac4526c7d</md5>
+    <crc32>bf7e1b02</crc32>
+    <sha1>7209c32ccddb372ebdceb4488e192ae689e9e217</sha1>
+  </file>
+  <file name="Sixth Annual Report of the United States High Commissioner to the Philippine Islands_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Sixth Annual Report of the United States High Commissioner to the Philippine Islands_djvu.xml</original>
+    <mtime>1431623497</mtime>
+    <size>71875</size>
+    <md5>6ba24c38243d21ceec1f51d6c3cf2307</md5>
+    <crc32>8ecff683</crc32>
+    <sha1>b5608bf01d1bacc008a65414dec06f4130a0f25b</sha1>
+  </file>
+  <file name="Sixth Annual Report of the United States High Commissioner to the Philippine Islands_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>Sixth Annual Report of the United States High Commissioner to the Philippine Islands_djvu.xml</original>
+    <mtime>1431625689</mtime>
+    <size>53650343</size>
+    <md5>e8fe7ac29a748f5aaa73ae3f063004ed</md5>
+    <crc32>22309bd7</crc32>
+    <sha1>0f1b4cdd1cae51ef5d91ddae939bdf88d9bdc556</sha1>
+  </file>
+  <file name="SixthAnnualReportOfTheUnitedStatesHighCommissionerToThePhilippineIslands_archive.torrent" source="metadata">
+    <btih>b3c56b513c0bdd85b033a54be3a05416aa3c185b</btih>
+    <mtime>1483001123</mtime>
+    <size>17075</size>
+    <md5>14ec91c836009166f362081571ae0162</md5>
+    <crc32>b0b0a7d4</crc32>
+    <sha1>812470a6b1f34772381e1bfd4684ad8f9ccaa372</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="SixthAnnualReportOfTheUnitedStatesHighCommissionerToThePhilippineIslands_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>338ab2e73c33e3b8636dc699f1da41db</md5>
+  </file>
+  <file name="SixthAnnualReportOfTheUnitedStatesHighCommissionerToThePhilippineIslands_meta.sqlite" source="original">
+    <mtime>1467804525</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>3cacd6ab81e8ab17643a9e5917652fab</md5>
+    <crc32>2b39c440</crc32>
+    <sha1>d5472bdc941aabbff8fd9572647ecab051174f1e</sha1>
+  </file>
+  <file name="SixthAnnualReportOfTheUnitedStatesHighCommissionerToThePhilippineIslands_meta.xml" source="original">
+    <mtime>1483001120</mtime>
+    <size>1415</size>
+    <format>Metadata</format>
+    <md5>ae1f02ec64fce63ed8e7ae25fc0ed4d1</md5>
+    <crc32>987c04ca</crc32>
+    <sha1>49234bd6f5e58d47021a6aa927eac77837a91700</sha1>
+  </file>
+</files>

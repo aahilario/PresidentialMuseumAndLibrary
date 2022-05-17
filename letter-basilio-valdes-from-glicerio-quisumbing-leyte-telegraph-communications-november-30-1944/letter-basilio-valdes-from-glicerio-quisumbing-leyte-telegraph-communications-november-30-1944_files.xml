@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0664-113044-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0664-113044-BVL_jp2.zip</original>
+    <mtime>1450340786</mtime>
+    <size>15901</size>
+    <md5>6d2f229bf8f860e567bb2f23d50c67b0</md5>
+    <crc32>d4b24ff3</crc32>
+    <sha1>1b53e558dda36690d5676eae842377c94e55fe31</sha1>
+  </file>
+  <file name="BVC-0664-113044-BVL.pdf" source="original">
+    <mtime>1450338743</mtime>
+    <size>646344</size>
+    <md5>e29d0a09da0058d3f25598abdd06e72e</md5>
+    <crc32>d5d5d990</crc32>
+    <sha1>06b498d94f8e959194c87ae98b9e6d5c83d7b132</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0664-113044-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0664-113044-BVL_jp2.zip</original>
+    <mtime>1450340828</mtime>
+    <size>23770</size>
+    <md5>31c80dbe0a31644aa8967d4e5436ac13</md5>
+    <crc32>1316e702</crc32>
+    <sha1>328a7aee1e2323f2472ee8a77fee430d52dec51a</sha1>
+  </file>
+  <file name="BVC-0664-113044-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0664-113044-BVL_djvu.xml</original>
+    <mtime>1456644466</mtime>
+    <size>1337</size>
+    <md5>e8c5b0375065178c02816cd25c1bf94f</md5>
+    <crc32>9bf5a208</crc32>
+    <sha1>5581c051c610172c6c5c7ddbe5fd45f2b8502003</sha1>
+  </file>
+  <file name="BVC-0664-113044-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0664-113044-BVL_abbyy.gz</original>
+    <mtime>1450340835</mtime>
+    <size>13978</size>
+    <md5>6fffe5034c038faec90036a4c9cf7ac0</md5>
+    <crc32>38234f7a</crc32>
+    <sha1>dcef7ea34bb75ee9c7934f5f08a721b2dd1dc4ab</sha1>
+  </file>
+  <file name="BVC-0664-113044-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0664-113044-BVL.pdf</original>
+    <mtime>1450340778</mtime>
+    <size>845615</size>
+    <md5>1f6c165c19bf449269b0620514273997</md5>
+    <crc32>9856bc88</crc32>
+    <sha1>a5050887811c9381347d82a1a7e97603a1bcb5a3</sha1>
+  </file>
+  <file name="BVC-0664-113044-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0664-113044-BVL_djvu.xml</original>
+    <mtime>1450340853</mtime>
+    <size>604</size>
+    <md5>129e068ba3acf6b01e5741beaa64ae10</md5>
+    <crc32>ff6c9db6</crc32>
+    <sha1>bac830ab60196c27094bb67d5893def46a16919b</sha1>
+  </file>
+  <file name="BVC-0664-113044-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0664-113044-BVL_djvu.xml</original>
+    <mtime>1450340873</mtime>
+    <size>215536</size>
+    <md5>07923bd7b0812b45a2b2dc4ce4474fde</md5>
+    <crc32>40a52ee0</crc32>
+    <sha1>b97d126a1aa15a2831291606b922042c6d6260ec</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530927835</mtime>
+    <size>13132</size>
+    <md5>4ff5368e5ca3827d65d4a1a67a820a7f</md5>
+    <crc32>702d04fd</crc32>
+    <sha1>4da39eb483ad078dececc94df79556e6130fccb2</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="letter-basilio-valdes-from-glicerio-quisumbing-leyte-telegraph-communications-november-30-1944_archive.torrent" source="metadata">
+    <btih>253bc0d6c23557d02aa3046deb799236a5b62f4f</btih>
+    <mtime>1530927836</mtime>
+    <size>3867</size>
+    <md5>f792c24111e83e10024a3506baf18581</md5>
+    <crc32>a29f602e</crc32>
+    <sha1>5f7aa1907636c8fe13c22c266c22833f99a3ea13</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="letter-basilio-valdes-from-glicerio-quisumbing-leyte-telegraph-communications-november-30-1944_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>c37e37dc9a91e627b6274346f3ceb2ff</md5>
+  </file>
+  <file name="letter-basilio-valdes-from-glicerio-quisumbing-leyte-telegraph-communications-november-30-1944_meta.sqlite" source="original">
+    <mtime>1466311077</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>c1bfbe1b3ec60e7d0e0dfdf44a7fa223</md5>
+    <crc32>aecfe2b4</crc32>
+    <sha1>5bc20eb651f6e351b052dc9e0b6aa55433ee1420</sha1>
+  </file>
+  <file name="letter-basilio-valdes-from-glicerio-quisumbing-leyte-telegraph-communications-november-30-1944_meta.xml" source="original">
+    <mtime>1483715256</mtime>
+    <size>1445</size>
+    <format>Metadata</format>
+    <md5>475221fa143187bff8e36b5eae07e6ab</md5>
+    <crc32>96949d16</crc32>
+    <sha1>9731970c61393c7665f2059bf2de8fa089b04152</sha1>
+  </file>
+</files>

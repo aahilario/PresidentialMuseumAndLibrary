@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0559-110744-BVL.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0559-110744-BVL_djvu.xml</original>
+    <mtime>1449563896</mtime>
+    <size>377545</size>
+    <md5>8c72a32ad6d4685d8a7671fc0e573667</md5>
+    <crc32>215a461e</crc32>
+    <sha1>5e91f523f4b908d5c80daa7288446d87bf2e5760</sha1>
+  </file>
+  <file name="BVC-0559-110744-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0559-110744-BVL_jp2.zip</original>
+    <mtime>1449563802</mtime>
+    <size>40738</size>
+    <md5>631e3240321fb78e0b60737eb3731270</md5>
+    <crc32>65fd7114</crc32>
+    <sha1>3d3d0dcbe68873a327a9a4385f836cc911477410</sha1>
+  </file>
+  <file name="BVC-0559-110744-BVL.pdf" source="original">
+    <mtime>1449563702</mtime>
+    <size>1864982</size>
+    <md5>7f633f04e1a6be44e38cdc27c0518d0d</md5>
+    <crc32>64e276e9</crc32>
+    <sha1>eea64b77684ac865946aed26e66556b48086fb03</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0559-110744-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0559-110744-BVL_jp2.zip</original>
+    <mtime>1449563860</mtime>
+    <size>58439</size>
+    <md5>de33a8d8f2214ca1b0a4b82c169a01f5</md5>
+    <crc32>29cfc29f</crc32>
+    <sha1>959f6ceedabaa1765cfe291a75a7e429dd38b821</sha1>
+  </file>
+  <file name="BVC-0559-110744-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0559-110744-BVL.djvu</original>
+    <mtime>1449563945</mtime>
+    <size>3621</size>
+    <md5>c18ca20e86cb683c04150eca3b96b500</md5>
+    <crc32>e366b32d</crc32>
+    <sha1>a4ef8820fa16f3a989bc33ade352f86d5c856e6e</sha1>
+  </file>
+  <file name="BVC-0559-110744-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0559-110744-BVL_abbyy.gz</original>
+    <mtime>1449563867</mtime>
+    <size>35951</size>
+    <md5>c3f1de84c9a77b23d6ac9c791bf564e9</md5>
+    <crc32>66e22be4</crc32>
+    <sha1>d39c5078ff117890530f75b80931530fe93f8464</sha1>
+  </file>
+  <file name="BVC-0559-110744-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0559-110744-BVL.pdf</original>
+    <mtime>1449563793</mtime>
+    <size>2643382</size>
+    <md5>5f22d89bdc87bdb1bc0b20e766359731</md5>
+    <crc32>048e5f50</crc32>
+    <sha1>ac9a7c5abc577657d97aa50c276f1d905953d1df</sha1>
+  </file>
+  <file name="BVC-0559-110744-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0559-110744-BVL_djvu.xml</original>
+    <mtime>1449563897</mtime>
+    <size>1172</size>
+    <md5>68969476c3e7d2c0da42c535c8e51b6d</md5>
+    <crc32>d7d94774</crc32>
+    <sha1>9529adbb3f2a316bbc5e0ce71d9f15ad2240f026</sha1>
+  </file>
+  <file name="BVC-0559-110744-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0559-110744-BVL_djvu.xml</original>
+    <mtime>1449563936</mtime>
+    <size>596116</size>
+    <md5>0a06aab51e012683d42468c30cdbc6b4</md5>
+    <crc32>14fb1b79</crc32>
+    <sha1>931a96db51a7f52976414c2e81ad1295c80ae261</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1531037255</mtime>
+    <size>16040</size>
+    <md5>b7f05ce6c06792355f250fe778804cc9</md5>
+    <crc32>b7f5830e</crc32>
+    <sha1>060ef66676345de2b79fc4cee6abf48b01f1a702</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="letter-valdes-to-governor-kangelon-regarding-eo-23-november-7-1944_archive.torrent" source="metadata">
+    <btih>105fd23543c00c97e333c30501eed932432e1d00</btih>
+    <mtime>1531037256</mtime>
+    <size>3933</size>
+    <md5>92e837ad0b09dbbe6bd6adc0c02e8017</md5>
+    <crc32>9aa65d5d</crc32>
+    <sha1>82bb48dca175dfcd717e47f50e708827ba86dfb8</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="letter-valdes-to-governor-kangelon-regarding-eo-23-november-7-1944_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>7ca1c1a566795116620d7554945b67dd</md5>
+  </file>
+  <file name="letter-valdes-to-governor-kangelon-regarding-eo-23-november-7-1944_meta.sqlite" source="original">
+    <mtime>1466266791</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>a34152449d22c5a2038c36e6fd66ace7</md5>
+    <crc32>d2dfa99b</crc32>
+    <sha1>225ea3e87fa593838ad876a7d9b78a75954dea28</sha1>
+  </file>
+  <file name="letter-valdes-to-governor-kangelon-regarding-eo-23-november-7-1944_meta.xml" source="original">
+    <mtime>1482869936</mtime>
+    <size>1495</size>
+    <format>Metadata</format>
+    <md5>aec1b61c31dc974e30de014a9b1e7d66</md5>
+    <crc32>69278701</crc32>
+    <sha1>16ac3fe4ce4f40d2e5ba7942a351f8c3d5c805b1</sha1>
+  </file>
+</files>

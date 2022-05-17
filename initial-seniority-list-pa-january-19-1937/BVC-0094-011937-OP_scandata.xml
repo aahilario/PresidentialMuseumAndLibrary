@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>initial-seniority-list-pa-january-19-1937</bookId>
+    <leafCount>7</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4800</origWidth>
+      <origHeight>6392</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4800</w>
+        <h>6392</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4798</origWidth>
+      <origHeight>6395</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4798</w>
+        <h>6395</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4798</origWidth>
+      <origHeight>6374</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4798</w>
+        <h>6374</h>
+      </cropBox>
+    </page>
+    <page leafNum="3">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4796</origWidth>
+      <origHeight>6382</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4796</w>
+        <h>6382</h>
+      </cropBox>
+    </page>
+    <page leafNum="4">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4788</origWidth>
+      <origHeight>6378</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4788</w>
+        <h>6378</h>
+      </cropBox>
+    </page>
+    <page leafNum="5">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4796</origWidth>
+      <origHeight>6381</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4796</w>
+        <h>6381</h>
+      </cropBox>
+    </page>
+    <page leafNum="6">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4798</origWidth>
+      <origHeight>6386</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4798</w>
+        <h>6386</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

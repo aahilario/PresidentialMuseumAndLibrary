@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0358-072245-SP.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0358-072245-SP_djvu.xml</original>
+    <mtime>1452166125</mtime>
+    <size>463596</size>
+    <md5>f81872486bbf64dba9fc440fe1d909a6</md5>
+    <crc32>0542b9e4</crc32>
+    <sha1>ff9645d8ddec19ad99c1754d8a2259cdf8991a0b</sha1>
+  </file>
+  <file name="BVC-0358-072245-SP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0358-072245-SP_jp2.zip</original>
+    <mtime>1451958756</mtime>
+    <size>51564</size>
+    <md5>2fa8645cbcad2d039a45a6ceea57435c</md5>
+    <crc32>93cf32f8</crc32>
+    <sha1>3f79c579c53a904dd8a63ed5d16ceea15578a885</sha1>
+  </file>
+  <file name="BVC-0358-072245-SP.pdf" source="original">
+    <mtime>1451958582</mtime>
+    <size>2944442</size>
+    <md5>c2dce34b037149db6c94578e321277e8</md5>
+    <crc32>44aadb8a</crc32>
+    <sha1>b6758d2449e67dae3cd026c522c988055c4aa523</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0358-072245-SP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0358-072245-SP_jp2.zip</original>
+    <mtime>1451959181</mtime>
+    <size>100665</size>
+    <md5>ab984cdaa6dde5203085d27b73758b6d</md5>
+    <crc32>f9f9b86a</crc32>
+    <sha1>11364f1984b52166e8c6cee90af5e8a6d8e968a3</sha1>
+  </file>
+  <file name="BVC-0358-072245-SP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0358-072245-SP.djvu</original>
+    <mtime>1452166134</mtime>
+    <size>6002</size>
+    <md5>5e16839200adad990d6d1b9ddfedeace</md5>
+    <crc32>61d3b8f3</crc32>
+    <sha1>d97028ab994af6c165b675c4dfde8b9db6d10eea</sha1>
+  </file>
+  <file name="BVC-0358-072245-SP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0358-072245-SP_abbyy.gz</original>
+    <mtime>1451959190</mtime>
+    <size>56461</size>
+    <md5>3d6512a1b36e969c9b79acfbab3598ca</md5>
+    <crc32>e8917886</crc32>
+    <sha1>56187bc50a45f63205df25f6e614eb278d07c791</sha1>
+  </file>
+  <file name="BVC-0358-072245-SP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0358-072245-SP.pdf</original>
+    <mtime>1451958730</mtime>
+    <size>4003506</size>
+    <md5>ee877e0d83d7824f32a863f3d241c8c4</md5>
+    <crc32>572fbdfe</crc32>
+    <sha1>18504166ffefc38c1c512964713aff901b080688</sha1>
+  </file>
+  <file name="BVC-0358-072245-SP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0358-072245-SP_djvu.xml</original>
+    <mtime>1451959224</mtime>
+    <size>1443</size>
+    <md5>0380317e24421a5be6e83d404e2bb751</md5>
+    <crc32>a16d22ee</crc32>
+    <sha1>f7d63bbb31f20ca41d26a28e882abc1235adc871</sha1>
+  </file>
+  <file name="BVC-0358-072245-SP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0358-072245-SP_djvu.xml</original>
+    <mtime>1451959321</mtime>
+    <size>912012</size>
+    <md5>39b039bcd574a525998ba5e526a55841</md5>
+    <crc32>e6d7064b</crc32>
+    <sha1>b1ac2cf2183e73a1a6930ca875bb89864056c9d7</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530822098</mtime>
+    <size>16110</size>
+    <md5>89158817c7ee288b3dc26f805a4ee1f3</md5>
+    <crc32>482aea01</crc32>
+    <sha1>c91a412864a27b1f404a7aac152d495d46f1e1ed</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="script-the-philippine-hour-july-22-1945_archive.torrent" source="metadata">
+    <btih>d0be72522db0ae2c60fd7144299b569fc57aa173</btih>
+    <mtime>1530822100</mtime>
+    <size>3801</size>
+    <md5>e98ae7650bf920b34cc16b5434e8236c</md5>
+    <crc32>bdfaa977</crc32>
+    <sha1>24b12869709c78ba4c6081bf4602bfd810263a10</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="script-the-philippine-hour-july-22-1945_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>d336f52b13005e1fca45d56eff31da56</md5>
+  </file>
+  <file name="script-the-philippine-hour-july-22-1945_meta.sqlite" source="original">
+    <mtime>1464082310</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>6a8ceee3c84c7a1a5b64c1348cedb28d</md5>
+    <crc32>bf12d25e</crc32>
+    <sha1>aebd980fd4279ee7631ec02cf6371a2310bdc789</sha1>
+  </file>
+  <file name="script-the-philippine-hour-july-22-1945_meta.xml" source="original">
+    <mtime>1482385821</mtime>
+    <size>1259</size>
+    <format>Metadata</format>
+    <md5>65c20773a44c878b9c42f97c8dabe3b6</md5>
+    <crc32>5173e731</crc32>
+    <sha1>917defd5e35378f0f5cb96ec3ed7077726a3ec02</sha1>
+  </file>
+</files>

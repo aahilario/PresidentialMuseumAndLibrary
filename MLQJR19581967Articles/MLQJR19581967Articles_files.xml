@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="MLQJR19581967Articles_archive.torrent" source="metadata">
+    <btih>eba9b4e68bc269edbc3ebf3a75db689c245799d8</btih>
+    <mtime>1530796991</mtime>
+    <size>31925</size>
+    <md5>c9274834d1fac0ddb8dbfbf6f9f395a3</md5>
+    <crc32>3f72a994</crc32>
+    <sha1>2432ea654657c98b5ebe839388faf1c6e31bf048</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="MLQJR19581967Articles_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>741b29acb0cc0a798b1e86b3589d90ae</md5>
+  </file>
+  <file name="MLQJR19581967Articles_meta.sqlite" source="original">
+    <mtime>1463389615</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>afcde25e1f6ea08a38167512e4857481</md5>
+    <crc32>b81760fa</crc32>
+    <sha1>27a334e1fa0c3478e3e4da0a5b8c4e8a66a12984</sha1>
+  </file>
+  <file name="MLQJR19581967Articles_meta.xml" source="original">
+    <mtime>1483804010</mtime>
+    <size>1327</size>
+    <format>Metadata</format>
+    <md5>582573eef67a95312895dddae13c1e4c</md5>
+    <crc32>7165c4b1</crc32>
+    <sha1>67e64335cbe91663fd6cdb48ac174b3afa8b5ae7</sha1>
+  </file>
+  <file name="MLQJR_1958-1967-Articles.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>MLQJR_1958-1967-Articles_djvu.xml</original>
+    <mtime>1431780484</mtime>
+    <size>73955452</size>
+    <md5>bf07dee4b0e247a414f72e8dc78fced7</md5>
+    <crc32>2f352784</crc32>
+    <sha1>7205bba2932ff62e120ffd579a15412a28d02317</sha1>
+  </file>
+  <file name="MLQJR_1958-1967-Articles.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>MLQJR_1958-1967-Articles_jp2.zip</original>
+    <mtime>1431761315</mtime>
+    <size>305718</size>
+    <md5>e3b64d170a94783ad2f050ec736cd944</md5>
+    <crc32>b5f678eb</crc32>
+    <sha1>760fe226caa450f1d51e07487ef7aedffffeb527</sha1>
+  </file>
+  <file name="MLQJR_1958-1967-Articles.pdf" source="original">
+    <mtime>1431759420</mtime>
+    <size>113982568</size>
+    <md5>4dc9ac7d5dd59414fd2d91776ec49835</md5>
+    <crc32>cd386883</crc32>
+    <sha1>f7848ad9821a83362bff7c5496c5995bdb11fc38</sha1>
+    <format>Text PDF</format>
+  </file>
+  <file name="MLQJR_1958-1967-Articles_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>MLQJR_1958-1967-Articles_jp2.zip</original>
+    <mtime>1431777546</mtime>
+    <size>12774471</size>
+    <md5>b7139feca91a55c7bcbe1b1bb554ca3c</md5>
+    <crc32>9f615b36</crc32>
+    <sha1>e67a66963d485301f9a13e28a3090f4102a445e1</sha1>
+  </file>
+  <file name="MLQJR_1958-1967-Articles_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>MLQJR_1958-1967-Articles.djvu</original>
+    <mtime>1431780853</mtime>
+    <size>829527</size>
+    <md5>d3a8d503cededef58f228f035e1163c7</md5>
+    <crc32>48cffb6f</crc32>
+    <sha1>00b99eb7ca6d4d71edbd80fc1d3aa645945a8e06</sha1>
+  </file>
+  <file name="MLQJR_1958-1967-Articles_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>MLQJR_1958-1967-Articles_abbyy.gz</original>
+    <mtime>1431777823</mtime>
+    <size>7889885</size>
+    <md5>9722c71e56b6fc864e98d3d43c83b90a</md5>
+    <crc32>5acdf6d4</crc32>
+    <sha1>dd7f751b3500cffa251a063dd2f7bcc85c2883c2</sha1>
+  </file>
+  <file name="MLQJR_1958-1967-Articles_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>MLQJR_1958-1967-Articles.pdf</original>
+    <mtime>1431761197</mtime>
+    <size>543329751</size>
+    <md5>cfa3af4638228ca8744cab24a25d99a9</md5>
+    <crc32>680adc42</crc32>
+    <sha1>5abfd4fe9c572acf7443569247b8361dad23ebc9</sha1>
+  </file>
+  <file name="MLQJR_1958-1967-Articles_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>MLQJR_1958-1967-Articles_djvu.xml</original>
+    <mtime>1431780519</mtime>
+    <size>41824</size>
+    <md5>e99ff20a6757f5dcd40a04b152343f80</md5>
+    <crc32>82ee5c56</crc32>
+    <sha1>0356fbe50e34243a3007384ba3fa527b5a65b6e5</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530796986</mtime>
+    <size>23528</size>
+    <md5>5a24b4578a5e71a9584b2b3d11c7ec48</md5>
+    <crc32>7111333e</crc32>
+    <sha1>8da3891ec65fc035b360f52833eb66c81008d4cc</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+</files>

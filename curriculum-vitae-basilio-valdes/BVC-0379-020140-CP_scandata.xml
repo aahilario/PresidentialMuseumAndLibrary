@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>curriculum-vitae-basilio-valdes</bookId>
+    <leafCount>6</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4811</origWidth>
+      <origHeight>6382</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4811</w>
+        <h>6382</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4832</origWidth>
+      <origHeight>6390</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4832</w>
+        <h>6390</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4818</origWidth>
+      <origHeight>6396</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4818</w>
+        <h>6396</h>
+      </cropBox>
+    </page>
+    <page leafNum="3">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4826</origWidth>
+      <origHeight>6388</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4826</w>
+        <h>6388</h>
+      </cropBox>
+    </page>
+    <page leafNum="4">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4816</origWidth>
+      <origHeight>6388</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4816</w>
+        <h>6388</h>
+      </cropBox>
+    </page>
+    <page leafNum="5">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4788</origWidth>
+      <origHeight>6381</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4788</w>
+        <h>6381</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

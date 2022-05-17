@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>letter-from-basilio-valdes-to-the-president-and-members-of-manila-jockey-club</bookId>
+    <leafCount>1</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5115</origWidth>
+      <origHeight>6704</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5115</w>
+        <h>6704</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+  </pageData>
+</book>

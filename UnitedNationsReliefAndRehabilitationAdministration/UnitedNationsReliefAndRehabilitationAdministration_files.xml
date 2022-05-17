@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="United Nations Relief and Rehabilitation Administration.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>United Nations Relief and Rehabilitation Administration_djvu.xml</original>
+    <mtime>1431640080</mtime>
+    <size>42687808</size>
+    <md5>810a3fbf826296dc11445b965cb9706b</md5>
+    <crc32>8a9d4340</crc32>
+    <sha1>2d8f5773f8c68421550e2400387b884b567f3304</sha1>
+  </file>
+  <file name="United Nations Relief and Rehabilitation Administration.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>United Nations Relief and Rehabilitation Administration_jp2.zip</original>
+    <mtime>1431618059</mtime>
+    <size>272388</size>
+    <md5>0f2411403a3e8847db723c7fb5a0c063</md5>
+    <crc32>a06f1b28</crc32>
+    <sha1>772bb2a85ee3175e09cfede75b8d0e1cc345f163</sha1>
+  </file>
+  <file name="United Nations Relief and Rehabilitation Administration.pdf" source="original">
+    <mtime>1431616134</mtime>
+    <size>77685967</size>
+    <md5>4d22901b008ac581406e8b8fdf510e04</md5>
+    <crc32>38324e64</crc32>
+    <sha1>f919a35543e6dcc658e5da1fd6b1e831a9bfd001</sha1>
+    <format>Text PDF</format>
+  </file>
+  <file name="United Nations Relief and Rehabilitation Administration_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>United Nations Relief and Rehabilitation Administration_jp2.zip</original>
+    <mtime>1431637670</mtime>
+    <size>6627300</size>
+    <md5>c5df029ab1c30880ed56b1a3f075393b</md5>
+    <crc32>6b60c774</crc32>
+    <sha1>8e5b7e75176d6e70bbc6c2c2db93b5da02e2220e</sha1>
+  </file>
+  <file name="United Nations Relief and Rehabilitation Administration_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>United Nations Relief and Rehabilitation Administration.djvu</original>
+    <mtime>1431640175</mtime>
+    <size>387043</size>
+    <md5>2ebc9e5b0a22614aaa8dd043e461901f</md5>
+    <crc32>b1421abc</crc32>
+    <sha1>5303d50b7309626ecd42350ea20bfe96fdf454a9</sha1>
+  </file>
+  <file name="United Nations Relief and Rehabilitation Administration_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>United Nations Relief and Rehabilitation Administration_abbyy.gz</original>
+    <mtime>1431637763</mtime>
+    <size>3638590</size>
+    <md5>299ff834b52fe299c10fc45f4eeb974c</md5>
+    <crc32>44c968ce</crc32>
+    <sha1>921b17a629c7c3449d8f06a669e38ba93e07c3c9</sha1>
+  </file>
+  <file name="United Nations Relief and Rehabilitation Administration_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>United Nations Relief and Rehabilitation Administration.pdf</original>
+    <mtime>1431618000</mtime>
+    <size>213422496</size>
+    <md5>5402aef7908af7cb4e979104b7d1e08c</md5>
+    <crc32>eaabcb51</crc32>
+    <sha1>f7ee3518afa11932957e7108d13673fb4daca207</sha1>
+  </file>
+  <file name="United Nations Relief and Rehabilitation Administration_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>United Nations Relief and Rehabilitation Administration_djvu.xml</original>
+    <mtime>1431640107</mtime>
+    <size>65853</size>
+    <md5>df4a7d8807b0ed9afa77115e2ae744e0</md5>
+    <crc32>e1fe2816</crc32>
+    <sha1>9341459c075c2e0f3ff14be2c9548e012b0f6b29</sha1>
+  </file>
+  <file name="UnitedNationsReliefAndRehabilitationAdministration_archive.torrent" source="metadata">
+    <btih>ef528da28186f0b0db411fbcd6107140b90a01d5</btih>
+    <mtime>1530852805</mtime>
+    <size>16849</size>
+    <md5>92c2b8bd1a8ae6c16ebae0aaa88f8114</md5>
+    <crc32>e23a296f</crc32>
+    <sha1>0b16c01c8bc15f08ba84c5f0f437b84ce34f0e50</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="UnitedNationsReliefAndRehabilitationAdministration_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>8404eaa508df108770e1fbe710cf1522</md5>
+  </file>
+  <file name="UnitedNationsReliefAndRehabilitationAdministration_meta.sqlite" source="original">
+    <mtime>1463389454</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>b127720706a999fba66e84ff1d320a3f</md5>
+    <crc32>b1ff1b79</crc32>
+    <sha1>796bb6a31805a7992dd0fe90084e34809b1c6fa1</sha1>
+  </file>
+  <file name="UnitedNationsReliefAndRehabilitationAdministration_meta.xml" source="original">
+    <mtime>1483917670</mtime>
+    <size>1352</size>
+    <format>Metadata</format>
+    <md5>de7097703aadbbc50d4819fb23b90546</md5>
+    <crc32>51564eb1</crc32>
+    <sha1>f1ba67338c8d200897a3690499e38fe0793985e7</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530852802</mtime>
+    <size>20308</size>
+    <md5>a7cdf46539e4eabff4b68dc156f5420a</md5>
+    <crc32>b5c455b9</crc32>
+    <sha1>4a926c0778095855209f4cdc7b316fd1cd4653c6</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

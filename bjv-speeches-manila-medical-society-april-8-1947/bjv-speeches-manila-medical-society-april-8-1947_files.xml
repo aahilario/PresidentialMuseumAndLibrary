@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0726-040947-SP.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0726-040947-SP_djvu.xml</original>
+    <mtime>1452115315</mtime>
+    <size>1156735</size>
+    <md5>6529256808e7a75a4718eda500023c39</md5>
+    <crc32>d827da85</crc32>
+    <sha1>dbbca4f2fe882c565805266bd12a1dca37eeab6d</sha1>
+  </file>
+  <file name="BVC-0726-040947-SP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0726-040947-SP_jp2.zip</original>
+    <mtime>1451961833</mtime>
+    <size>111078</size>
+    <md5>18eff2a9d52a45fee5bc34bb3c18b4c8</md5>
+    <crc32>71b4b042</crc32>
+    <sha1>3f5a94fcd8e08487cded73dc0861ab1812be1eb1</sha1>
+  </file>
+  <file name="BVC-0726-040947-SP.pdf" source="original">
+    <mtime>1451961504</mtime>
+    <size>9169630</size>
+    <md5>b7543c0e6d2391a4a93bd62a9cabd72d</md5>
+    <crc32>04b30f63</crc32>
+    <sha1>c04d93760e6d6c5decff785bc360a8db2c8741cb</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0726-040947-SP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0726-040947-SP_jp2.zip</original>
+    <mtime>1451961988</mtime>
+    <size>151059</size>
+    <md5>274d09a8cf9f6b9836e5b57610e03bee</md5>
+    <crc32>50d28180</crc32>
+    <sha1>d02c06c45ffb36b6cf971c9a166c6c508601d0a4</sha1>
+  </file>
+  <file name="BVC-0726-040947-SP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0726-040947-SP.djvu</original>
+    <mtime>1452115322</mtime>
+    <size>9570</size>
+    <md5>23d6d8a055d037b22af3744945cbeab8</md5>
+    <crc32>1e6a30ab</crc32>
+    <sha1>019f8f48bb55d66dc33899f6501a1999296b5c2a</sha1>
+  </file>
+  <file name="BVC-0726-040947-SP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0726-040947-SP_abbyy.gz</original>
+    <mtime>1451961998</mtime>
+    <size>95809</size>
+    <md5>becabbb20a82396f5b97feaa8397fe98</md5>
+    <crc32>804872cb</crc32>
+    <sha1>4cf6baeba18014f7965427b482d97f062a5bd553</sha1>
+  </file>
+  <file name="BVC-0726-040947-SP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0726-040947-SP.pdf</original>
+    <mtime>1451961788</mtime>
+    <size>8468774</size>
+    <md5>4ca8a286f2c1c34266fe4a084e188de0</md5>
+    <crc32>6ec167dc</crc32>
+    <sha1>676019c9ecd8fabaa73355b84ace1c809f1d96bb</sha1>
+  </file>
+  <file name="BVC-0726-040947-SP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0726-040947-SP_djvu.xml</original>
+    <mtime>1451962055</mtime>
+    <size>2643</size>
+    <md5>31b995735728c29f591a5c144f7650cf</md5>
+    <crc32>10e1be4b</crc32>
+    <sha1>9fef2b1b48056a101526ca62d1cce78c243d7976</sha1>
+  </file>
+  <file name="BVC-0726-040947-SP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0726-040947-SP_djvu.xml</original>
+    <mtime>1451962203</mtime>
+    <size>1606188</size>
+    <md5>6ebb38c54d6ba76dd9dab04f00c3035e</md5>
+    <crc32>ac9c8c5c</crc32>
+    <sha1>fa82ea91185d881217ff986ffb674822d2ef909c</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530898664</mtime>
+    <size>16970</size>
+    <md5>a7d5add159e7e3b5721f1df9e1901230</md5>
+    <crc32>39ece2bf</crc32>
+    <sha1>1e62bcd1c23ab9faad04c0eb112747290b9b752a</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="bjv-speeches-manila-medical-society-april-8-1947_archive.torrent" source="metadata">
+    <btih>47d79c79f30309437700319544589c70f0d85a9a</btih>
+    <mtime>1530898664</mtime>
+    <size>4348</size>
+    <md5>4631280242817aeda779cb4c56f2a2f2</md5>
+    <crc32>e94301b9</crc32>
+    <sha1>7c9728ef27d568814b5653bc9b28ba82160c6048</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="bjv-speeches-manila-medical-society-april-8-1947_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>f25997d698d4dfccffbd29e2c7c2b24b</md5>
+  </file>
+  <file name="bjv-speeches-manila-medical-society-april-8-1947_meta.sqlite" source="original">
+    <mtime>1464085276</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>9b3accd1e2dd8fb507394ff80dc244d1</md5>
+    <crc32>e931bdea</crc32>
+    <sha1>afea26dae00fdb5d89db1068e0da42d1a0024c86</sha1>
+  </file>
+  <file name="bjv-speeches-manila-medical-society-april-8-1947_meta.xml" source="original">
+    <mtime>1482604284</mtime>
+    <size>1197</size>
+    <format>Metadata</format>
+    <md5>4eb339a5e32ab8270cd405a1317a400d</md5>
+    <crc32>1ff25388</crc32>
+    <sha1>62cd3bc3f0b99080200175420083db8e8eaa13cc</sha1>
+  </file>
+</files>

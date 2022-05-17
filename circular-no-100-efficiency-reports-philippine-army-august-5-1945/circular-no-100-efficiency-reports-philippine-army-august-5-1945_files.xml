@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0462-080545-CSPA.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0462-080545-CSPA_djvu.xml</original>
+    <mtime>1450426961</mtime>
+    <size>2825899</size>
+    <md5>da07d307bd8db13da30faf1339f725c3</md5>
+    <crc32>9900eae5</crc32>
+    <sha1>e001a283a0bf89499f090a20ceff1deb94b8dfb9</sha1>
+  </file>
+  <file name="BVC-0462-080545-CSPA.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0462-080545-CSPA_jp2.zip</original>
+    <mtime>1450426152</mtime>
+    <size>159294</size>
+    <md5>634b38ce5dd2a9759a9a377fda3b1d06</md5>
+    <crc32>f8b701a6</crc32>
+    <sha1>8dd0c4a439991d0969dfac4f424dd232da782e44</sha1>
+  </file>
+  <file name="BVC-0462-080545-CSPA.pdf" source="original">
+    <mtime>1450423161</mtime>
+    <size>12386199</size>
+    <md5>bdb15e3088f96e64e0755a0dea37ce08</md5>
+    <crc32>3f9c4bda</crc32>
+    <sha1>aa147edb942472edb93343f0175008553c5edfdc</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0462-080545-CSPA_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0462-080545-CSPA_jp2.zip</original>
+    <mtime>1450426726</mtime>
+    <size>624446</size>
+    <md5>b20d1af2e9e985cbc75663082e0cdf94</md5>
+    <crc32>420b27d1</crc32>
+    <sha1>56553a88e4272c2b1d5501edab7e704350e47871</sha1>
+  </file>
+  <file name="BVC-0462-080545-CSPA_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0462-080545-CSPA.djvu</original>
+    <mtime>1450427244</mtime>
+    <size>8379</size>
+    <md5>255c132bb6c879170c81e30327f0baa6</md5>
+    <crc32>07445ed7</crc32>
+    <sha1>3fe3818d52b75882dd60cb85a6a524f9fd057af0</sha1>
+  </file>
+  <file name="BVC-0462-080545-CSPA_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0462-080545-CSPA_abbyy.gz</original>
+    <mtime>1450426747</mtime>
+    <size>370121</size>
+    <md5>e25c2559eddbed99c7241ff2d499ec8a</md5>
+    <crc32>15c4b35f</crc32>
+    <sha1>1c47c9741024055155815c5a906ad67b77bf09e4</sha1>
+  </file>
+  <file name="BVC-0462-080545-CSPA_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0462-080545-CSPA.pdf</original>
+    <mtime>1450426082</mtime>
+    <size>18235833</size>
+    <md5>b2d8891d78747559a207dcc04489d291</md5>
+    <crc32>fbff8f62</crc32>
+    <sha1>0b3e503b4d8966c54cf540c2483b152e563a59a3</sha1>
+  </file>
+  <file name="BVC-0462-080545-CSPA_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0462-080545-CSPA_djvu.xml</original>
+    <mtime>1450426963</mtime>
+    <size>4153</size>
+    <md5>37df97ce704e0ddb091247680595557c</md5>
+    <crc32>93500a71</crc32>
+    <sha1>975a43eff24689d18c0deaa1e94c05279fda8ccd</sha1>
+  </file>
+  <file name="BVC-0462-080545-CSPA_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0462-080545-CSPA_djvu.xml</original>
+    <mtime>1450427216</mtime>
+    <size>3775639</size>
+    <md5>23f4dead57e068fd43e994bc3585f701</md5>
+    <crc32>c445b1c2</crc32>
+    <sha1>43b55701ac72c0400f932a0a7e73fe8cdc0d462d</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1531094386</mtime>
+    <size>16217</size>
+    <md5>d192ad95c32e9c5c5c22d8ce11296c9e</md5>
+    <crc32>7608fb16</crc32>
+    <sha1>1325fd5eb23b3a5b3b9e30c099939801f88ad14b</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="circular-no-100-efficiency-reports-philippine-army-august-5-1945_archive.torrent" source="metadata">
+    <btih>a62bc6f2c7a8fafac7253666015c0b805c99ff65</btih>
+    <mtime>1531094388</mtime>
+    <size>5191</size>
+    <md5>309bbd45b323d06379ccf79afda144a5</md5>
+    <crc32>1674e629</crc32>
+    <sha1>eba3f41c86a59d5a70e1fb62ca83b7400ff064f4</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="circular-no-100-efficiency-reports-philippine-army-august-5-1945_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>31fdcbc5cf29405e436518eb3a1bd6d2</md5>
+  </file>
+  <file name="circular-no-100-efficiency-reports-philippine-army-august-5-1945_meta.sqlite" source="original">
+    <mtime>1466323337</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>7c26361a606c1b4521c8d70299c6b4f4</md5>
+    <crc32>f0bdb89e</crc32>
+    <sha1>d9bce3d93d31147af33853b15441bf4f6d194a0c</sha1>
+  </file>
+  <file name="circular-no-100-efficiency-reports-philippine-army-august-5-1945_meta.xml" source="original">
+    <mtime>1483365130</mtime>
+    <size>1180</size>
+    <format>Metadata</format>
+    <md5>2ddfb4e7255e945f915693abcb18a798</md5>
+    <crc32>872ea6b6</crc32>
+    <sha1>a9c9785a1871e01ed4e1d453a7353fa234f80a9e</sha1>
+  </file>
+</files>

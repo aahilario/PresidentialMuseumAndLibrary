@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>letter-from-basilio-valdes-to-db-delos-reyes</bookId>
+    <leafCount>3</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5220</origWidth>
+      <origHeight>6615</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5220</w>
+        <h>6615</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5065</origWidth>
+      <origHeight>6160</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5065</w>
+        <h>6160</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5248</origWidth>
+      <origHeight>6215</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5248</w>
+        <h>6215</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

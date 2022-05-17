@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Bagong Pagsilang with lyrics.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>Bagong Pagsilang with lyrics.mp3</original>
+    <mtime>1447218319</mtime>
+    <size>34136</size>
+    <md5>d3409f079463507f2e802d42f97d262e</md5>
+    <crc32>a7eba2f4</crc32>
+    <sha1>a92f917e7ec93b9fae27c789e98eb03789eb4f6b</sha1>
+  </file>
+  <file name="Bagong Pagsilang with lyrics.mp3" source="original">
+    <mtime>1447218183</mtime>
+    <size>2479336</size>
+    <md5>0bacc3eccb33d9d540f63ab49b966096</md5>
+    <crc32>5b24c8fa</crc32>
+    <sha1>5f7e194f129cf6e2de7980cff5540900880dc26b</sha1>
+    <format>VBR MP3</format>
+    <length>156.53</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Bagong Pagsilang with lyrics.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Bagong Pagsilang with lyrics.mp3</original>
+    <mtime>1447218256</mtime>
+    <size>1665468</size>
+    <md5>ed3675d5a6372a97d478e1074ea509dc</md5>
+    <crc32>e7c2b2e1</crc32>
+    <sha1>f29667c3ec640f08d1268784e128278c086dedd1</sha1>
+    <length>156.5</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Bagong Pagsilang with lyrics.png" source="derivative">
+    <format>PNG</format>
+    <original>Bagong Pagsilang with lyrics.mp3</original>
+    <mtime>1447218267</mtime>
+    <size>11600</size>
+    <md5>40995e044c3e04906d02e9a4b7f76138</md5>
+    <crc32>b27f2b65</crc32>
+    <sha1>78c7b50828368e4c799a8d0f0cfa9e88f13afb8d</sha1>
+  </file>
+  <file name="Bagong Pagsilang with lyrics_esshigh.json.gz" source="derivative">
+    <format>Essentia High GZ</format>
+    <original>Bagong Pagsilang with lyrics_esslow.json.gz</original>
+    <mtime>1447218333</mtime>
+    <size>1888</size>
+    <md5>b52b1fe5b97221abec8819fb6bdecd81</md5>
+    <crc32>3bc7a51c</crc32>
+    <sha1>60b3ec76f4b7179756e096721c9bd1a1a2a4de1c</sha1>
+  </file>
+  <file name="Bagong Pagsilang with lyrics_esslow.json.gz" source="derivative">
+    <format>Essentia Low GZ</format>
+    <original>Bagong Pagsilang with lyrics.mp3</original>
+    <mtime>1447218285</mtime>
+    <size>23084</size>
+    <md5>c382d7b9fdac9cdcb99ed805527aa6dc</md5>
+    <crc32>7d48b4d2</crc32>
+    <sha1>305998fb817de2b3214b5dc0c0d9efa97eff6a21</sha1>
+  </file>
+  <file name="Bagong Pagsilang with lyrics_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Bagong Pagsilang with lyrics.mp3</original>
+    <mtime>1447218269</mtime>
+    <size>256387</size>
+    <md5>6fa8cf6101a4110c2109f2f48b9dfa4c</md5>
+    <crc32>cc87a0f7</crc32>
+    <sha1>8798aafe06e49bcaeadfa6dc41ca8dbb4927df86</sha1>
+  </file>
+  <file name="Bagong Pagsilang with lyrics_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Bagong Pagsilang with lyrics.png</original>
+    <mtime>1447218329</mtime>
+    <size>2061</size>
+    <md5>4b53a37182792ac1e4a7d853aff3f229</md5>
+    <crc32>5d9649b0</crc32>
+    <sha1>a27300487caf2bfcca4ec057895100f72e5aa5d3</sha1>
+  </file>
+  <file name="Bagong Pagsilang without lyrics.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>Bagong Pagsilang without lyrics.mp3</original>
+    <mtime>1447218310</mtime>
+    <size>35472</size>
+    <md5>7e9382e2864a19689fbae551aed10792</md5>
+    <crc32>b7690d99</crc32>
+    <sha1>2560f60acb94d52dad4542ae4f19b306ce83b710</sha1>
+  </file>
+  <file name="Bagong Pagsilang without lyrics.mp3" source="original">
+    <mtime>1447218232</mtime>
+    <size>2801044</size>
+    <md5>b56427ff515a35d17a392417da64e002</md5>
+    <crc32>db749b01</crc32>
+    <sha1>c0b1f35e554ae07898f8e35016d363b93523118b</sha1>
+    <format>VBR MP3</format>
+    <length>158.15</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Bagong Pagsilang without lyrics.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Bagong Pagsilang without lyrics.mp3</original>
+    <mtime>1447218249</mtime>
+    <size>1778836</size>
+    <md5>b943b68a6d553e0e309d98685d5dc0ca</md5>
+    <crc32>cbd55130</crc32>
+    <sha1>0db3857fe3d2541b7162542252e738808900a8dc</sha1>
+    <length>158.12</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Bagong Pagsilang without lyrics.png" source="derivative">
+    <format>PNG</format>
+    <original>Bagong Pagsilang without lyrics.mp3</original>
+    <mtime>1447218261</mtime>
+    <size>10974</size>
+    <md5>aec31f17b60e487206df4aa459d4daf5</md5>
+    <crc32>528b00c8</crc32>
+    <sha1>1335164d53c83678fdec68c9c2dd0363a2322886</sha1>
+  </file>
+  <file name="Bagong Pagsilang without lyrics_esshigh.json.gz" source="derivative">
+    <format>Essentia High GZ</format>
+    <original>Bagong Pagsilang without lyrics_esslow.json.gz</original>
+    <mtime>1447218339</mtime>
+    <size>1901</size>
+    <md5>6ae050d05403232a30332caa333d4df2</md5>
+    <crc32>e4fa423c</crc32>
+    <sha1>845ed2ee480a89fe9ebae229be3203dc10ce78f2</sha1>
+  </file>
+  <file name="Bagong Pagsilang without lyrics_esslow.json.gz" source="derivative">
+    <format>Essentia Low GZ</format>
+    <original>Bagong Pagsilang without lyrics.mp3</original>
+    <mtime>1447218300</mtime>
+    <size>23203</size>
+    <md5>3293a4d10679689e6640fa33d487e68b</md5>
+    <crc32>65d482e7</crc32>
+    <sha1>1536e4ba2fe535a4bb0ba0799a46da3279161965</sha1>
+  </file>
+  <file name="Bagong Pagsilang without lyrics_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Bagong Pagsilang without lyrics.mp3</original>
+    <mtime>1447218271</mtime>
+    <size>245088</size>
+    <md5>ba529315d181a1528c9aa87548b2f149</md5>
+    <crc32>c87aceb1</crc32>
+    <sha1>a139ffc3e3a3b2f42b2f113eb330c4e343a49374</sha1>
+  </file>
+  <file name="Bagong Pagsilang without lyrics_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Bagong Pagsilang without lyrics.png</original>
+    <mtime>1447218328</mtime>
+    <size>1979</size>
+    <md5>7861f97ffc175e1251eef089da0e65fa</md5>
+    <crc32>ab1ab009</crc32>
+    <sha1>3076b669ccb95dba086eccef47a2076528f759ac</sha1>
+  </file>
+  <file name="bagong-pagsilang_archive.torrent" source="metadata">
+    <btih>a00d3dae81d6c8074c0b33724c22772a00f42c7d</btih>
+    <mtime>1482257217</mtime>
+    <size>4947</size>
+    <md5>ac5dc6dc2dba9673f1fd9d1bce5afc41</md5>
+    <crc32>bfaddc63</crc32>
+    <sha1>4087c9f7ed60d23077dd4e0e128290601e5249c2</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="bagong-pagsilang_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>dc208a2edc33150800ff0247290e0c74</md5>
+  </file>
+  <file name="bagong-pagsilang_meta.sqlite" source="original">
+    <mtime>1447218235</mtime>
+    <size>14336</size>
+    <format>Metadata</format>
+    <md5>ebfd094895d400b612b62f141f26bf8d</md5>
+    <crc32>3517ee9b</crc32>
+    <sha1>40e0d2a29c559609147035c831786af74d5612b6</sha1>
+  </file>
+  <file name="bagong-pagsilang_meta.xml" source="original">
+    <mtime>1482257216</mtime>
+    <size>1493</size>
+    <format>Metadata</format>
+    <md5>be31b6d4dee3d0a839dbc7ede733f7d8</md5>
+    <crc32>d26de520</crc32>
+    <sha1>799e86137dca5718537462af4b82810b4bd90566</sha1>
+  </file>
+</files>

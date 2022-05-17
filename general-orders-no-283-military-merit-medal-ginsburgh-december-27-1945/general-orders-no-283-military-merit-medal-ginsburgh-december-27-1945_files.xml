@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0453-122745-CSPA.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0453-122745-CSPA_jp2.zip</original>
+    <mtime>1450417232</mtime>
+    <size>15371</size>
+    <md5>8fc038f77580ab5c119599a485d25ee5</md5>
+    <crc32>0d8ad467</crc32>
+    <sha1>2a248eec4676eef3a29a4e96be49f2c37ec071ba</sha1>
+  </file>
+  <file name="BVC-0453-122745-CSPA.pdf" source="original">
+    <mtime>1450413846</mtime>
+    <size>893996</size>
+    <md5>02f680fbdbdb166f1db73f02c8ea5f11</md5>
+    <crc32>493113ca</crc32>
+    <sha1>4503253196803d8474467ec442e01ce8cbb68c40</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0453-122745-CSPA_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0453-122745-CSPA_jp2.zip</original>
+    <mtime>1450417272</mtime>
+    <size>33184</size>
+    <md5>6753a6bf4cea401e43f8ddb09a53e44c</md5>
+    <crc32>90c44631</crc32>
+    <sha1>e4f54050841df13ef65877ad909dcc16afc22ec7</sha1>
+  </file>
+  <file name="BVC-0453-122745-CSPA_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0453-122745-CSPA_djvu.xml</original>
+    <mtime>1456644769</mtime>
+    <size>1938</size>
+    <md5>d60e706bdabcc9e33c39c1475fe605fe</md5>
+    <crc32>ed68bbc5</crc32>
+    <sha1>8779b91e80686180b066a6fa7f3dfa804a83878d</sha1>
+  </file>
+  <file name="BVC-0453-122745-CSPA_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0453-122745-CSPA_abbyy.gz</original>
+    <mtime>1450417288</mtime>
+    <size>19185</size>
+    <md5>092258b4d76350a18f4b7118bdc8dfa5</md5>
+    <crc32>e6438b8f</crc32>
+    <sha1>7c8efce65ce525047dd3db5ea3c6e093004c3db7</sha1>
+  </file>
+  <file name="BVC-0453-122745-CSPA_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0453-122745-CSPA.pdf</original>
+    <mtime>1450417215</mtime>
+    <size>1272317</size>
+    <md5>d283cd551c8221460f9e761e9628f6f0</md5>
+    <crc32>a8a64b0f</crc32>
+    <sha1>b928313f5277ce3fbe214d28785a028d90a09d42</sha1>
+  </file>
+  <file name="BVC-0453-122745-CSPA_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0453-122745-CSPA_djvu.xml</original>
+    <mtime>1450417334</mtime>
+    <size>579</size>
+    <md5>d59d363eb5736f01e36e34edeff8ab42</md5>
+    <crc32>dde0caf2</crc32>
+    <sha1>17f61e30c10d534653c78a553685ef0223da9d34</sha1>
+  </file>
+  <file name="BVC-0453-122745-CSPA_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0453-122745-CSPA_djvu.xml</original>
+    <mtime>1450417447</mtime>
+    <size>255657</size>
+    <md5>20107843c7fb41bdddb1b87887c3459a</md5>
+    <crc32>c3ea1034</crc32>
+    <sha1>b347e6ece3601c4706c4fe1afd430754805a96e3</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1531012205</mtime>
+    <size>14484</size>
+    <md5>a0a44c2cca00523d5d6a8fa8facf7cb2</md5>
+    <crc32>a670ee84</crc32>
+    <sha1>64673178bbd2f44896fa1e85c0075ad0be08de3a</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="general-orders-no-283-military-merit-medal-ginsburgh-december-27-1945_archive.torrent" source="metadata">
+    <btih>87533d275e8eb347a2861213adfadc056fe2beb2</btih>
+    <mtime>1531012206</mtime>
+    <size>3669</size>
+    <md5>33c47841045a133ab5e92f4749908d1d</md5>
+    <crc32>52b9eaa0</crc32>
+    <sha1>0d0d2198fddbb197200ecabc7eb85786e97979ab</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="general-orders-no-283-military-merit-medal-ginsburgh-december-27-1945_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>6a1f25b272f39725551ce05f35a9c58d</md5>
+  </file>
+  <file name="general-orders-no-283-military-merit-medal-ginsburgh-december-27-1945_meta.sqlite" source="original">
+    <mtime>1466312471</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>b871fbc44b80f5e956a6b345cd213419</md5>
+    <crc32>f548052d</crc32>
+    <sha1>7102cb0f1ede1297eea2239da45d2774b0924ffe</sha1>
+  </file>
+  <file name="general-orders-no-283-military-merit-medal-ginsburgh-december-27-1945_meta.xml" source="original">
+    <mtime>1482477863</mtime>
+    <size>1232</size>
+    <format>Metadata</format>
+    <md5>03f34d2bb6fcdd0c40025b9c1b109a59</md5>
+    <crc32>1cb1672c</crc32>
+    <sha1>5e9f1f01abe7bfe9c2895eccad49cdb943df1c9a</sha1>
+  </file>
+</files>

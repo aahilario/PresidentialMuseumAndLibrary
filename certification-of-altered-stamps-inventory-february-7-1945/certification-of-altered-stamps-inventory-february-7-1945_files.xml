@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0587-020745-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0587-020745-BVL_jp2.zip</original>
+    <mtime>1449727454</mtime>
+    <size>16275</size>
+    <md5>d721cc728509a4035095233062d655ea</md5>
+    <crc32>6da59609</crc32>
+    <sha1>314fff9f5591f6f6f31c4b0c9731be5e36d55592</sha1>
+  </file>
+  <file name="BVC-0587-020745-BVL.pdf" source="original">
+    <mtime>1449727394</mtime>
+    <size>638632</size>
+    <md5>4531b145f452e58c9a88ec47bb7b8691</md5>
+    <crc32>8a3ae2ae</crc32>
+    <sha1>516265fd3e7adce5b130383bed104eef72b81a72</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0587-020745-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0587-020745-BVL_jp2.zip</original>
+    <mtime>1449733780</mtime>
+    <size>18995</size>
+    <md5>9e9ba3c639d7b3e1c82d61039576da9d</md5>
+    <crc32>36a06f4a</crc32>
+    <sha1>8b38e60326aa77d4764a400189cd9e19648aa66a</sha1>
+  </file>
+  <file name="BVC-0587-020745-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0587-020745-BVL_djvu.xml</original>
+    <mtime>1455992267</mtime>
+    <size>1101</size>
+    <md5>73aae9833fee03aa329da4bd0f409613</md5>
+    <crc32>11f4d6d3</crc32>
+    <sha1>d7fb4807c387e7190d8c54574ab51205d7a1ef0c</sha1>
+  </file>
+  <file name="BVC-0587-020745-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0587-020745-BVL_abbyy.gz</original>
+    <mtime>1449733787</mtime>
+    <size>11444</size>
+    <md5>bdb22de8e245df9fb8ff15b51a8c0c57</md5>
+    <crc32>67c0ca74</crc32>
+    <sha1>47a44fffee090fa2fcd274b97075ccd012bbcbdb</sha1>
+  </file>
+  <file name="BVC-0587-020745-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0587-020745-BVL.pdf</original>
+    <mtime>1449727444</mtime>
+    <size>934225</size>
+    <md5>ed8b493c3fb06151ebf7d39d272cf193</md5>
+    <crc32>33bfd758</crc32>
+    <sha1>e390048e17f6fe6fc857b44fffaca1a1e665327f</sha1>
+  </file>
+  <file name="BVC-0587-020745-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0587-020745-BVL_djvu.xml</original>
+    <mtime>1449733810</mtime>
+    <size>567</size>
+    <md5>8117a1ba82c3fea46281661aba91d31c</md5>
+    <crc32>8dda782e</crc32>
+    <sha1>26acbd2c26c2036e3def0496f0734461a80cee5c</sha1>
+  </file>
+  <file name="BVC-0587-020745-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0587-020745-BVL_djvu.xml</original>
+    <mtime>1449733839</mtime>
+    <size>183228</size>
+    <md5>06cd0dcd330b8c2f28c314ec71e17e2f</md5>
+    <crc32>225bda41</crc32>
+    <sha1>9f1df26bb11c98c5629aea20ee260c242a6e729f</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530967977</mtime>
+    <size>13321</size>
+    <md5>dbf33d619a932b1ac394dfab0b8d2d88</md5>
+    <crc32>2bc9f0bd</crc32>
+    <sha1>d79d5263bc4bcc455fb035f84f05ecab9902d686</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="certification-of-altered-stamps-inventory-february-7-1945_archive.torrent" source="metadata">
+    <btih>4791930a8a392430fcc0ee63568a50d8a3ea138c</btih>
+    <mtime>1530967978</mtime>
+    <size>3531</size>
+    <md5>57b629818c8e1471f9fe3b0a14255415</md5>
+    <crc32>4968f8bd</crc32>
+    <sha1>0f1a33741c3dd7ddcc68328c0c3f7418a21899aa</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="certification-of-altered-stamps-inventory-february-7-1945_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>c00dd02b519a20edb0c4f1150a66dcb0</md5>
+  </file>
+  <file name="certification-of-altered-stamps-inventory-february-7-1945_meta.sqlite" source="original">
+    <mtime>1466267331</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>79c660ef45db3de9a0b423705fa41446</md5>
+    <crc32>a2a24a00</crc32>
+    <sha1>96245f6f71ae104717010b6142b6d8751230c778</sha1>
+  </file>
+  <file name="certification-of-altered-stamps-inventory-february-7-1945_meta.xml" source="original">
+    <mtime>1484725287</mtime>
+    <size>1281</size>
+    <format>Metadata</format>
+    <md5>f99d33382b3da200f0c80b05bf448848</md5>
+    <crc32>62c944bb</crc32>
+    <sha1>f93fe512fd348cd6e36396ec0c46063bdb2c0d5b</sha1>
+  </file>
+</files>

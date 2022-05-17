@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="AAQ SCRAPBOOK HUK.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>AAQ SCRAPBOOK HUK_jp2.zip</original>
+    <mtime>1458119954</mtime>
+    <size>256070</size>
+    <md5>7cd650c0f4d42ba826118b16596c60c6</md5>
+    <crc32>423eadbc</crc32>
+    <sha1>79ae7b0ed07896d49e814b6faa26b6d15c7ce5d4</sha1>
+  </file>
+  <file name="AAQ SCRAPBOOK HUK.pdf" source="original">
+    <mtime>1458118458</mtime>
+    <size>169109116</size>
+    <md5>da12c54037cf79805e399831639a072e</md5>
+    <crc32>4b0f743f</crc32>
+    <sha1>3747323b45c4cd0aba005acb5dc133ae54380b0b</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="AAQ SCRAPBOOK HUK_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>AAQ SCRAPBOOK HUK_jp2.zip</original>
+    <mtime>1458123530</mtime>
+    <size>6432333</size>
+    <md5>0a6d8d81a6c8d4058d76f990ba52830a</md5>
+    <crc32>c8b102e6</crc32>
+    <sha1>b8feb105a657aef5d1f4d750c36237bf2a53deb1</sha1>
+  </file>
+  <file name="AAQ SCRAPBOOK HUK_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>AAQ SCRAPBOOK HUK_djvu.xml</original>
+    <mtime>1458123636</mtime>
+    <size>378159</size>
+    <md5>595f858410589e96ba57b7e323389190</md5>
+    <crc32>65841c82</crc32>
+    <sha1>2f4edc3f2b550d0ed79845a283c2497637dd7e99</sha1>
+  </file>
+  <file name="AAQ SCRAPBOOK HUK_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>AAQ SCRAPBOOK HUK_abbyy.gz</original>
+    <mtime>1458123624</mtime>
+    <size>3762411</size>
+    <md5>8f6df2a03b602a067ccf58077e7a99bb</md5>
+    <crc32>24d452f0</crc32>
+    <sha1>fe32a646e3afa725f127d1ea354c4073124a6fe2</sha1>
+  </file>
+  <file name="AAQ SCRAPBOOK HUK_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>AAQ SCRAPBOOK HUK.pdf</original>
+    <mtime>1458119891</mtime>
+    <size>268218427</size>
+    <md5>49570c8494205349852bb5834620a279</md5>
+    <crc32>7544d3d0</crc32>
+    <sha1>7d28e51ead4600d76b0dfc25aab328be11911c78</sha1>
+  </file>
+  <file name="AAQ SCRAPBOOK HUK_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>AAQ SCRAPBOOK HUK_djvu.xml</original>
+    <mtime>1458123634</mtime>
+    <size>35549</size>
+    <md5>f24e6e513802ef93a1e25981bfd9b40d</md5>
+    <crc32>4599e0e3</crc32>
+    <sha1>8d7df72c03784cbe759f00b89264fa9289af9813</sha1>
+  </file>
+  <file name="AAQ SCRAPBOOK HUK_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>AAQ SCRAPBOOK HUK_djvu.xml</original>
+    <mtime>1458126058</mtime>
+    <size>51916542</size>
+    <md5>ab32596067389fdbd584ad0361d35f94</md5>
+    <crc32>a0db0032</crc32>
+    <sha1>e9547d2daebe0bb8b0ff24483ffe35dd9a2a08d3</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530662139</mtime>
+    <size>27630</size>
+    <md5>bd02ec4212b59d6bf1deb144122cb3be</md5>
+    <crc32>1315d65d</crc32>
+    <sha1>4493422114dc449459a028405239837aeeaba160</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="huk-ambush-newspaper-clippings-3-aurora-quezon_archive.torrent" source="metadata">
+    <btih>73b25a2ffa98d6bfeb8b04ec339a71f22274fb2f</btih>
+    <mtime>1530662143</mtime>
+    <size>22434</size>
+    <md5>65c38d17e1df7ea5dce0e09eb73c2f48</md5>
+    <crc32>c2d7bf79</crc32>
+    <sha1>9a7a342c9bcb41a8c4e8e92981ab15bb6bb8c056</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="huk-ambush-newspaper-clippings-3-aurora-quezon_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>2b42bb50ad3207fd4edb941a5d82117a</md5>
+  </file>
+  <file name="huk-ambush-newspaper-clippings-3-aurora-quezon_meta.sqlite" source="original">
+    <mtime>1464908592</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>0d3c2c312f4b681d0bcb8ff0cc375207</md5>
+    <crc32>9ab3f5f0</crc32>
+    <sha1>ca644931aabcd4a2709adb37a86b6415cf5d2e96</sha1>
+  </file>
+  <file name="huk-ambush-newspaper-clippings-3-aurora-quezon_meta.xml" source="original">
+    <mtime>1484508469</mtime>
+    <size>1314</size>
+    <format>Metadata</format>
+    <md5>5da79782a267059caadd6ffc6975449b</md5>
+    <crc32>51a1eaae</crc32>
+    <sha1>3523ca62d610629bd5b75469e96ebecbd55a42c9</sha1>
+  </file>
+</files>

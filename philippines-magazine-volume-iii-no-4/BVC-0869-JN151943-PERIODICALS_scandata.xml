@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>philippines-magazine-volume-iii-no-4</bookId>
+    <leafCount>12</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5107</origWidth>
+      <origHeight>6658</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5107</w>
+        <h>6658</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5054</origWidth>
+      <origHeight>6616</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5054</w>
+        <h>6616</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5108</origWidth>
+      <origHeight>6502</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5108</w>
+        <h>6502</h>
+      </cropBox>
+    </page>
+    <page leafNum="3">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5025</origWidth>
+      <origHeight>6648</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5025</w>
+        <h>6648</h>
+      </cropBox>
+    </page>
+    <page leafNum="4">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5077</origWidth>
+      <origHeight>6538</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5077</w>
+        <h>6538</h>
+      </cropBox>
+    </page>
+    <page leafNum="5">
+      <pageType>Title</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4987</origWidth>
+      <origHeight>6532</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4987</w>
+        <h>6532</h>
+      </cropBox>
+    </page>
+    <page leafNum="6">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5105</origWidth>
+      <origHeight>6504</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5105</w>
+        <h>6504</h>
+      </cropBox>
+    </page>
+    <page leafNum="7">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5026</origWidth>
+      <origHeight>6537</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5026</w>
+        <h>6537</h>
+      </cropBox>
+    </page>
+    <page leafNum="8">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5082</origWidth>
+      <origHeight>6582</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5082</w>
+        <h>6582</h>
+      </cropBox>
+    </page>
+    <page leafNum="9">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5037</origWidth>
+      <origHeight>6547</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5037</w>
+        <h>6547</h>
+      </cropBox>
+    </page>
+    <page leafNum="10">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5059</origWidth>
+      <origHeight>6525</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5059</w>
+        <h>6525</h>
+      </cropBox>
+    </page>
+    <page leafNum="11">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5070</origWidth>
+      <origHeight>6611</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5070</w>
+        <h>6611</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

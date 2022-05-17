@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0522-101460-HPSP.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0522-101460-HPSP_djvu.xml</original>
+    <mtime>1452359319</mtime>
+    <size>233769</size>
+    <md5>1b2a431590e501edb40e04e557cb3b90</md5>
+    <crc32>2eec8edb</crc32>
+    <sha1>e5e202683b82b6bbd1877ba87f64c600dc11bb99</sha1>
+  </file>
+  <file name="BVC-0522-101460-HPSP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0522-101460-HPSP_jp2.zip</original>
+    <mtime>1451877383</mtime>
+    <size>43621</size>
+    <md5>5fc810320536ba29dc4ab11b10ba3f5d</md5>
+    <crc32>200821b5</crc32>
+    <sha1>c75c81c54976967f7b3c88c2b3907f2b43c5ae25</sha1>
+  </file>
+  <file name="BVC-0522-101460-HPSP.pdf" source="original">
+    <mtime>1451877288</mtime>
+    <size>1546760</size>
+    <md5>3919df0bdf734f5787c2b144a79f8c77</md5>
+    <crc32>690c603b</crc32>
+    <sha1>667d22e69ca9daaf206f10a767603792e49825e9</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0522-101460-HPSP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0522-101460-HPSP_jp2.zip</original>
+    <mtime>1451877403</mtime>
+    <size>27723</size>
+    <md5>44dff0c5c961349ad6a03dd41de823e7</md5>
+    <crc32>35df0e29</crc32>
+    <sha1>46afa2eda978a69c99e8b26b052c564e040aa22f</sha1>
+  </file>
+  <file name="BVC-0522-101460-HPSP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0522-101460-HPSP.djvu</original>
+    <mtime>1452359329</mtime>
+    <size>1581</size>
+    <md5>e6c722d6182ff36e141633f31b1df726</md5>
+    <crc32>5f830340</crc32>
+    <sha1>9fa1884283e0518588458d73231221b3b582f168</sha1>
+  </file>
+  <file name="BVC-0522-101460-HPSP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0522-101460-HPSP_abbyy.gz</original>
+    <mtime>1451877410</mtime>
+    <size>17428</size>
+    <md5>7d6a037e77816ef64b2e60ff8fc6fffe</md5>
+    <crc32>3101ab34</crc32>
+    <sha1>d1f43779838df1e529ce962004f1beba39c49e1a</sha1>
+  </file>
+  <file name="BVC-0522-101460-HPSP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0522-101460-HPSP.pdf</original>
+    <mtime>1451877373</mtime>
+    <size>1754663</size>
+    <md5>8ae05f350ae56d5256993bd867917c8f</md5>
+    <crc32>0502ffa7</crc32>
+    <sha1>90c115b853fdd55a7d77909ac6bec334ad36bb38</sha1>
+  </file>
+  <file name="BVC-0522-101460-HPSP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0522-101460-HPSP_djvu.xml</original>
+    <mtime>1451877428</mtime>
+    <size>1150</size>
+    <md5>87e9d555e35d9612590bbc1f216a5f6c</md5>
+    <crc32>d0517d61</crc32>
+    <sha1>64a18a70e3bb0f2b47e27b3f1633fe8eff40cb29</sha1>
+  </file>
+  <file name="BVC-0522-101460-HPSP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0522-101460-HPSP_djvu.xml</original>
+    <mtime>1451877479</mtime>
+    <size>417853</size>
+    <md5>7eaeff0c85a9139d008de4e5f8594788</md5>
+    <crc32>b77e7597</crc32>
+    <sha1>1d1d1f185f07f3a36445e45a069e9674f7b7b6cb</sha1>
+  </file>
+  <file name="BVC-0523-090160-HPSP.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0523-090160-HPSP_djvu.xml</original>
+    <mtime>1452359279</mtime>
+    <size>1375089</size>
+    <md5>678f70fccaa905231074f58738b67ead</md5>
+    <crc32>223ea5a3</crc32>
+    <sha1>b51911bd45b3a6c8808b979e9a6ce724a125e504</sha1>
+  </file>
+  <file name="BVC-0523-090160-HPSP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0523-090160-HPSP_jp2.zip</original>
+    <mtime>1451878014</mtime>
+    <size>133922</size>
+    <md5>2754b740beb1d1e9abd9f1c0f1fd0d0c</md5>
+    <crc32>83f39433</crc32>
+    <sha1>97babbd79571911256733e15bc0cf4f4bdf5b479</sha1>
+  </file>
+  <file name="BVC-0523-090160-HPSP.pdf" source="original">
+    <format>Image Container PDF</format>
+    <mtime>1451877753</mtime>
+    <size>7336387</size>
+    <md5>7762ed6e863effb0a023ca8f8c805001</md5>
+    <crc32>0e8fab18</crc32>
+    <sha1>12f84868a15b69bd7dd55f5555467b04fa6b9dd9</sha1>
+  </file>
+  <file name="BVC-0523-090160-HPSP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0523-090160-HPSP_jp2.zip</original>
+    <mtime>1451878300</mtime>
+    <size>160217</size>
+    <md5>eba06164871cf8e196b5657524b18c83</md5>
+    <crc32>21433fc6</crc32>
+    <sha1>9c6f352cd7411bf37fbbb6d2051d7102367787d3</sha1>
+  </file>
+  <file name="BVC-0523-090160-HPSP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0523-090160-HPSP.djvu</original>
+    <mtime>1452359327</mtime>
+    <size>9834</size>
+    <md5>f5e3ecf91bfd745b930b0b3c362da786</md5>
+    <crc32>27a3a92c</crc32>
+    <sha1>f9619825c3a63e21ae2d1cc80911b84470ef72ca</sha1>
+  </file>
+  <file name="BVC-0523-090160-HPSP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0523-090160-HPSP_abbyy.gz</original>
+    <mtime>1451878309</mtime>
+    <size>114856</size>
+    <md5>b319e101a9aa0a2a56cacd66d7003ad7</md5>
+    <crc32>f1a6662f</crc32>
+    <sha1>46be8c1548458ee10c5c0e98acb768eca6678725</sha1>
+  </file>
+  <file name="BVC-0523-090160-HPSP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0523-090160-HPSP.pdf</original>
+    <mtime>1451877973</mtime>
+    <size>9339403</size>
+    <md5>d89f6db26108c55e3a61ae163e249920</md5>
+    <crc32>ccb37238</crc32>
+    <sha1>104aff059feed4e54a63164f304d8e3ca51655df</sha1>
+  </file>
+  <file name="BVC-0523-090160-HPSP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0523-090160-HPSP_djvu.xml</original>
+    <mtime>1451878327</mtime>
+    <size>4432</size>
+    <md5>5bfc80bc17131f6fafcd1e9147d80900</md5>
+    <crc32>0f3c2d50</crc32>
+    <sha1>31c96b451a8a8372019e5b277265db8b204baec6</sha1>
+  </file>
+  <file name="BVC-0523-090160-HPSP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0523-090160-HPSP_djvu.xml</original>
+    <mtime>1451878594</mtime>
+    <size>2404372</size>
+    <md5>1c7a697473fd814096ce1d7d30e7f205</md5>
+    <crc32>60eca26d</crc32>
+    <sha1>d3de098084517bff6932a870fdb4a655b2618870</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530747933</mtime>
+    <size>10797</size>
+    <md5>be1f888f8bc159a71f4758c0c5562f10</md5>
+    <crc32>2f032449</crc32>
+    <sha1>361fb017696ce81d065d3b7bf8a1ade11e3165be</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="letter-from-basilio-valdes-to-db-delos-reyes_archive.torrent" source="metadata">
+    <btih>a948e1b33d20fe7c5715b7c71fef7c4c2b5c1001</btih>
+    <mtime>1530747933</mtime>
+    <size>6129</size>
+    <md5>11d48de27d2677811606704b80171f47</md5>
+    <crc32>b85e962b</crc32>
+    <sha1>628149f8f357f7dcd7d490704b5e9e3e422830f8</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="letter-from-basilio-valdes-to-db-delos-reyes_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>78a6d93b74d291477d8a3651ff87684b</md5>
+  </file>
+  <file name="letter-from-basilio-valdes-to-db-delos-reyes_meta.sqlite" source="original">
+    <mtime>1451877302</mtime>
+    <size>11264</size>
+    <md5>3eae67d6587346f05dc13e4f48cdd118</md5>
+    <crc32>d3e0b894</crc32>
+    <sha1>fdb534f4821991d78a947f72216e33ee441ce580</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="letter-from-basilio-valdes-to-db-delos-reyes_meta.xml" source="original">
+    <mtime>1483443505</mtime>
+    <size>1166</size>
+    <format>Metadata</format>
+    <md5>2ea2814ef3d659355632b504054112f9</md5>
+    <crc32>3e519cc2</crc32>
+    <sha1>a766ec089025479b1d5a6726f6bc44e7d70bc242</sha1>
+  </file>
+</files>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>memo-basilio-valdes-chas-stivers-appointments-promotions-august-3-1945</bookId>
+    <leafCount>1</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4768</origWidth>
+      <origHeight>6354</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4768</w>
+        <h>6354</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+  </pageData>
+</book>

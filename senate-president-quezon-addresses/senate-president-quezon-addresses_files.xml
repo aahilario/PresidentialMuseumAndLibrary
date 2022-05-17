@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Quezon's Addresses.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>Quezon's Addresses_djvu.xml</original>
+    <mtime>1448262177</mtime>
+    <size>12239857</size>
+    <md5>b1282d71ec55f167d52bf2fdd2f751e4</md5>
+    <crc32>cc206653</crc32>
+    <sha1>c51eb1f60d1f6b35b61ce8b08341124804b58bd6</sha1>
+  </file>
+  <file name="Quezon's Addresses.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Quezon's Addresses_jp2.zip</original>
+    <mtime>1448259702</mtime>
+    <size>207420</size>
+    <md5>7f92a7ea4074bf53d4b8eaf2e9165006</md5>
+    <crc32>5b354e06</crc32>
+    <sha1>518f44dcf2bb5d55ee8e311726fb46857a8e1995</sha1>
+  </file>
+  <file name="Quezon's Addresses.pdf" source="original">
+    <mtime>1448259321</mtime>
+    <size>17966552</size>
+    <md5>de8c75660f6a2c5ac4d928e9ca3d2442</md5>
+    <crc32>1bf1b42f</crc32>
+    <sha1>19dc042b1b619e62638d02b9e407a39e2292cee8</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="Quezon's Addresses_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Quezon's Addresses_jp2.zip</original>
+    <mtime>1448261529</mtime>
+    <size>2805089</size>
+    <md5>4a1261a62a8e190490b1edf3d16d29fe</md5>
+    <crc32>edf3237c</crc32>
+    <sha1>d7c19da1cba693b24620178b6acc41173a85f41d</sha1>
+  </file>
+  <file name="Quezon's Addresses_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Quezon's Addresses.djvu</original>
+    <mtime>1448262918</mtime>
+    <size>173610</size>
+    <md5>27dbd0b936a2138dd1466ed3388ae4f8</md5>
+    <crc32>00024242</crc32>
+    <sha1>73177850e4721abb7f07a6f7844d8380a43b5ea6</sha1>
+  </file>
+  <file name="Quezon's Addresses_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Quezon's Addresses_abbyy.gz</original>
+    <mtime>1448261576</mtime>
+    <size>1709593</size>
+    <md5>8313f01fe79bd500816cabc04612587b</md5>
+    <crc32>dca23c96</crc32>
+    <sha1>ebd29f69e88ad59d861993d5c60465d7d6f96d2d</sha1>
+  </file>
+  <file name="Quezon's Addresses_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Quezon's Addresses.pdf</original>
+    <mtime>1448259659</mtime>
+    <size>183635559</size>
+    <md5>8f34e6543d60d85c5f5bc899e86c0d43</md5>
+    <crc32>9b86a12b</crc32>
+    <sha1>931f0b3991e9d16eae898a6ca52769e15fb6759d</sha1>
+  </file>
+  <file name="Quezon's Addresses_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Quezon's Addresses_djvu.xml</original>
+    <mtime>1448262183</mtime>
+    <size>35236</size>
+    <md5>6a4e72aa033bea26f126708902522adf</md5>
+    <crc32>e1a3ee34</crc32>
+    <sha1>439cade7124688ac66fd38ec51ca4b086e68776b</sha1>
+  </file>
+  <file name="Quezon's Addresses_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>Quezon's Addresses_djvu.xml</original>
+    <mtime>1448262889</mtime>
+    <size>13471568</size>
+    <md5>72bdad3b489eeddf9f5f39d5071d2b39</md5>
+    <crc32>357ee39e</crc32>
+    <sha1>4ff556155d31c4ddcf7be08ff031e1daa75f9db9</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530884066</mtime>
+    <size>19955</size>
+    <md5>fb8183b9820847fe65a60576c07742cc</md5>
+    <crc32>17fa491b</crc32>
+    <sha1>30882281a3d53f9660b7f0649b7dff50e0dbca16</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="senate-president-quezon-addresses_archive.torrent" source="metadata">
+    <btih>b4103bdcde2038fb6832fa1109b24d63673e4127</btih>
+    <mtime>1530884069</mtime>
+    <size>12305</size>
+    <md5>cb841f28818c806f2183444069a94c5a</md5>
+    <crc32>c9e0bfee</crc32>
+    <sha1>fb596179ae8c120e5eef00c31d9f98d8ccb98a09</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="senate-president-quezon-addresses_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>d30b7b293ae598969a02a8db16efebba</md5>
+  </file>
+  <file name="senate-president-quezon-addresses_meta.sqlite" source="original">
+    <mtime>1463389332</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>56ec8213d8d4ba2a7a61407e58c09ef9</md5>
+    <crc32>5b07b796</crc32>
+    <sha1>7b9f2e2821f7a3c7ba5c7ffdbb15df5e7e1b836c</sha1>
+  </file>
+  <file name="senate-president-quezon-addresses_meta.xml" source="original">
+    <mtime>1483277496</mtime>
+    <size>1221</size>
+    <format>Metadata</format>
+    <md5>7d4bb8a283659a00314700db46a2a615</md5>
+    <crc32>d6681d49</crc32>
+    <sha1>cda0bd5915cffa12adb6cf133063460f5a1f0b2f</sha1>
+  </file>
+</files>

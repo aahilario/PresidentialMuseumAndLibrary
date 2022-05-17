@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>letter-basilio-valdes-whos-who-among-physicians-and-surgeons-april-23-1938</bookId>
+    <leafCount>5</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4778</origWidth>
+      <origHeight>6668</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4778</w>
+        <h>6668</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4788</origWidth>
+      <origHeight>6672</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4788</w>
+        <h>6672</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3324</origWidth>
+      <origHeight>2102</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3324</w>
+        <h>2102</h>
+      </cropBox>
+    </page>
+    <page leafNum="3">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3323</origWidth>
+      <origHeight>2092</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3323</w>
+        <h>2092</h>
+      </cropBox>
+    </page>
+    <page leafNum="4">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>2246</origWidth>
+      <origHeight>4254</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>2246</w>
+        <h>4254</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

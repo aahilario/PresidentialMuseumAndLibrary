@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Souvenir Del Quezon Waterworks.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>Souvenir Del Quezon Waterworks_djvu.xml</original>
+    <mtime>1431598015</mtime>
+    <size>923559</size>
+    <md5>add2387f72fa6015c9b2bc7a579df70e</md5>
+    <crc32>f0448004</crc32>
+    <sha1>3ba4e0537ddd6d02e468b0d70a1411a46122f007</sha1>
+  </file>
+  <file name="Souvenir Del Quezon Waterworks.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Souvenir Del Quezon Waterworks_jp2.zip</original>
+    <mtime>1431597781</mtime>
+    <size>131475</size>
+    <md5>d5dc5b81b8e860958bc32bffcd2f6cf3</md5>
+    <crc32>00525f0e</crc32>
+    <sha1>31f0038247d31c10714413d158f9d52bfceb79de</sha1>
+  </file>
+  <file name="Souvenir Del Quezon Waterworks.pdf" source="original">
+    <mtime>1431595464</mtime>
+    <size>2251310</size>
+    <md5>e6c38849950750c217122cac3211261a</md5>
+    <crc32>8b467cf0</crc32>
+    <sha1>ec38a216be687aec197d219c717d04f3db4bd019</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="Souvenir Del Quezon Waterworks_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Souvenir Del Quezon Waterworks_jp2.zip</original>
+    <mtime>1431597906</mtime>
+    <size>40276</size>
+    <md5>2737191c836f0d481be2a189c3383e4e</md5>
+    <crc32>8b237ec8</crc32>
+    <sha1>fb36127b773b710b39d81a23b5c4a286ce958538</sha1>
+  </file>
+  <file name="Souvenir Del Quezon Waterworks_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Souvenir Del Quezon Waterworks.djvu</original>
+    <mtime>1431598227</mtime>
+    <size>2457</size>
+    <md5>fa1a0992450a3b45b6234329ada4a2d8</md5>
+    <crc32>40428a45</crc32>
+    <sha1>08ebf039ec83aa3b30dd755f750840ca2ec7ed06</sha1>
+  </file>
+  <file name="Souvenir Del Quezon Waterworks_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Souvenir Del Quezon Waterworks_abbyy.gz</original>
+    <mtime>1431597912</mtime>
+    <size>29060</size>
+    <md5>11a453ed59bac3710b198d5edef44690</md5>
+    <crc32>f5b3de72</crc32>
+    <sha1>e4d173f29efb47f17f08883e7fc9f5621addda21</sha1>
+  </file>
+  <file name="Souvenir Del Quezon Waterworks_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Souvenir Del Quezon Waterworks.pdf</original>
+    <mtime>1431597757</mtime>
+    <size>4799584</size>
+    <md5>38e81f465138589355426a37fbd05ef7</md5>
+    <crc32>3d0fcf56</crc32>
+    <sha1>227d6379e3721e40d62208a04b54795fb147d3c4</sha1>
+  </file>
+  <file name="Souvenir Del Quezon Waterworks_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Souvenir Del Quezon Waterworks_djvu.xml</original>
+    <mtime>1431598019</mtime>
+    <size>5312</size>
+    <md5>d62c88e6c4a1147328aaa9e228a67a95</md5>
+    <crc32>cadc2dd6</crc32>
+    <sha1>02f0e392cde5447f8e2e7da5a4d69472cf5ebcef</sha1>
+  </file>
+  <file name="Souvenir Del Quezon Waterworks_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>Souvenir Del Quezon Waterworks_djvu.xml</original>
+    <mtime>1431598218</mtime>
+    <size>1511532</size>
+    <md5>33d72c666c4ef56b9b50cf989a4a06a7</md5>
+    <crc32>3d58b112</crc32>
+    <sha1>79495b8857d525d9f26d54b7931e989cd45f7d50</sha1>
+  </file>
+  <file name="SouvenirDelQuezonWaterworks_archive.torrent" source="metadata">
+    <btih>5cd7159a05ce60f314f0ee559385fed70923d275</btih>
+    <mtime>1483000257</mtime>
+    <size>3707</size>
+    <md5>b3e3734b4baa2cc2d0e09d73c96759fc</md5>
+    <crc32>dbef6e5d</crc32>
+    <sha1>8f30aec1152632169d78ce1a8110ba5d8c30b400</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="SouvenirDelQuezonWaterworks_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>5abc87005abe2423ae3a75b25072848e</md5>
+  </file>
+  <file name="SouvenirDelQuezonWaterworks_meta.sqlite" source="original">
+    <mtime>1463389621</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>abe5b6509b1faa4997337bd684fe81ef</md5>
+    <crc32>a68d0139</crc32>
+    <sha1>91cd1802a7e066d34a5e2c3d15d27549aebae008</sha1>
+  </file>
+  <file name="SouvenirDelQuezonWaterworks_meta.xml" source="original">
+    <mtime>1483000255</mtime>
+    <size>1231</size>
+    <format>Metadata</format>
+    <md5>568b61daf5fb2cdb47648c017557ae58</md5>
+    <crc32>5d9b4167</crc32>
+    <sha1>08480e580da9ee2fdd0990721e3ccb9aaa7d6048</sha1>
+  </file>
+</files>

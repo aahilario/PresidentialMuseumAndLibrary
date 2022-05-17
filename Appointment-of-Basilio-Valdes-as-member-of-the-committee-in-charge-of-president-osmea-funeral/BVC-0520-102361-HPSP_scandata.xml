@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>Appointment-of-Basilio-Valdes-as-member-of-the-committee-in-charge-of-president-osmea-funeral</bookId>
+    <leafCount>4</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4762</origWidth>
+      <origHeight>6342</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4762</w>
+        <h>6342</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4823</origWidth>
+      <origHeight>6393</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4823</w>
+        <h>6393</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4798</origWidth>
+      <origHeight>6372</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4798</w>
+        <h>6372</h>
+      </cropBox>
+    </page>
+    <page leafNum="3">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4781</origWidth>
+      <origHeight>6327</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4781</w>
+        <h>6327</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

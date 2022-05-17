@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Bastion De San Diego -file.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>Bastion De San Diego -file_djvu.xml</original>
+    <mtime>1434520494</mtime>
+    <size>9985635</size>
+    <md5>9fdb3fa476e7c6a5e8d486728bcc514f</md5>
+    <crc32>a67164e6</crc32>
+    <sha1>776d9a784444ea31a33319b4ef59987eaaa9706c</sha1>
+  </file>
+  <file name="Bastion De San Diego -file.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Bastion De San Diego -file_jp2.zip</original>
+    <mtime>1434516921</mtime>
+    <size>261047</size>
+    <md5>288b2a0c18dfd57e32bda81bf9e334f9</md5>
+    <crc32>3a51dad6</crc32>
+    <sha1>353186412e7d892d27f43f4320d8456d643cfbf8</sha1>
+  </file>
+  <file name="Bastion De San Diego -file.pdf" source="derivative">
+    <format>Text PDF</format>
+    <original>Bastion De San Diego -file_djvu.xml</original>
+    <mtime>1434944008</mtime>
+    <size>13050906</size>
+    <md5>a009ae8b69c6dfcfd5b981a5131c516c</md5>
+    <crc32>f80c6dd4</crc32>
+    <sha1>13d28053e6e870451178575ed1bf314808ea47e9</sha1>
+  </file>
+  <file name="Bastion De San Diego -file_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Bastion De San Diego -file_jp2.zip</original>
+    <mtime>1434519760</mtime>
+    <size>2485612</size>
+    <md5>527f53a13b404c6eb43a4ebdc837c8c2</md5>
+    <crc32>3a8764b5</crc32>
+    <sha1>057eabcdbf6f29e6dd107b80448fef9c829cb169</sha1>
+  </file>
+  <file name="Bastion De San Diego -file_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Bastion De San Diego -file.djvu</original>
+    <mtime>1434521593</mtime>
+    <size>163065</size>
+    <md5>19190d90323947fdc28dee9bb3bc0c4d</md5>
+    <crc32>3529355b</crc32>
+    <sha1>469a8a84a7eb5325097fe5e3ba27c4c116be4b1e</sha1>
+  </file>
+  <file name="Bastion De San Diego -file_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Bastion De San Diego -file_abbyy.gz</original>
+    <mtime>1434519822</mtime>
+    <size>1532160</size>
+    <md5>5b533e6c018f22f7768fcc8c1d5e1d49</md5>
+    <crc32>4d509867</crc32>
+    <sha1>7a6edaa58712c1164a877c077c5cc24b47230a7b</sha1>
+  </file>
+  <file name="Bastion De San Diego -file_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Bastion De San Diego -file.pdf</original>
+    <mtime>1434516857</mtime>
+    <size>115241293</size>
+    <md5>a13378f4cef01ffd9d009a8bf4f06461</md5>
+    <crc32>2ca5ef1e</crc32>
+    <sha1>8520d6a062afecdd73e50e144cc1ebcfa60d2740</sha1>
+  </file>
+  <file name="Bastion De San Diego -file_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Bastion De San Diego -file_djvu.xml</original>
+    <mtime>1434520499</mtime>
+    <size>26232</size>
+    <md5>f8990f61c28843de5dad708a8b66cd26</md5>
+    <crc32>fab078ac</crc32>
+    <sha1>32e8c2d908cf0adc51b4d2e9eb7ce47da366bf75</sha1>
+  </file>
+  <file name="Bastion De San Diego -file_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>Bastion De San Diego -file_djvu.xml</original>
+    <mtime>1434521571</mtime>
+    <size>13050906</size>
+    <md5>98a63410d341fdf8bace016fbeb575c4</md5>
+    <crc32>517846e1</crc32>
+    <sha1>bfd8c4cc3ac36ed4bfebcc1fa0ec907a9ed58c7b</sha1>
+  </file>
+  <file name="BastionDeSanDiego-file.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BastionDeSanDiego-file_djvu.xml</original>
+    <mtime>1434946375</mtime>
+    <size>9972259</size>
+    <md5>91cc439cec27b246b43c5c0af050d5ca</md5>
+    <crc32>5c0c1fdb</crc32>
+    <sha1>0ae7ed4d05acbb24e19e9881cc8643ab536e054d</sha1>
+  </file>
+  <file name="BastionDeSanDiego-file.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BastionDeSanDiego-file_jp2.zip</original>
+    <mtime>1434944067</mtime>
+    <size>261047</size>
+    <md5>288b2a0c18dfd57e32bda81bf9e334f9</md5>
+    <crc32>3a51dad6</crc32>
+    <sha1>353186412e7d892d27f43f4320d8456d643cfbf8</sha1>
+  </file>
+  <file name="BastionDeSanDiego-file.pdf" source="original">
+    <format>Image Container PDF</format>
+    <title>Bastion De San Diego -file</title>
+    <mtime>1434940239</mtime>
+    <size>46669130</size>
+    <md5>b5f939c60859ea56cd4f36c0ef164091</md5>
+    <crc32>5f88cac7</crc32>
+    <sha1>6b233828dbd8c4853252d108a12f8316c3202c2d</sha1>
+  </file>
+  <file name="BastionDeSanDiego-file_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BastionDeSanDiego-file_jp2.zip</original>
+    <mtime>1434945549</mtime>
+    <size>2486461</size>
+    <md5>eacc115c71aa8b757216aff7e4b670aa</md5>
+    <crc32>2ee5ff83</crc32>
+    <sha1>386d6fda204e9aa1942def4798bcf8e67b8ce28d</sha1>
+  </file>
+  <file name="BastionDeSanDiego-file_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BastionDeSanDiego-file.djvu</original>
+    <mtime>1434947503</mtime>
+    <size>163114</size>
+    <md5>9927bde400b21fd7c8a528b3bc49a142</md5>
+    <crc32>6d0386c5</crc32>
+    <sha1>38d5cd75d6387cea36214707c59280600f9f3246</sha1>
+  </file>
+  <file name="BastionDeSanDiego-file_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BastionDeSanDiego-file_abbyy.gz</original>
+    <mtime>1434945645</mtime>
+    <size>1536741</size>
+    <md5>072bc44a7e8d29bf8f99dd9bfe6661d3</md5>
+    <crc32>ee9a6d56</crc32>
+    <sha1>f6b10f8d23e4b63db8b5f3ef32ddb93af2af00cc</sha1>
+  </file>
+  <file name="BastionDeSanDiego-file_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BastionDeSanDiego-file.pdf</original>
+    <mtime>1434942907</mtime>
+    <size>115198773</size>
+    <md5>291ba9bbe0fe72005968426ed089cb06</md5>
+    <crc32>3572fcf8</crc32>
+    <sha1>6b8fa32a4d4712ac55454cfe8b7305ec8d94cbc1</sha1>
+  </file>
+  <file name="BastionDeSanDiego-file_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BastionDeSanDiego-file_djvu.xml</original>
+    <mtime>1434945654</mtime>
+    <size>26232</size>
+    <md5>f8990f61c28843de5dad708a8b66cd26</md5>
+    <crc32>fab078ac</crc32>
+    <sha1>32e8c2d908cf0adc51b4d2e9eb7ce47da366bf75</sha1>
+  </file>
+  <file name="BastionDeSanDiego-file_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BastionDeSanDiego-file_djvu.xml</original>
+    <mtime>1434947467</mtime>
+    <size>13048483</size>
+    <md5>a1724d35bac33002a162cb81f0e22538</md5>
+    <crc32>a60faa43</crc32>
+    <sha1>a209dfc22400cfed3a748d486a2fa6ddb65d4202</sha1>
+  </file>
+  <file name="BastionDeSanDiego_archive.torrent" source="metadata">
+    <btih>4585e60712f23cbfd0344664b405cb69f37a944a</btih>
+    <mtime>1483811831</mtime>
+    <size>18067</size>
+    <md5>47e0093eb6af16b600129a46e7b74dd4</md5>
+    <crc32>af3de53c</crc32>
+    <sha1>d6201bbc153dc2f5e8be7c0b6a64fca8fb8e4e51</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="BastionDeSanDiego_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>a6e3ed08e7f24f1dca3c8fbdd69a1024</md5>
+  </file>
+  <file name="BastionDeSanDiego_meta.sqlite" source="original">
+    <mtime>1434516399</mtime>
+    <size>9216</size>
+    <md5>3d5fb1348f21d36786098fc8925f5257</md5>
+    <crc32>4680a389</crc32>
+    <sha1>884c51fee832ebe9b2e0a96905a29c5d038e94db</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="BastionDeSanDiego_meta.xml" source="original">
+    <mtime>1483811825</mtime>
+    <size>1157</size>
+    <format>Metadata</format>
+    <md5>3032736a5a000704a38d5bd99d91738e</md5>
+    <crc32>a195114f</crc32>
+    <sha1>480927ad456b53f5a6157cb171dfe26c14fb9ccc</sha1>
+  </file>
+</files>

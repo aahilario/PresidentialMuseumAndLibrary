@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0353-030845-SP.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0353-030845-SP_djvu.xml</original>
+    <mtime>1452340600</mtime>
+    <size>494562</size>
+    <md5>70937831a208658586ff5794640d6f54</md5>
+    <crc32>7d8c26e7</crc32>
+    <sha1>2a997c16013b4aa86bff1fb4d611f7c3b3738f0d</sha1>
+  </file>
+  <file name="BVC-0353-030845-SP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0353-030845-SP_jp2.zip</original>
+    <mtime>1451957277</mtime>
+    <size>82819</size>
+    <md5>eef5a0b59d19f9fce4d269eaf2ff2b80</md5>
+    <crc32>dca69d57</crc32>
+    <sha1>6d65d56b67a36fc411ec373de6932e98c6deafda</sha1>
+  </file>
+  <file name="BVC-0353-030845-SP.pdf" source="original">
+    <mtime>1451957221</mtime>
+    <size>6621717</size>
+    <md5>74cccdf064135cf23c8e48caf1ba99f3</md5>
+    <crc32>531abf7a</crc32>
+    <sha1>ed0b720f128c99f0320ab54d359a80d59517a99d</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0353-030845-SP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0353-030845-SP_jp2.zip</original>
+    <mtime>1451957444</mtime>
+    <size>239814</size>
+    <md5>bcbf01cbade3cf016a47614eeaccb595</md5>
+    <crc32>80d518ea</crc32>
+    <sha1>317849b10b6aa93323dc3345d6a159b79a3fd606</sha1>
+  </file>
+  <file name="BVC-0353-030845-SP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0353-030845-SP.djvu</original>
+    <mtime>1452340607</mtime>
+    <size>15345</size>
+    <md5>942951f540e2c05923416cc8acadbec7</md5>
+    <crc32>b8f01d47</crc32>
+    <sha1>63b7deaa522ed701b253d18bb569dc486fe031a2</sha1>
+  </file>
+  <file name="BVC-0353-030845-SP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0353-030845-SP_abbyy.gz</original>
+    <mtime>1451957455</mtime>
+    <size>142666</size>
+    <md5>b578844ea4a145f9c967f7877aa72c4d</md5>
+    <crc32>a94cc38c</crc32>
+    <sha1>e5c8280721c82d2e04c6d0a29e72a170638cd8f9</sha1>
+  </file>
+  <file name="BVC-0353-030845-SP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0353-030845-SP.pdf</original>
+    <mtime>1451957266</mtime>
+    <size>5029397</size>
+    <md5>ecb97d63b4c9a336d0fb6e51f558efbf</md5>
+    <crc32>84e4909b</crc32>
+    <sha1>6f1f6c89925d261e05cc85de22d9fb6bfd5c82fe</sha1>
+  </file>
+  <file name="BVC-0353-030845-SP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0353-030845-SP_djvu.xml</original>
+    <mtime>1451957486</mtime>
+    <size>2354</size>
+    <md5>3b1d2866f195f0f11514143d54ad62e7</md5>
+    <crc32>6ef6f1be</crc32>
+    <sha1>a97bb988fb754192e6085ad022fed46fac4813e6</sha1>
+  </file>
+  <file name="BVC-0353-030845-SP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0353-030845-SP_djvu.xml</original>
+    <mtime>1451957566</mtime>
+    <size>932831</size>
+    <md5>6ac85359549c51db3e3d6933ae8389e4</md5>
+    <crc32>b34978e3</crc32>
+    <sha1>f5122799761db95aadae98f447d515ff6c759cbd</sha1>
+  </file>
+  <file name="osmena-addresses-basilio-valdes-collection-april-20-1945_archive.torrent" source="metadata">
+    <btih>e0bef0ba6142199f49ea98e696aa686aab21d0d7</btih>
+    <mtime>1482296268</mtime>
+    <size>4002</size>
+    <md5>d899f0565bcfcddf12bbf729c94a6e03</md5>
+    <crc32>1c745d02</crc32>
+    <sha1>0d4237f6c9b0a9705a3093326deb1dbd5f58415f</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="osmena-addresses-basilio-valdes-collection-april-20-1945_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>2fb20b6c17444599f745521fd7e54722</md5>
+  </file>
+  <file name="osmena-addresses-basilio-valdes-collection-april-20-1945_meta.sqlite" source="original">
+    <mtime>1464067347</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>31ca635b70b1956b8e57f5cd6f7d558b</md5>
+    <crc32>5cde5958</crc32>
+    <sha1>abdcf9396aa4d4edee8e2a90a62b63a487366018</sha1>
+  </file>
+  <file name="osmena-addresses-basilio-valdes-collection-april-20-1945_meta.xml" source="original">
+    <mtime>1482296267</mtime>
+    <size>1551</size>
+    <format>Metadata</format>
+    <md5>d3b391ce352e9760c4963c5bc6577e8d</md5>
+    <crc32>e54448a0</crc32>
+    <sha1>0fb762e7ef157c8bfb5154b8ac05549781fb0e4c</sha1>
+  </file>
+</files>

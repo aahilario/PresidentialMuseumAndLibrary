@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0574-052445-BVL.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0574-052445-BVL_djvu.xml</original>
+    <mtime>1449567578</mtime>
+    <size>1395327</size>
+    <md5>ef1f45d4e80645f4540585efda26a453</md5>
+    <crc32>50bb86d3</crc32>
+    <sha1>b8c52087f4fd0f467c57122bcccfad6da89cdc91</sha1>
+  </file>
+  <file name="BVC-0574-052445-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0574-052445-BVL_jp2.zip</original>
+    <mtime>1449567416</mtime>
+    <size>102311</size>
+    <md5>ac4e9ef75c2b58f09dea1e764031ada4</md5>
+    <crc32>243bc4a0</crc32>
+    <sha1>30c7a730c22724bc2e64af7e483adce140f29b10</sha1>
+  </file>
+  <file name="BVC-0574-052445-BVL.pdf" source="original">
+    <mtime>1449567298</mtime>
+    <size>5610625</size>
+    <md5>b07192d36485990975c65f8e984b221e</md5>
+    <crc32>8bcf9bdf</crc32>
+    <sha1>69b8fcfa7baa133e10e60280e3a95d5162b538b2</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0574-052445-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0574-052445-BVL_jp2.zip</original>
+    <mtime>1449567507</mtime>
+    <size>234649</size>
+    <md5>a2c8767b1d20f626fd52a25c6215d7fc</md5>
+    <crc32>93fd41df</crc32>
+    <sha1>f57503e6225c2495f9e53f8229a363aa41951134</sha1>
+  </file>
+  <file name="BVC-0574-052445-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0574-052445-BVL.djvu</original>
+    <mtime>1449567670</mtime>
+    <size>14357</size>
+    <md5>1ed03459b84e29ccd7f3f907526dccb0</md5>
+    <crc32>3e1343cd</crc32>
+    <sha1>5e77d2d62e1a16c375630448a4bca5333c477fad</sha1>
+  </file>
+  <file name="BVC-0574-052445-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0574-052445-BVL_abbyy.gz</original>
+    <mtime>1449567516</mtime>
+    <size>134939</size>
+    <md5>801aef400c4d990199de1c326adb9445</md5>
+    <crc32>e0eec4fd</crc32>
+    <sha1>733d16efed6dca09f60933f3503c93422bbf4c73</sha1>
+  </file>
+  <file name="BVC-0574-052445-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0574-052445-BVL.pdf</original>
+    <mtime>1449567403</mtime>
+    <size>7936013</size>
+    <md5>9dd38adb1d3da95177f434edc1beab6f</md5>
+    <crc32>92f87899</crc32>
+    <sha1>f1c3590347d437e2c22366900b3f00cd44f93a2f</sha1>
+  </file>
+  <file name="BVC-0574-052445-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0574-052445-BVL_djvu.xml</original>
+    <mtime>1449567579</mtime>
+    <size>2396</size>
+    <md5>7a1d8305c99ad05cbf3edcdca702fb89</md5>
+    <crc32>6eaf2a77</crc32>
+    <sha1>099e33c4d8d7a5f0d88cbc3ba60bef98091bab28</sha1>
+  </file>
+  <file name="BVC-0574-052445-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0574-052445-BVL_djvu.xml</original>
+    <mtime>1449567661</mtime>
+    <size>1673542</size>
+    <md5>52b99d98a30e383648c1e8f3f51c68e4</md5>
+    <crc32>02cc6074</crc32>
+    <sha1>3f043f67d3a2bc3f334ca5c016b8c2caddfd8787</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530726504</mtime>
+    <size>16872</size>
+    <md5>8845a686681cd1565ae550458d0cbeaa</md5>
+    <crc32>b799217c</crc32>
+    <sha1>0795ff9deaabff742615637086795fb2bf4a5746</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="memorandum-for-president-osmena-separate-pa-officers-and-men-who-served-during-the-japanese-regime_archive.torrent" source="metadata">
+    <btih>e81d1c1d6b4587326dbf2d74826939b114d017de</btih>
+    <mtime>1530726507</mtime>
+    <size>4670</size>
+    <md5>c56e59f61b08b449214fe722ff9eb6a5</md5>
+    <crc32>5e515776</crc32>
+    <sha1>eb3f5e90d90bc82bb906c0644a59200602a3adf9</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="memorandum-for-president-osmena-separate-pa-officers-and-men-who-served-during-the-japanese-regime_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>10f3cda285660ca5d37042e4026694c2</md5>
+  </file>
+  <file name="memorandum-for-president-osmena-separate-pa-officers-and-men-who-served-during-the-japanese-regime_meta.sqlite" source="original">
+    <mtime>1466260431</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>03942cd8023990339b29f6c8359483c5</md5>
+    <crc32>65bd330a</crc32>
+    <sha1>0aac09f299621dc5dfd0f7115857a276a63762b8</sha1>
+  </file>
+  <file name="memorandum-for-president-osmena-separate-pa-officers-and-men-who-served-during-the-japanese-regime_meta.xml" source="original">
+    <mtime>1483248080</mtime>
+    <size>1531</size>
+    <format>Metadata</format>
+    <md5>6a7b02edcfc8647eff79c67b74e102b6</md5>
+    <crc32>be52e2ad</crc32>
+    <sha1>60864c7bfa0df15a9c72a5a3c891b11677a5dea6</sha1>
+  </file>
+</files>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="The Sunday Times Magazine (April 23, 1967).djvu" source="derivative">
+    <format>DjVu</format>
+    <original>The Sunday Times Magazine (April 23, 1967)_djvu.xml</original>
+    <mtime>1431619530</mtime>
+    <size>21021173</size>
+    <md5>7a0148ab51810f1d22fc432a80ca1c8a</md5>
+    <crc32>2e3e77bd</crc32>
+    <sha1>b86fcaf615b10e6178b7b4df9f15eaf6f4122132</sha1>
+  </file>
+  <file name="The Sunday Times Magazine (April 23, 1967).gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>The Sunday Times Magazine (April 23, 1967)_jp2.zip</original>
+    <mtime>1431615953</mtime>
+    <size>302677</size>
+    <md5>b5a00e54b90d0d99814c032f1c3129b4</md5>
+    <crc32>d129eda1</crc32>
+    <sha1>8cee0cedec17ad4c9f0ce9a2e8489241df246514</sha1>
+  </file>
+  <file name="The Sunday Times Magazine (April 23, 1967).pdf" source="original">
+    <mtime>1431614127</mtime>
+    <size>29635167</size>
+    <md5>97601e4022c698f81126382bfcb38797</md5>
+    <crc32>ce71c816</crc32>
+    <sha1>9e2598130568423c4c84e5078a5c614ae0d78a19</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="The Sunday Times Magazine (April 23, 1967)_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>The Sunday Times Magazine (April 23, 1967)_jp2.zip</original>
+    <mtime>1431618707</mtime>
+    <size>1932197</size>
+    <md5>e3a6581018710a75cf9a676b2555c8c6</md5>
+    <crc32>7455c872</crc32>
+    <sha1>1fa174bc46a34390f246a2e4635f5c825bd27b91</sha1>
+  </file>
+  <file name="The Sunday Times Magazine (April 23, 1967)_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>The Sunday Times Magazine (April 23, 1967).djvu</original>
+    <mtime>1431620851</mtime>
+    <size>122442</size>
+    <md5>3591c1986f8a7a075306358f41bb1137</md5>
+    <crc32>847ee575</crc32>
+    <sha1>30b3bbe614699c58f5d547d10cacb83725eb714e</sha1>
+  </file>
+  <file name="The Sunday Times Magazine (April 23, 1967)_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>The Sunday Times Magazine (April 23, 1967)_abbyy.gz</original>
+    <mtime>1431618739</mtime>
+    <size>1200478</size>
+    <md5>f9f7087ef274e8de6233e48ea5c79e47</md5>
+    <crc32>c84e77a9</crc32>
+    <sha1>1d661bf3432ee28ae7eb679687a7749204f88a82</sha1>
+  </file>
+  <file name="The Sunday Times Magazine (April 23, 1967)_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>The Sunday Times Magazine (April 23, 1967).pdf</original>
+    <mtime>1431615858</mtime>
+    <size>157040855</size>
+    <md5>1b099dc8416e3c922ea417b7aa79c32a</md5>
+    <crc32>daca4462</crc32>
+    <sha1>be722d28e910b08bebf9dc5c3116d53ef8623ec5</sha1>
+  </file>
+  <file name="The Sunday Times Magazine (April 23, 1967)_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>The Sunday Times Magazine (April 23, 1967)_djvu.xml</original>
+    <mtime>1431619535</mtime>
+    <size>17580</size>
+    <md5>be5becb13784963a71d5fd8d4e6fb423</md5>
+    <crc32>921b3a65</crc32>
+    <sha1>02591dfaf92cd496d70f42b175a1e232906f69dd</sha1>
+  </file>
+  <file name="The Sunday Times Magazine (April 23, 1967)_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>The Sunday Times Magazine (April 23, 1967)_djvu.xml</original>
+    <mtime>1431620805</mtime>
+    <size>27224007</size>
+    <md5>d899e8f9706facaad844f6a05d554a1e</md5>
+    <crc32>a60350d9</crc32>
+    <sha1>093c76e77f419298cf49b4dd1882c6037bd8a32a</sha1>
+  </file>
+  <file name="TheSundayTimesMagazineBattleOfManila_archive.torrent" source="metadata">
+    <btih>2722f9235e2f023beaf44ffe1f0eb752743880ab</btih>
+    <mtime>1530817522</mtime>
+    <size>12769</size>
+    <md5>10fece30015419f25cc9b51041a63d58</md5>
+    <crc32>df1e4716</crc32>
+    <sha1>5b46d49df152137af4d26a1829c67ddbe4b3bc43</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="TheSundayTimesMagazineBattleOfManila_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>05c625469a8e74c6ab3b7660d732140e</md5>
+  </file>
+  <file name="TheSundayTimesMagazineBattleOfManila_meta.sqlite" source="original">
+    <mtime>1467933488</mtime>
+    <size>12288</size>
+    <format>Metadata</format>
+    <md5>3d82f1675a98f18c9f03fab8dd149af7</md5>
+    <crc32>7b3e690e</crc32>
+    <sha1>775efe02662ee41949c2b19409888ecd98707acc</sha1>
+  </file>
+  <file name="TheSundayTimesMagazineBattleOfManila_meta.xml" source="original">
+    <mtime>1483811903</mtime>
+    <size>1508</size>
+    <format>Metadata</format>
+    <md5>ac757285cec0e26c72c9cb5ac15c2eab</md5>
+    <crc32>103ed3c3</crc32>
+    <sha1>850f03c16b7dbfc5c129300a9bce9941e8fd3248</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530817519</mtime>
+    <size>22121</size>
+    <md5>15521ccbb61494b42e27db0bf504a468</md5>
+    <crc32>82f80b4c</crc32>
+    <sha1>469e0435b72f748a7fa272362e07e1f5955dc582</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+</files>

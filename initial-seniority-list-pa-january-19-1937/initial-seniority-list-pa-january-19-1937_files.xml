@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0094-011937-OP.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0094-011937-OP_djvu.xml</original>
+    <mtime>1449548052</mtime>
+    <size>1074536</size>
+    <md5>8aaf0b912b2d0c6cbcddab41e25df5a1</md5>
+    <crc32>86b10db9</crc32>
+    <sha1>dbfdb47a9249b76fdf28d8dff8abc711a7b6f5c2</sha1>
+  </file>
+  <file name="BVC-0094-011937-OP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0094-011937-OP_jp2.zip</original>
+    <mtime>1449547854</mtime>
+    <size>84032</size>
+    <md5>b929e43e07a70b1d88cb83fc84eb1734</md5>
+    <crc32>7a8c4cd6</crc32>
+    <sha1>31c69ad64c2daf12ecfc038106d75da789985d6d</sha1>
+  </file>
+  <file name="BVC-0094-011937-OP.pdf" source="original">
+    <mtime>1449547652</mtime>
+    <size>4720859</size>
+    <md5>edabf78c2d398c92f53b9921602a3570</md5>
+    <crc32>645af7b3</crc32>
+    <sha1>7db986457d3683250aafaee9c5f4fa9ad5b0a27a</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0094-011937-OP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0094-011937-OP_jp2.zip</original>
+    <mtime>1449547964</mtime>
+    <size>184464</size>
+    <md5>c6b67953a913e29ad9726c73c9feb42d</md5>
+    <crc32>ed9b952c</crc32>
+    <sha1>9e1db1cd8a2ad94bd9664811ba73d273cb7309a2</sha1>
+  </file>
+  <file name="BVC-0094-011937-OP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0094-011937-OP.djvu</original>
+    <mtime>1449548177</mtime>
+    <size>11339</size>
+    <md5>d8c2f7d1cf3a42b8cf5f28c201c7b87e</md5>
+    <crc32>e007d40a</crc32>
+    <sha1>d7535570df5a894b1674cd381d7a83a940133ed2</sha1>
+  </file>
+  <file name="BVC-0094-011937-OP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0094-011937-OP_abbyy.gz</original>
+    <mtime>1449547973</mtime>
+    <size>126975</size>
+    <md5>33be39d58239bcb1fb111a9510ceb4b4</md5>
+    <crc32>5899dfca</crc32>
+    <sha1>ee2925ece96e0a8b570eb2550e39cc47f4e89d5f</sha1>
+  </file>
+  <file name="BVC-0094-011937-OP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0094-011937-OP.pdf</original>
+    <mtime>1449547834</mtime>
+    <size>6844091</size>
+    <md5>512e7970aaf34edbc35fb014878245be</md5>
+    <crc32>e52af27f</crc32>
+    <sha1>414c4c9389a9b4280ad283f9ccd008ef4a83735c</sha1>
+  </file>
+  <file name="BVC-0094-011937-OP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0094-011937-OP_djvu.xml</original>
+    <mtime>1449548053</mtime>
+    <size>2339</size>
+    <md5>58b8a6909e1fce372abb46289b27f562</md5>
+    <crc32>72f61bdd</crc32>
+    <sha1>5e6c49e97ddf343c3299c86ff488151b987f26b8</sha1>
+  </file>
+  <file name="BVC-0094-011937-OP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0094-011937-OP_djvu.xml</original>
+    <mtime>1449548164</mtime>
+    <size>1417287</size>
+    <md5>05b242a17434dd2df43ee340614fb654</md5>
+    <crc32>9d955014</crc32>
+    <sha1>782aa7163dccb8282a603068690632fcc2d005b3</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530882391</mtime>
+    <size>13518</size>
+    <md5>e20c2e3fd3a01d46b2660f570d01986a</md5>
+    <crc32>22099167</crc32>
+    <sha1>c16c29d5c3a08c435243ad880c6c06a15188ba1f</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="initial-seniority-list-pa-january-19-1937_archive.torrent" source="metadata">
+    <btih>8277e95efd016c2b0ee8303ce0bd1cebacd00aaf</btih>
+    <mtime>1530882392</mtime>
+    <size>4046</size>
+    <md5>b03d7043021598a278773860feea8ab9</md5>
+    <crc32>5352007d</crc32>
+    <sha1>aa880d15a644c63c12e1f70d4866022abdaf1c6a</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="initial-seniority-list-pa-january-19-1937_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>b82f23678ca2e1a26fc5ae062c805bb3</md5>
+  </file>
+  <file name="initial-seniority-list-pa-january-19-1937_meta.sqlite" source="original">
+    <mtime>1463859271</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>27eb9b95bf82c3d7b143f6bf3315db32</md5>
+    <crc32>d2d2debc</crc32>
+    <sha1>58e992e392d7ef364abcf361a1a055dc50876e0d</sha1>
+  </file>
+  <file name="initial-seniority-list-pa-january-19-1937_meta.xml" source="original">
+    <mtime>1484954246</mtime>
+    <size>1222</size>
+    <format>Metadata</format>
+    <md5>0645a28c84c14cabefa472f9eab9b44e</md5>
+    <crc32>c4bb1a96</crc32>
+    <sha1>39d00402814037f1d4216c176522ccd441bcbb05</sha1>
+  </file>
+</files>

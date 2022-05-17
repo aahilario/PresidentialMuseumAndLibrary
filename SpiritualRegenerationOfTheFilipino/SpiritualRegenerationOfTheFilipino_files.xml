@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Spiritual Regeneration of the Filipino.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>Spiritual Regeneration of the Filipino_djvu.xml</original>
+    <mtime>1431597587</mtime>
+    <size>2580005</size>
+    <md5>fbec7234a829d5f399476d089eeba503</md5>
+    <crc32>2957fd74</crc32>
+    <sha1>6611d33fe4e7ca12dd1c0f9b5bc33494a7355118</sha1>
+  </file>
+  <file name="Spiritual Regeneration of the Filipino.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Spiritual Regeneration of the Filipino_jp2.zip</original>
+    <mtime>1431596945</mtime>
+    <size>286576</size>
+    <md5>dd9e230640b6223c244ffe8813c8cd4b</md5>
+    <crc32>8f0563f4</crc32>
+    <sha1>bfe3d6a8e39a2793f91d1cf00444981c4f747f4f</sha1>
+  </file>
+  <file name="Spiritual Regeneration of the Filipino.pdf" source="original">
+    <mtime>1431596350</mtime>
+    <size>5237099</size>
+    <md5>6e7ac9418ff843480a9739e9274f9e3c</md5>
+    <crc32>1d4890ed</crc32>
+    <sha1>411bda4a91f03e3b3976c9dfa0b3480a51d6f595</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="Spiritual Regeneration of the Filipino_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Spiritual Regeneration of the Filipino_jp2.zip</original>
+    <mtime>1431597405</mtime>
+    <size>726245</size>
+    <md5>84c9aa4b66216c2a0fc3eda6a6746eb1</md5>
+    <crc32>c250bab7</crc32>
+    <sha1>86dc2644abe95e960abf5cc71726b55c91f211b5</sha1>
+  </file>
+  <file name="Spiritual Regeneration of the Filipino_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Spiritual Regeneration of the Filipino.djvu</original>
+    <mtime>1431597833</mtime>
+    <size>50072</size>
+    <md5>e00b29b99e0467e9151b046dcf749cac</md5>
+    <crc32>16be971b</crc32>
+    <sha1>d44b4570629599a38016a9c97404d8d2912944ee</sha1>
+  </file>
+  <file name="Spiritual Regeneration of the Filipino_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Spiritual Regeneration of the Filipino_abbyy.gz</original>
+    <mtime>1431597428</mtime>
+    <size>457459</size>
+    <md5>5faf8cee632f944c43afbd4311ed97d7</md5>
+    <crc32>a4061e71</crc32>
+    <sha1>b98e2fc2a68b4e10bd70f0ed1a7635019d4299c0</sha1>
+  </file>
+  <file name="Spiritual Regeneration of the Filipino_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Spiritual Regeneration of the Filipino.pdf</original>
+    <mtime>1431596910</mtime>
+    <size>17365039</size>
+    <md5>e9a8463537d65c0bea5051700c3a50ed</md5>
+    <crc32>c4a5c06d</crc32>
+    <sha1>dc5a60f9c711c058b2c6befb21cadb4504090c54</sha1>
+  </file>
+  <file name="Spiritual Regeneration of the Filipino_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Spiritual Regeneration of the Filipino_djvu.xml</original>
+    <mtime>1431597590</mtime>
+    <size>8309</size>
+    <md5>6a335f4679bd90add4c1294d88eb02ef</md5>
+    <crc32>8f978248</crc32>
+    <sha1>cf9e929ea6fdee2d1438aec98c2016a7835e6d8e</sha1>
+  </file>
+  <file name="Spiritual Regeneration of the Filipino_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>Spiritual Regeneration of the Filipino_djvu.xml</original>
+    <mtime>1431597819</mtime>
+    <size>4209774</size>
+    <md5>34b67b4d178d8c674049e7486fed5819</md5>
+    <crc32>ea42eb3c</crc32>
+    <sha1>3dcfe1297b9a1af41c804bc795f56ac172e99316</sha1>
+  </file>
+  <file name="SpiritualRegenerationOfTheFilipino_archive.torrent" source="metadata">
+    <btih>65dd06bd0318145c1560bfeed6dc31552c6db0e7</btih>
+    <mtime>1530836915</mtime>
+    <size>4807</size>
+    <md5>79366a8e69e99577b09a300577f49555</md5>
+    <crc32>d20bd27a</crc32>
+    <sha1>b271ab6d32238f81075f2123e8fefdd74d6573c6</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="SpiritualRegenerationOfTheFilipino_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>4fc6b49782c0e0171b7832229adaced3</md5>
+  </file>
+  <file name="SpiritualRegenerationOfTheFilipino_meta.sqlite" source="original">
+    <mtime>1463389221</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>98cda912c79ba6ebe0cf85ba5bc437d2</md5>
+    <crc32>385baa67</crc32>
+    <sha1>6e70421f3457093e7fa61fe7020beff76b00dbc7</sha1>
+  </file>
+  <file name="SpiritualRegenerationOfTheFilipino_meta.xml" source="original">
+    <mtime>1483041259</mtime>
+    <size>1429</size>
+    <format>Metadata</format>
+    <md5>edcfb39a2aa40551a3fb8f94fb7e9111</md5>
+    <crc32>b37411fe</crc32>
+    <sha1>fc673e351a48969c30ad973769b193543a6b6cc9</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530836914</mtime>
+    <size>24157</size>
+    <md5>c82aaf01f7593b4b7f6f8567438cbe64</md5>
+    <crc32>6608e229</crc32>
+    <sha1>6732e31f80b81903e4ddbc2160bfec2e2c26eda8</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0586-050945-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0586-050945-BVL_jp2.zip</original>
+    <mtime>1449726949</mtime>
+    <size>12871</size>
+    <md5>86061f33d60ea32629346e0df85f5234</md5>
+    <crc32>b48ab19f</crc32>
+    <sha1>0e810a6c5d251e34195ab0d04515e31ad7b5fdf5</sha1>
+  </file>
+  <file name="BVC-0586-050945-BVL.pdf" source="original">
+    <mtime>1449726823</mtime>
+    <size>802200</size>
+    <md5>7b85b8dbbc194e944eee25aae53a7035</md5>
+    <crc32>fa61c51a</crc32>
+    <sha1>637f2f05870602f03cca549bceb6ded271124ebc</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0586-050945-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0586-050945-BVL_jp2.zip</original>
+    <mtime>1449743840</mtime>
+    <size>30351</size>
+    <md5>58aa50eb917b7fc7f4df0f616f07c69c</md5>
+    <crc32>85237f7b</crc32>
+    <sha1>b1f26eb19880616a6262ed5118d9dca090c59bb5</sha1>
+  </file>
+  <file name="BVC-0586-050945-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0586-050945-BVL_djvu.xml</original>
+    <mtime>1456644874</mtime>
+    <size>1649</size>
+    <md5>6b34769c8480c7b5d938330abe7f8c44</md5>
+    <crc32>39bea6e8</crc32>
+    <sha1>a223ac9fb38a819a1c46e623953638c058e290a7</sha1>
+  </file>
+  <file name="BVC-0586-050945-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0586-050945-BVL_abbyy.gz</original>
+    <mtime>1449743847</mtime>
+    <size>15608</size>
+    <md5>8e3910fca270bbe3d50368259facebb7</md5>
+    <crc32>ce5a1373</crc32>
+    <sha1>509ed889bb8893f7cd50e77791603c3d3a1f95e0</sha1>
+  </file>
+  <file name="BVC-0586-050945-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0586-050945-BVL.pdf</original>
+    <mtime>1449726934</mtime>
+    <size>1167665</size>
+    <md5>09f7e6cbae53754efe5d5c3b90246949</md5>
+    <crc32>6f6406dd</crc32>
+    <sha1>00dcde33bb8a607aae06a624650b09b63fe313d0</sha1>
+  </file>
+  <file name="BVC-0586-050945-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0586-050945-BVL_djvu.xml</original>
+    <mtime>1449743873</mtime>
+    <size>588</size>
+    <md5>f0a8ca9ecacd30e56a836f4b2dfde734</md5>
+    <crc32>673002eb</crc32>
+    <sha1>459c828d7bc2442220146804bf4499edaf1fb926</sha1>
+  </file>
+  <file name="BVC-0586-050945-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0586-050945-BVL_djvu.xml</original>
+    <mtime>1449743908</mtime>
+    <size>270743</size>
+    <md5>c27d69eaa123c19bffb3e9c331596231</md5>
+    <crc32>8ef657fa</crc32>
+    <sha1>1f76521e27512114dfaeb0bc3e990d0c70aa51e4</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530807793</mtime>
+    <size>16986</size>
+    <md5>6b28f00d2d8842e6afe14dc9f3273df3</md5>
+    <crc32>6f3dbbad</crc32>
+    <sha1>15d5ee16d4aec545cc7ca5fafc4131f4c7134f8c</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="memo-valdes-communication-service-between-manila-and-points-in-liberated-areas_archive.torrent" source="metadata">
+    <btih>a73112ebbd55659418fb94c124c354feba1a9cda</btih>
+    <mtime>1530807794</mtime>
+    <size>3742</size>
+    <md5>513d3cd2200f7db43fd9af788c8c069f</md5>
+    <crc32>fe2ec2d7</crc32>
+    <sha1>ee71dd305bdeeaeb423d5c467b8cc101791c8697</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="memo-valdes-communication-service-between-manila-and-points-in-liberated-areas_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>31f626b8737634f0ec1c7c883de8889f</md5>
+  </file>
+  <file name="memo-valdes-communication-service-between-manila-and-points-in-liberated-areas_meta.sqlite" source="original">
+    <mtime>1466263878</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>5e8b1c68c7200405e59011055d7d08eb</md5>
+    <crc32>531b533c</crc32>
+    <sha1>d5ae75edb86ed67820b0233479e9260bd21d3a32</sha1>
+  </file>
+  <file name="memo-valdes-communication-service-between-manila-and-points-in-liberated-areas_meta.xml" source="original">
+    <mtime>1484642120</mtime>
+    <size>1455</size>
+    <format>Metadata</format>
+    <md5>31b4a6454741826b1955e571ff8ead1e</md5>
+    <crc32>5df11780</crc32>
+    <sha1>13a7ef507629a4819eb401fa100bc46f3a367a4e</sha1>
+  </file>
+</files>

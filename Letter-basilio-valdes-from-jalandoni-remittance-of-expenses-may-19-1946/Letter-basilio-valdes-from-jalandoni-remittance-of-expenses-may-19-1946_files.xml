@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0450-051946-CSPA.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0450-051946-CSPA_jp2.zip</original>
+    <mtime>1450416965</mtime>
+    <size>17089</size>
+    <md5>825b89a5d18b434afcf7ce39248da635</md5>
+    <crc32>1b82055d</crc32>
+    <sha1>9b3a69c7a9bcc3552cdcb1f86b79886a804648d6</sha1>
+  </file>
+  <file name="BVC-0450-051946-CSPA.pdf" source="original">
+    <mtime>1450413332</mtime>
+    <size>643187</size>
+    <md5>5eade6cbc5a64a3a2e0d868d6db36d6d</md5>
+    <crc32>a3769bfd</crc32>
+    <sha1>3395bc83f9cde2ae89b29f038099e6c97936e6fa</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0450-051946-CSPA_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0450-051946-CSPA_jp2.zip</original>
+    <mtime>1450416980</mtime>
+    <size>17698</size>
+    <md5>df378bb1a12f953dfb1123c347422928</md5>
+    <crc32>64f62c6e</crc32>
+    <sha1>cca70ead8a37b3f9fec60a5b8caf680e79812b09</sha1>
+  </file>
+  <file name="BVC-0450-051946-CSPA_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0450-051946-CSPA_djvu.xml</original>
+    <mtime>1456644648</mtime>
+    <size>1034</size>
+    <md5>7fb9b9432fd8ee89f5e42b1e862ea21c</md5>
+    <crc32>94d814c3</crc32>
+    <sha1>c9a74c6bdea3f22842b20d87e7ef4bad96325cf8</sha1>
+  </file>
+  <file name="BVC-0450-051946-CSPA_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0450-051946-CSPA_abbyy.gz</original>
+    <mtime>1450416986</mtime>
+    <size>10138</size>
+    <md5>37e82881a1bd3bcea002b51950d8544d</md5>
+    <crc32>784df4ef</crc32>
+    <sha1>1dc1022e201fc15c8870a922e276e0c7cfd595de</sha1>
+  </file>
+  <file name="BVC-0450-051946-CSPA_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0450-051946-CSPA.pdf</original>
+    <mtime>1450416956</mtime>
+    <size>824755</size>
+    <md5>17ade32e163eac4d3d911b7a59379543</md5>
+    <crc32>e131919d</crc32>
+    <sha1>5822577c84e1f4166404bfefa26fc966ba8ee33d</sha1>
+  </file>
+  <file name="BVC-0450-051946-CSPA_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0450-051946-CSPA_djvu.xml</original>
+    <mtime>1450417006</mtime>
+    <size>581</size>
+    <md5>eca76d61dd091b73423b8847559f48d2</md5>
+    <crc32>cac50dd6</crc32>
+    <sha1>62038232f52c672c6928d7237c2a847b8a75b9d3</sha1>
+  </file>
+  <file name="BVC-0450-051946-CSPA_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0450-051946-CSPA_djvu.xml</original>
+    <mtime>1450417036</mtime>
+    <size>196239</size>
+    <md5>68e88ec5784580c385ae80fdde15de9b</md5>
+    <crc32>2cc837ba</crc32>
+    <sha1>48cf0e9683909c39f0cc5b312a1dbf7253e9ea58</sha1>
+  </file>
+  <file name="Letter-basilio-valdes-from-jalandoni-remittance-of-expenses-may-19-1946_archive.torrent" source="metadata">
+    <btih>efadbd20369ea68d6a93e1aafdb72eabf2388a48</btih>
+    <mtime>1530766416</mtime>
+    <size>3665</size>
+    <md5>499443170aec0c25997342976a6b5455</md5>
+    <crc32>ab36d5fd</crc32>
+    <sha1>876796ff08d25912bf9d66129a2488fd90f1d1a1</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Letter-basilio-valdes-from-jalandoni-remittance-of-expenses-may-19-1946_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>53c87ef78e1d7d002e1a935fde2acb12</md5>
+  </file>
+  <file name="Letter-basilio-valdes-from-jalandoni-remittance-of-expenses-may-19-1946_meta.sqlite" source="original">
+    <mtime>1466312268</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>917e1220cb1e17b64bf9a21873f4b524</md5>
+    <crc32>6b44d814</crc32>
+    <sha1>9fcff2ddd8c602e677d3c8bf2076b948b234b017</sha1>
+  </file>
+  <file name="Letter-basilio-valdes-from-jalandoni-remittance-of-expenses-may-19-1946_meta.xml" source="original">
+    <mtime>1482513064</mtime>
+    <size>1350</size>
+    <format>Metadata</format>
+    <md5>4991f6bc7d0a9ad9d61e4276a8b5f182</md5>
+    <crc32>c07ba4c9</crc32>
+    <sha1>46126c08ad2f53273aea6c77863f43f2cd9f9921</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530766415</mtime>
+    <size>14204</size>
+    <md5>0450a202868ad408d68a3b5380b14a92</md5>
+    <crc32>bf981f28</crc32>
+    <sha1>fb971f73c8861fb35bd5849c9f829db1a2d98eb7</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+</files>
