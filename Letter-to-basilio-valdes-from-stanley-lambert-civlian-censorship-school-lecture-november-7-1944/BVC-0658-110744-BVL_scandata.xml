@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>Letter-to-basilio-valdes-from-stanley-lambert-civlian-censorship-school-lecture-november-7-1944</bookId>
+    <leafCount>5</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4823</origWidth>
+      <origHeight>6366</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4823</w>
+        <h>6366</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3033</origWidth>
+      <origHeight>1661</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3033</w>
+        <h>1661</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>6429</origWidth>
+      <origHeight>4811</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>6429</w>
+        <h>4811</h>
+      </cropBox>
+    </page>
+    <page leafNum="3">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>6449</origWidth>
+      <origHeight>4778</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>6449</w>
+        <h>4778</h>
+      </cropBox>
+    </page>
+    <page leafNum="4">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>6329</origWidth>
+      <origHeight>4830</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>6329</w>
+        <h>4830</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

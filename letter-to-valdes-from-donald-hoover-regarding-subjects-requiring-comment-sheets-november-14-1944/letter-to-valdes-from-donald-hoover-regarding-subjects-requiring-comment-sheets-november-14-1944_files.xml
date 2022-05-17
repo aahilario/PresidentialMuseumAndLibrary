@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0653-111444-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0653-111444-BVL_jp2.zip</original>
+    <mtime>1450147209</mtime>
+    <size>16320</size>
+    <md5>6a1a6bf0d94fc10d919f443191cefaef</md5>
+    <crc32>1f033613</crc32>
+    <sha1>fe5cf9214d7b69b6c95b130f7b1daa0876d68953</sha1>
+  </file>
+  <file name="BVC-0653-111444-BVL.pdf" source="original">
+    <mtime>1450146965</mtime>
+    <size>604977</size>
+    <md5>ffbe20e527dcddaddbc171cc1c4f69aa</md5>
+    <crc32>fb76234f</crc32>
+    <sha1>468ad1032e9cba3ec7f710c7720bc8fc75e55e80</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0653-111444-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0653-111444-BVL_jp2.zip</original>
+    <mtime>1450147687</mtime>
+    <size>14582</size>
+    <md5>a51e33a759cfed6aa2d045e350f3656f</md5>
+    <crc32>afcd41df</crc32>
+    <sha1>742f480bed9072d1880b5f4b0bbdb8fcda00bf69</sha1>
+  </file>
+  <file name="BVC-0653-111444-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0653-111444-BVL_abbyy.gz</original>
+    <mtime>1450148634</mtime>
+    <size>9286</size>
+    <md5>2567a05d6252e956a73b153c98156a76</md5>
+    <crc32>81cb0c55</crc32>
+    <sha1>f6291d3ab9e057c79102dc47acd808932b452797</sha1>
+  </file>
+  <file name="BVC-0653-111444-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0653-111444-BVL.pdf</original>
+    <mtime>1450147194</mtime>
+    <size>721819</size>
+    <md5>78512b06bbc6dbfb4084d21695bfed1a</md5>
+    <crc32>65411f03</crc32>
+    <sha1>05c42ee3443aa6870886b1fa94336402cb698759</sha1>
+  </file>
+  <file name="BVC-0653-111444-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0653-111444-BVL_djvu.xml</original>
+    <mtime>1450148744</mtime>
+    <size>606</size>
+    <md5>13385331736f37a6e8c4ae4e0efade64</md5>
+    <crc32>acfb56a0</crc32>
+    <sha1>b9df0f8314a9343a6ec1b16f88ff2a303f381bf5</sha1>
+  </file>
+  <file name="BVC-0653-111444-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0653-111444-BVL_djvu.xml</original>
+    <mtime>1450148743</mtime>
+    <size>176668</size>
+    <md5>c5da2ed056767db91af804ca210c6fc0</md5>
+    <crc32>cc5ce640</crc32>
+    <sha1>291aa21d9f4992c423bdc25212374505d522f9b9</sha1>
+  </file>
+  <file name="BVC-0654-111444-BVL.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0654-111444-BVL_djvu.xml</original>
+    <mtime>1450148715</mtime>
+    <size>201572</size>
+    <md5>bdd6c7508696097504e78a8dee5044fb</md5>
+    <crc32>109511d5</crc32>
+    <sha1>f17f1db18ced5a4cdfb78800c82343be17b813a6</sha1>
+  </file>
+  <file name="BVC-0654-111444-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0654-111444-BVL_jp2.zip</original>
+    <mtime>1450147206</mtime>
+    <size>29825</size>
+    <md5>ab6b0c5437ff376dce3c3b44bd726762</md5>
+    <crc32>290b6058</crc32>
+    <sha1>56a3374b706d15bf5d1019ad5c8672f4b5da4c9c</sha1>
+  </file>
+  <file name="BVC-0654-111444-BVL.pdf" source="original">
+    <mtime>1450147093</mtime>
+    <size>1265641</size>
+    <md5>37b1868c22cd01c151201bd4f88c7e03</md5>
+    <crc32>b034c05a</crc32>
+    <sha1>c812cb4ba2b08651b5d1b2d1ad1e08e6bbb89818</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0654-111444-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0654-111444-BVL_jp2.zip</original>
+    <mtime>1450148626</mtime>
+    <size>40541</size>
+    <md5>0bfffd60580adb67a39d6d8af3342352</md5>
+    <crc32>cc5137ec</crc32>
+    <sha1>379778b92b2f94cb1aa9f11a00fb68b93ad9d47c</sha1>
+  </file>
+  <file name="BVC-0654-111444-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0654-111444-BVL.djvu</original>
+    <mtime>1450148769</mtime>
+    <size>2686</size>
+    <md5>5bdd0aeb43834bedc15ee3c0640a7273</md5>
+    <crc32>39c33452</crc32>
+    <sha1>eccc1f36db95e2165956e93ceaf3c73c9b4c3395</sha1>
+  </file>
+  <file name="BVC-0654-111444-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0654-111444-BVL_abbyy.gz</original>
+    <mtime>1450148633</mtime>
+    <size>22602</size>
+    <md5>83bc61a29e4980c8d6e984a2cd7d6938</md5>
+    <crc32>87fad285</crc32>
+    <sha1>f74181c6047f6647735c2c019c0998e9b88503d5</sha1>
+  </file>
+  <file name="BVC-0654-111444-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0654-111444-BVL.pdf</original>
+    <mtime>1450147165</mtime>
+    <size>1604832</size>
+    <md5>c421ce488789eadeae48d181d003f852</md5>
+    <crc32>5bcec603</crc32>
+    <sha1>10706952ef81854ceac3cf9f03378ebdffb2f647</sha1>
+  </file>
+  <file name="BVC-0654-111444-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0654-111444-BVL_djvu.xml</original>
+    <mtime>1450148686</mtime>
+    <size>904</size>
+    <md5>32b30d15340004ed1cad3b2a3202e6cf</md5>
+    <crc32>67db98cb</crc32>
+    <sha1>94bc72613e72dae69faa5c2f2486fd8d483916d1</sha1>
+  </file>
+  <file name="BVC-0654-111444-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0654-111444-BVL_djvu.xml</original>
+    <mtime>1450148684</mtime>
+    <size>359824</size>
+    <md5>46d44f01781a0cf76f8b04c7a1afb768</md5>
+    <crc32>82e6ada7</crc32>
+    <sha1>0cee8544b73f076edaf8977ab2c4ccb6ead99e13</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530809129</mtime>
+    <size>11474</size>
+    <md5>590c481bfa27b2f5b952922c1260a944</md5>
+    <crc32>f85e8d74</crc32>
+    <sha1>4fbceae783b766f00605e145e2033b56667b6199</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="letter-to-valdes-from-donald-hoover-regarding-subjects-requiring-comment-sheets-november-14-1944_archive.torrent" source="metadata">
+    <btih>359a6934b4b853131db48a285de8c5205a483172</btih>
+    <mtime>1530809130</mtime>
+    <size>5455</size>
+    <md5>cc7125c646acd3b0b0a604a866a8ab41</md5>
+    <crc32>9ac424f0</crc32>
+    <sha1>bf4f926a25fe86e67d1a763147df8fa9b4b2c5c3</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="letter-to-valdes-from-donald-hoover-regarding-subjects-requiring-comment-sheets-november-14-1944_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>07e66b8932b14cd7b7469ebb3e8a680c</md5>
+  </file>
+  <file name="letter-to-valdes-from-donald-hoover-regarding-subjects-requiring-comment-sheets-november-14-1944_meta.sqlite" source="original">
+    <mtime>1450147097</mtime>
+    <size>14336</size>
+    <format>Metadata</format>
+    <md5>38537bf73a4b98e2074f68d497c41af9</md5>
+    <crc32>2a32a00d</crc32>
+    <sha1>39a2150216d7d969c5b5a7e0956e0fcbf4bbd93e</sha1>
+  </file>
+  <file name="letter-to-valdes-from-donald-hoover-regarding-subjects-requiring-comment-sheets-november-14-1944_meta.xml" source="original">
+    <mtime>1484149806</mtime>
+    <size>1505</size>
+    <format>Metadata</format>
+    <md5>ea90a099adb14559f6385c921b4cc3b7</md5>
+    <crc32>2f4cde28</crc32>
+    <sha1>2d5ff8208ac7edcc43e6774c0d1441117f5618e3</sha1>
+  </file>
+</files>

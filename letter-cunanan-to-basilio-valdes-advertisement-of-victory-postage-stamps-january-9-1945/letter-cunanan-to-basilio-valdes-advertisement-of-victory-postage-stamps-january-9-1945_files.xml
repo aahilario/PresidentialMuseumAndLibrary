@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0619-010945-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0619-010945-BVL_jp2.zip</original>
+    <mtime>1449798792</mtime>
+    <size>16628</size>
+    <md5>81f9472ace5b7b3517de84a52cfde049</md5>
+    <crc32>2af20956</crc32>
+    <sha1>80de94d718886720cbc9a83f959e3c607e0bfe32</sha1>
+  </file>
+  <file name="BVC-0619-010945-BVL.pdf" source="original">
+    <mtime>1449798742</mtime>
+    <size>650880</size>
+    <md5>e47cfe382bebe4a54501a1e24ddbec06</md5>
+    <crc32>e1660017</crc32>
+    <sha1>316d11de5c696dab664d9554fee39515e8347ba8</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0619-010945-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0619-010945-BVL_jp2.zip</original>
+    <mtime>1449817027</mtime>
+    <size>27120</size>
+    <md5>a2274d60224b897f40f736c13d989404</md5>
+    <crc32>63f5e5da</crc32>
+    <sha1>fceee05b4fa2038321e4caef20c992e1536a11d2</sha1>
+  </file>
+  <file name="BVC-0619-010945-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0619-010945-BVL_djvu.xml</original>
+    <mtime>1456644483</mtime>
+    <size>1493</size>
+    <md5>901aefe62d4e1f9e7059b1b95c1dc2ab</md5>
+    <crc32>ad9165fa</crc32>
+    <sha1>1bcedb0e70486eb3a0db3e3b0c907a569195bb92</sha1>
+  </file>
+  <file name="BVC-0619-010945-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0619-010945-BVL_abbyy.gz</original>
+    <mtime>1449817033</mtime>
+    <size>14997</size>
+    <md5>da263f4fd41953318eddb4350cb9927c</md5>
+    <crc32>96f0d17d</crc32>
+    <sha1>3aed4ff2c7a0871be8e25eb26e3666f09628b9df</sha1>
+  </file>
+  <file name="BVC-0619-010945-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0619-010945-BVL.pdf</original>
+    <mtime>1449798785</mtime>
+    <size>827160</size>
+    <md5>69eae53347d5a5795058086231307bd6</md5>
+    <crc32>0dce1952</crc32>
+    <sha1>2f5ee5a16c17391a35139c7433d50c87e72274d5</sha1>
+  </file>
+  <file name="BVC-0619-010945-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0619-010945-BVL_djvu.xml</original>
+    <mtime>1449817048</mtime>
+    <size>597</size>
+    <md5>db262aaa3ca7b86fe67dc3121629526e</md5>
+    <crc32>cee65ec6</crc32>
+    <sha1>0f4657b176c219360ebd92b69efb41d1e7c70eed</sha1>
+  </file>
+  <file name="BVC-0619-010945-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0619-010945-BVL_djvu.xml</original>
+    <mtime>1449817063</mtime>
+    <size>220332</size>
+    <md5>c6d015165f7c048386077b0bf473a4f9</md5>
+    <crc32>00f0d913</crc32>
+    <sha1>d15854cc464a5bf514d412e0d13b7d04d38791fd</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530845595</mtime>
+    <size>14106</size>
+    <md5>84669d01c471223bc48114dfb62ba46f</md5>
+    <crc32>29480923</crc32>
+    <sha1>7b6b613f11ae783af4b87af7160233047d89e2f1</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="letter-cunanan-to-basilio-valdes-advertisement-of-victory-postage-stamps-january-9-1945_archive.torrent" source="metadata">
+    <btih>33617802ee1ae287c460c7075d69aac8a4a6e811</btih>
+    <mtime>1530845595</mtime>
+    <size>3802</size>
+    <md5>e05d87aa463d786bf88fe7c79d65f484</md5>
+    <crc32>ceb8c01f</crc32>
+    <sha1>3748c327af4f71b85807ed2d9af50857fce09c9f</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="letter-cunanan-to-basilio-valdes-advertisement-of-victory-postage-stamps-january-9-1945_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>73628451ac812289d8380d22cf4866b7</md5>
+  </file>
+  <file name="letter-cunanan-to-basilio-valdes-advertisement-of-victory-postage-stamps-january-9-1945_meta.sqlite" source="original">
+    <mtime>1466311940</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>1e823f679fbcc3e7d1532016072c1a09</md5>
+    <crc32>d3a4403e</crc32>
+    <sha1>d0d76ac33322082affba066935352e8c39c4a74e</sha1>
+  </file>
+  <file name="letter-cunanan-to-basilio-valdes-advertisement-of-victory-postage-stamps-january-9-1945_meta.xml" source="original">
+    <mtime>1485875651</mtime>
+    <size>1650</size>
+    <format>Metadata</format>
+    <md5>1ae7206be5b7cf5f1418a53e269f5f0b</md5>
+    <crc32>30a032de</crc32>
+    <sha1>acc4428d7431bf0695dff01fda85d1003881fbc2</sha1>
+  </file>
+</files>

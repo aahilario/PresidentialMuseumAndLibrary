@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>bjv-speeches-thanksgiving-mass-quiapo-church-may-13-1945</bookId>
+    <leafCount>15</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3110</origWidth>
+      <origHeight>4840</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3110</w>
+        <h>4840</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3077</origWidth>
+      <origHeight>4785</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3077</w>
+        <h>4785</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3068</origWidth>
+      <origHeight>4805</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3068</w>
+        <h>4805</h>
+      </cropBox>
+    </page>
+    <page leafNum="3">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3068</origWidth>
+      <origHeight>4820</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3068</w>
+        <h>4820</h>
+      </cropBox>
+    </page>
+    <page leafNum="4">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3049</origWidth>
+      <origHeight>4826</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3049</w>
+        <h>4826</h>
+      </cropBox>
+    </page>
+    <page leafNum="5">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3063</origWidth>
+      <origHeight>4833</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3063</w>
+        <h>4833</h>
+      </cropBox>
+    </page>
+    <page leafNum="6">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3009</origWidth>
+      <origHeight>4826</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3009</w>
+        <h>4826</h>
+      </cropBox>
+    </page>
+    <page leafNum="7">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>6118</origWidth>
+      <origHeight>4866</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>6118</w>
+        <h>4866</h>
+      </cropBox>
+    </page>
+    <page leafNum="8">
+      <pageType>Title</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3128</origWidth>
+      <origHeight>4836</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3128</w>
+        <h>4836</h>
+      </cropBox>
+    </page>
+    <page leafNum="9">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3013</origWidth>
+      <origHeight>4815</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3013</w>
+        <h>4815</h>
+      </cropBox>
+    </page>
+    <page leafNum="10">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3107</origWidth>
+      <origHeight>4886</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3107</w>
+        <h>4886</h>
+      </cropBox>
+    </page>
+    <page leafNum="11">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3016</origWidth>
+      <origHeight>4825</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3016</w>
+        <h>4825</h>
+      </cropBox>
+    </page>
+    <page leafNum="12">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>2971</origWidth>
+      <origHeight>4824</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>2971</w>
+        <h>4824</h>
+      </cropBox>
+    </page>
+    <page leafNum="13">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3014</origWidth>
+      <origHeight>4824</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3014</w>
+        <h>4824</h>
+      </cropBox>
+    </page>
+    <page leafNum="14">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3108</origWidth>
+      <origHeight>4890</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3108</w>
+        <h>4890</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

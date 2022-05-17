@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Aurora Quezon - Life and Deeds book by Sol Gwekoh.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>Aurora Quezon - Life and Deeds book by Sol Gwekoh_djvu.xml</original>
+    <mtime>1448248005</mtime>
+    <size>3168197</size>
+    <md5>517c80952ba80196cb70eb333d4b6068</md5>
+    <crc32>2b7484f2</crc32>
+    <sha1>253f7faf545bb712fa759118a6559ed36a7b80e9</sha1>
+  </file>
+  <file name="Aurora Quezon - Life and Deeds book by Sol Gwekoh.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Aurora Quezon - Life and Deeds book by Sol Gwekoh_jp2.zip</original>
+    <mtime>1448246971</mtime>
+    <size>199375</size>
+    <md5>d322c33af5cd35e6d84eba3723144f30</md5>
+    <crc32>5737d17e</crc32>
+    <sha1>3fe0e4c3a242c84866637ee6a50d363867e33d9e</sha1>
+  </file>
+  <file name="Aurora Quezon - Life and Deeds book by Sol Gwekoh.pdf" source="original">
+    <mtime>1448246788</mtime>
+    <size>10559176</size>
+    <md5>3acbbe18200012bd577515d6a0f93a23</md5>
+    <crc32>5e03ea7b</crc32>
+    <sha1>5fae0867a3ed268ded5250fafa4cb0f40736561b</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="Aurora Quezon - Life and Deeds book by Sol Gwekoh_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Aurora Quezon - Life and Deeds book by Sol Gwekoh_jp2.zip</original>
+    <mtime>1448247809</mtime>
+    <size>3704117</size>
+    <md5>a18a7cf994393a255dde7f83245fbc50</md5>
+    <crc32>6abf6794</crc32>
+    <sha1>b6bf29016a96aaaa5bc4ac510593d7abd4fdf5b7</sha1>
+  </file>
+  <file name="Aurora Quezon - Life and Deeds book by Sol Gwekoh_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Aurora Quezon - Life and Deeds book by Sol Gwekoh.djvu</original>
+    <mtime>1448248068</mtime>
+    <size>233883</size>
+    <md5>23e15a4805ac1dc655a5284682f40cdf</md5>
+    <crc32>c18daf8a</crc32>
+    <sha1>a50dd97f2f391289ee8e0b1aad9889bfdf612a58</sha1>
+  </file>
+  <file name="Aurora Quezon - Life and Deeds book by Sol Gwekoh_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Aurora Quezon - Life and Deeds book by Sol Gwekoh_abbyy.gz</original>
+    <mtime>1448247867</mtime>
+    <size>2168415</size>
+    <md5>9248a3110ab1913d7812768ab8826aad</md5>
+    <crc32>87e9da92</crc32>
+    <sha1>f1545170844d3224dc1aa3614d6da3a6875c53e0</sha1>
+  </file>
+  <file name="Aurora Quezon - Life and Deeds book by Sol Gwekoh_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Aurora Quezon - Life and Deeds book by Sol Gwekoh.pdf</original>
+    <mtime>1448246960</mtime>
+    <size>17866052</size>
+    <md5>504d330792364672361ab0f62881db05</md5>
+    <crc32>ea7c14ca</crc32>
+    <sha1>27e7761ed8a5d0455ab944f8b029f9c598d5c300</sha1>
+  </file>
+  <file name="Aurora Quezon - Life and Deeds book by Sol Gwekoh_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Aurora Quezon - Life and Deeds book by Sol Gwekoh_djvu.xml</original>
+    <mtime>1448248007</mtime>
+    <size>46030</size>
+    <md5>265496c951b66733ace6029bb382eff1</md5>
+    <crc32>73bdb616</crc32>
+    <sha1>a53a0e41a3064be31cef127ad115c2e5370010e4</sha1>
+  </file>
+  <file name="Aurora Quezon - Life and Deeds book by Sol Gwekoh_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>Aurora Quezon - Life and Deeds book by Sol Gwekoh_djvu.xml</original>
+    <mtime>1448248050</mtime>
+    <size>8985835</size>
+    <md5>13ee8b496f14d41c4a1f2ea55d596101</md5>
+    <crc32>ccc3de8d</crc32>
+    <sha1>5b135acfbf039f9bf124e6d6d9a21fe66d313771</sha1>
+  </file>
+  <file name="aurora-quezon-life-and-deeds_archive.torrent" source="metadata">
+    <btih>e7cdcbf3c4f28d6be5030ff45087604cb263782e</btih>
+    <mtime>1485774638</mtime>
+    <size>5319</size>
+    <md5>d6ed6b6d7682b20c2c214c6522bb06a0</md5>
+    <crc32>18180d93</crc32>
+    <sha1>7081dbb9cf8ca4d57da0c925723160016caf87a1</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="aurora-quezon-life-and-deeds_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>4427b5c5e4ec8d7f715f0a4a3928d5f7</md5>
+  </file>
+  <file name="aurora-quezon-life-and-deeds_meta.sqlite" source="original">
+    <mtime>1463390129</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>b52a961580194111e39598cb29241265</md5>
+    <crc32>3063f0d5</crc32>
+    <sha1>7be09df145faba3fc04d9863790ea570bf85fc23</sha1>
+  </file>
+  <file name="aurora-quezon-life-and-deeds_meta.xml" source="original">
+    <mtime>1485774636</mtime>
+    <size>1065</size>
+    <format>Metadata</format>
+    <md5>4e3c650c502499d78b47069ee57b46e0</md5>
+    <crc32>15e3b6c3</crc32>
+    <sha1>e8a3e025342e6d564fc8635991f3b4985bbafe42</sha1>
+  </file>
+</files>

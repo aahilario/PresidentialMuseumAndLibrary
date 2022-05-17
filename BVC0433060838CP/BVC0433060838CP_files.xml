@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0433-060838-CP.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0433-060838-CP_djvu.xml</original>
+    <mtime>1452113941</mtime>
+    <size>17951884</size>
+    <md5>6573f1b4d5292b501c6a376e297296b3</md5>
+    <crc32>8d152312</crc32>
+    <sha1>47d635b9b68c8da4012f046f593840be48362dc9</sha1>
+  </file>
+  <file name="BVC-0433-060838-CP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0433-060838-CP_jp2.zip</original>
+    <mtime>1451874986</mtime>
+    <size>241960</size>
+    <md5>55fe74bf4228461cd26e83747926a6c7</md5>
+    <crc32>7b93b991</crc32>
+    <sha1>d1d96bf6155babd284dc5c182a2d9df547b829f4</sha1>
+  </file>
+  <file name="BVC-0433-060838-CP.pdf" source="original">
+    <mtime>1451873819</mtime>
+    <size>57541533</size>
+    <md5>cf2909e332c3c834903ddd575cadd633</md5>
+    <crc32>bebd7f19</crc32>
+    <sha1>396f36ed1d7471594d580ab3316b588613b26a8f</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0433-060838-CP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0433-060838-CP_jp2.zip</original>
+    <mtime>1451878387</mtime>
+    <size>2474685</size>
+    <md5>5e1cfabb6cc71f70cc7d60d0b400b3de</md5>
+    <crc32>9759e445</crc32>
+    <sha1>489199af168e7d7e0c2af52ca7a34b8c12eaa0a7</sha1>
+  </file>
+  <file name="BVC-0433-060838-CP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0433-060838-CP.djvu</original>
+    <mtime>1452113964</mtime>
+    <size>148388</size>
+    <md5>2db6614dd64a54d077e806fb17688902</md5>
+    <crc32>cc1bc344</crc32>
+    <sha1>9908b56151997d893a6661aebad926a55f78519d</sha1>
+  </file>
+  <file name="BVC-0433-060838-CP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0433-060838-CP_abbyy.gz</original>
+    <mtime>1451878428</mtime>
+    <size>1463986</size>
+    <md5>7c3f047456b621ec7e8b09aa039da003</md5>
+    <crc32>6d6acbf2</crc32>
+    <sha1>ddee30923047919abe520dbb85595632a980ed1d</sha1>
+  </file>
+  <file name="BVC-0433-060838-CP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0433-060838-CP.pdf</original>
+    <mtime>1451874934</mtime>
+    <size>94983827</size>
+    <md5>8c0e6780fdb03fb7a0e824ea8fbb0b85</md5>
+    <crc32>d2e37005</crc32>
+    <sha1>9270c969bd07b7c309b1f24639af108e70f52a51</sha1>
+  </file>
+  <file name="BVC-0433-060838-CP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0433-060838-CP_djvu.xml</original>
+    <mtime>1451878605</mtime>
+    <size>6225</size>
+    <md5>2cd46995b02e8403bde5e5f80865e2f3</md5>
+    <crc32>16c956ab</crc32>
+    <sha1>4d853ecc3691d3d6dbb5fd68e9c573734962cf20</sha1>
+  </file>
+  <file name="BVC-0433-060838-CP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0433-060838-CP_djvu.xml</original>
+    <mtime>1451879330</mtime>
+    <size>19867191</size>
+    <md5>c3a4e53160b8c5e090a6c7fea54836b3</md5>
+    <crc32>e6ef3d6c</crc32>
+    <sha1>51f603c243529dec02a5a5092142f0c49ed3e598</sha1>
+  </file>
+  <file name="BVC0433060838CP_archive.torrent" source="metadata">
+    <btih>c52c185315a4c445a98d1e354b6d7dadefcfcba4</btih>
+    <mtime>1530782242</mtime>
+    <size>10701</size>
+    <md5>08f0537bc76a7a89b0282a74fd82be1f</md5>
+    <crc32>6787e1e7</crc32>
+    <sha1>dd56a648de20ea4a590bdc251bcbd8137f716ee3</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="BVC0433060838CP_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>6fbf93f7d9d5ac0b330486ad47117cd2</md5>
+  </file>
+  <file name="BVC0433060838CP_meta.sqlite" source="original">
+    <mtime>1466407175</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>679bd6c49c1a717480503739ec7251f9</md5>
+    <crc32>b5ad66cd</crc32>
+    <sha1>4b441ae07a016e211c7b9d897bf2acc2f5e17959</sha1>
+  </file>
+  <file name="BVC0433060838CP_meta.xml" source="original">
+    <mtime>1483190010</mtime>
+    <size>1170</size>
+    <format>Metadata</format>
+    <md5>2bb7d02673138d8a128112735e1d7683</md5>
+    <crc32>375b38b6</crc32>
+    <sha1>fd246a3896cb14279402fc7b102c3801380ae9da</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530782239</mtime>
+    <size>23181</size>
+    <md5>3aab6f5fff08470d2fa13ceef2ee8bab</md5>
+    <crc32>0de0e587</crc32>
+    <sha1>c27f229c8352acc23ad56134831178f271d9b067</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+</files>

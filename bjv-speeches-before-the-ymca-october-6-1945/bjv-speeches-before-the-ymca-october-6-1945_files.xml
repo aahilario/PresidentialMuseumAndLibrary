@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0352-100645-SP.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0352-100645-SP_djvu.xml</original>
+    <mtime>1452358480</mtime>
+    <size>406481</size>
+    <md5>4f9ad0579e71c23bf08d041bc38f4e09</md5>
+    <crc32>173edddd</crc32>
+    <sha1>59b91265807c4733a8ed55b66b1aadd42fbb92a3</sha1>
+  </file>
+  <file name="BVC-0352-100645-SP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0352-100645-SP_jp2.zip</original>
+    <mtime>1451894596</mtime>
+    <size>43372</size>
+    <md5>333b23a58174843e70b4a3f553d04592</md5>
+    <crc32>04676f94</crc32>
+    <sha1>cac98ceb427861a948d4fe1c9bcadffcc3b2e2a2</sha1>
+  </file>
+  <file name="BVC-0352-100645-SP.pdf" source="original">
+    <mtime>1451894485</mtime>
+    <size>1859097</size>
+    <md5>b43970fe890f2e5a325a231c05824d9e</md5>
+    <crc32>0537999f</crc32>
+    <sha1>1c56daef22db3bf58eb73356cf6610f0484d3a11</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0352-100645-SP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0352-100645-SP_jp2.zip</original>
+    <mtime>1451894920</mtime>
+    <size>52263</size>
+    <md5>87df95499da5292ab842c5b9a800566a</md5>
+    <crc32>046670a6</crc32>
+    <sha1>4bd9fdbfe982875ef66ffb4d8c13109fb7b02f7e</sha1>
+  </file>
+  <file name="BVC-0352-100645-SP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0352-100645-SP.djvu</original>
+    <mtime>1452358487</mtime>
+    <size>3214</size>
+    <md5>69db18aeb9e5a33089476f30e4cf5566</md5>
+    <crc32>c2531eea</crc32>
+    <sha1>214a586afe34d1c52774afbc29014d9b5a8bfa9e</sha1>
+  </file>
+  <file name="BVC-0352-100645-SP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0352-100645-SP_abbyy.gz</original>
+    <mtime>1451894927</mtime>
+    <size>29905</size>
+    <md5>759ae621ffbec5fec92ca485ad25d019</md5>
+    <crc32>fcdb249c</crc32>
+    <sha1>eda1126d6b2f60ee6ce5ca067e1d1ad7514689db</sha1>
+  </file>
+  <file name="BVC-0352-100645-SP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0352-100645-SP.pdf</original>
+    <mtime>1451894587</mtime>
+    <size>2407176</size>
+    <md5>7c3d7bab1a0bcc0b27b02a7c6d51af8f</md5>
+    <crc32>1dd1f759</crc32>
+    <sha1>947ab7058d6190e32d7734c4f74a7cf47ae1aa55</sha1>
+  </file>
+  <file name="BVC-0352-100645-SP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0352-100645-SP_djvu.xml</original>
+    <mtime>1451894945</mtime>
+    <size>1149</size>
+    <md5>d9e8bfab619ae610e50a2920f9cb3da5</md5>
+    <crc32>560dce98</crc32>
+    <sha1>18a523f2e82cef63d828a29451d6614f4cb9fa6c</sha1>
+  </file>
+  <file name="BVC-0352-100645-SP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0352-100645-SP_djvu.xml</original>
+    <mtime>1451894988</mtime>
+    <size>590401</size>
+    <md5>b7793131fc3382fa5641ccdc05514c6f</md5>
+    <crc32>7421d81b</crc32>
+    <sha1>40490a79b242c0db3b02d2c667faadd0c92cbab7</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530998596</mtime>
+    <size>18735</size>
+    <md5>4acbf5c62546c297285ab33a797308e7</md5>
+    <crc32>fa90f432</crc32>
+    <sha1>30fa22cb4c6c7914a14993487a7b9e04c55dcb69</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="bjv-speeches-before-the-ymca-october-6-1945_archive.torrent" source="metadata">
+    <btih>910b8814956a3d7935a811894c95404af6f79db7</btih>
+    <mtime>1530998597</mtime>
+    <size>3719</size>
+    <md5>f12d66f5a7d043e58749c4062fc4e175</md5>
+    <crc32>ccbeac6b</crc32>
+    <sha1>57beb008b87cd7535002f5e005c942d56d914285</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="bjv-speeches-before-the-ymca-october-6-1945_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>33d89378228a7ea0931176c0e56b7a8a</md5>
+  </file>
+  <file name="bjv-speeches-before-the-ymca-october-6-1945_meta.sqlite" source="original">
+    <mtime>1464065174</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>85029490fddcec32c85e1c524891744c</md5>
+    <crc32>af1350c2</crc32>
+    <sha1>7ce606deff55a42587f466b7aea0f3d21499325f</sha1>
+  </file>
+  <file name="bjv-speeches-before-the-ymca-october-6-1945_meta.xml" source="original">
+    <mtime>1484618787</mtime>
+    <size>1166</size>
+    <format>Metadata</format>
+    <md5>b36b5f36708176b188005100699ac1d6</md5>
+    <crc32>e411a04c</crc32>
+    <sha1>5cfdec6ee948362fb4a8c699d7a670f27f92d792</sha1>
+  </file>
+</files>

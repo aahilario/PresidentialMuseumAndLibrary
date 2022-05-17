@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0657-110844-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0657-110844-BVL_jp2.zip</original>
+    <mtime>1450148708</mtime>
+    <size>15493</size>
+    <md5>5b2832ef1f5a34739eefaad45f1fa2b5</md5>
+    <crc32>9450aded</crc32>
+    <sha1>ff09483037968d776c72f7c9aab0ad44474b006a</sha1>
+  </file>
+  <file name="BVC-0657-110844-BVL.pdf" source="original">
+    <mtime>1450148647</mtime>
+    <size>657043</size>
+    <md5>01ece4f63dd9aed5dcb21915163360a8</md5>
+    <crc32>b28d2c1a</crc32>
+    <sha1>333b8a763f790f0dde4a8f16c1f7f03f543bf0e2</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0657-110844-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0657-110844-BVL_jp2.zip</original>
+    <mtime>1450148731</mtime>
+    <size>14305</size>
+    <md5>bdaea625983facf2a1017205ea35bc2b</md5>
+    <crc32>af307ffd</crc32>
+    <sha1>1406a07190652c57739f74a2f9a2f81f936b1c03</sha1>
+  </file>
+  <file name="BVC-0657-110844-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0657-110844-BVL_djvu.xml</original>
+    <mtime>1456644643</mtime>
+    <size>799</size>
+    <md5>6d0d54debb78dd6ff2e0898c8b808873</md5>
+    <crc32>b67a91ac</crc32>
+    <sha1>ce628111448bb19bbdb595e29eb903cc5e621acc</sha1>
+  </file>
+  <file name="BVC-0657-110844-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0657-110844-BVL_abbyy.gz</original>
+    <mtime>1450148738</mtime>
+    <size>8952</size>
+    <md5>2c93c41fd41ae162994f3d64b16c7898</md5>
+    <crc32>a93ec853</crc32>
+    <sha1>54e5bc69f030993bbccd452d3402b98dab74a56f</sha1>
+  </file>
+  <file name="BVC-0657-110844-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0657-110844-BVL.pdf</original>
+    <mtime>1450148700</mtime>
+    <size>774122</size>
+    <md5>ddb671c7ea7c0ac3852168ceda81204e</md5>
+    <crc32>543eaff5</crc32>
+    <sha1>14eeb52f0c5bbe342c0549ec6e848b7de9d63612</sha1>
+  </file>
+  <file name="BVC-0657-110844-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0657-110844-BVL_djvu.xml</original>
+    <mtime>1450148756</mtime>
+    <size>599</size>
+    <md5>b87e9932c159b496404688736dd17d99</md5>
+    <crc32>3c79e368</crc32>
+    <sha1>65a7cce3092f3874a3d9bea94f674af0b65f76ce</sha1>
+  </file>
+  <file name="BVC-0657-110844-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0657-110844-BVL_djvu.xml</original>
+    <mtime>1450148773</mtime>
+    <size>187468</size>
+    <md5>8153fefb26c3e202592be87ecaaf6373</md5>
+    <crc32>9465bcbf</crc32>
+    <sha1>258cb00874afa5a71acf4676a6b60bb8e8b2e963</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530835230</mtime>
+    <size>12485</size>
+    <md5>85f5800e697bbcc804d2fe51ab2f94bd</md5>
+    <crc32>4cf0534e</crc32>
+    <sha1>eab73938b6190ff2e8e320df5fd83ea6b93b944e</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="letter-from-basilio-valdes-to-frank-walker-reopening-tacloban-post-office-november-8-1944_archive.torrent" source="metadata">
+    <btih>f66c76fa74a490800d8e9b1af05ca7d4267ab4ee</btih>
+    <mtime>1530835230</mtime>
+    <size>3820</size>
+    <md5>a0a740b53699433d234045731f308065</md5>
+    <crc32>b4ade95d</crc32>
+    <sha1>02219473e454bb151989831874ef2581907f984b</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="letter-from-basilio-valdes-to-frank-walker-reopening-tacloban-post-office-november-8-1944_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>e37611976b8080577d39f1f634b32c43</md5>
+  </file>
+  <file name="letter-from-basilio-valdes-to-frank-walker-reopening-tacloban-post-office-november-8-1944_meta.sqlite" source="original">
+    <mtime>1466309738</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>ec211dc08d92fb4e65ff6fef260dfcfd</md5>
+    <crc32>69afd8e8</crc32>
+    <sha1>2b51fa854d12dc807caca59936807654c6e2a785</sha1>
+  </file>
+  <file name="letter-from-basilio-valdes-to-frank-walker-reopening-tacloban-post-office-november-8-1944_meta.xml" source="original">
+    <mtime>1484496808</mtime>
+    <size>1497</size>
+    <format>Metadata</format>
+    <md5>7bc0386fd958f11c780f4f6363839679</md5>
+    <crc32>05c07512</crc32>
+    <sha1>e12b04e843aea3da8f70b12eedea61793d6a20d4</sha1>
+  </file>
+</files>

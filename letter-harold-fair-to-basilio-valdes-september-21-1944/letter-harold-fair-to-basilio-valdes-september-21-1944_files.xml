@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0551-092144-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0551-092144-BVL_jp2.zip</original>
+    <mtime>1449562775</mtime>
+    <size>15655</size>
+    <md5>6add4c5ae8a19278c2a957d9966f07d4</md5>
+    <crc32>999a9f17</crc32>
+    <sha1>17077bd173db4bb39fd73a9f31a203bca104e92e</sha1>
+  </file>
+  <file name="BVC-0551-092144-BVL.pdf" source="original">
+    <mtime>1449562730</mtime>
+    <size>486294</size>
+    <md5>0758739d88c7172e1206597cc9291472</md5>
+    <crc32>5646ae83</crc32>
+    <sha1>3f3b1b0cdcb451de2f1291d6236aad7850ab97ef</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0551-092144-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0551-092144-BVL_jp2.zip</original>
+    <mtime>1449562803</mtime>
+    <size>21306</size>
+    <md5>bc44584a001977870f9361032908102b</md5>
+    <crc32>bfde5b4d</crc32>
+    <sha1>c96a1d18351668ddeea8d76f843041550581fd58</sha1>
+  </file>
+  <file name="BVC-0551-092144-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0551-092144-BVL_djvu.xml</original>
+    <mtime>1456644744</mtime>
+    <size>1244</size>
+    <md5>0618cce4bec73348a39723f0d5e3a7f4</md5>
+    <crc32>0b6350a7</crc32>
+    <sha1>db9b43914b000fbaef68a18a1ec4db288cd93655</sha1>
+  </file>
+  <file name="BVC-0551-092144-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0551-092144-BVL_abbyy.gz</original>
+    <mtime>1449562810</mtime>
+    <size>14171</size>
+    <md5>30fbf1e839c1edac7bf3d3bcda73b727</md5>
+    <crc32>16e1c4b7</crc32>
+    <sha1>e78bfa562f0576db16daa464fec52fbb4c81ad08</sha1>
+  </file>
+  <file name="BVC-0551-092144-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0551-092144-BVL.pdf</original>
+    <mtime>1449562768</mtime>
+    <size>663702</size>
+    <md5>eb35382a70cc59ff8bcaef75b68c498f</md5>
+    <crc32>4c4455ec</crc32>
+    <sha1>94cd29c0cd6f8cc4bc5dfe0395cbd3aa42a0bf85</sha1>
+  </file>
+  <file name="BVC-0551-092144-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0551-092144-BVL_djvu.xml</original>
+    <mtime>1449562823</mtime>
+    <size>564</size>
+    <md5>36f7620e1e0c58dc37d26a2d13847f80</md5>
+    <crc32>5e089701</crc32>
+    <sha1>c8704bfbacc4bb223822c77eab3e89ebd35370db</sha1>
+  </file>
+  <file name="BVC-0551-092144-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0551-092144-BVL_djvu.xml</original>
+    <mtime>1449562837</mtime>
+    <size>170188</size>
+    <md5>83e0960ac3e529c3235d251a95f2454a</md5>
+    <crc32>435362db</crc32>
+    <sha1>608bbb6c1813717f51db7dfe4c087c540bd306c1</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530778924</mtime>
+    <size>11402</size>
+    <md5>624c5a7acd1a4924354620eb23d15956</md5>
+    <crc32>ccb86f43</crc32>
+    <sha1>3d4ef916afdf7f152cf49132f6520201a668d8a2</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="letter-harold-fair-to-basilio-valdes-september-21-1944_archive.torrent" source="metadata">
+    <btih>4151dda2f620c523a78d0b5ae796a5e9d09db912</btih>
+    <mtime>1530778924</mtime>
+    <size>3484</size>
+    <md5>e9bcef682cb91ee0520fe145a28fa63a</md5>
+    <crc32>17d2541e</crc32>
+    <sha1>df5f5b148ed47bc9a5d8642da776a8d32a8ccae3</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="letter-harold-fair-to-basilio-valdes-september-21-1944_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>84c68115b5c79852da9556e7b2378426</md5>
+  </file>
+  <file name="letter-harold-fair-to-basilio-valdes-september-21-1944_meta.sqlite" source="original">
+    <mtime>1466266198</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>ad2bad2080149e183924e8ea99d6b71a</md5>
+    <crc32>563778ea</crc32>
+    <sha1>762b0672f70d731c2abd78f29dd8bbf90639cadf</sha1>
+  </file>
+  <file name="letter-harold-fair-to-basilio-valdes-september-21-1944_meta.xml" source="original">
+    <mtime>1482791608</mtime>
+    <size>1266</size>
+    <format>Metadata</format>
+    <md5>a6f1b5fc26cc0e14b93fe4faf274c088</md5>
+    <crc32>36866ad3</crc32>
+    <sha1>04ec73171c3db65037ac5647e81f4bd3fdba5102</sha1>
+  </file>
+</files>

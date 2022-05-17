@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>bjv-speeches-before-the-ymca-october-6-1945</bookId>
+    <leafCount>3</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4879</origWidth>
+      <origHeight>6327</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4879</w>
+        <h>6327</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4793</origWidth>
+      <origHeight>6359</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4793</w>
+        <h>6359</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4859</origWidth>
+      <origHeight>6371</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4859</w>
+        <h>6371</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0402-032834-CP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0402-032834-CP_jp2.zip</original>
+    <mtime>1450751989</mtime>
+    <size>15516</size>
+    <md5>b4b9d3846497f3c79c7fb71f24e5eef0</md5>
+    <crc32>32f0c01b</crc32>
+    <sha1>82e082761386b32ea07e37acff8af99fee801aa5</sha1>
+  </file>
+  <file name="BVC-0402-032834-CP.pdf" source="original">
+    <mtime>1450751932</mtime>
+    <size>585540</size>
+    <md5>09cc97f253eade188b7425bbf6630023</md5>
+    <crc32>7ad5b2b0</crc32>
+    <sha1>d096a5d04fc9b815be236fcb13b441f61c2ef15f</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0402-032834-CP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0402-032834-CP_jp2.zip</original>
+    <mtime>1450752301</mtime>
+    <size>11920</size>
+    <md5>57c45601a01d2cd0d354131af145442d</md5>
+    <crc32>9c4c4f6d</crc32>
+    <sha1>8e6ad7e5eec5b721af1ef512802c44a30a0a5bc6</sha1>
+  </file>
+  <file name="BVC-0402-032834-CP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0402-032834-CP_djvu.xml</original>
+    <mtime>1456644742</mtime>
+    <size>639</size>
+    <md5>ac8d5025a1290c37c5edcc02cf67fadf</md5>
+    <crc32>d104642d</crc32>
+    <sha1>61cdc0c04d31b7ce319bb6083105ffaf7ee1a15b</sha1>
+  </file>
+  <file name="BVC-0402-032834-CP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0402-032834-CP_abbyy.gz</original>
+    <mtime>1450752307</mtime>
+    <size>6946</size>
+    <md5>d251f559809373c17696f795127c4d37</md5>
+    <crc32>e9b5a03c</crc32>
+    <sha1>180ecc043ab94604397b10cca1fd5a5e3c3e8091</sha1>
+  </file>
+  <file name="BVC-0402-032834-CP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0402-032834-CP.pdf</original>
+    <mtime>1450751982</mtime>
+    <size>794180</size>
+    <md5>e137dd7a518cc2c66e728411aee2bc97</md5>
+    <crc32>526d2016</crc32>
+    <sha1>53a233b9982d3b09e6f96976c63ef70eea9ada9f</sha1>
+  </file>
+  <file name="BVC-0402-032834-CP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0402-032834-CP_djvu.xml</original>
+    <mtime>1450752318</mtime>
+    <size>607</size>
+    <md5>583675057ede944e78af0517a286193b</md5>
+    <crc32>7517a636</crc32>
+    <sha1>a38643e95952bf78f6d52a6fe9ed7c803299f29e</sha1>
+  </file>
+  <file name="BVC-0402-032834-CP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0402-032834-CP_djvu.xml</original>
+    <mtime>1450752332</mtime>
+    <size>155578</size>
+    <md5>622af1b6b9038107c91d292dbf07251b</md5>
+    <crc32>90b90fba</crc32>
+    <sha1>382fad7625981c44d403d487f2d892c757ac7726</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530723636</mtime>
+    <size>13685</size>
+    <md5>6384e6da420849a4ddfcb687b5195c60</md5>
+    <crc32>8c293a34</crc32>
+    <sha1>91963fb13c1564a671e8d1dbd4f6528ca5c62b27</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="letter-basilio-valdes-from-frank-murphy-appointment-assistant-chief-of-constabulary-march-28-1934_archive.torrent" source="metadata">
+    <btih>6c74dca32ded2b31d09ee23fa0a7e46df56bccf0</btih>
+    <mtime>1530723637</mtime>
+    <size>3884</size>
+    <md5>2db2163fe38f5b1c7b84dd45a1920260</md5>
+    <crc32>1f5ec6dd</crc32>
+    <sha1>e3ddf48a4f13175bed1827910c016438e56a1550</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="letter-basilio-valdes-from-frank-murphy-appointment-assistant-chief-of-constabulary-march-28-1934_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>7c005cacf5ec5bfaf1483e8e89d47699</md5>
+  </file>
+  <file name="letter-basilio-valdes-from-frank-murphy-appointment-assistant-chief-of-constabulary-march-28-1934_meta.sqlite" source="original">
+    <mtime>1466337297</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>dbcb8dfa77e9475c16ad62a1395b9a5d</md5>
+    <crc32>93e9aeff</crc32>
+    <sha1>7aa2cbc9319203a6505d33645a7bcf18b933da01</sha1>
+  </file>
+  <file name="letter-basilio-valdes-from-frank-murphy-appointment-assistant-chief-of-constabulary-march-28-1934_meta.xml" source="original">
+    <mtime>1483714698</mtime>
+    <size>1423</size>
+    <format>Metadata</format>
+    <md5>4933cb4a188e92442fc731400093085f</md5>
+    <crc32>fe34f468</crc32>
+    <sha1>5b3b33045e5eafd42159db35cf0b7e0fd596121c</sha1>
+  </file>
+</files>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0473-071546-CSPA.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0473-071546-CSPA_jp2.zip</original>
+    <mtime>1450668750</mtime>
+    <size>15800</size>
+    <md5>b74ded68922c895cd913a1f491412dea</md5>
+    <crc32>99ee6bbb</crc32>
+    <sha1>c0240372a245115504c9b7b9bfae3f4dbbf0a4f7</sha1>
+  </file>
+  <file name="BVC-0473-071546-CSPA.pdf" source="original">
+    <mtime>1450668677</mtime>
+    <size>582955</size>
+    <md5>ae4d9241a1fd012f10d37928792397d7</md5>
+    <crc32>942f8380</crc32>
+    <sha1>b6ac34c9245111e34c166e2c0a080f52c3199164</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0473-071546-CSPA_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0473-071546-CSPA_jp2.zip</original>
+    <mtime>1450668782</mtime>
+    <size>17262</size>
+    <md5>7d891e383f7c702d27fe026a8e3b3d0a</md5>
+    <crc32>ec4f679a</crc32>
+    <sha1>c34523070849f4dae555677a52a5c5d79acd83a3</sha1>
+  </file>
+  <file name="BVC-0473-071546-CSPA_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0473-071546-CSPA_djvu.xml</original>
+    <mtime>1456645226</mtime>
+    <size>980</size>
+    <md5>79eac615ae56dc282b740e06f29bb58f</md5>
+    <crc32>30711496</crc32>
+    <sha1>305859c4161ea1736387fe14e8478cd797a629cc</sha1>
+  </file>
+  <file name="BVC-0473-071546-CSPA_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0473-071546-CSPA_abbyy.gz</original>
+    <mtime>1450668789</mtime>
+    <size>10460</size>
+    <md5>e1687c653f43aa45bcec220b71d73eef</md5>
+    <crc32>9c3e3cb9</crc32>
+    <sha1>4f9ca34f1d1830b2650194c3fd50d836e9f1de6b</sha1>
+  </file>
+  <file name="BVC-0473-071546-CSPA_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0473-071546-CSPA.pdf</original>
+    <mtime>1450668738</mtime>
+    <size>749279</size>
+    <md5>b7ef05fdff6395f21d4398d97bf15367</md5>
+    <crc32>19b5ddcf</crc32>
+    <sha1>6cebf197cb38a2e69e5fc3a281ee64ef4db9422a</sha1>
+  </file>
+  <file name="BVC-0473-071546-CSPA_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0473-071546-CSPA_djvu.xml</original>
+    <mtime>1450668802</mtime>
+    <size>577</size>
+    <md5>3d2f4bcf75d04c9b5ae2d359c4c394c2</md5>
+    <crc32>08888f37</crc32>
+    <sha1>6a6c84416831fd932d9622721489d48f5c164773</sha1>
+  </file>
+  <file name="BVC-0473-071546-CSPA_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0473-071546-CSPA_djvu.xml</original>
+    <mtime>1450668829</mtime>
+    <size>177672</size>
+    <md5>98bd8dff92d917037e0743c8abf86b50</md5>
+    <crc32>242b0982</crc32>
+    <sha1>36af8109e39fafbaba6554519e2c15617c0e52fb</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530572642</mtime>
+    <size>11410</size>
+    <md5>e4fecdddf6191333e3e09bdeacec3b6d</md5>
+    <crc32>9558cb5d</crc32>
+    <sha1>26fc490bb3b7f0b8b6b645d13b9a1e30a0919e4a</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="letter-to-basilio-valdes-from-colonel-calvin-dewitt-jr-july-15-1946_archive.torrent" source="metadata">
+    <btih>7bc1787ff089fba22727d5b4666d9a3720a071c5</btih>
+    <mtime>1530572642</mtime>
+    <size>3628</size>
+    <md5>ec68296d295eaa962445f11226d1ce68</md5>
+    <crc32>37274223</crc32>
+    <sha1>4ae1675a298a8a7020a2586b8937ffdfaa763c03</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="letter-to-basilio-valdes-from-colonel-calvin-dewitt-jr-july-15-1946_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>a6f605aaf53ba78ad0005d87bebf898b</md5>
+  </file>
+  <file name="letter-to-basilio-valdes-from-colonel-calvin-dewitt-jr-july-15-1946_meta.sqlite" source="original">
+    <mtime>1466319658</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>073be733cf50819008c8fdd7bd8dac8e</md5>
+    <crc32>900776d6</crc32>
+    <sha1>50b47e16a3fa0232918a909933eca91ddd68022b</sha1>
+  </file>
+  <file name="letter-to-basilio-valdes-from-colonel-calvin-dewitt-jr-july-15-1946_meta.xml" source="original">
+    <mtime>1485104162</mtime>
+    <size>1327</size>
+    <format>Metadata</format>
+    <md5>7272bae78579867f32a0a16ebbe1942f</md5>
+    <crc32>4d4c9b3a</crc32>
+    <sha1>d446ad6c478657bd4df83b9c16a19dff86a62874</sha1>
+  </file>
+</files>

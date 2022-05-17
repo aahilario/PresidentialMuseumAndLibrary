@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0682-NOV1938-NO.8-PERIODICALS.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0682-NOV1938-NO.8-PERIODICALS_djvu.xml</original>
+    <mtime>1456173821</mtime>
+    <size>10098278</size>
+    <md5>25b09ee80378e7cfc559fe2f3a72975d</md5>
+    <crc32>72f5024e</crc32>
+    <sha1>ac7d90906491108d92da02bfed88ec516abd4d95</sha1>
+  </file>
+  <file name="BVC-0682-NOV1938-NO.8-PERIODICALS.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0682-NOV1938-NO.8-PERIODICALS_jp2.zip</original>
+    <mtime>1456171392</mtime>
+    <size>269869</size>
+    <md5>cd5a873dae009079e297fc3cf572800b</md5>
+    <crc32>563aac38</crc32>
+    <sha1>c56aa06a151666344a63bb83199591b3f65ce787</sha1>
+  </file>
+  <file name="BVC-0682-NOV1938-NO.8-PERIODICALS.pdf" source="original">
+    <mtime>1449554825</mtime>
+    <size>76900235</size>
+    <md5>8f9966e680ae7d82f86b129ffddc7932</md5>
+    <crc32>bde29006</crc32>
+    <sha1>afde34825cdc3fcba5fa4ecc1a5ecc189981f1ac</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0682-NOV1938-NO.8-PERIODICALS_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0682-NOV1938-NO.8-PERIODICALS_jp2.zip</original>
+    <mtime>1456173266</mtime>
+    <size>1868697</size>
+    <md5>730cd14b30e3fe09f2d493a65090528c</md5>
+    <crc32>8a8e2f6e</crc32>
+    <sha1>09be4dec001ae07a176258670730cda6ba2f5b67</sha1>
+  </file>
+  <file name="BVC-0682-NOV1938-NO.8-PERIODICALS_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0682-NOV1938-NO.8-PERIODICALS_djvu.xml</original>
+    <mtime>1456173825</mtime>
+    <size>116003</size>
+    <md5>cd9b9a0e564fd5d6ace7edba765810e3</md5>
+    <crc32>fb747a20</crc32>
+    <sha1>7a1be4b5b43f6885b888712898e8a4585a4ed3ed</sha1>
+  </file>
+  <file name="BVC-0682-NOV1938-NO.8-PERIODICALS_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0682-NOV1938-NO.8-PERIODICALS_abbyy.gz</original>
+    <mtime>1456173306</mtime>
+    <size>1148068</size>
+    <md5>cbe4746b24a77b843e48c9b97f9b135f</md5>
+    <crc32>1047e8c0</crc32>
+    <sha1>7fe93d0ac3c4f62322b5a3f8ab170725027e8f69</sha1>
+  </file>
+  <file name="BVC-0682-NOV1938-NO.8-PERIODICALS_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0682-NOV1938-NO.8-PERIODICALS.pdf</original>
+    <mtime>1456171330</mtime>
+    <size>66455818</size>
+    <md5>0afb1f1b8c9567584b26885baba5c85c</md5>
+    <crc32>abc3bf4c</crc32>
+    <sha1>c10eacba2d75c0441c9d9d9bee2aceb484881004</sha1>
+  </file>
+  <file name="BVC-0682-NOV1938-NO.8-PERIODICALS_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0682-NOV1938-NO.8-PERIODICALS_djvu.xml</original>
+    <mtime>1456173824</mtime>
+    <size>9504</size>
+    <md5>6020b0a5f4c794b096e3d8fe65e010d4</md5>
+    <crc32>7a0c73ba</crc32>
+    <sha1>43a3da9c57d3759c6b670787f5e59b6e462849af</sha1>
+  </file>
+  <file name="BVC-0682-NOV1938-NO.8-PERIODICALS_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0682-NOV1938-NO.8-PERIODICALS_djvu.xml</original>
+    <mtime>1456174466</mtime>
+    <size>12111061</size>
+    <md5>c8c207cabf025984c5fabe6ee52a1688</md5>
+    <crc32>1c0c77ae</crc32>
+    <sha1>b1843e8c3fcd34b08611c17a6f33febec6abcde5</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530565741</mtime>
+    <size>17236</size>
+    <md5>8a34d543f9c02e572d22b84c2b092ea7</md5>
+    <crc32>befe6f4e</crc32>
+    <sha1>b3c97972e6ad2af4a0cead3903959163cd7feb5a</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="philippine-scouting-volume-i-no-8_archive.torrent" source="metadata">
+    <btih>c5962f63b45040e2cf730cdb036217ba53ed724c</btih>
+    <mtime>1530565744</mtime>
+    <size>10015</size>
+    <md5>d6ac54370fb24168516ceaf56f44c648</md5>
+    <crc32>9226b0d7</crc32>
+    <sha1>0e4ca6d7ac9deea6dfbe13c8e50d76b2b8bf40c4</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="philippine-scouting-volume-i-no-8_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>0706cb3a8b61cd54f26cd882aac95f7c</md5>
+  </file>
+  <file name="philippine-scouting-volume-i-no-8_meta.sqlite" source="original">
+    <mtime>1466245383</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>21a61f51c4088374fbf9a4df49a85ee9</md5>
+    <crc32>3cdd57a9</crc32>
+    <sha1>5a57a74f6e2a5021dbcf2fb456f3033de6766ccf</sha1>
+  </file>
+  <file name="philippine-scouting-volume-i-no-8_meta.xml" source="original">
+    <mtime>1485640051</mtime>
+    <size>1088</size>
+    <format>Metadata</format>
+    <md5>67c3a0ce08bca24036079a76274031ab</md5>
+    <crc32>f0e92cbb</crc32>
+    <sha1>854ef70d73827b33605a1e2e1934a3315eadab90</sha1>
+  </file>
+</files>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>letter-from-basilio-valdes-to-frank-walker-reopening-tacloban-post-office-november-8-1944</bookId>
+    <leafCount>1</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4902</origWidth>
+      <origHeight>6297</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4902</w>
+        <h>6297</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+  </pageData>
+</book>

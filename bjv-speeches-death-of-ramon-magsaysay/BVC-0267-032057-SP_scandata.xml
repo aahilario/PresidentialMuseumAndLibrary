@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>bjv-speeches-death-of-ramon-magsaysay</bookId>
+    <leafCount>2</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5131</origWidth>
+      <origHeight>6722</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5131</w>
+        <h>6722</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5092</origWidth>
+      <origHeight>6658</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5092</w>
+        <h>6658</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0076-100219-OP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0076-100219-OP_jp2.zip</original>
+    <mtime>1449477609</mtime>
+    <size>15824</size>
+    <md5>7fca0cef61cb3bfa8fc5b6bad0bf8789</md5>
+    <crc32>d14fa79a</crc32>
+    <sha1>2204118b7bce1392b7844a2acc63b578f59c39e6</sha1>
+  </file>
+  <file name="BVC-0076-100219-OP.pdf" source="original">
+    <mtime>1449477536</mtime>
+    <size>599275</size>
+    <md5>517b81789ec01a829edd7512563e6aaf</md5>
+    <crc32>b5d90673</crc32>
+    <sha1>c55ea519d86f1cc738802a81a9c2c4af0db030dd</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0076-100219-OP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0076-100219-OP_jp2.zip</original>
+    <mtime>1449478529</mtime>
+    <size>9332</size>
+    <md5>07a791f12ab3eda4150465dde97afa6b</md5>
+    <crc32>8058c1a0</crc32>
+    <sha1>f4cc155f1b83db4833e8123027a662ddf50b02cf</sha1>
+  </file>
+  <file name="BVC-0076-100219-OP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0076-100219-OP_djvu.xml</original>
+    <mtime>1456644806</mtime>
+    <size>514</size>
+    <md5>ac15f4e7b5747c9e5693d42003934ee9</md5>
+    <crc32>151a7cdc</crc32>
+    <sha1>d5cefcb24441d0e2e1b73b14ef1e6dc6baee3db3</sha1>
+  </file>
+  <file name="BVC-0076-100219-OP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0076-100219-OP_abbyy.gz</original>
+    <mtime>1449478535</mtime>
+    <size>5565</size>
+    <md5>c357c3a45d2dec7c13fa378196f9e9cc</md5>
+    <crc32>4e871ba8</crc32>
+    <sha1>d887bbb89d6194959bfd7d92297dafb5e2d9daa9</sha1>
+  </file>
+  <file name="BVC-0076-100219-OP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0076-100219-OP.pdf</original>
+    <mtime>1449477600</mtime>
+    <size>714920</size>
+    <md5>8059db9e53febfac877338b82cc112a3</md5>
+    <crc32>3cf127ca</crc32>
+    <sha1>a7ae9b3be7ae181a1a7afbd6504bd81807f300c9</sha1>
+  </file>
+  <file name="BVC-0076-100219-OP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0076-100219-OP_djvu.xml</original>
+    <mtime>1449478555</mtime>
+    <size>588</size>
+    <md5>0f413b9a1b1a945552e87f9cdb455f48</md5>
+    <crc32>cb9fcf0d</crc32>
+    <sha1>4bd2a1d708621a866e9421f09292d3b913f0bab0</sha1>
+  </file>
+  <file name="BVC-0076-100219-OP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0076-100219-OP_djvu.xml</original>
+    <mtime>1449478578</mtime>
+    <size>152587</size>
+    <md5>bd041bb5e07b2e864aa3ef44768ebb96</md5>
+    <crc32>b8f5cf77</crc32>
+    <sha1>970834f10fe79d023463709bfd22aaff9ab25ab1</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530966591</mtime>
+    <size>11645</size>
+    <md5>6b38d927bbe520503c75bb160659e4c3</md5>
+    <crc32>7936f002</crc32>
+    <sha1>c7deed3d1f450d52acdcdadc8eef12f3f58c30b0</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="basilio-valdes-letter-for-an-arrangement-of-a-meeting-in-podgoritsa-montenegro_archive.torrent" source="metadata">
+    <btih>8d9ca932c7f75a20b090fccfc0bdaa25a170bf15</btih>
+    <mtime>1530966592</mtime>
+    <size>3689</size>
+    <md5>4f4098f4555d7d47b0b1836acea2d2d9</md5>
+    <crc32>21d7aa46</crc32>
+    <sha1>93b9d52bb8870e9211c7dc51e426f84503bb5255</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="basilio-valdes-letter-for-an-arrangement-of-a-meeting-in-podgoritsa-montenegro_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>b82d549147b9288835a111b8a7e18044</md5>
+  </file>
+  <file name="basilio-valdes-letter-for-an-arrangement-of-a-meeting-in-podgoritsa-montenegro_meta.sqlite" source="original">
+    <mtime>1463845760</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>8b00991bcca11ecb7896f85afdbce3a4</md5>
+    <crc32>e26cbdeb</crc32>
+    <sha1>600202f025b67b480ea942c166ca4b27309cca65</sha1>
+  </file>
+  <file name="basilio-valdes-letter-for-an-arrangement-of-a-meeting-in-podgoritsa-montenegro_meta.xml" source="original">
+    <mtime>1485738128</mtime>
+    <size>1308</size>
+    <format>Metadata</format>
+    <md5>11d8b91ec80aefea7b4a1c6bde936296</md5>
+    <crc32>6caa269a</crc32>
+    <sha1>bd573815d051af751153f5c7d222aab8e7f6eb73</sha1>
+  </file>
+</files>

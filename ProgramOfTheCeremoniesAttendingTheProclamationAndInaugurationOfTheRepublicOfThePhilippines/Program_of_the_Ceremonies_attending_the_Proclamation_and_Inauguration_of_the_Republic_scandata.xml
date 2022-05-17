@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>ProgramOfTheCeremoniesAttendingTheProclamationAndInaugurationOfTheRepublicOfThePhilippines</bookId>
+    <leafCount>12</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Title</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3646</origWidth>
+      <origHeight>5492</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3646</w>
+        <h>5492</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3279</origWidth>
+      <origHeight>5390</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3279</w>
+        <h>5390</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3406</origWidth>
+      <origHeight>5416</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3406</w>
+        <h>5416</h>
+      </cropBox>
+    </page>
+    <page leafNum="3">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3460</origWidth>
+      <origHeight>5442</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3460</w>
+        <h>5442</h>
+      </cropBox>
+    </page>
+    <page leafNum="4">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3416</origWidth>
+      <origHeight>5358</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3416</w>
+        <h>5358</h>
+      </cropBox>
+    </page>
+    <page leafNum="5">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3584</origWidth>
+      <origHeight>5300</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3584</w>
+        <h>5300</h>
+      </cropBox>
+    </page>
+    <page leafNum="6">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3515</origWidth>
+      <origHeight>5295</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3515</w>
+        <h>5295</h>
+      </cropBox>
+    </page>
+    <page leafNum="7">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3548</origWidth>
+      <origHeight>5307</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3548</w>
+        <h>5307</h>
+      </cropBox>
+    </page>
+    <page leafNum="8">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3479</origWidth>
+      <origHeight>5292</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3479</w>
+        <h>5292</h>
+      </cropBox>
+    </page>
+    <page leafNum="9">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3531</origWidth>
+      <origHeight>5345</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3531</w>
+        <h>5345</h>
+      </cropBox>
+    </page>
+    <page leafNum="10">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3427</origWidth>
+      <origHeight>5318</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3427</w>
+        <h>5318</h>
+      </cropBox>
+    </page>
+    <page leafNum="11">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>3551</origWidth>
+      <origHeight>5474</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>3551</w>
+        <h>5474</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>message-valdes-from-manuel-roxas-reversion-to-inactive-status-may-24-1945</bookId>
+    <leafCount>1</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5128</origWidth>
+      <origHeight>7861</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5128</w>
+        <h>7861</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+  </pageData>
+</book>

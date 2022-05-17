@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0267-032057-SP.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0267-032057-SP_djvu.xml</original>
+    <mtime>1452146972</mtime>
+    <size>284632</size>
+    <md5>c26474495bb748328c9fece8bd391d94</md5>
+    <crc32>8410613a</crc32>
+    <sha1>d21584ac06f57fddbde795e2d540bf639c750c8f</sha1>
+  </file>
+  <file name="BVC-0267-032057-SP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0267-032057-SP_jp2.zip</original>
+    <mtime>1451962999</mtime>
+    <size>31095</size>
+    <md5>473c381847ca1314f28906f50972fe01</md5>
+    <crc32>64d7d9cd</crc32>
+    <sha1>4b569aeb40d386cfa81238ce8bd61bbb2547785b</sha1>
+  </file>
+  <file name="BVC-0267-032057-SP.pdf" source="original">
+    <mtime>1451962843</mtime>
+    <size>3986258</size>
+    <md5>936ebc6340d4fbe23858649c898993c3</md5>
+    <crc32>44479711</crc32>
+    <sha1>329ce4552b3036a27b18042ec4a09a384b48fe4d</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0267-032057-SP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0267-032057-SP_jp2.zip</original>
+    <mtime>1451963076</mtime>
+    <size>71592</size>
+    <md5>f84d2e00340c379cf1f66200b703ba8a</md5>
+    <crc32>a515079c</crc32>
+    <sha1>2ce96aa710d6072b9de43b2fb5b75f43bc802d43</sha1>
+  </file>
+  <file name="BVC-0267-032057-SP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0267-032057-SP.djvu</original>
+    <mtime>1452146979</mtime>
+    <size>4511</size>
+    <md5>0ed55862205079178b1a899f12f501ea</md5>
+    <crc32>13d7c5f0</crc32>
+    <sha1>e66780301d9ed02cbd19bd49dff5ce29a9dfecca</sha1>
+  </file>
+  <file name="BVC-0267-032057-SP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0267-032057-SP_abbyy.gz</original>
+    <mtime>1451963085</mtime>
+    <size>43527</size>
+    <md5>5ce70f0f0f66d1b6bb3523b71dbde7c8</md5>
+    <crc32>df2e760c</crc32>
+    <sha1>f3d51881f1940fe62f017bd9885265e0919a7ba0</sha1>
+  </file>
+  <file name="BVC-0267-032057-SP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0267-032057-SP.pdf</original>
+    <mtime>1451962988</mtime>
+    <size>2536692</size>
+    <md5>c44e2960586817ba66824d18cdf29602</md5>
+    <crc32>bfb6c913</crc32>
+    <sha1>20d55a6647820964be000953a3282035ff9efa40</sha1>
+  </file>
+  <file name="BVC-0267-032057-SP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0267-032057-SP_djvu.xml</original>
+    <mtime>1451963103</mtime>
+    <size>845</size>
+    <md5>f64b1b05f6ff061ff5e1065c0867d531</md5>
+    <crc32>ed5e94b9</crc32>
+    <sha1>b52246b2511bc3a86f7c85e622778e9aa4c8a5e1</sha1>
+  </file>
+  <file name="BVC-0267-032057-SP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0267-032057-SP_djvu.xml</original>
+    <mtime>1451963167</mtime>
+    <size>504710</size>
+    <md5>080316f1817d929ad96adffdd4187523</md5>
+    <crc32>2c569a3a</crc32>
+    <sha1>e79a2fae3f72f9198adc3f4048d1baa8a7ff5004</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530678703</mtime>
+    <size>18173</size>
+    <md5>2c7808d942308a8134b81e326293c1de</md5>
+    <crc32>1caad757</crc32>
+    <sha1>2bcbc0baf262ef8f566b10889db59710ac323d6b</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="bjv-speeches-death-of-ramon-magsaysay_archive.torrent" source="metadata">
+    <btih>c266a8b6489fb58dbb03047d7f39da849ad6d30a</btih>
+    <mtime>1530678703</mtime>
+    <size>3744</size>
+    <md5>d40bad484073da28530d7d4d6279856c</md5>
+    <crc32>37a702a4</crc32>
+    <sha1>beb3a80a5b06b1cbf54dc818b2acd6388b023229</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="bjv-speeches-death-of-ramon-magsaysay_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>daea350da9c4fcb153e3d434833246f8</md5>
+  </file>
+  <file name="bjv-speeches-death-of-ramon-magsaysay_meta.sqlite" source="original">
+    <mtime>1464087609</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>fd916bc40638095b561612cfcadf2d26</md5>
+    <crc32>25e65fb2</crc32>
+    <sha1>e40bc896fcb33f5b90d0f08c87b1f883d1ed97b8</sha1>
+  </file>
+  <file name="bjv-speeches-death-of-ramon-magsaysay_meta.xml" source="original">
+    <mtime>1482722910</mtime>
+    <size>1199</size>
+    <format>Metadata</format>
+    <md5>79f491d514bf76f6ca77952eb69b6c0d</md5>
+    <crc32>ba896d8f</crc32>
+    <sha1>6171afdb539679f54858ea8156df343613e7b92a</sha1>
+  </file>
+</files>

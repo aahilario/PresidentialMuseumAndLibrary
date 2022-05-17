@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>bjv-speeches-veterans-memorial-hospital-volunteers-appreciation-ceremony-november-19-1959</bookId>
+    <leafCount>5</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5128</origWidth>
+      <origHeight>6631</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5128</w>
+        <h>6631</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5118</origWidth>
+      <origHeight>6611</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5118</w>
+        <h>6611</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5118</origWidth>
+      <origHeight>6607</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5118</w>
+        <h>6607</h>
+      </cropBox>
+    </page>
+    <page leafNum="3">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5118</origWidth>
+      <origHeight>6618</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5118</w>
+        <h>6618</h>
+      </cropBox>
+    </page>
+    <page leafNum="4">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5131</origWidth>
+      <origHeight>6635</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5131</w>
+        <h>6635</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

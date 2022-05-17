@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0720-111959-SP.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0720-111959-SP_djvu.xml</original>
+    <mtime>1452165858</mtime>
+    <size>299271</size>
+    <md5>116f52d3224924c57dbee71120482f1b</md5>
+    <crc32>084ff5a3</crc32>
+    <sha1>9789bee46c214b103c9b045f7c82eadd0fb4f216</sha1>
+  </file>
+  <file name="BVC-0720-111959-SP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0720-111959-SP_jp2.zip</original>
+    <mtime>1451963182</mtime>
+    <size>66722</size>
+    <md5>629ef76ad21cea9f8603f84172fc70b9</md5>
+    <crc32>ae494852</crc32>
+    <sha1>d1f3d5d396328fb5686fdca14395e5a9a0682a87</sha1>
+  </file>
+  <file name="BVC-0720-111959-SP.pdf" source="original">
+    <mtime>1451963032</mtime>
+    <size>2919090</size>
+    <md5>fa398f106da7bf514c05a40c6a1f1f5c</md5>
+    <crc32>7c2d460c</crc32>
+    <sha1>3e91f7ce76d34f358dc3c4339c33a08e6ac8864a</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0720-111959-SP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0720-111959-SP_jp2.zip</original>
+    <mtime>1451963346</mtime>
+    <size>102950</size>
+    <md5>ac9555bfce30236c7275999e0a6781d2</md5>
+    <crc32>e6cb72b8</crc32>
+    <sha1>dddf815df916873aa082f3ed873218123efd855e</sha1>
+  </file>
+  <file name="BVC-0720-111959-SP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0720-111959-SP.djvu</original>
+    <mtime>1452165865</mtime>
+    <size>6954</size>
+    <md5>5f09b354aa5a4758650711c2912dd3bb</md5>
+    <crc32>ad4d348e</crc32>
+    <sha1>b5e766d79a412585a2612ca25e43f6baf820f8c5</sha1>
+  </file>
+  <file name="BVC-0720-111959-SP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0720-111959-SP_abbyy.gz</original>
+    <mtime>1451963355</mtime>
+    <size>71107</size>
+    <md5>71b425bce79d4d605ba0ee8912760b68</md5>
+    <crc32>67c23d65</crc32>
+    <sha1>4f9be6cf1abde098a940f7562c90e25f3e2f5feb</sha1>
+  </file>
+  <file name="BVC-0720-111959-SP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0720-111959-SP.pdf</original>
+    <mtime>1451963153</mtime>
+    <size>3961288</size>
+    <md5>363362677848bea6adbd61c1ecd83c99</md5>
+    <crc32>f3ff517b</crc32>
+    <sha1>6e44d7e7e3c5fe5af58625f7a6e3ef7d29978533</sha1>
+  </file>
+  <file name="BVC-0720-111959-SP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0720-111959-SP_djvu.xml</original>
+    <mtime>1451963391</mtime>
+    <size>1791</size>
+    <md5>e45f16ae75e67762c3673e1ec9c1b72e</md5>
+    <crc32>6f456ca6</crc32>
+    <sha1>ab56c806b4ca01130f62a77fc7bfd607d7b8007a</sha1>
+  </file>
+  <file name="BVC-0720-111959-SP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0720-111959-SP_djvu.xml</original>
+    <mtime>1451963500</mtime>
+    <size>834595</size>
+    <md5>15b23b04294078e3b39a1cbfb9198ff5</md5>
+    <crc32>86bda0ab</crc32>
+    <sha1>eda5fde816219c05049bbb181b208f2b392da648</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1531094182</mtime>
+    <size>14786</size>
+    <md5>e165445822a98763f0141761a029cf73</md5>
+    <crc32>4c8b79db</crc32>
+    <sha1>be03ed47a595d1dc87df1418a115ce2f5ebc2a02</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="bjv-speeches-veterans-memorial-hospital-volunteers-appreciation-ceremony-november-19-1959_archive.torrent" source="metadata">
+    <btih>8b2bf6ef7495f659422ab92252821028093b1ab9</btih>
+    <mtime>1531094183</mtime>
+    <size>4236</size>
+    <md5>7afc3336d760858832fa2b8d845b8724</md5>
+    <crc32>e4c7e5fc</crc32>
+    <sha1>4eb931abd0405be1694b71047d08fa5be2e8f06b</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="bjv-speeches-veterans-memorial-hospital-volunteers-appreciation-ceremony-november-19-1959_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>731e2b4d6013628747e0e9945beb4716</md5>
+  </file>
+  <file name="bjv-speeches-veterans-memorial-hospital-volunteers-appreciation-ceremony-november-19-1959_meta.sqlite" source="original">
+    <mtime>1464084154</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>463961a663010c3ad852b7d9a96a8e2f</md5>
+    <crc32>cab86a68</crc32>
+    <sha1>3c40bb6fe1d6042e51f460668dc2a970481069a8</sha1>
+  </file>
+  <file name="bjv-speeches-veterans-memorial-hospital-volunteers-appreciation-ceremony-november-19-1959_meta.xml" source="original">
+    <mtime>1482741905</mtime>
+    <size>1390</size>
+    <format>Metadata</format>
+    <md5>cca59d9d952315fe0a19b8cb33564c7a</md5>
+    <crc32>e3310812</crc32>
+    <sha1>c1b83b530860398c72a7f36c237bcf506616b0bc</sha1>
+  </file>
+</files>

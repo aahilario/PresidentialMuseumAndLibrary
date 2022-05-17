@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0397-080834-CP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0397-080834-CP_jp2.zip</original>
+    <mtime>1450688148</mtime>
+    <size>14989</size>
+    <md5>46e0bde329fcda4072485b932a2ae214</md5>
+    <crc32>c4471eff</crc32>
+    <sha1>8ae125b94b7c269e0d7126fd1a5652300f0a838f</sha1>
+  </file>
+  <file name="BVC-0397-080834-CP.pdf" source="original">
+    <mtime>1450688091</mtime>
+    <size>677215</size>
+    <md5>5da08941c828445ba8c333190eebfefc</md5>
+    <crc32>b9307134</crc32>
+    <sha1>f44de02135b4fd45fe98ad3d359aa185ce2e2b3a</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0397-080834-CP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0397-080834-CP_jp2.zip</original>
+    <mtime>1450688172</mtime>
+    <size>17923</size>
+    <md5>ba01116cbd34ad2a565831f8fddbc587</md5>
+    <crc32>98388961</crc32>
+    <sha1>992ad6ae67f96b3443571dfef36a411a41950a1c</sha1>
+  </file>
+  <file name="BVC-0397-080834-CP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0397-080834-CP_djvu.xml</original>
+    <mtime>1456644635</mtime>
+    <size>982</size>
+    <md5>15e092c6cda0810724e59cddbeb11a39</md5>
+    <crc32>06f03f54</crc32>
+    <sha1>7a8659d727dae3f4c82f433df367c799478da2df</sha1>
+  </file>
+  <file name="BVC-0397-080834-CP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0397-080834-CP_abbyy.gz</original>
+    <mtime>1450688178</mtime>
+    <size>11396</size>
+    <md5>24678ba39b1551e8346099bad3bce3f1</md5>
+    <crc32>221bfb0c</crc32>
+    <sha1>8596cec7509e61ddcf1db315c0f4c6b88e05fcc5</sha1>
+  </file>
+  <file name="BVC-0397-080834-CP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0397-080834-CP.pdf</original>
+    <mtime>1450688142</mtime>
+    <size>956060</size>
+    <md5>c3897113eb51c2e4e050a856e283c76f</md5>
+    <crc32>dc3df064</crc32>
+    <sha1>25525c4f2593dd4f4f8376b34f98f40ade95af6b</sha1>
+  </file>
+  <file name="BVC-0397-080834-CP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0397-080834-CP_djvu.xml</original>
+    <mtime>1450688187</mtime>
+    <size>582</size>
+    <md5>c7dd318a631fc1644f58eed57062c490</md5>
+    <crc32>5da5e778</crc32>
+    <sha1>b033bb5e4fb847287e66c133ec4be528714f7816</sha1>
+  </file>
+  <file name="BVC-0397-080834-CP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0397-080834-CP_djvu.xml</original>
+    <mtime>1450688204</mtime>
+    <size>186369</size>
+    <md5>d17f113608281cbf664f785f23b32fda</md5>
+    <crc32>45753e41</crc32>
+    <sha1>fd019a34794d8bf67257ef194d3f0b8063c16acf</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530993539</mtime>
+    <size>16248</size>
+    <md5>146465eec52de63e218c33997f64c2b3</md5>
+    <crc32>8c9078ae</crc32>
+    <sha1>4fcb9320f008fa1c08cbe450025ec78dd48bd945</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="notice-basilio-valdes-brigadier-general-constabulary-chief-august-8-1934_archive.torrent" source="metadata">
+    <btih>ec75a82852c661091623ca3e7243a62deecc4f59</btih>
+    <mtime>1530993540</mtime>
+    <size>3657</size>
+    <md5>c712ace25449fed76ec3a9ac251525b6</md5>
+    <crc32>15c93743</crc32>
+    <sha1>adfe4d74009e01d022f3c3f092a0dc13b64b6216</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="notice-basilio-valdes-brigadier-general-constabulary-chief-august-8-1934_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>24e8ecc55895524949866ef4548f051c</md5>
+  </file>
+  <file name="notice-basilio-valdes-brigadier-general-constabulary-chief-august-8-1934_meta.sqlite" source="original">
+    <mtime>1466332917</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>b68d016e95be81f2df8e4463d56b7276</md5>
+    <crc32>adc25b04</crc32>
+    <sha1>5ed79ebe63fc94908ee2a7976ca30f1ff9cf1717</sha1>
+  </file>
+  <file name="notice-basilio-valdes-brigadier-general-constabulary-chief-august-8-1934_meta.xml" source="original">
+    <mtime>1482441837</mtime>
+    <size>1406</size>
+    <format>Metadata</format>
+    <md5>2563ae05e7b5333a28e633b3825565ee</md5>
+    <crc32>1bcac04d</crc32>
+    <sha1>1136b4dc260b12d452cb6a8d41f9951122ba0c48</sha1>
+  </file>
+</files>
