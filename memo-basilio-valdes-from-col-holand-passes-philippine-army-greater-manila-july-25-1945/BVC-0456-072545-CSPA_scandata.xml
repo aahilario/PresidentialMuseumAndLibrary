@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>memo-basilio-valdes-from-col-holand-passes-philippine-army-greater-manila-july-25-1945</bookId>
+    <leafCount>2</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4800</origWidth>
+      <origHeight>6257</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4800</w>
+        <h>6257</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4867</origWidth>
+      <origHeight>6357</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4867</w>
+        <h>6357</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

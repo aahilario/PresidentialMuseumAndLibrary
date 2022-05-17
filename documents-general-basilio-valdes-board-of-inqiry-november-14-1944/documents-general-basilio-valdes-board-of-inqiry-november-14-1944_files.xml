@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0551-092144-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0551-092144-BVL_jp2.zip</original>
+    <mtime>1459328110</mtime>
+    <size>15655</size>
+    <md5>6add4c5ae8a19278c2a957d9966f07d4</md5>
+    <crc32>999a9f17</crc32>
+    <sha1>17077bd173db4bb39fd73a9f31a203bca104e92e</sha1>
+  </file>
+  <file name="BVC-0551-092144-BVL.pdf" source="original">
+    <mtime>1459327077</mtime>
+    <size>486294</size>
+    <md5>0758739d88c7172e1206597cc9291472</md5>
+    <crc32>5646ae83</crc32>
+    <sha1>3f3b1b0cdcb451de2f1291d6236aad7850ab97ef</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0551-092144-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0551-092144-BVL_jp2.zip</original>
+    <mtime>1459328229</mtime>
+    <size>21306</size>
+    <md5>d1ff94344bbb5bb5dcb44a166a13e883</md5>
+    <crc32>739a72ea</crc32>
+    <sha1>796f1f97638aa94622769462a236d9d107cad182</sha1>
+  </file>
+  <file name="BVC-0551-092144-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0551-092144-BVL_djvu.xml</original>
+    <mtime>1459328712</mtime>
+    <size>1244</size>
+    <md5>0618cce4bec73348a39723f0d5e3a7f4</md5>
+    <crc32>0b6350a7</crc32>
+    <sha1>db9b43914b000fbaef68a18a1ec4db288cd93655</sha1>
+  </file>
+  <file name="BVC-0551-092144-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0551-092144-BVL_abbyy.gz</original>
+    <mtime>1459328551</mtime>
+    <size>14182</size>
+    <md5>79ea9930c2fb5092078f7440b38e1ba1</md5>
+    <crc32>54596092</crc32>
+    <sha1>3b9270e7b6969cabd5c7c77c12a3e6143db0fb0e</sha1>
+  </file>
+  <file name="BVC-0551-092144-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0551-092144-BVL.pdf</original>
+    <mtime>1459328089</mtime>
+    <size>663702</size>
+    <md5>6324c469350d2826fc57fc9bc9ba3345</md5>
+    <crc32>80ff9305</crc32>
+    <sha1>624a1b016da0bc11b05b1a0f53b81b243a93eba9</sha1>
+  </file>
+  <file name="BVC-0551-092144-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0551-092144-BVL_djvu.xml</original>
+    <mtime>1459328713</mtime>
+    <size>575</size>
+    <md5>81e7e9a0d819491571a87b5a620e4a76</md5>
+    <crc32>dc64385d</crc32>
+    <sha1>5c124ea9b8e2f915ae53d785536448615d006c5e</sha1>
+  </file>
+  <file name="BVC-0551-092144-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0551-092144-BVL_djvu.xml</original>
+    <mtime>1459328706</mtime>
+    <size>170284</size>
+    <md5>2176ff96fd1bbbd65b5cec2377839033</md5>
+    <crc32>130fac91</crc32>
+    <sha1>c4a7095f174d7310afc1ad78b22a42f74d1d2f2a</sha1>
+  </file>
+  <file name="BVC-0552-111644-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0552-111644-BVL_jp2.zip</original>
+    <mtime>1459328099</mtime>
+    <size>16139</size>
+    <md5>789096b96662162f6ed36df1b8bf7118</md5>
+    <crc32>6128807a</crc32>
+    <sha1>582d09e1d680472154d21baa8581b479c3673bd3</sha1>
+  </file>
+  <file name="BVC-0552-111644-BVL.pdf" source="original">
+    <mtime>1459327093</mtime>
+    <size>669623</size>
+    <md5>f8c954f7c1b34d6defbb0db3bab5168f</md5>
+    <crc32>d461b4e3</crc32>
+    <sha1>be50ff118f553bd8a4e1bccd945eb19b15436e14</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0552-111644-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0552-111644-BVL_jp2.zip</original>
+    <mtime>1459328159</mtime>
+    <size>17076</size>
+    <md5>7eddb34c6e21a5fd6c907ffd66c85158</md5>
+    <crc32>66e19d34</crc32>
+    <sha1>3b1be0d4c3635be8292fe2372b5f3c2a9faf7c0c</sha1>
+  </file>
+  <file name="BVC-0552-111644-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0552-111644-BVL_djvu.xml</original>
+    <mtime>1459328685</mtime>
+    <size>946</size>
+    <md5>fc7517d4db588869d0db84eabc382e22</md5>
+    <crc32>9a6d67f3</crc32>
+    <sha1>04a7df909337a4123fe5089a730c67edee2ceffc</sha1>
+  </file>
+  <file name="BVC-0552-111644-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0552-111644-BVL_abbyy.gz</original>
+    <mtime>1459328556</mtime>
+    <size>11851</size>
+    <md5>85fe8d32a33e2eb89c2644ed2768040e</md5>
+    <crc32>b5452ef3</crc32>
+    <sha1>465305c4f4cede4cb15758a51e3797b444697ec1</sha1>
+  </file>
+  <file name="BVC-0552-111644-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0552-111644-BVL.pdf</original>
+    <mtime>1459328058</mtime>
+    <size>898722</size>
+    <md5>35d63be2e2e658470722e68fd546fb18</md5>
+    <crc32>1b8daace</crc32>
+    <sha1>6579f784b7e2ff8c0ad4023197011329a8738c5b</sha1>
+  </file>
+  <file name="BVC-0552-111644-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0552-111644-BVL_djvu.xml</original>
+    <mtime>1459328686</mtime>
+    <size>575</size>
+    <md5>38945d667cd19a5ea6415d4612d6beca</md5>
+    <crc32>5a84aa32</crc32>
+    <sha1>81b99e40573dae13e6b4134fd4ddc05c94fa6de1</sha1>
+  </file>
+  <file name="BVC-0552-111644-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0552-111644-BVL_djvu.xml</original>
+    <mtime>1459328684</mtime>
+    <size>174034</size>
+    <md5>570afbbb51352c54e93ed4b18f7d6a01</md5>
+    <crc32>f4ef9e37</crc32>
+    <sha1>144a02474b6e652b88145b88f6d32369c4c49d8a</sha1>
+  </file>
+  <file name="BVC-0553-111544-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0553-111544-BVL_jp2.zip</original>
+    <mtime>1459328112</mtime>
+    <size>17153</size>
+    <md5>e23bd528f092db77b7917dd6f88927db</md5>
+    <crc32>a0478709</crc32>
+    <sha1>ced968204f7048532e90d45fa7803a5fe90bd809</sha1>
+  </file>
+  <file name="BVC-0553-111544-BVL.pdf" source="original">
+    <mtime>1459327103</mtime>
+    <size>708918</size>
+    <md5>1b18be09e276f8de124301e192cbbfd4</md5>
+    <crc32>0a24627a</crc32>
+    <sha1>b2829b46f27585e1e129c55b607a48282cd24877</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0553-111544-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0553-111544-BVL_jp2.zip</original>
+    <mtime>1459328246</mtime>
+    <size>22844</size>
+    <md5>1f44884130b36390dccd287d3408470d</md5>
+    <crc32>34aaa98d</crc32>
+    <sha1>a7aae8c78505ab185ee7051dbec92bf394d9391b</sha1>
+  </file>
+  <file name="BVC-0553-111544-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0553-111544-BVL_djvu.xml</original>
+    <mtime>1459328757</mtime>
+    <size>1491</size>
+    <md5>f454f3e62c751c8b19ed273c8466fcb8</md5>
+    <crc32>a0d3636c</crc32>
+    <sha1>978f6345ae5a559df618dfcef015ba192fdad091</sha1>
+  </file>
+  <file name="BVC-0553-111544-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0553-111544-BVL_abbyy.gz</original>
+    <mtime>1459328552</mtime>
+    <size>23769</size>
+    <md5>f842e5a7b98d55646c7cdf16ef1e4a75</md5>
+    <crc32>b062b9b9</crc32>
+    <sha1>e5e46b4e43c31f94041273a92ad10db52c48124e</sha1>
+  </file>
+  <file name="BVC-0553-111544-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0553-111544-BVL.pdf</original>
+    <mtime>1459328076</mtime>
+    <size>985238</size>
+    <md5>7fbc5ee42cace080c5f4c2c1850b447a</md5>
+    <crc32>8be8ca78</crc32>
+    <sha1>934dfca07727744005290bf1e2e9555e888c0019</sha1>
+  </file>
+  <file name="BVC-0553-111544-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0553-111544-BVL_djvu.xml</original>
+    <mtime>1459328758</mtime>
+    <size>575</size>
+    <md5>40a3ba1707e25c80016f46bcba8434e9</md5>
+    <crc32>a48528f8</crc32>
+    <sha1>60611b8cee6870fdded2c16ac6127d2ec157bdc0</sha1>
+  </file>
+  <file name="BVC-0553-111544-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0553-111544-BVL_djvu.xml</original>
+    <mtime>1459328750</mtime>
+    <size>207655</size>
+    <md5>908597af9fc13aaf6ae220fb5e5dd4f5</md5>
+    <crc32>b83cf2b5</crc32>
+    <sha1>ef571bae66ed3298d7d7573e52af5e0dc5e390c5</sha1>
+  </file>
+  <file name="BVC-0554-111444-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0554-111444-BVL_jp2.zip</original>
+    <mtime>1459328108</mtime>
+    <size>16887</size>
+    <md5>2ff6f30c5f0087b26e05cbf403fa7b07</md5>
+    <crc32>aaa97022</crc32>
+    <sha1>526117d739fdc5962d71a99c89b2e4c1807e5b4d</sha1>
+  </file>
+  <file name="BVC-0554-111444-BVL.pdf" source="original">
+    <mtime>1459327109</mtime>
+    <size>591479</size>
+    <md5>5b47a7a3d4bb642f2ebde9139b6d7e2e</md5>
+    <crc32>17142c0a</crc32>
+    <sha1>801abb4f01135370479d261ae82cdd3f6ed0bfae</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0554-111444-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0554-111444-BVL_jp2.zip</original>
+    <mtime>1459328541</mtime>
+    <size>13094</size>
+    <md5>8119d26fe66315216fbbb437562224b7</md5>
+    <crc32>c353d7fb</crc32>
+    <sha1>9bda43fbb18177a634fd877c0c8149496316e6b3</sha1>
+  </file>
+  <file name="BVC-0554-111444-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0554-111444-BVL_djvu.xml</original>
+    <mtime>1459328728</mtime>
+    <size>748</size>
+    <md5>fd6ae17144347c63a74856569e878798</md5>
+    <crc32>374e397c</crc32>
+    <sha1>94eb51b2e9a72514b19a4e5bc1f0db3a89e46fdd</sha1>
+  </file>
+  <file name="BVC-0554-111444-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0554-111444-BVL_abbyy.gz</original>
+    <mtime>1459328549</mtime>
+    <size>8525</size>
+    <md5>40fa409dbb8c2244880e6a854124fdc1</md5>
+    <crc32>4047f42f</crc32>
+    <sha1>4e5c00374c8144dc1136da4dde13285766a5e5b7</sha1>
+  </file>
+  <file name="BVC-0554-111444-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0554-111444-BVL.pdf</original>
+    <mtime>1459328042</mtime>
+    <size>737691</size>
+    <md5>2e2df71e206aaec96b02485d359505b6</md5>
+    <crc32>2d28a797</crc32>
+    <sha1>487fddddf6e7de4030e682e06799c262ace7eb6c</sha1>
+  </file>
+  <file name="BVC-0554-111444-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0554-111444-BVL_djvu.xml</original>
+    <mtime>1459328729</mtime>
+    <size>575</size>
+    <md5>d51dffc6aa9ecae4d71f85d08746f04a</md5>
+    <crc32>7753fc97</crc32>
+    <sha1>bc1fc29f5a03dc2b9554d5d09b7024c6b8462444</sha1>
+  </file>
+  <file name="BVC-0554-111444-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0554-111444-BVL_djvu.xml</original>
+    <mtime>1459328727</mtime>
+    <size>163504</size>
+    <md5>85d06cc3929b4358eb81bb44ba88d89c</md5>
+    <crc32>3588b82d</crc32>
+    <sha1>cefeaeb56bb29cee39a498337d351f198f59d4bc</sha1>
+  </file>
+  <file name="BVC-0555-111644-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0555-111644-BVL_jp2.zip</original>
+    <mtime>1459328106</mtime>
+    <size>16134</size>
+    <md5>261f75bedfddf4af81a563ab45bf94bd</md5>
+    <crc32>f78a041d</crc32>
+    <sha1>2c6d076afc33c8f05b9b1607ebd1915515963f90</sha1>
+  </file>
+  <file name="BVC-0555-111644-BVL.pdf" source="original">
+    <mtime>1459327115</mtime>
+    <size>573843</size>
+    <md5>da53b7f1a0f7ca4c14d5a5ee76d2077f</md5>
+    <crc32>0e5b41e5</crc32>
+    <sha1>93c7f03788ecf862588dd79b42e66a0419656912</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0555-111644-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0555-111644-BVL_jp2.zip</original>
+    <mtime>1459328194</mtime>
+    <size>14068</size>
+    <md5>106d2944b6b6364a627d915a12e3a276</md5>
+    <crc32>b67cc359</crc32>
+    <sha1>e03be487b9bd8384a25206e78503baa9437813df</sha1>
+  </file>
+  <file name="BVC-0555-111644-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0555-111644-BVL_djvu.xml</original>
+    <mtime>1459328601</mtime>
+    <size>808</size>
+    <md5>0da681212d03eae21e8a22e636b531e8</md5>
+    <crc32>09384294</crc32>
+    <sha1>20332033902fd9ecd850f22f6c51ab6802b8f251</sha1>
+  </file>
+  <file name="BVC-0555-111644-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0555-111644-BVL_abbyy.gz</original>
+    <mtime>1459328560</mtime>
+    <size>9294</size>
+    <md5>717deb521c845acdc23b90f28471b606</md5>
+    <crc32>9d586fce</crc32>
+    <sha1>8ae85a5fede665e79f9b5a7cd39428ce3d280f86</sha1>
+  </file>
+  <file name="BVC-0555-111644-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0555-111644-BVL.pdf</original>
+    <mtime>1459328026</mtime>
+    <size>787935</size>
+    <md5>666454842a3c46b22ed1834fa9f3880d</md5>
+    <crc32>f3969b15</crc32>
+    <sha1>8ed38524785d19234a6a02a958cfd62ecfaf34c1</sha1>
+  </file>
+  <file name="BVC-0555-111644-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0555-111644-BVL_djvu.xml</original>
+    <mtime>1459328602</mtime>
+    <size>575</size>
+    <md5>7d84a0e8d592536b0be3f66c4d2c3aad</md5>
+    <crc32>3c1dd5b4</crc32>
+    <sha1>3620207d536099e382748c5f005a765f7439aa9f</sha1>
+  </file>
+  <file name="BVC-0555-111644-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0555-111644-BVL_djvu.xml</original>
+    <mtime>1459328600</mtime>
+    <size>148684</size>
+    <md5>8d77820da37405745fbb0ebb0f96ee8e</md5>
+    <crc32>861723e7</crc32>
+    <sha1>9e4895639f03cf15f39e84ce4e5fcb5348e019b6</sha1>
+  </file>
+  <file name="BVC-0556-111644-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0556-111644-BVL_jp2.zip</original>
+    <mtime>1459328096</mtime>
+    <size>15618</size>
+    <md5>6a35c8924812ab4c590ede793d6d1a3e</md5>
+    <crc32>8e7255bd</crc32>
+    <sha1>48fd8adaa730f045e216bb006b74379843a3e603</sha1>
+  </file>
+  <file name="BVC-0556-111644-BVL.pdf" source="original">
+    <mtime>1459327125</mtime>
+    <size>508870</size>
+    <md5>33b7645cf28acf45c629d3a0cf6aa7dd</md5>
+    <crc32>d40cd85b</crc32>
+    <sha1>40ab1758c3cb0f75f546d6fe6db8115ace8a9a4b</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0556-111644-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0556-111644-BVL_jp2.zip</original>
+    <mtime>1459328297</mtime>
+    <size>4979</size>
+    <md5>c3c9576de9f1954c2d6942662d2e68d4</md5>
+    <crc32>3b4403f5</crc32>
+    <sha1>a62f509ee92b86c30419acbf0e2a48ebf0d6a94e</sha1>
+  </file>
+  <file name="BVC-0556-111644-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0556-111644-BVL_djvu.xml</original>
+    <mtime>1459328580</mtime>
+    <size>227</size>
+    <md5>7968ebed724f8625893404ff2597c521</md5>
+    <crc32>99c320da</crc32>
+    <sha1>36ea5d3b30657ded746ce7a32b2ec934fcdb6446</sha1>
+  </file>
+  <file name="BVC-0556-111644-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0556-111644-BVL_abbyy.gz</original>
+    <mtime>1459328555</mtime>
+    <size>4040</size>
+    <md5>fd54242d0a03a2b70b6db438e1155414</md5>
+    <crc32>b1c68131</crc32>
+    <sha1>f62162949f5f64948e9d43c779f73d3a15787b48</sha1>
+  </file>
+  <file name="BVC-0556-111644-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0556-111644-BVL.pdf</original>
+    <mtime>1459327918</mtime>
+    <size>769904</size>
+    <md5>7edd55e797a6ab2b32089189802ac900</md5>
+    <crc32>0d145736</crc32>
+    <sha1>c5f744d3e93ab155bc36e00ff04fbbd09f749fa3</sha1>
+  </file>
+  <file name="BVC-0556-111644-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0556-111644-BVL_djvu.xml</original>
+    <mtime>1459328586</mtime>
+    <size>575</size>
+    <md5>c1fb50e1f4842d0e17a4e26077a7fc34</md5>
+    <crc32>931b16a7</crc32>
+    <sha1>1305c5535d2720411da39d65a613bf41e729758a</sha1>
+  </file>
+  <file name="BVC-0556-111644-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0556-111644-BVL_djvu.xml</original>
+    <mtime>1459328579</mtime>
+    <size>160250</size>
+    <md5>7389cb8c1dd2ba156ce4a97091c42f81</md5>
+    <crc32>9e7610c0</crc32>
+    <sha1>afbc0d68306b46da61fca4f20db7363626e3b8a5</sha1>
+  </file>
+  <file name="BVC-0557-111544-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0557-111544-BVL_jp2.zip</original>
+    <mtime>1459328102</mtime>
+    <size>46835</size>
+    <md5>d3d7fa1bf14bc91a928b04f4e25682f3</md5>
+    <crc32>37bc35cc</crc32>
+    <sha1>4329815d22f15cf7344e2fefdecae2b3f2afc2bf</sha1>
+  </file>
+  <file name="BVC-0557-111544-BVL.pdf" source="original">
+    <mtime>1459327137</mtime>
+    <size>1893730</size>
+    <md5>006a8a5d3299d37a97e0338e3a7895d3</md5>
+    <crc32>b54b725c</crc32>
+    <sha1>9e278858e21b7c53bbf95ef4fb1cee4da6dd03dd</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0557-111544-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0557-111544-BVL_jp2.zip</original>
+    <mtime>1459328472</mtime>
+    <size>23021</size>
+    <md5>fcf6eb62c045df6cdeffbc01dd62586b</md5>
+    <crc32>100cc7d0</crc32>
+    <sha1>a131ee3f31c6fa5ec655749857fd747fafb6cc61</sha1>
+  </file>
+  <file name="BVC-0557-111544-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0557-111544-BVL_djvu.xml</original>
+    <mtime>1459328657</mtime>
+    <size>1257</size>
+    <md5>5968a6604ac13032507243232c070781</md5>
+    <crc32>13ecefa9</crc32>
+    <sha1>5378594dcf9159b698bac484a418ab5aa0a6be70</sha1>
+  </file>
+  <file name="BVC-0557-111544-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0557-111544-BVL_abbyy.gz</original>
+    <mtime>1459328547</mtime>
+    <size>18014</size>
+    <md5>633a0918ba336b306f2ca44f72170ba2</md5>
+    <crc32>5aba33fa</crc32>
+    <sha1>b4632f805101325ca18e462104117da4bcf65ff1</sha1>
+  </file>
+  <file name="BVC-0557-111544-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0557-111544-BVL.pdf</original>
+    <mtime>1459327991</mtime>
+    <size>2965738</size>
+    <md5>85b13da82fe914965845a68b45e42b2a</md5>
+    <crc32>a1da5a1f</crc32>
+    <sha1>c296b2df002c50f6a1c8419d5a6cf2786adb41ec</sha1>
+  </file>
+  <file name="BVC-0557-111544-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0557-111544-BVL_djvu.xml</original>
+    <mtime>1459328668</mtime>
+    <size>1171</size>
+    <md5>48fad6453be55287545b325ad35c2f20</md5>
+    <crc32>cf4867ce</crc32>
+    <sha1>3c2a86c0969d5430ff052faa00a0b5a1284f8da2</sha1>
+  </file>
+  <file name="BVC-0557-111544-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0557-111544-BVL_djvu.xml</original>
+    <mtime>1459328633</mtime>
+    <size>618981</size>
+    <md5>1b7d9a067d1e42732ebcca0355db2cf4</md5>
+    <crc32>0cf26033</crc32>
+    <sha1>60f0bf23247d06b5d88d14c9932ade7ef8f11170</sha1>
+  </file>
+  <file name="BVC-0558-111544-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0558-111544-BVL_jp2.zip</original>
+    <mtime>1459328104</mtime>
+    <size>17480</size>
+    <md5>8bc20a4ae7caf8d1ab38883fae53a4d5</md5>
+    <crc32>1cbe80b9</crc32>
+    <sha1>4f05a9931437747e46ea6ed89524ca4caa11b62d</sha1>
+  </file>
+  <file name="BVC-0558-111544-BVL.pdf" source="original">
+    <mtime>1459327144</mtime>
+    <size>832916</size>
+    <md5>00ad518eade84baba56b47616acb2f73</md5>
+    <crc32>c14d55b0</crc32>
+    <sha1>abf62051853eba3ea3bd4cbba8db9f3e38523392</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0558-111544-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0558-111544-BVL_jp2.zip</original>
+    <mtime>1459328508</mtime>
+    <size>23277</size>
+    <md5>58fe9c5b8d8502878f6354e9a266673b</md5>
+    <crc32>23d626aa</crc32>
+    <sha1>7699243f29812a6b9e7592e185422b15ca727f05</sha1>
+  </file>
+  <file name="BVC-0558-111544-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0558-111544-BVL_djvu.xml</original>
+    <mtime>1459328634</mtime>
+    <size>1453</size>
+    <md5>21281c0f491f1b8189fcf3c75aa10c99</md5>
+    <crc32>3ee60552</crc32>
+    <sha1>461280a739a5d458fa668bb9be018c3770f02c5b</sha1>
+  </file>
+  <file name="BVC-0558-111544-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0558-111544-BVL_abbyy.gz</original>
+    <mtime>1459328554</mtime>
+    <size>14876</size>
+    <md5>0a6395b9b04140397812193a27fb77fe</md5>
+    <crc32>6e8a7c1a</crc32>
+    <sha1>a981c38228c7cdb2f99bcdf528e84b9f939ffdd9</sha1>
+  </file>
+  <file name="BVC-0558-111544-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0558-111544-BVL.pdf</original>
+    <mtime>1459328012</mtime>
+    <size>1173709</size>
+    <md5>747b75a74c7045711388da849d43b5d7</md5>
+    <crc32>85d2abb3</crc32>
+    <sha1>d9bc2e40c14c16cd6d8d4168580fc4355f665012</sha1>
+  </file>
+  <file name="BVC-0558-111544-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0558-111544-BVL_djvu.xml</original>
+    <mtime>1459328635</mtime>
+    <size>575</size>
+    <md5>98045f823fff73551d88c8c78a548fee</md5>
+    <crc32>b127d2f5</crc32>
+    <sha1>41c3313e0c60ad509f54c92d344ef70faa850753</sha1>
+  </file>
+  <file name="BVC-0558-111544-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0558-111544-BVL_djvu.xml</original>
+    <mtime>1459328649</mtime>
+    <size>208740</size>
+    <md5>303845435b5d794bf89c4c223ae945f9</md5>
+    <crc32>e5eaf29d</crc32>
+    <sha1>e055b8302811eee2cbc15d4f4fe4b37bcc1ff6c8</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530587695</mtime>
+    <size>11402</size>
+    <md5>624c5a7acd1a4924354620eb23d15956</md5>
+    <crc32>ccb86f43</crc32>
+    <sha1>3d4ef916afdf7f152cf49132f6520201a668d8a2</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="documents-general-basilio-valdes-board-of-inqiry-november-14-1944_archive.torrent" source="metadata">
+    <btih>99b89458de8dd371a37e86f3f82456314681065c</btih>
+    <mtime>1530587698</mtime>
+    <size>14341</size>
+    <md5>267ff89a6ad99494926a1890d590bfa4</md5>
+    <crc32>ff84c5c7</crc32>
+    <sha1>7c3f8f6e441f9c504705827bb70e749891ce549c</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="documents-general-basilio-valdes-board-of-inqiry-november-14-1944_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>09a247ec130ffe58e406b8eac2926c01</md5>
+  </file>
+  <file name="documents-general-basilio-valdes-board-of-inqiry-november-14-1944_meta.sqlite" source="original">
+    <mtime>1459327147</mtime>
+    <size>26624</size>
+    <md5>cc9edfebd47dc9d7e288cbd6d69868b3</md5>
+    <crc32>c60ea44d</crc32>
+    <sha1>2a08d4be66c275bcfbdb7a8f472a673401e850f1</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="documents-general-basilio-valdes-board-of-inqiry-november-14-1944_meta.xml" source="original">
+    <mtime>1485255668</mtime>
+    <size>1374</size>
+    <format>Metadata</format>
+    <md5>2fac57e001f753a9a9b990e34a49c6b5</md5>
+    <crc32>5b6ab131</crc32>
+    <sha1>145933cbce9aa67beed2ea00beb9a59e645d8034</sha1>
+  </file>
+</files>

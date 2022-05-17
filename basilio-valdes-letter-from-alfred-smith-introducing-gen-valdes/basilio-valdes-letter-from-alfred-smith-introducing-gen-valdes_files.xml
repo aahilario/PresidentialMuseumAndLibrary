@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0069-072819-OP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0069-072819-OP_jp2.zip</original>
+    <mtime>1449475610</mtime>
+    <size>17610</size>
+    <md5>a6aa4d13c96944999399cbbaf695e899</md5>
+    <crc32>63c32df9</crc32>
+    <sha1>89852587057d58c7946ff5c6d207b17ebe404030</sha1>
+  </file>
+  <file name="BVC-0069-072819-OP.pdf" source="original">
+    <mtime>1449475546</mtime>
+    <size>844279</size>
+    <md5>c2ddc722ff88c7368998f23135319d0b</md5>
+    <crc32>b7914301</crc32>
+    <sha1>6a143165e84b5022a6df5bf8980074e7bddf1275</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0069-072819-OP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0069-072819-OP_jp2.zip</original>
+    <mtime>1449476232</mtime>
+    <size>19823</size>
+    <md5>b68dd2a68f089de122dfd5455532a87d</md5>
+    <crc32>f044c9f8</crc32>
+    <sha1>b6f355b35772fec0535b2f69906cbe8fb6422e82</sha1>
+  </file>
+  <file name="BVC-0069-072819-OP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0069-072819-OP_djvu.xml</original>
+    <mtime>1456644624</mtime>
+    <size>1130</size>
+    <md5>f6c04a725031f082139ca8e252618a53</md5>
+    <crc32>ed300b1f</crc32>
+    <sha1>b5d0048e9585509d3fc930e71a9e6abc8db1bafd</sha1>
+  </file>
+  <file name="BVC-0069-072819-OP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0069-072819-OP_abbyy.gz</original>
+    <mtime>1449476238</mtime>
+    <size>11751</size>
+    <md5>1400c7ee2758159c4c34e513916f50bb</md5>
+    <crc32>80180a16</crc32>
+    <sha1>4a1d78276b49da02be13eccd2587c15d8f6603d6</sha1>
+  </file>
+  <file name="BVC-0069-072819-OP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0069-072819-OP.pdf</original>
+    <mtime>1449475603</mtime>
+    <size>1098651</size>
+    <md5>bd91b63a8258e67336da786f8a209b9d</md5>
+    <crc32>43e12246</crc32>
+    <sha1>9cbd6602704ce346ec9259a5552548507e24eada</sha1>
+  </file>
+  <file name="BVC-0069-072819-OP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0069-072819-OP_djvu.xml</original>
+    <mtime>1449476253</mtime>
+    <size>572</size>
+    <md5>9d6a5692fc52a8f51ee45234e8a28455</md5>
+    <crc32>a76ffaa3</crc32>
+    <sha1>2c1dbb2a5ce45fbab83632309aed8eebb5261713</sha1>
+  </file>
+  <file name="BVC-0069-072819-OP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0069-072819-OP_djvu.xml</original>
+    <mtime>1449476266</mtime>
+    <size>223926</size>
+    <md5>9f48dc501f9350a61d339305d5bc8ff8</md5>
+    <crc32>ebf0ba2f</crc32>
+    <sha1>f6062fa13bf7d0465524d3c291ccc72eea938aa3</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530561797</mtime>
+    <size>12766</size>
+    <md5>b9133d0e710f045444cc6ce9d7cfb27d</md5>
+    <crc32>ef46cf6d</crc32>
+    <sha1>06d8ac9dc354de59396e5a32af8449fcec39fd25</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="basilio-valdes-letter-from-alfred-smith-introducing-gen-valdes_archive.torrent" source="metadata">
+    <btih>e321a35fd925d566d916bde9acf02dfbc153e9c3</btih>
+    <mtime>1530561797</mtime>
+    <size>3590</size>
+    <md5>84b08ce4d09343f044179be4fdc669d0</md5>
+    <crc32>824b723c</crc32>
+    <sha1>cc3a07fbe7db73e6c80c65dc80045a1613dc180c</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="basilio-valdes-letter-from-alfred-smith-introducing-gen-valdes_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>c442a6ac7910f15e44f3b7ac346be45c</md5>
+  </file>
+  <file name="basilio-valdes-letter-from-alfred-smith-introducing-gen-valdes_meta.sqlite" source="original">
+    <mtime>1463845821</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>14075a2b475ca294549ad87b09606f60</md5>
+    <crc32>28f9b24e</crc32>
+    <sha1>dff4299c35d8b137e2c9e6a583d19016eeaa2468</sha1>
+  </file>
+  <file name="basilio-valdes-letter-from-alfred-smith-introducing-gen-valdes_meta.xml" source="original">
+    <mtime>1485636963</mtime>
+    <size>1105</size>
+    <format>Metadata</format>
+    <md5>c48953749e1e18b91391596f887121f9</md5>
+    <crc32>0de01059</crc32>
+    <sha1>b8421c980825919a3b190bf6628ecd547e683f80</sha1>
+  </file>
+</files>

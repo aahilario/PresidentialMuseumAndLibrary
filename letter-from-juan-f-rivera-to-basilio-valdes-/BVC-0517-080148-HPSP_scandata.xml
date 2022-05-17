@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>letter-from-juan-f-rivera-to-basilio-valdes-</bookId>
+    <leafCount>1</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5103</origWidth>
+      <origHeight>6586</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5103</w>
+        <h>6586</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+  </pageData>
+</book>

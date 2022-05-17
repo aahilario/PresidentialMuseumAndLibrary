@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>Special-orders-no-169-appointment-of-military-commission-december7-1945</bookId>
+    <leafCount>1</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4844</origWidth>
+      <origHeight>6355</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4844</w>
+        <h>6355</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+  </pageData>
+</book>

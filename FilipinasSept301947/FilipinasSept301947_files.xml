@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Filipinas Sept 30, 1947.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>Filipinas Sept 30, 1947_djvu.xml</original>
+    <mtime>1433076478</mtime>
+    <size>9822096</size>
+    <md5>66be5fa693c3b3b8eaf7d0db7ab19098</md5>
+    <crc32>392696c8</crc32>
+    <sha1>f62ca1ac3a66cd9023f86fa0a49fca2f3eda2b28</sha1>
+  </file>
+  <file name="Filipinas Sept 30, 1947.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Filipinas Sept 30, 1947_jp2.zip</original>
+    <mtime>1433072013</mtime>
+    <size>291753</size>
+    <md5>4feabed67908e4159da31b29559e089d</md5>
+    <crc32>cc14782a</crc32>
+    <sha1>0cd32b77084d312f62128b856505e29e7463a1ba</sha1>
+  </file>
+  <file name="Filipinas Sept 30, 1947.pdf" source="original">
+    <mtime>1433071432</mtime>
+    <size>40325725</size>
+    <md5>e9f8459e0a0e282dc69cbdd5d929ec86</md5>
+    <crc32>bc04f713</crc32>
+    <sha1>90f8758eba37af3f3a19db9ec145054c223208c6</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="Filipinas Sept 30, 1947_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Filipinas Sept 30, 1947_jp2.zip</original>
+    <mtime>1433076042</mtime>
+    <size>2481292</size>
+    <md5>fe7873f114c1d91d8ce78f81e8cf3281</md5>
+    <crc32>56b5c4dc</crc32>
+    <sha1>96c092a419d02dadacde2d79dabc3cca79287597</sha1>
+  </file>
+  <file name="Filipinas Sept 30, 1947_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Filipinas Sept 30, 1947.djvu</original>
+    <mtime>1433077075</mtime>
+    <size>151166</size>
+    <md5>dfb083748701193e1bdff1d0bdbebd72</md5>
+    <crc32>7bd0e949</crc32>
+    <sha1>c7830f890540007f8752217c69e8157012278fc0</sha1>
+  </file>
+  <file name="Filipinas Sept 30, 1947_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Filipinas Sept 30, 1947_abbyy.gz</original>
+    <mtime>1433076083</mtime>
+    <size>1458928</size>
+    <md5>98dd6c88b661298841c5d0bc849c7146</md5>
+    <crc32>e08cd683</crc32>
+    <sha1>f9cc69dfeb07edf90a7e995734cf34605dedf2e6</sha1>
+  </file>
+  <file name="Filipinas Sept 30, 1947_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Filipinas Sept 30, 1947.pdf</original>
+    <mtime>1433071966</mtime>
+    <size>66509832</size>
+    <md5>1747d3999a0e76969e618830d9c03a09</md5>
+    <crc32>05f72b71</crc32>
+    <sha1>f8663ee21f280ff9e4f3b5997a93d39e355723aa</sha1>
+  </file>
+  <file name="Filipinas Sept 30, 1947_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Filipinas Sept 30, 1947_djvu.xml</original>
+    <mtime>1433076480</mtime>
+    <size>8294</size>
+    <md5>06e70d73ecbf46b073cfa1103d0a3acd</md5>
+    <crc32>8343b132</crc32>
+    <sha1>1fecb887872ef0de91a39e6788bb7f45bdbb1fdc</sha1>
+  </file>
+  <file name="Filipinas Sept 30, 1947_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>Filipinas Sept 30, 1947_djvu.xml</original>
+    <mtime>1433077054</mtime>
+    <size>12482234</size>
+    <md5>75127301615b58621e8b119141299b07</md5>
+    <crc32>cab02fce</crc32>
+    <sha1>86c5fb74f4ed8fcd91710b4e7400ae2fc9941794</sha1>
+  </file>
+  <file name="FilipinasSept301947_archive.torrent" source="metadata">
+    <btih>8dc44e3022bdb3097d6a43a22ae70807f21a6495</btih>
+    <mtime>1530864054</mtime>
+    <size>8441</size>
+    <md5>c25df54a03dc46702bc374564907df7b</md5>
+    <crc32>a665bfba</crc32>
+    <sha1>ab88b8e7a74067c9c7f23ef713556e9919084444</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="FilipinasSept301947_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>5e8b98e39608ca2e880403461356a4cb</md5>
+  </file>
+  <file name="FilipinasSept301947_meta.sqlite" source="original">
+    <mtime>1466814326</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>e4bc96d666438b8363c401e152cc843a</md5>
+    <crc32>66f1d23b</crc32>
+    <sha1>23ac0de5638d844c028e07d0c22717d0157b5ca1</sha1>
+  </file>
+  <file name="FilipinasSept301947_meta.xml" source="original">
+    <mtime>1482990083</mtime>
+    <size>1518</size>
+    <format>Metadata</format>
+    <md5>939318489804684e1a3239681849c4d9</md5>
+    <crc32>e95d889c</crc32>
+    <sha1>281cc2898221710a2cc775a28b964a7524583b69</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530864052</mtime>
+    <size>18913</size>
+    <md5>d52074e43a8d8ddea53640a73012dc0a</md5>
+    <crc32>19d51fdd</crc32>
+    <sha1>9520f3d18d9b03c9d3826ffbba324ba4c86af0d9</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

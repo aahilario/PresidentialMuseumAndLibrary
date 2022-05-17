@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>documents-general-basilio-valdes-board-of-inqiry-november-14-1944</bookId>
+    <leafCount>1</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4850</origWidth>
+      <origHeight>6377</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4850</w>
+        <h>6377</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+  </pageData>
+</book>

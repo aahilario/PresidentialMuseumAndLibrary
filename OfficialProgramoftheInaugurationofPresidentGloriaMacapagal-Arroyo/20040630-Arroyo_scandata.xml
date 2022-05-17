@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>300</dpi>
+    <bookId>OfficialProgramoftheInaugurationofPresidentGloriaMacapagal-Arroyo</bookId>
+    <leafCount>3</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>2413</origWidth>
+      <origHeight>3243</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>2413</w>
+        <h>3243</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>2400</origWidth>
+      <origHeight>3216</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>2400</w>
+        <h>3216</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>2400</origWidth>
+      <origHeight>3216</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>2400</w>
+        <h>3216</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

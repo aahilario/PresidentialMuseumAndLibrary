@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Confidential Record of the Press Conference of the President.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>Confidential Record of the Press Conference of the President_djvu.xml</original>
+    <mtime>1437494890</mtime>
+    <size>27610022</size>
+    <md5>0e16d828c77159e799aa3d76d8d52893</md5>
+    <crc32>5b288d80</crc32>
+    <sha1>c781cefa551ed310fdcf16c5ba077a75e7b30a66</sha1>
+  </file>
+  <file name="Confidential Record of the Press Conference of the President.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Confidential Record of the Press Conference of the President_jp2.zip</original>
+    <mtime>1437489597</mtime>
+    <size>309941</size>
+    <md5>13308f11d5a192c86403b4377ad09fd3</md5>
+    <crc32>7e8dc495</crc32>
+    <sha1>c065f2785b1b418aca94cd88145e63ba121ee40c</sha1>
+  </file>
+  <file name="Confidential Record of the Press Conference of the President.pdf" source="original">
+    <mtime>1437488679</mtime>
+    <size>44223934</size>
+    <md5>10fe5fbc025d490b52a2289af863d607</md5>
+    <crc32>0e09320f</crc32>
+    <sha1>9ac3ad6cddb3aceb54ff44d31567f1310b28050c</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="Confidential Record of the Press Conference of the President_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Confidential Record of the Press Conference of the President_jp2.zip</original>
+    <mtime>1437493413</mtime>
+    <size>3827437</size>
+    <md5>0b25e04482ee0fd990ac793f76b8c612</md5>
+    <crc32>5e1eac28</crc32>
+    <sha1>f8959bd03b0692dcac206e5d12a691ec88edf0cc</sha1>
+  </file>
+  <file name="Confidential Record of the Press Conference of the President_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Confidential Record of the Press Conference of the President.djvu</original>
+    <mtime>1437497272</mtime>
+    <size>228807</size>
+    <md5>434a8f8598ebab2a094cd3bf8e826051</md5>
+    <crc32>0e39d87a</crc32>
+    <sha1>353589a0bad01f83401d862cb62c1f2fe842e6db</sha1>
+  </file>
+  <file name="Confidential Record of the Press Conference of the President_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Confidential Record of the Press Conference of the President_abbyy.gz</original>
+    <mtime>1437493465</mtime>
+    <size>2335826</size>
+    <md5>d3dabe7594c88984435a260e0c3b729b</md5>
+    <crc32>ef59ebea</crc32>
+    <sha1>3e20d0082cf8dd3f3e6c1ddd2509f2eac62fcc79</sha1>
+  </file>
+  <file name="Confidential Record of the Press Conference of the President_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Confidential Record of the Press Conference of the President.pdf</original>
+    <mtime>1437489457</mtime>
+    <size>138564149</size>
+    <md5>a610ca3f76de3377169d38d817354791</md5>
+    <crc32>121ea21b</crc32>
+    <sha1>f10bdd3b42df8feed9bbbb9536ae7409ecddd4f2</sha1>
+  </file>
+  <file name="Confidential Record of the Press Conference of the President_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Confidential Record of the Press Conference of the President_djvu.xml</original>
+    <mtime>1437494893</mtime>
+    <size>53873</size>
+    <md5>6d81f75a9bb9de1c95bd492f66bcc369</md5>
+    <crc32>9899903f</crc32>
+    <sha1>edb258f22074d2683fe3083d7510b785932504e1</sha1>
+  </file>
+  <file name="Confidential Record of the Press Conference of the President_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>Confidential Record of the Press Conference of the President_djvu.xml</original>
+    <mtime>1437497228</mtime>
+    <size>40386758</size>
+    <md5>354bd19ee5989a0796de4ee738cac538</md5>
+    <crc32>e2adfbc1</crc32>
+    <sha1>4f720278b28955d23a3130a0bca2afac631f0b3e</sha1>
+  </file>
+  <file name="ConfidentialRecordsOfThePressConferencesOfThePresidentofThePhilippines_archive.torrent" source="metadata">
+    <btih>05896f07ff09fc1d0bf6b019204395fbd5d73e73</btih>
+    <mtime>1530602214</mtime>
+    <size>13974</size>
+    <md5>06c6e8b4d5871b42ae9db3cd6a541be8</md5>
+    <crc32>d780bb4e</crc32>
+    <sha1>8b8bcebfa6476014468e30522f57e2d7387265d2</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="ConfidentialRecordsOfThePressConferencesOfThePresidentofThePhilippines_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>6597f81da0a842fc96dc5aaaba357add</md5>
+  </file>
+  <file name="ConfidentialRecordsOfThePressConferencesOfThePresidentofThePhilippines_meta.sqlite" source="original">
+    <mtime>1466774474</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>90573d0d38781a291bd10e57802cf63e</md5>
+    <crc32>164c0f68</crc32>
+    <sha1>233b211778595014befd378b036aff65a7b2fa78</sha1>
+  </file>
+  <file name="ConfidentialRecordsOfThePressConferencesOfThePresidentofThePhilippines_meta.xml" source="original">
+    <mtime>1482920613</mtime>
+    <size>1074</size>
+    <format>Metadata</format>
+    <md5>a290f37a44db84de8d6c2c9051769268</md5>
+    <crc32>53c62f0d</crc32>
+    <sha1>4a267450438e83fb520ed35005132ae83669153f</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530602212</mtime>
+    <size>18651</size>
+    <md5>b0f6ef95bc93d73ac81147a5472e0bc3</md5>
+    <crc32>6df54617</crc32>
+    <sha1>cb6bbb2a5a9f0c7390cbf2ab81f64d10deb3e901</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+</files>

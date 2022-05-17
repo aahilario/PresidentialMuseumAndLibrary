@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0675-120745-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0675-120745-BVL_jp2.zip</original>
+    <mtime>1450410319</mtime>
+    <size>15842</size>
+    <md5>4f9cb5b8f1a986583727773b04bfeb16</md5>
+    <crc32>a07f73b1</crc32>
+    <sha1>5c4d70edf1fcd50f3ea4bf420847680f4a8d0e72</sha1>
+  </file>
+  <file name="BVC-0675-120745-BVL.pdf" source="original">
+    <mtime>1450406844</mtime>
+    <size>573815</size>
+    <md5>12e7d37658fd222be80780ac31a25e4f</md5>
+    <crc32>947ed773</crc32>
+    <sha1>cddb0f9bdf686f845e57d322f129103c8b0e3949</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0675-120745-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0675-120745-BVL_jp2.zip</original>
+    <mtime>1450410341</mtime>
+    <size>13786</size>
+    <md5>bb6d2a3b1fde47180adbae56c6e67b1e</md5>
+    <crc32>7c27dc04</crc32>
+    <sha1>629002e739667560f77a9093379c28ee76feb29e</sha1>
+  </file>
+  <file name="BVC-0675-120745-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0675-120745-BVL_djvu.xml</original>
+    <mtime>1456644664</mtime>
+    <size>781</size>
+    <md5>e6858edf3b38c714e068be5d9b1050f7</md5>
+    <crc32>3ef0add1</crc32>
+    <sha1>dcea9e7ea31b6cec76376dc7db8a68d43590ab3c</sha1>
+  </file>
+  <file name="BVC-0675-120745-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0675-120745-BVL_abbyy.gz</original>
+    <mtime>1450410349</mtime>
+    <size>8922</size>
+    <md5>ef1fadd2d33d3de7fb399685a22fe733</md5>
+    <crc32>d1202a4a</crc32>
+    <sha1>7fb7a2dcd27a2d1e207b03bcd554c295572381b3</sha1>
+  </file>
+  <file name="BVC-0675-120745-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0675-120745-BVL.pdf</original>
+    <mtime>1450410309</mtime>
+    <size>716524</size>
+    <md5>4bf79931ca8ebd7b2fe425e399e18e32</md5>
+    <crc32>f0f7bc08</crc32>
+    <sha1>73755944d97ad303a4c4fc424d43cb981afe9499</sha1>
+  </file>
+  <file name="BVC-0675-120745-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0675-120745-BVL_djvu.xml</original>
+    <mtime>1450410371</mtime>
+    <size>581</size>
+    <md5>3d9fe1a22abc67f3a0c92aded5202e2e</md5>
+    <crc32>596cdd49</crc32>
+    <sha1>13f1e54da2f54d995957aac138aa9dbcdae298e4</sha1>
+  </file>
+  <file name="BVC-0675-120745-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0675-120745-BVL_djvu.xml</original>
+    <mtime>1450410401</mtime>
+    <size>168536</size>
+    <md5>6353014d6e04fd3137f9766e612e1c44</md5>
+    <crc32>16816157</crc32>
+    <sha1>fe92d3559527433ffdb48add525075a8c116b5f3</sha1>
+  </file>
+  <file name="Special-orders-no-169-appointment-of-military-commission-december7-1945_archive.torrent" source="metadata">
+    <btih>13b6de855050881eae0178204169c22913b3f403</btih>
+    <mtime>1530952040</mtime>
+    <size>3635</size>
+    <md5>30e00b3c3df4c2da04d50bfc7514e070</md5>
+    <crc32>357d41c4</crc32>
+    <sha1>0d725a515d9bd3b073d974d914e5073f92e939dd</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Special-orders-no-169-appointment-of-military-commission-december7-1945_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>b3479bf3579e64e29b4a78a305670c9a</md5>
+  </file>
+  <file name="Special-orders-no-169-appointment-of-military-commission-december7-1945_meta.sqlite" source="original">
+    <mtime>1466308717</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>ee778575ae961413b3ea70c1fbe69be6</md5>
+    <crc32>9ad4750d</crc32>
+    <sha1>7bfec436863c2a6d9b8078c44e70d0b916c0db63</sha1>
+  </file>
+  <file name="Special-orders-no-169-appointment-of-military-commission-december7-1945_meta.xml" source="original">
+    <mtime>1485636046</mtime>
+    <size>1194</size>
+    <format>Metadata</format>
+    <md5>ededb4009101f08a11f781e77188edd2</md5>
+    <crc32>1fd2fa1e</crc32>
+    <sha1>68e4ee7016809e91ff737585b99fc2bd037ac69a</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530952040</mtime>
+    <size>10192</size>
+    <md5>4640dde1d144e0d90236fd1346239f7a</md5>
+    <crc32>506d6100</crc32>
+    <sha1>f27ea352a76a34bdbbb5583b82a3ed9e55b47e43</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

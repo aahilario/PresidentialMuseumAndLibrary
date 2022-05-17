@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>bjv-speeches-graduation-optometry-april-18-1948</bookId>
+    <leafCount>4</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4813</origWidth>
+      <origHeight>6374</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4813</w>
+        <h>6374</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4796</origWidth>
+      <origHeight>6374</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4796</w>
+        <h>6374</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4815</origWidth>
+      <origHeight>6353</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4815</w>
+        <h>6353</h>
+      </cropBox>
+    </page>
+    <page leafNum="3">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4815</origWidth>
+      <origHeight>6361</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4815</w>
+        <h>6361</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>
