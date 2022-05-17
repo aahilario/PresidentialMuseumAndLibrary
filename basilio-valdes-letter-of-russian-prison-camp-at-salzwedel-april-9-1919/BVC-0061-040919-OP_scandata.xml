@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>basilio-valdes-letter-of-russian-prison-camp-at-salzwedel-april-9-1919</bookId>
+    <leafCount>2</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4856</origWidth>
+      <origHeight>6464</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4856</w>
+        <h>6464</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4811</origWidth>
+      <origHeight>6461</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4811</w>
+        <h>6461</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="PHIL.-PRESS-CLIPPINGS-BU.-VOL-1-1931-1934-A.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>PHIL.-PRESS-CLIPPINGS-BU.-VOL-1-1931-1934-A_djvu.xml</original>
+    <mtime>1431610676</mtime>
+    <size>59371778</size>
+    <md5>fca782a85fa909fc87e89b52686f6e4e</md5>
+    <crc32>e02d95ba</crc32>
+    <sha1>7c0bb001bf3d06f9588c6a0fb75e3a1f80c98978</sha1>
+  </file>
+  <file name="PHIL.-PRESS-CLIPPINGS-BU.-VOL-1-1931-1934-A.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>PHIL.-PRESS-CLIPPINGS-BU.-VOL-1-1931-1934-A_jp2.zip</original>
+    <mtime>1431582772</mtime>
+    <size>336158</size>
+    <md5>fcb063996d82aad1dc7f0cbad2d22609</md5>
+    <crc32>5a3cffb1</crc32>
+    <sha1>31b5990e830a8c1cf8ce57d10cdd192f189028c6</sha1>
+  </file>
+  <file name="PHIL.-PRESS-CLIPPINGS-BU.-VOL-1-1931-1934-A.pdf" source="original">
+    <mtime>1431580134</mtime>
+    <size>170611643</size>
+    <md5>822976dfbaa139cd51f1ff7fd1392c81</md5>
+    <crc32>97d5d78b</crc32>
+    <sha1>2ae01a9674b7bfa5720911549f0d9e89928bffdc</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="PHIL.-PRESS-CLIPPINGS-BU.-VOL-1-1931-1934-A_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>PHIL.-PRESS-CLIPPINGS-BU.-VOL-1-1931-1934-A_jp2.zip</original>
+    <mtime>1431608428</mtime>
+    <size>9274888</size>
+    <md5>48d646ad045b92713b251ec7c6cfda3c</md5>
+    <crc32>2ffa31a7</crc32>
+    <sha1>55a7d39358e5fe7375200701d31b8e41b4d111f8</sha1>
+  </file>
+  <file name="PHIL.-PRESS-CLIPPINGS-BU.-VOL-1-1931-1934-A_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>PHIL.-PRESS-CLIPPINGS-BU.-VOL-1-1931-1934-A.djvu</original>
+    <mtime>1431613987</mtime>
+    <size>515220</size>
+    <md5>aeae66107e291afa00ac718df4458a67</md5>
+    <crc32>d42490bb</crc32>
+    <sha1>01a1b9f537708a766c972710e753bf592f2cb3cb</sha1>
+  </file>
+  <file name="PHIL.-PRESS-CLIPPINGS-BU.-VOL-1-1931-1934-A_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>PHIL.-PRESS-CLIPPINGS-BU.-VOL-1-1931-1934-A_abbyy.gz</original>
+    <mtime>1431608557</mtime>
+    <size>5071322</size>
+    <md5>0b1fd38822bfe528eebed4a744576192</md5>
+    <crc32>c8e68809</crc32>
+    <sha1>e81af74312154f766805b4cfa4c21b1473adca6d</sha1>
+  </file>
+  <file name="PHIL.-PRESS-CLIPPINGS-BU.-VOL-1-1931-1934-A_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>PHIL.-PRESS-CLIPPINGS-BU.-VOL-1-1931-1934-A.pdf</original>
+    <mtime>1431582684</mtime>
+    <size>289122512</size>
+    <md5>2c783e8059db55ea448fd9f6397c39a4</md5>
+    <crc32>306f9226</crc32>
+    <sha1>c1b8887ffa44a2f24e6c7bfd10d71672ef017637</sha1>
+  </file>
+  <file name="PHIL.-PRESS-CLIPPINGS-BU.-VOL-1-1931-1934-A_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>PHIL.-PRESS-CLIPPINGS-BU.-VOL-1-1931-1934-A_djvu.xml</original>
+    <mtime>1431610717</mtime>
+    <size>34338</size>
+    <md5>8fcb0d5ff16a136e1074bcbe585f93e3</md5>
+    <crc32>effc7923</crc32>
+    <sha1>b99eb81b8a582f6cc290b3a6b8b46e3b9c31a107</sha1>
+  </file>
+  <file name="PHIL.-PRESS-CLIPPINGS-BU.-VOL-1-1931-1934-A_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>PHIL.-PRESS-CLIPPINGS-BU.-VOL-1-1931-1934-A_djvu.xml</original>
+    <mtime>1431613869</mtime>
+    <size>69616261</size>
+    <md5>d023872ca19cfed5d6516471202d1150</md5>
+    <crc32>1a289b9e</crc32>
+    <sha1>7a3dec79af80d2d01e51b918f528ef4d3869cee9</sha1>
+  </file>
+  <file name="PHIL.PRESSCLIPPINGSBU.VOL119311934A_archive.torrent" source="metadata">
+    <btih>066f0ecb09901cf061749b02725f0dd6f741668e</btih>
+    <mtime>1530750453</mtime>
+    <size>26727</size>
+    <md5>bba5f3ec61898c5747dc20fd7add28fa</md5>
+    <crc32>790dc66b</crc32>
+    <sha1>f2e48edc0eb6b9dbde48552b9aa1408620a81d41</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="PHIL.PRESSCLIPPINGSBU.VOL119311934A_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>df54364069c7404fc8cc084c3dcbeaef</md5>
+  </file>
+  <file name="PHIL.PRESSCLIPPINGSBU.VOL119311934A_meta.sqlite" source="original">
+    <mtime>1466012449</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>f116c0f3e2af893ea4571324203daac8</md5>
+    <crc32>5b02e2ce</crc32>
+    <sha1>197023da5781740b2cbd73934dfcf6c9e64cadcb</sha1>
+  </file>
+  <file name="PHIL.PRESSCLIPPINGSBU.VOL119311934A_meta.xml" source="original">
+    <mtime>1482201149</mtime>
+    <size>1322</size>
+    <format>Metadata</format>
+    <md5>10dcdafed4429cbcdb9c0146c4ce7aff</md5>
+    <crc32>ac44d378</crc32>
+    <sha1>b4c531da2b0aba6f250948c80c6235e96b0e381c</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530750447</mtime>
+    <size>22828</size>
+    <md5>97ddd46f276409d2397d65822b5f201f</md5>
+    <crc32>622f8724</crc32>
+    <sha1>bbfc97853c3487a0d2463e5439272b38f532b0aa</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+</files>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="1990-Report-Fact-Finding-Commission.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>1990-Report-Fact-Finding-Commission_djvu.xml</original>
+    <mtime>1436419335</mtime>
+    <size>28262244</size>
+    <md5>d96f575dcc9f3a19bacb7c47d9e9532d</md5>
+    <crc32>b1032ae1</crc32>
+    <sha1>352eb45d394907505122737d6d18c538f17543cb</sha1>
+  </file>
+  <file name="1990-Report-Fact-Finding-Commission.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>1990-Report-Fact-Finding-Commission_jp2.zip</original>
+    <mtime>1436408911</mtime>
+    <size>230874</size>
+    <md5>b57ec712f167fd81b976246863cf2b19</md5>
+    <crc32>6eaf1431</crc32>
+    <sha1>bd9872239542ef33e17f2aba09503eb62b70642a</sha1>
+  </file>
+  <file name="1990-Report-Fact-Finding-Commission.pdf" source="original">
+    <mtime>1436407719</mtime>
+    <size>130324071</size>
+    <md5>b4854f2900843b53fc853bbe71823b8f</md5>
+    <crc32>ecb75410</crc32>
+    <sha1>04c689e54c4601bc4dc04909dfee26692c58aae2</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="1990-Report-Fact-Finding-Commission_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>1990-Report-Fact-Finding-Commission_jp2.zip</original>
+    <mtime>1436416844</mtime>
+    <size>20941759</size>
+    <md5>e605fa9f462abfd65bec8ba5100c7522</md5>
+    <crc32>53550a6f</crc32>
+    <sha1>fa209d497d8af84623e63b7bb26b599eb8f50784</sha1>
+  </file>
+  <file name="1990-Report-Fact-Finding-Commission_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>1990-Report-Fact-Finding-Commission.djvu</original>
+    <mtime>1436422595</mtime>
+    <size>1337475</size>
+    <md5>e25e058acc936bf5a511a943b701d963</md5>
+    <crc32>e50a0493</crc32>
+    <sha1>fe0baebad22a1b9601b7e60374a95f38670b1b93</sha1>
+  </file>
+  <file name="1990-Report-Fact-Finding-Commission_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>1990-Report-Fact-Finding-Commission_abbyy.gz</original>
+    <mtime>1436417203</mtime>
+    <size>12008799</size>
+    <md5>8efa5cc4c0c4fe5400e76cad786e43ff</md5>
+    <crc32>fe3f842b</crc32>
+    <sha1>01e5ca885f55af3ca7a04a3b53cb1a9997085c1a</sha1>
+  </file>
+  <file name="1990-Report-Fact-Finding-Commission_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>1990-Report-Fact-Finding-Commission.pdf</original>
+    <mtime>1436408842</mtime>
+    <size>597634078</size>
+    <md5>492174b81ed80de33635640a8691d817</md5>
+    <crc32>06d2a664</crc32>
+    <sha1>5d278a514f13039633e7a7d582860665f882d3fc</sha1>
+  </file>
+  <file name="1990-Report-Fact-Finding-Commission_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>1990-Report-Fact-Finding-Commission_djvu.xml</original>
+    <mtime>1436419343</mtime>
+    <size>96734</size>
+    <md5>7660fbdec91bbfb14fd0afe7f2e7a0b4</md5>
+    <crc32>61cc90a3</crc32>
+    <sha1>59a02fa6f7cd7ae49b7914ab1582f321c06f782c</sha1>
+  </file>
+  <file name="1990-Report-Fact-Finding-Commission_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>1990-Report-Fact-Finding-Commission_djvu.xml</original>
+    <mtime>1436422526</mtime>
+    <size>49911534</size>
+    <md5>ff4598efaa7c9be905b28797d50a20a5</md5>
+    <crc32>b8b7c6b4</crc32>
+    <sha1>2373e39cf4f336d420648bf7a8fc0a40d4a4f5d3</sha1>
+  </file>
+  <file name="1990ReportFactFindingCommission_archive.torrent" source="metadata">
+    <btih>f179709eb06ebc997496b78800384c27de1cebb2</btih>
+    <mtime>1530935415</mtime>
+    <size>35645</size>
+    <md5>723a91fb88ff30d42dfe4368bfb5a5ac</md5>
+    <crc32>2a834638</crc32>
+    <sha1>387ed9eabfd70b0ab45d727a24c4d16005b23271</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="1990ReportFactFindingCommission_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>4726bf46047c4610807705bc593b6e62</md5>
+  </file>
+  <file name="1990ReportFactFindingCommission_meta.sqlite" source="original">
+    <mtime>1466831150</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>97b8e01dbf5a0bad0c1662f37ffe53a7</md5>
+    <crc32>75fd79d6</crc32>
+    <sha1>aca1fdbb5a9bf23c555fbb405a32405bee1e5f12</sha1>
+  </file>
+  <file name="1990ReportFactFindingCommission_meta.xml" source="original">
+    <mtime>1485111309</mtime>
+    <size>1084</size>
+    <format>Metadata</format>
+    <md5>9f8f0f243fcdf8d016f5caa867900578</md5>
+    <crc32>4497af1b</crc32>
+    <sha1>fded611a76e957f00ca025355c3ef21f7e18122e</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530935410</mtime>
+    <size>13565</size>
+    <md5>880f9e673943af6c3e1ba8d13371a536</md5>
+    <crc32>a693e122</crc32>
+    <sha1>6c7daa54f6a48b87e1699a7847b279b848a39377</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Philippine Magazine - August 1935.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>Philippine Magazine - August 1935_djvu.xml</original>
+    <mtime>1432109975</mtime>
+    <size>5698291</size>
+    <md5>8291d3c3a184f207de2903d6b3751f97</md5>
+    <crc32>95fec1cf</crc32>
+    <sha1>d4a49c16a6ada54afe4473c730d3ee0ec81f7f05</sha1>
+  </file>
+  <file name="Philippine Magazine - August 1935.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Philippine Magazine - August 1935_jp2.zip</original>
+    <mtime>1432107723</mtime>
+    <size>266437</size>
+    <md5>73af573cebd0d4bc3654708b986e5352</md5>
+    <crc32>08d7cde9</crc32>
+    <sha1>dac723c16b56e1660612138d87fff31740104e94</sha1>
+  </file>
+  <file name="Philippine Magazine - August 1935.pdf" source="original">
+    <mtime>1432106963</mtime>
+    <size>5822362</size>
+    <md5>f9da6dee4334ba2acd65d7fdb937fe44</md5>
+    <crc32>d699b9d0</crc32>
+    <sha1>a4527c8e87598b3f8d66302b5d39363d546a475d</sha1>
+    <format>Text PDF</format>
+  </file>
+  <file name="Philippine Magazine - August 1935_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Philippine Magazine - August 1935_jp2.zip</original>
+    <mtime>1432109508</mtime>
+    <size>3811384</size>
+    <md5>5231557c9ea539fc35e1b83b1f8124e8</md5>
+    <crc32>c0dc7940</crc32>
+    <sha1>c4a486a41ce6a2bcd92c32a218d032e4bee64e58</sha1>
+  </file>
+  <file name="Philippine Magazine - August 1935_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Philippine Magazine - August 1935.djvu</original>
+    <mtime>1432110018</mtime>
+    <size>265659</size>
+    <md5>622f5a6f64d17d6a5769eeb19b00fbad</md5>
+    <crc32>93d3740b</crc32>
+    <sha1>bae7f8db490474e980d86f9380609473c5cfdef6</sha1>
+  </file>
+  <file name="Philippine Magazine - August 1935_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Philippine Magazine - August 1935_abbyy.gz</original>
+    <mtime>1432109576</mtime>
+    <size>2470852</size>
+    <md5>3e429c182d20647763f01318bd33717a</md5>
+    <crc32>734cedfa</crc32>
+    <sha1>2b45b3b70802130873160d7d1930a24999247b9e</sha1>
+  </file>
+  <file name="Philippine Magazine - August 1935_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Philippine Magazine - August 1935.pdf</original>
+    <mtime>1432107573</mtime>
+    <size>169877015</size>
+    <md5>b95e7d2aab0a9b0a9c81a5e3203836e6</md5>
+    <crc32>9afcdab0</crc32>
+    <sha1>c00d8c3983e3ca7c599bd30e1011edba639848aa</sha1>
+  </file>
+  <file name="Philippine Magazine - August 1935_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Philippine Magazine - August 1935_djvu.xml</original>
+    <mtime>1432109996</mtime>
+    <size>16974</size>
+    <md5>e2a21a2554a415eb614457c0260d5d37</md5>
+    <crc32>f5161e41</crc32>
+    <sha1>3c98ab290115e12a78971adbe8bc7f215e0a6678</sha1>
+  </file>
+  <file name="PhilippineMagazineAugust1935_archive.torrent" source="metadata">
+    <btih>a06f900478e7c9acb12fbc8a0bac676419922823</btih>
+    <mtime>1530890909</mtime>
+    <size>10514</size>
+    <md5>b7a047832b5bd316ba71dc218a569390</md5>
+    <crc32>44e88faf</crc32>
+    <sha1>5166771a7a54509043af6e1b948d761633b296f9</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="PhilippineMagazineAugust1935_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>a16a7f78c5ef9d31c6b673a687297c51</md5>
+  </file>
+  <file name="PhilippineMagazineAugust1935_meta.sqlite" source="original">
+    <mtime>1467686585</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>c10a57faa19af535f3fa7e2453775b23</md5>
+    <crc32>d15cfce6</crc32>
+    <sha1>ae22929902d68a8de9865ebe037982accf726d0d</sha1>
+  </file>
+  <file name="PhilippineMagazineAugust1935_meta.xml" source="original">
+    <mtime>1483063958</mtime>
+    <size>1290</size>
+    <format>Metadata</format>
+    <md5>ca2375c272c5285c8f665ec205d98be4</md5>
+    <crc32>67787522</crc32>
+    <sha1>a20348838c061156577118434e6772e71b5ecd2e</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530890907</mtime>
+    <size>15852</size>
+    <md5>55afa2fb6626199f7468482aa6bc9895</md5>
+    <crc32>f97d98a6</crc32>
+    <sha1>289340339332c9a1d396660341cf91fb74996484</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

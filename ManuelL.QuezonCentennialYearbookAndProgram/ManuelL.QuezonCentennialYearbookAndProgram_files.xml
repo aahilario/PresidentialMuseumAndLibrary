@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Manuel L. Quezon Centennial Yearbook and Program.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>Manuel L. Quezon Centennial Yearbook and Program_djvu.xml</original>
+    <mtime>1431862784</mtime>
+    <size>20885690</size>
+    <md5>fa2f95f975bbcee6ca20fb56d27c9234</md5>
+    <crc32>d6f73316</crc32>
+    <sha1>c48785f4b8a89e104ca5b5fdd841b0e2f1bde30a</sha1>
+  </file>
+  <file name="Manuel L. Quezon Centennial Yearbook and Program.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Manuel L. Quezon Centennial Yearbook and Program_jp2.zip</original>
+    <mtime>1431854530</mtime>
+    <size>232891</size>
+    <md5>82d4ef3eda0d0a8b3afa5f2835df532b</md5>
+    <crc32>02ccfba0</crc32>
+    <sha1>6cf2651311d79a2bc81965fbfe3cf0bb4f1f4778</sha1>
+  </file>
+  <file name="Manuel L. Quezon Centennial Yearbook and Program.pdf" source="original">
+    <mtime>1431853034</mtime>
+    <size>121015450</size>
+    <md5>bce7e7b2078f8f7b4ce74cd6ed21f45e</md5>
+    <crc32>dd7d185b</crc32>
+    <sha1>df1232fb01cfc00da76cce19b7cf50b2f7be59b7</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="Manuel L. Quezon Centennial Yearbook and Program_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Manuel L. Quezon Centennial Yearbook and Program_jp2.zip</original>
+    <mtime>1431861063</mtime>
+    <size>3303195</size>
+    <md5>616e04205a4ffb6941e33d8f88440ba9</md5>
+    <crc32>d60ea677</crc32>
+    <sha1>b579dcc8e9cfdad5518847e9f39dbba7c1c2f317</sha1>
+  </file>
+  <file name="Manuel L. Quezon Centennial Yearbook and Program_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Manuel L. Quezon Centennial Yearbook and Program.djvu</original>
+    <mtime>1431865914</mtime>
+    <size>215931</size>
+    <md5>dc52343acc14ff2a0d6b0e9d81330e92</md5>
+    <crc32>94157f53</crc32>
+    <sha1>2be7382adc430cc1db90d5746caa79b14e9a247a</sha1>
+  </file>
+  <file name="Manuel L. Quezon Centennial Yearbook and Program_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Manuel L. Quezon Centennial Yearbook and Program_abbyy.gz</original>
+    <mtime>1431861113</mtime>
+    <size>2028621</size>
+    <md5>315a0e69e4ebe21578af17660faf6e19</md5>
+    <crc32>c8784945</crc32>
+    <sha1>1bac13535361444f5eb034cae2415f438ea3ae7f</sha1>
+  </file>
+  <file name="Manuel L. Quezon Centennial Yearbook and Program_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Manuel L. Quezon Centennial Yearbook and Program.pdf</original>
+    <mtime>1431854439</mtime>
+    <size>154633264</size>
+    <md5>95c414f42756017607c446c83ee58cbb</md5>
+    <crc32>0e143437</crc32>
+    <sha1>008656f6935467d3b7def156df14d225b067b129</sha1>
+  </file>
+  <file name="Manuel L. Quezon Centennial Yearbook and Program_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Manuel L. Quezon Centennial Yearbook and Program_djvu.xml</original>
+    <mtime>1431862791</mtime>
+    <size>53545</size>
+    <md5>e9d34c459d399caa2f1fa13bd32c2b78</md5>
+    <crc32>e425f84c</crc32>
+    <sha1>45009103430cc1a9c96911048aa6892c6cccdb19</sha1>
+  </file>
+  <file name="Manuel L. Quezon Centennial Yearbook and Program_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>Manuel L. Quezon Centennial Yearbook and Program_djvu.xml</original>
+    <mtime>1431865868</mtime>
+    <size>37064841</size>
+    <md5>698033f31979101bba63401ef0a4ac15</md5>
+    <crc32>51224237</crc32>
+    <sha1>6836692c6ca4350b9ed35617cf83063b066ccdc9</sha1>
+  </file>
+  <file name="ManuelL.QuezonCentennialYearbookAndProgram_archive.torrent" source="metadata">
+    <btih>d8d8cccd6ff1b7b4992d0e0713b4fa9281130166</btih>
+    <mtime>1530662899</mtime>
+    <size>16736</size>
+    <md5>1e26b9dde5aa0994f04e39e3968777dc</md5>
+    <crc32>abf9ff93</crc32>
+    <sha1>5cdcf988e4c67a394ac519b880afe4b54757c996</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="ManuelL.QuezonCentennialYearbookAndProgram_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>34e32ac313d856b86aaae8bba582e14e</md5>
+  </file>
+  <file name="ManuelL.QuezonCentennialYearbookAndProgram_meta.sqlite" source="original">
+    <mtime>1463389332</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>99594a8ea790b536ab0c1660b5bf6e1c</md5>
+    <crc32>cc751600</crc32>
+    <sha1>63a7cd91c94ff22fb27eaaeab4964bb6d5ff5929</sha1>
+  </file>
+  <file name="ManuelL.QuezonCentennialYearbookAndProgram_meta.xml" source="original">
+    <mtime>1482650028</mtime>
+    <size>1382</size>
+    <format>Metadata</format>
+    <md5>a0e7a0ab3da271c85f3fa4133d0dc3c8</md5>
+    <crc32>f431c188</crc32>
+    <sha1>eb2edc6b6f2b7e001abd3b7394ff3ee4bef19338</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530662896</mtime>
+    <size>15544</size>
+    <md5>7445a60b8618b8733eb709dc9df9b78e</md5>
+    <crc32>d17d4c67</crc32>
+    <sha1>9d20ce76a2da5405ffe15194d9b43f64811f2a7e</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+</files>

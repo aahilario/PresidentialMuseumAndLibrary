@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0054-030319-OP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0054-030319-OP_jp2.zip</original>
+    <mtime>1449472096</mtime>
+    <size>15866</size>
+    <md5>6ca81bebcac13e1cd1a737bbf99df380</md5>
+    <crc32>77f9215e</crc32>
+    <sha1>cb214830d3e59dd70ffefed60679644118a4c6a5</sha1>
+  </file>
+  <file name="BVC-0054-030319-OP.pdf" source="original">
+    <mtime>1449472045</mtime>
+    <size>418863</size>
+    <md5>7d2c45ab9c5348666eb589f43eb9d0c6</md5>
+    <crc32>cdc53a11</crc32>
+    <sha1>3bcf0cc562c7026568ed1dec6614c16d20ef2f1d</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0054-030319-OP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0054-030319-OP_jp2.zip</original>
+    <mtime>1449472107</mtime>
+    <size>11053</size>
+    <md5>a57459ecb455ce8909b9d6938e8471b7</md5>
+    <crc32>394dbf52</crc32>
+    <sha1>14ec6cdab4966b074e349f605696498f56f96974</sha1>
+  </file>
+  <file name="BVC-0054-030319-OP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0054-030319-OP_djvu.xml</original>
+    <mtime>1456644705</mtime>
+    <size>582</size>
+    <md5>aecc7dc418f280105bdc2f6be48c63ed</md5>
+    <crc32>013e1cc4</crc32>
+    <sha1>6c6051fb4f55b4b665ee7a195da4c723d8c922f4</sha1>
+  </file>
+  <file name="BVC-0054-030319-OP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0054-030319-OP_abbyy.gz</original>
+    <mtime>1449472114</mtime>
+    <size>6751</size>
+    <md5>9bbf04f6178744dbb84045f21797ee33</md5>
+    <crc32>3a6863c8</crc32>
+    <sha1>67fa50e7658862dbb2bd799306421fa03ff3c837</sha1>
+  </file>
+  <file name="BVC-0054-030319-OP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0054-030319-OP.pdf</original>
+    <mtime>1449472089</mtime>
+    <size>491047</size>
+    <md5>53963e0335d1daea8d750c16a435c470</md5>
+    <crc32>44cc76bf</crc32>
+    <sha1>bc8b212fe7ec90e246b481b52afa466640fc1364</sha1>
+  </file>
+  <file name="BVC-0054-030319-OP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0054-030319-OP_djvu.xml</original>
+    <mtime>1449472127</mtime>
+    <size>589</size>
+    <md5>dbef557988b87c81c96cbaf83d39b0b0</md5>
+    <crc32>25638dcb</crc32>
+    <sha1>3f59512cd9d17ef81583bfe7890c07d75711a3a9</sha1>
+  </file>
+  <file name="BVC-0054-030319-OP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0054-030319-OP_djvu.xml</original>
+    <mtime>1449472138</mtime>
+    <size>127119</size>
+    <md5>19bc631b61fa84b39ff7cd16c4301d5c</md5>
+    <crc32>dd634307</crc32>
+    <sha1>94a7a1a00ca387a7fcd3e77a7542ddd913b4be19</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530568359</mtime>
+    <size>8534</size>
+    <md5>8bb170cc47ded4ef72a5aeb15e2b58f0</md5>
+    <crc32>7d3f066d</crc32>
+    <sha1>51c75fedca822194c6d30b955e3e0bc6605c7d5b</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="basilio-valdes-official-papers-draft-russian-prison-camps-at-tauberbischofsheim_archive.torrent" source="metadata">
+    <btih>245345533621c422604747e28ea933a6ec64c74a</btih>
+    <mtime>1530568359</mtime>
+    <size>3698</size>
+    <md5>84dbb685d6d456bf567340f1d6eeb244</md5>
+    <crc32>8e3a6af5</crc32>
+    <sha1>073fb21c357bd23de22de829dcede6a686181db5</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="basilio-valdes-official-papers-draft-russian-prison-camps-at-tauberbischofsheim_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>9241f165b9860f61411aacca267d4f13</md5>
+  </file>
+  <file name="basilio-valdes-official-papers-draft-russian-prison-camps-at-tauberbischofsheim_meta.sqlite" source="original">
+    <mtime>1463789926</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>e15dd3a73c9c356e963ef306b4bbb156</md5>
+    <crc32>254718e7</crc32>
+    <sha1>8987e3f05f6c28481a150a27e8c09b98b45095e9</sha1>
+  </file>
+  <file name="basilio-valdes-official-papers-draft-russian-prison-camps-at-tauberbischofsheim_meta.xml" source="original">
+    <mtime>1485464950</mtime>
+    <size>1173</size>
+    <format>Metadata</format>
+    <md5>e238f12c5f6caec35e1b67afa97b55ec</md5>
+    <crc32>599ae8c8</crc32>
+    <sha1>39a6019f49dbc4a9b9a98f08a4309bb455fffd4e</sha1>
+  </file>
+</files>

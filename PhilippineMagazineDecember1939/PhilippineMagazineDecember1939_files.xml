@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Philippine Magazine - December 1939.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>Philippine Magazine - December 1939_djvu.xml</original>
+    <mtime>1432111519</mtime>
+    <size>4713166</size>
+    <md5>51a5454e93e5521a064dd37d993ec0c0</md5>
+    <crc32>6469460b</crc32>
+    <sha1>2315d79376afd65e267917f7515527a144132bc4</sha1>
+  </file>
+  <file name="Philippine Magazine - December 1939.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Philippine Magazine - December 1939_jp2.zip</original>
+    <mtime>1432108044</mtime>
+    <size>303604</size>
+    <md5>1b4890de159f382a6edd9fc80438ce53</md5>
+    <crc32>bfe07aad</crc32>
+    <sha1>9e74770dcbc7b947574a9742b1c16113af8180d3</sha1>
+  </file>
+  <file name="Philippine Magazine - December 1939.pdf" source="original">
+    <mtime>1432107276</mtime>
+    <size>4590030</size>
+    <md5>cafbbc1cfb247bbb9a0f7559c5122b8c</md5>
+    <crc32>6da058a0</crc32>
+    <sha1>816e017ef82eccf9cd4d58e64ac9119a17738c21</sha1>
+    <format>Text PDF</format>
+  </file>
+  <file name="Philippine Magazine - December 1939_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Philippine Magazine - December 1939_jp2.zip</original>
+    <mtime>1432111033</mtime>
+    <size>3892801</size>
+    <md5>31bb0930a31fe876c8d0ab642517995f</md5>
+    <crc32>9e346819</crc32>
+    <sha1>83ef43af03dba21bda96db034a12959e4b350428</sha1>
+  </file>
+  <file name="Philippine Magazine - December 1939_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Philippine Magazine - December 1939.djvu</original>
+    <mtime>1432111549</mtime>
+    <size>260319</size>
+    <md5>5a3549b0260a7ac95737c3b4c8601cf1</md5>
+    <crc32>c13f8d4a</crc32>
+    <sha1>a4f23d627ecb211e1cf53597000bcaaabddfeb59</sha1>
+  </file>
+  <file name="Philippine Magazine - December 1939_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Philippine Magazine - December 1939_abbyy.gz</original>
+    <mtime>1432111110</mtime>
+    <size>2375932</size>
+    <md5>28d2a3eeab27b69e1c4a3d71b69718f2</md5>
+    <crc32>03624493</crc32>
+    <sha1>c8b55625d0927f174687b930b068a13f19ffda8b</sha1>
+  </file>
+  <file name="Philippine Magazine - December 1939_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Philippine Magazine - December 1939.pdf</original>
+    <mtime>1432107858</mtime>
+    <size>156818486</size>
+    <md5>fe1441a09025155f266d6ffc30af54be</md5>
+    <crc32>f4557821</crc32>
+    <sha1>ffa0ceae8a18c49c2381c0d8656c60ea8f00d79d</sha1>
+  </file>
+  <file name="Philippine Magazine - December 1939_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Philippine Magazine - December 1939_djvu.xml</original>
+    <mtime>1432111528</mtime>
+    <size>14584</size>
+    <md5>a86a5299c5aa4b7925b55f38d9622c54</md5>
+    <crc32>8ff3f6ad</crc32>
+    <sha1>c1c06105187324525133072037546d4d0f0ca2c3</sha1>
+  </file>
+  <file name="PhilippineMagazineDecember1939_archive.torrent" source="metadata">
+    <btih>94c69bc76945400cf8dba1690a170c3220099282</btih>
+    <mtime>1530845608</mtime>
+    <size>9945</size>
+    <md5>ad8455cd299177e7b33b22d424d34e9d</md5>
+    <crc32>8ea5c3e5</crc32>
+    <sha1>7d9d96f2f12909ceaabfb7317eca9b3a40bc29b4</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="PhilippineMagazineDecember1939_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>7c4f518e828bccdfb8a5ac5024d39757</md5>
+  </file>
+  <file name="PhilippineMagazineDecember1939_meta.sqlite" source="original">
+    <mtime>1467686353</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>ebf75dd883d685b2a4415d6c68d46912</md5>
+    <crc32>fcddab9f</crc32>
+    <sha1>90563c353dfbbbf433f7a805de2aa3ea7db8b7ea</sha1>
+  </file>
+  <file name="PhilippineMagazineDecember1939_meta.xml" source="original">
+    <mtime>1483083403</mtime>
+    <size>1287</size>
+    <format>Metadata</format>
+    <md5>c206095ea7e295906963248ad3f018f4</md5>
+    <crc32>b72b32ea</crc32>
+    <sha1>30015e0b2a2cdba4eeb0f9022c778e559227d107</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530845606</mtime>
+    <size>20716</size>
+    <md5>76b8c9a6188b026702444022d46a82e1</md5>
+    <crc32>2283ec20</crc32>
+    <sha1>cef2bd488625349738dac5d540e67bf959bcfc7c</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

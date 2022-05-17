@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Philippine Free Press August 15, 1953.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>Philippine Free Press August 15, 1953_djvu.xml</original>
+    <mtime>1431595310</mtime>
+    <size>8328656</size>
+    <md5>7770595b876353f2465c9c4f785b901e</md5>
+    <crc32>3679b862</crc32>
+    <sha1>48d62d57c132dd82dc9eda28d436d8ee3d4c6d9b</sha1>
+  </file>
+  <file name="Philippine Free Press August 15, 1953.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Philippine Free Press August 15, 1953_jp2.zip</original>
+    <mtime>1431593564</mtime>
+    <size>181725</size>
+    <md5>8b5dd02e9d3d08bd0d93a2a4fee04fb3</md5>
+    <crc32>ad55ff58</crc32>
+    <sha1>f3c601728ce7812b7aeb1a121cd78ae0fa15afe2</sha1>
+  </file>
+  <file name="Philippine Free Press August 15, 1953.pdf" source="original">
+    <mtime>1431592924</mtime>
+    <size>9833152</size>
+    <md5>6bdd18f2f3dc307922c3b868442d2c8d</md5>
+    <crc32>c56c52b0</crc32>
+    <sha1>f5871c47c8f18ba73807eecb06ad0bfe7c51acf7</sha1>
+    <format>Text PDF</format>
+  </file>
+  <file name="Philippine Free Press August 15, 1953_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Philippine Free Press August 15, 1953_jp2.zip</original>
+    <mtime>1431594914</mtime>
+    <size>1047351</size>
+    <md5>d009595412da520ee3576c3cf6078927</md5>
+    <crc32>66f917ca</crc32>
+    <sha1>5855dfc765a70da5a779b795af00568d4bbac25b</sha1>
+  </file>
+  <file name="Philippine Free Press August 15, 1953_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Philippine Free Press August 15, 1953.djvu</original>
+    <mtime>1431595333</mtime>
+    <size>67087</size>
+    <md5>3ff9f74d16c0e8808b4827cf53ef6ec7</md5>
+    <crc32>646ecd62</crc32>
+    <sha1>6cdac59fafdb61af27a61d1f872d4e9250677ca9</sha1>
+  </file>
+  <file name="Philippine Free Press August 15, 1953_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Philippine Free Press August 15, 1953_abbyy.gz</original>
+    <mtime>1431594939</mtime>
+    <size>638969</size>
+    <md5>b5b1e4468f775e5f11dd87d3cf16a62a</md5>
+    <crc32>dbda96cc</crc32>
+    <sha1>ac9e8a3218b9805669c04d33a48c058b32e8a5d6</sha1>
+  </file>
+  <file name="Philippine Free Press August 15, 1953_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Philippine Free Press August 15, 1953.pdf</original>
+    <mtime>1431593520</mtime>
+    <size>49106927</size>
+    <md5>f897e2cc1c3c660d6adfbe34aff99e18</md5>
+    <crc32>3f2bb718</crc32>
+    <sha1>02df2e9364f66c4fd08dfe76892a278b1e3b8a29</sha1>
+  </file>
+  <file name="Philippine Free Press August 15, 1953_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Philippine Free Press August 15, 1953_djvu.xml</original>
+    <mtime>1431595312</mtime>
+    <size>5615</size>
+    <md5>4b4f84802c6d43e6c08e700f65ec1ae7</md5>
+    <crc32>ee8a618a</crc32>
+    <sha1>2da655c5fb70f54b35109a344c10a64789149a1a</sha1>
+  </file>
+  <file name="PhilippineFreePressAugust151953_archive.torrent" source="metadata">
+    <btih>15c8636b621c3438540f4bd2f4a8475216fff026</btih>
+    <mtime>1530738809</mtime>
+    <size>6030</size>
+    <md5>ddd0be438619b8b68ebbfa57ebda4980</md5>
+    <crc32>50d56a76</crc32>
+    <sha1>7b2eeeef1b107fff4ae9d25e5db870add3a89001</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="PhilippineFreePressAugust151953_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>4334cf0923887cd934e5747a62e7a3f6</md5>
+  </file>
+  <file name="PhilippineFreePressAugust151953_meta.sqlite" source="original">
+    <mtime>1463389269</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>0373edce371c13e7875edb47ea9b6656</md5>
+    <crc32>7fd3d753</crc32>
+    <sha1>5a7880f4ae29cb238071d42dfb9ae8e1ef53fd46</sha1>
+  </file>
+  <file name="PhilippineFreePressAugust151953_meta.xml" source="original">
+    <mtime>1482888949</mtime>
+    <size>1484</size>
+    <format>Metadata</format>
+    <md5>1482680ae4d65406d1195282145213a9</md5>
+    <crc32>a1555a79</crc32>
+    <sha1>ef55cfe56418fbeda66fa2f10ef7439daff22151</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530738808</mtime>
+    <size>17682</size>
+    <md5>832668529e5a35f9cc599181b66ff1e8</md5>
+    <crc32>c1e831ff</crc32>
+    <sha1>af0b3acd202a1096d5ebb27b7413724d27148091</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+</files>

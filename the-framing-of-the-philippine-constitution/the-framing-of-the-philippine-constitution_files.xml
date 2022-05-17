@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="The Framing of the Philippine Constitution by Jose M. Aruego.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>The Framing of the Philippine Constitution by Jose M. Aruego_djvu.xml</original>
+    <mtime>1449756115</mtime>
+    <size>59612052</size>
+    <md5>dd43fa00e4d055793b33e80626a2fc63</md5>
+    <crc32>866ff42a</crc32>
+    <sha1>48d031123af313670cc96c057855bceeff86fdd8</sha1>
+  </file>
+  <file name="The Framing of the Philippine Constitution by Jose M. Aruego.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>The Framing of the Philippine Constitution by Jose M. Aruego_jp2.zip</original>
+    <mtime>1449731429</mtime>
+    <size>246642</size>
+    <md5>059311bca58125fb1dc9efa140256db4</md5>
+    <crc32>9617b306</crc32>
+    <sha1>1fb74511173e36174060a6f4a801593fba2c7048</sha1>
+  </file>
+  <file name="The Framing of the Philippine Constitution by Jose M. Aruego.pdf" source="original">
+    <mtime>1449729539</mtime>
+    <size>380844413</size>
+    <md5>7e7ffc4848e8c77554db7f1ed7a2fba4</md5>
+    <crc32>8a3d8b96</crc32>
+    <sha1>6a46f31ca6d23f07ffce8e4a6ef3b511219b64b1</sha1>
+    <format>Text PDF</format>
+  </file>
+  <file name="The Framing of the Philippine Constitution by Jose M. Aruego_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>The Framing of the Philippine Constitution by Jose M. Aruego_jp2.zip</original>
+    <mtime>1449750975</mtime>
+    <size>17920125</size>
+    <md5>503193a17e13d977745c28ef7374c0db</md5>
+    <crc32>4bedcca2</crc32>
+    <sha1>f3cf18b97ccc413996b6e1109f79a4bcb989d868</sha1>
+  </file>
+  <file name="The Framing of the Philippine Constitution by Jose M. Aruego_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>The Framing of the Philippine Constitution by Jose M. Aruego.djvu</original>
+    <mtime>1449756333</mtime>
+    <size>1150830</size>
+    <md5>f98ca49841ccd7adad257fa1ee9b7e05</md5>
+    <crc32>184e53cf</crc32>
+    <sha1>4f03723edec0c1c40fc7b8c872c758b1d2a9f1e9</sha1>
+  </file>
+  <file name="The Framing of the Philippine Constitution by Jose M. Aruego_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>The Framing of the Philippine Constitution by Jose M. Aruego_abbyy.gz</original>
+    <mtime>1449751252</mtime>
+    <size>11120530</size>
+    <md5>4cf38d35529f2baa0a2dc01f63872041</md5>
+    <crc32>b348803b</crc32>
+    <sha1>e81655616ad9ff99bc85f2bd90674adbb6cb1831</sha1>
+  </file>
+  <file name="The Framing of the Philippine Constitution by Jose M. Aruego_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>The Framing of the Philippine Constitution by Jose M. Aruego.pdf</original>
+    <mtime>1449731351</mtime>
+    <size>496150884</size>
+    <md5>aaa861155fc70f2ba141049418789cfc</md5>
+    <crc32>9cb5d12f</crc32>
+    <sha1>14d6ba9ead65539ebd7e135786a8a88305f113b1</sha1>
+  </file>
+  <file name="The Framing of the Philippine Constitution by Jose M. Aruego_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>The Framing of the Philippine Constitution by Jose M. Aruego_djvu.xml</original>
+    <mtime>1449756213</mtime>
+    <size>173845</size>
+    <md5>150fb3724b5388119aba09efc4d1cd7b</md5>
+    <crc32>d43903b3</crc32>
+    <sha1>633d3f255b6d7dc5e2649ca10a0f243149db28ed</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530972902</mtime>
+    <size>22127</size>
+    <md5>46e12edff9f7350d2f8bcb757690a534</md5>
+    <crc32>52f4f5b9</crc32>
+    <sha1>802ef6326b6153f564e3f1a5bbede70f6892c2f9</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="the-framing-of-the-philippine-constitution_archive.torrent" source="metadata">
+    <btih>81239314c617dfbba2f1b1f7474b1402ad8b196f</btih>
+    <mtime>1530972912</mtime>
+    <size>40562</size>
+    <md5>79f25c81c70f47c3c0af54d7b0c5ecb9</md5>
+    <crc32>89ded11c</crc32>
+    <sha1>0bf845649263ddfbb6297777d55bc68d438fbb56</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="the-framing-of-the-philippine-constitution_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>f7e40ce89cff49a9e224d1cf1bc0eb27</md5>
+  </file>
+  <file name="the-framing-of-the-philippine-constitution_meta.sqlite" source="original">
+    <mtime>1467907705</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>87a3bf39f975c7914ae6dd044e9f275f</md5>
+    <crc32>921a4d2b</crc32>
+    <sha1>97bb8b6b66824c663672ec94f8234bf7dde7301c</sha1>
+  </file>
+  <file name="the-framing-of-the-philippine-constitution_meta.xml" source="original">
+    <mtime>1499470053</mtime>
+    <size>1163</size>
+    <format>Metadata</format>
+    <md5>3aa01a461356be92a03641c5de9f42d3</md5>
+    <crc32>c46e4659</crc32>
+    <sha1>2e44907cdb7b50e354f64f70aa3943e4a9045b77</sha1>
+  </file>
+</files>

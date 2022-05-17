@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="PHIL.-PRESS-CLIPPING-VOL.-V-C.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>PHIL.-PRESS-CLIPPING-VOL.-V-C_djvu.xml</original>
+    <mtime>1431609025</mtime>
+    <size>71583120</size>
+    <md5>7b3019aa305037409209f52acceaa093</md5>
+    <crc32>dc1a11e4</crc32>
+    <sha1>e2654cc5c013a896f7662736fff1092a7f5ad9bc</sha1>
+  </file>
+  <file name="PHIL.-PRESS-CLIPPING-VOL.-V-C.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>PHIL.-PRESS-CLIPPING-VOL.-V-C_jp2.zip</original>
+    <mtime>1431577343</mtime>
+    <size>335151</size>
+    <md5>3f7beb54a263901a727b9c66def95596</md5>
+    <crc32>e825e47f</crc32>
+    <sha1>5ac78239d42b6f272546d6302bfe177ed75434b1</sha1>
+  </file>
+  <file name="PHIL.-PRESS-CLIPPING-VOL.-V-C.pdf" source="original">
+    <format>Image Container PDF</format>
+    <mtime>1431417039</mtime>
+    <size>352649383</size>
+    <md5>615858fba5ce698660c30be9b52a10da</md5>
+    <crc32>0f900af8</crc32>
+    <sha1>31022426004f574fb1a2d2e2314305e659f9c00f</sha1>
+  </file>
+  <file name="PHIL.-PRESS-CLIPPING-VOL.-V-C_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>PHIL.-PRESS-CLIPPING-VOL.-V-C_jp2.zip</original>
+    <mtime>1431606782</mtime>
+    <size>11954789</size>
+    <md5>1b013c88b3ab8a7c4bea7d1731a78c83</md5>
+    <crc32>2cd2d697</crc32>
+    <sha1>2d201f6d9b283645cd6f8f2659db894f24791ebe</sha1>
+  </file>
+  <file name="PHIL.-PRESS-CLIPPING-VOL.-V-C_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>PHIL.-PRESS-CLIPPING-VOL.-V-C.djvu</original>
+    <mtime>1431611803</mtime>
+    <size>680150</size>
+    <md5>888309403c612834d7b2a247e126344d</md5>
+    <crc32>c4af9639</crc32>
+    <sha1>56ab6a1187dd7a3028480e9934786fc369c20037</sha1>
+  </file>
+  <file name="PHIL.-PRESS-CLIPPING-VOL.-V-C_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>PHIL.-PRESS-CLIPPING-VOL.-V-C_abbyy.gz</original>
+    <mtime>1431606927</mtime>
+    <size>6438245</size>
+    <md5>10d572b71b4170e257f80f27f3c65606</md5>
+    <crc32>e576c75a</crc32>
+    <sha1>e14509dcfc27b5f4109611d95deb3e2a4e6ec573</sha1>
+  </file>
+  <file name="PHIL.-PRESS-CLIPPING-VOL.-V-C_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>PHIL.-PRESS-CLIPPING-VOL.-V-C.pdf</original>
+    <mtime>1431577290</mtime>
+    <size>374645666</size>
+    <md5>27aebd8ae5bb8e2b3d5a7c643c6c1f42</md5>
+    <crc32>63484668</crc32>
+    <sha1>074047c8a5e8e2b3cab638154a0ed03bf593060c</sha1>
+  </file>
+  <file name="PHIL.-PRESS-CLIPPING-VOL.-V-C_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>PHIL.-PRESS-CLIPPING-VOL.-V-C_djvu.xml</original>
+    <mtime>1431609033</mtime>
+    <size>41242</size>
+    <md5>7e20306a1d6008a69e5f0a9e3251c823</md5>
+    <crc32>d2e01e2b</crc32>
+    <sha1>9463225a819901566f3432af13273c81777040d7</sha1>
+  </file>
+  <file name="PHIL.-PRESS-CLIPPING-VOL.-V-C_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>PHIL.-PRESS-CLIPPING-VOL.-V-C_djvu.xml</original>
+    <mtime>1431611704</mtime>
+    <size>84794102</size>
+    <md5>886d70156e7a866f384fef4fb776617b</md5>
+    <crc32>66199124</crc32>
+    <sha1>94504fae391ac46d7cc66f5b7a8211d08cb362ce</sha1>
+  </file>
+  <file name="PhilippinesPressClippings2_archive.torrent" source="metadata">
+    <btih>3003a08a3ed59b6934100c432664aca8712e68fc</btih>
+    <mtime>1531035631</mtime>
+    <size>37924</size>
+    <md5>6719448c9a782e77491315d08e4ad769</md5>
+    <crc32>492bd8f2</crc32>
+    <sha1>edfd04484d81abe4c88cd8c6d64d9a6817a8d109</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="PhilippinesPressClippings2_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>3d86903085683473db591fc5cd92ee86</md5>
+  </file>
+  <file name="PhilippinesPressClippings2_meta.sqlite" source="original">
+    <mtime>1467916809</mtime>
+    <size>6144</size>
+    <format>Metadata</format>
+    <md5>c9c93ff03ee8dfdc27e596ca34533ff7</md5>
+    <crc32>514c9665</crc32>
+    <sha1>85621889c4fef5005c3ba340cd5fb5d9bec57f75</sha1>
+  </file>
+  <file name="PhilippinesPressClippings2_meta.xml" source="original">
+    <format>Metadata</format>
+    <mtime>1483500118</mtime>
+    <size>1128</size>
+    <md5>11c18adecf1deec68b533ca4028ec826</md5>
+    <crc32>1d9afacb</crc32>
+    <sha1>c2933831f09d26cc464672e77943dda3ef417027</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1531035626</mtime>
+    <size>19518</size>
+    <md5>c706fb7e6451f5b3aedef05faa00b167</md5>
+    <crc32>13bb7491</crc32>
+    <sha1>576db6a7b309cf0a1ac297bb6ddd6d55f6a1ff70</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

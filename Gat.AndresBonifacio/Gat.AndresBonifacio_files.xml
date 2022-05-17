@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Gat. Andres Bonifacio.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>Gat. Andres Bonifacio_djvu.xml</original>
+    <mtime>1433076047</mtime>
+    <size>7559550</size>
+    <md5>1b694fe3d52748dd8988d92134b40c5f</md5>
+    <crc32>5d24bd83</crc32>
+    <sha1>a2c27bf8986cda7b3fe844d5d133737280d644e8</sha1>
+  </file>
+  <file name="Gat. Andres Bonifacio.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Gat. Andres Bonifacio_jp2.zip</original>
+    <mtime>1433073926</mtime>
+    <size>299565</size>
+    <md5>db0a90cc50ab25972f17884f20363c1f</md5>
+    <crc32>573f6d60</crc32>
+    <sha1>72dee515035d39c1e4547e60cd7cb272ba6cb88d</sha1>
+  </file>
+  <file name="Gat. Andres Bonifacio.pdf" source="original">
+    <mtime>1433072911</mtime>
+    <size>25804103</size>
+    <md5>3a8650c6d1bf52111c12f2e54a3cdaae</md5>
+    <crc32>a72c22ca</crc32>
+    <sha1>0594442f86389fec0d9a32d2bd7f19be47973571</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="Gat. Andres Bonifacio_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Gat. Andres Bonifacio_jp2.zip</original>
+    <mtime>1433075459</mtime>
+    <size>785064</size>
+    <md5>e59fb93aeeb363f3b84cf24921ae2acc</md5>
+    <crc32>110e6e58</crc32>
+    <sha1>b64628cc7fd131ded2868ba16d29fd612f6a324f</sha1>
+  </file>
+  <file name="Gat. Andres Bonifacio_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Gat. Andres Bonifacio.djvu</original>
+    <mtime>1433076595</mtime>
+    <size>49396</size>
+    <md5>1a5d2f373a98d4edab5eb39e01cab423</md5>
+    <crc32>e28abac8</crc32>
+    <sha1>9c2c34bca9a60e0ee58083a016b1944d36b81202</sha1>
+  </file>
+  <file name="Gat. Andres Bonifacio_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Gat. Andres Bonifacio_abbyy.gz</original>
+    <mtime>1433075482</mtime>
+    <size>467254</size>
+    <md5>fa8a4675933b2d6b45a8f1190dfc4349</md5>
+    <crc32>453a34eb</crc32>
+    <sha1>29ce12942600c8ee02782461bb148a888690579b</sha1>
+  </file>
+  <file name="Gat. Andres Bonifacio_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Gat. Andres Bonifacio.pdf</original>
+    <mtime>1433073872</mtime>
+    <size>50058600</size>
+    <md5>ae1ffcd36481b8bf5e42242b0946f8c5</md5>
+    <crc32>f2c0e736</crc32>
+    <sha1>c7757a9cc36f08f38aa2c2656a3645848d0d3695</sha1>
+  </file>
+  <file name="Gat. Andres Bonifacio_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Gat. Andres Bonifacio_djvu.xml</original>
+    <mtime>1433076050</mtime>
+    <size>9490</size>
+    <md5>f25ddc1a6c73b011e2e5312b55132a24</md5>
+    <crc32>8e9ab079</crc32>
+    <sha1>ed96932c5cda793bc5007ba1b43988f0c3020b50</sha1>
+  </file>
+  <file name="Gat. Andres Bonifacio_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>Gat. Andres Bonifacio_djvu.xml</original>
+    <mtime>1433076580</mtime>
+    <size>9051041</size>
+    <md5>9838865e655663f4dd3e924898ecd9db</md5>
+    <crc32>06bc7e97</crc32>
+    <sha1>ed82c8b142f2b58f799f5f1afb3daa0cddaf7ab0</sha1>
+  </file>
+  <file name="Gat.AndresBonifacio_archive.torrent" source="metadata">
+    <btih>aeb704e145c08bcc1f7c968547901d850f7b5085</btih>
+    <mtime>1530917980</mtime>
+    <size>6916</size>
+    <md5>3cbf2210ac0a2f87927e99a3bac51d58</md5>
+    <crc32>ca5461e8</crc32>
+    <sha1>1668c766a37b149d70185b22e9232915ae7a6377</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Gat.AndresBonifacio_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>e5b845d4c2e1c546a64001b8586f6ebd</md5>
+  </file>
+  <file name="Gat.AndresBonifacio_meta.sqlite" source="original">
+    <mtime>1466826921</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>75d1c23c8a28ca4bc8ab973edbfba577</md5>
+    <crc32>992d87fd</crc32>
+    <sha1>357af5a9c064f93d1ec1a3e40876a4cf45f2752e</sha1>
+  </file>
+  <file name="Gat.AndresBonifacio_meta.xml" source="original">
+    <mtime>1483059115</mtime>
+    <size>1281</size>
+    <format>Metadata</format>
+    <md5>d984fac5b29c8f7f64a8e29ac1ea45aa</md5>
+    <crc32>ed7e6f7f</crc32>
+    <sha1>a53e42deea5a18dd50079d6cba69eb047094eede</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530917978</mtime>
+    <size>17289</size>
+    <md5>841b393922446a0a30a5f03a0852cbb3</md5>
+    <crc32>b20c2893</crc32>
+    <sha1>88167785abe05c3a6486ea59b843651abe9b114f</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0061-040919-OP.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0061-040919-OP_djvu.xml</original>
+    <mtime>1449474178</mtime>
+    <size>317353</size>
+    <md5>4527ad65d9766acd8066f447d6cb347a</md5>
+    <crc32>7092cb91</crc32>
+    <sha1>8770e8299ce2fed71c4dba9e7fa2a3eacb4767ef</sha1>
+  </file>
+  <file name="BVC-0061-040919-OP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0061-040919-OP_jp2.zip</original>
+    <mtime>1449474051</mtime>
+    <size>29339</size>
+    <md5>db81736ded6659eee5ed5e25e18172b3</md5>
+    <crc32>e2d1ed3b</crc32>
+    <sha1>031ca4ff7f7c50f0747f653a3e8e35c11aa76db0</sha1>
+  </file>
+  <file name="BVC-0061-040919-OP.pdf" source="original">
+    <mtime>1449473933</mtime>
+    <size>1244690</size>
+    <md5>136906a7bb565c8ac2661a23b7d8e342</md5>
+    <crc32>c6b59c19</crc32>
+    <sha1>0acc8842c769a2fe39e6be95dd2aa04a0c273e5c</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0061-040919-OP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0061-040919-OP_jp2.zip</original>
+    <mtime>1449474146</mtime>
+    <size>51150</size>
+    <md5>9352b7029da78e174a6ff7bf82d0baea</md5>
+    <crc32>83254168</crc32>
+    <sha1>28b8f58d284be18ecea2b37b6bd9a3bb2c0e265f</sha1>
+  </file>
+  <file name="BVC-0061-040919-OP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0061-040919-OP.djvu</original>
+    <mtime>1449474218</mtime>
+    <size>2864</size>
+    <md5>ace80c609161249e3e498923decda184</md5>
+    <crc32>dbb6747d</crc32>
+    <sha1>28ddb35f1d8e8526ce7c92e5d737dd0e86a135ca</sha1>
+  </file>
+  <file name="BVC-0061-040919-OP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0061-040919-OP_abbyy.gz</original>
+    <mtime>1449474153</mtime>
+    <size>29775</size>
+    <md5>959a9fe067f4348758356aac933e4c27</md5>
+    <crc32>97d794c6</crc32>
+    <sha1>c387875c5e0132403e894c30955aa4943611a614</sha1>
+  </file>
+  <file name="BVC-0061-040919-OP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0061-040919-OP.pdf</original>
+    <mtime>1449474042</mtime>
+    <size>1656864</size>
+    <md5>6b68f64b48ae9fe50f37febbee65ae69</md5>
+    <crc32>634c0550</crc32>
+    <sha1>aa6c7e8125a52c1fc8ab19a4a784c794e11981a8</sha1>
+  </file>
+  <file name="BVC-0061-040919-OP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0061-040919-OP_djvu.xml</original>
+    <mtime>1449474179</mtime>
+    <size>878</size>
+    <md5>2b3f1d58f3f361bd69a39b4ed6bf5008</md5>
+    <crc32>e506eced</crc32>
+    <sha1>13b1558c08b62c6f9e08daad54f56d351d0a3d01</sha1>
+  </file>
+  <file name="BVC-0061-040919-OP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0061-040919-OP_djvu.xml</original>
+    <mtime>1449474210</mtime>
+    <size>429349</size>
+    <md5>bf8b07b81f3c97bea04d6a5cb22ea0dd</md5>
+    <crc32>b78b85e7</crc32>
+    <sha1>3bae4ce29775028c115803d7272d222141324767</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530685892</mtime>
+    <size>16778</size>
+    <md5>0f5c026a00ce3e6097bd370872042e92</md5>
+    <crc32>56205a1c</crc32>
+    <sha1>a057968bf45b265612ef9d46bcd45a232082ec2a</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="basilio-valdes-letter-of-russian-prison-camp-at-salzwedel-april-9-1919_archive.torrent" source="metadata">
+    <btih>58b8a60c2dd8ca0c3eb1757d3544645217db36a6</btih>
+    <mtime>1530685892</mtime>
+    <size>3898</size>
+    <md5>34089b0c71e3f9c6c700f7f267142091</md5>
+    <crc32>206c2dbf</crc32>
+    <sha1>b40144f95f7c22be358a15dda6e4c1a483430869</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="basilio-valdes-letter-of-russian-prison-camp-at-salzwedel-april-9-1919_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>3c29eaeb8ac0a1b3356ac8bd328a8d33</md5>
+  </file>
+  <file name="basilio-valdes-letter-of-russian-prison-camp-at-salzwedel-april-9-1919_meta.sqlite" source="original">
+    <mtime>1463790361</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>fe9b5165e2ec9bd732b4245d3f0ffad2</md5>
+    <crc32>1e8477d6</crc32>
+    <sha1>3195ad779bf0c8931d64a89f3f5facb7d8583f8c</sha1>
+  </file>
+  <file name="basilio-valdes-letter-of-russian-prison-camp-at-salzwedel-april-9-1919_meta.xml" source="original">
+    <mtime>1485557219</mtime>
+    <size>1153</size>
+    <format>Metadata</format>
+    <md5>a605fe67caea622fcb3ac7c30f75b7f2</md5>
+    <crc32>61041574</crc32>
+    <sha1>2be80fd817a48d00339012861833b44b03962ec6</sha1>
+  </file>
+</files>

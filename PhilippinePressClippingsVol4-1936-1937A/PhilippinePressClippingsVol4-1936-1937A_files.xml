@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Philippine Press Clippings Volume IV (1936-1937) A.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>Philippine Press Clippings Volume IV (1936-1937) A_djvu.xml</original>
+    <mtime>1444125188</mtime>
+    <size>39924980</size>
+    <md5>0f5ec0fd5ead40bf42f0794dcbd9379b</md5>
+    <crc32>1373b7b1</crc32>
+    <sha1>4933970c0663ee3ad389e1dbc56618f9fc9539cd</sha1>
+  </file>
+  <file name="Philippine Press Clippings Volume IV (1936-1937) A.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Philippine Press Clippings Volume IV (1936-1937) A_jp2.zip</original>
+    <mtime>1444117220</mtime>
+    <size>325267</size>
+    <md5>15a05173d49e7b6d3ee353b84f740924</md5>
+    <crc32>17a9bd7c</crc32>
+    <sha1>b7edd05778b2d3efdb0c1ff0f86bcfbb1f2c756a</sha1>
+  </file>
+  <file name="Philippine Press Clippings Volume IV (1936-1937) A.pdf" source="original">
+    <mtime>1444116085</mtime>
+    <size>133884404</size>
+    <md5>fd566c86b64362a70b20c6144f8eb610</md5>
+    <crc32>22a741cd</crc32>
+    <sha1>6393a27a64c24134256d1775d5042945a5fd1113</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="Philippine Press Clippings Volume IV (1936-1937) A_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Philippine Press Clippings Volume IV (1936-1937) A_jp2.zip</original>
+    <mtime>1444123765</mtime>
+    <size>7674337</size>
+    <md5>350c3101fc3117a94dd1625ce25370d7</md5>
+    <crc32>78343678</crc32>
+    <sha1>aa4406cd260ab7592f36206374ba936101debf41</sha1>
+  </file>
+  <file name="Philippine Press Clippings Volume IV (1936-1937) A_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Philippine Press Clippings Volume IV (1936-1937) A.djvu</original>
+    <mtime>1444126629</mtime>
+    <size>194812</size>
+    <md5>f405453b93b8d47efbd8d3c14f342a7c</md5>
+    <crc32>0c0f7c1e</crc32>
+    <sha1>25c0fc8ada669aa917c1ec6748c485cd6f0daaf6</sha1>
+  </file>
+  <file name="Philippine Press Clippings Volume IV (1936-1937) A_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Philippine Press Clippings Volume IV (1936-1937) A_abbyy.gz</original>
+    <mtime>1444123861</mtime>
+    <size>4365313</size>
+    <md5>295cbab765d119547eebabf49391e71b</md5>
+    <crc32>f8ab5bc3</crc32>
+    <sha1>7390128043acdc52c5ed17d12d4f47d165a9ba63</sha1>
+  </file>
+  <file name="Philippine Press Clippings Volume IV (1936-1937) A_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Philippine Press Clippings Volume IV (1936-1937) A.pdf</original>
+    <mtime>1444117172</mtime>
+    <size>210804723</size>
+    <md5>755cdf1e7054a0ee0695d33e210fcdb7</md5>
+    <crc32>3f193fee</crc32>
+    <sha1>ced1c859455d1082fb78339e750f27a2d019d57b</sha1>
+  </file>
+  <file name="Philippine Press Clippings Volume IV (1936-1937) A_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Philippine Press Clippings Volume IV (1936-1937) A_djvu.xml</original>
+    <mtime>1444125193</mtime>
+    <size>26254</size>
+    <md5>9035f5e9d2196bd615d149c58642f1a4</md5>
+    <crc32>6bbb9a6b</crc32>
+    <sha1>acc8a3d162a8f0a088ca2c6e1f37a00e046867c7</sha1>
+  </file>
+  <file name="Philippine Press Clippings Volume IV (1936-1937) A_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>Philippine Press Clippings Volume IV (1936-1937) A_djvu.xml</original>
+    <mtime>1444126597</mtime>
+    <size>45458262</size>
+    <md5>5b2c187bacad6b3cc3be237241e76a69</md5>
+    <crc32>8148bc7e</crc32>
+    <sha1>24fd7f286a6763b87ba304f267ba0bcd1ba072c1</sha1>
+  </file>
+  <file name="PhilippinePressClippingsVol4-1936-1937A_archive.torrent" source="metadata">
+    <btih>1b721dc9929acfc5bbcaad79e9d8b2b6bef1826d</btih>
+    <mtime>1530946685</mtime>
+    <size>20670</size>
+    <md5>ce593e2c2bd7ab0f19d3e53b3e8bf199</md5>
+    <crc32>3ffedcc5</crc32>
+    <sha1>698985657c6ed7de904705bbd416bec7f03fc94e</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="PhilippinePressClippingsVol4-1936-1937A_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>9dabc12af499b78a574bdbfc801e4c93</md5>
+  </file>
+  <file name="PhilippinePressClippingsVol4-1936-1937A_meta.sqlite" source="original">
+    <mtime>1463389505</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>144ce8d8b5297cb2fb96c19c75be4927</md5>
+    <crc32>9178d4fa</crc32>
+    <sha1>846551eee0edeec19668ede8298d725d8a80ddd5</sha1>
+  </file>
+  <file name="PhilippinePressClippingsVol4-1936-1937A_meta.xml" source="original">
+    <mtime>1485324285</mtime>
+    <size>1178</size>
+    <format>Metadata</format>
+    <md5>e07f335ab272508776767dafcfaca5dc</md5>
+    <crc32>c7ec37bc</crc32>
+    <sha1>ef5cd4ad89097a5d0af7e8392ed358c18aa6962c</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530946681</mtime>
+    <size>24410</size>
+    <md5>469596c98b3620b23ba2e438891186b3</md5>
+    <crc32>be7b23f1</crc32>
+    <sha1>b02600db7b45e75bbd86e875bfffba650eff6677</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>censorship-plan-philippine-commonwealth-govt-october-31-1944</bookId>
+    <leafCount>3</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4785</origWidth>
+      <origHeight>6515</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4785</w>
+        <h>6515</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4855</origWidth>
+      <origHeight>6353</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4855</w>
+        <h>6353</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4723</origWidth>
+      <origHeight>6382</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4723</w>
+        <h>6382</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

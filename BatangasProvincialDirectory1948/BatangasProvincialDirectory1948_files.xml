@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BATANGAS PROVINCIAL DIRECTORY 1948.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BATANGAS PROVINCIAL DIRECTORY 1948_djvu.xml</original>
+    <mtime>1431592004</mtime>
+    <size>13499005</size>
+    <md5>e69039ba430877d669d4a6fd711e9ec2</md5>
+    <crc32>fb991b61</crc32>
+    <sha1>f95dea121393049f84e05ab77430c8ea36db3c85</sha1>
+  </file>
+  <file name="BATANGAS PROVINCIAL DIRECTORY 1948.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BATANGAS PROVINCIAL DIRECTORY 1948_jp2.zip</original>
+    <mtime>1431587095</mtime>
+    <size>256356</size>
+    <md5>76654aeb31bd0b499b2e2c0a2fda547a</md5>
+    <crc32>943f8de4</crc32>
+    <sha1>c9451a210560664a0dcce0ce1d710627a5bbe201</sha1>
+  </file>
+  <file name="BATANGAS PROVINCIAL DIRECTORY 1948.pdf" source="original">
+    <mtime>1431586388</mtime>
+    <size>74737736</size>
+    <md5>a20f7bb536e793ce2f52af51163ab720</md5>
+    <crc32>49f807d9</crc32>
+    <sha1>33b8bf04b8bd24d0afdaab9d938faca0bf21b158</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BATANGAS PROVINCIAL DIRECTORY 1948_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BATANGAS PROVINCIAL DIRECTORY 1948_jp2.zip</original>
+    <mtime>1431591252</mtime>
+    <size>2592156</size>
+    <md5>f722cb5e9e568a364f55e76b187c45a4</md5>
+    <crc32>01966181</crc32>
+    <sha1>4299154ec3d7e2a13203f7217b5e082e6d6f01ad</sha1>
+  </file>
+  <file name="BATANGAS PROVINCIAL DIRECTORY 1948_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BATANGAS PROVINCIAL DIRECTORY 1948.djvu</original>
+    <mtime>1431593356</mtime>
+    <size>160112</size>
+    <md5>3c93d7322ac31c37c0052d1ec85adf79</md5>
+    <crc32>7965af42</crc32>
+    <sha1>2f2db481c48280dca8e8a4581cf1052895ed8727</sha1>
+  </file>
+  <file name="BATANGAS PROVINCIAL DIRECTORY 1948_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BATANGAS PROVINCIAL DIRECTORY 1948_abbyy.gz</original>
+    <mtime>1431591291</mtime>
+    <size>1508481</size>
+    <md5>64955ec068969d33ba92c69155bfa089</md5>
+    <crc32>f96282cf</crc32>
+    <sha1>25705537d2088f5d07b5c90a85615086dd3f27dc</sha1>
+  </file>
+  <file name="BATANGAS PROVINCIAL DIRECTORY 1948_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BATANGAS PROVINCIAL DIRECTORY 1948.pdf</original>
+    <mtime>1431587063</mtime>
+    <size>101174236</size>
+    <md5>5deff18e574bd0911d36551371c11e3b</md5>
+    <crc32>38668bee</crc32>
+    <sha1>8b983f1d4dc2ce8ddaeeec02d111b98446ed696c</sha1>
+  </file>
+  <file name="BATANGAS PROVINCIAL DIRECTORY 1948_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BATANGAS PROVINCIAL DIRECTORY 1948_djvu.xml</original>
+    <mtime>1431592006</mtime>
+    <size>39134</size>
+    <md5>018f817465f34129aa3efb8a2e37ca69</md5>
+    <crc32>2dad263f</crc32>
+    <sha1>fb9e6a6614d9cb11352db3feae8e12559d9a568f</sha1>
+  </file>
+  <file name="BATANGAS PROVINCIAL DIRECTORY 1948_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BATANGAS PROVINCIAL DIRECTORY 1948_djvu.xml</original>
+    <mtime>1431593325</mtime>
+    <size>19067923</size>
+    <md5>94e6d496a5d06ce5c84f5a6ebb232605</md5>
+    <crc32>03c2c196</crc32>
+    <sha1>22042e350b5d5a584b7128711ecae41c4c299a88</sha1>
+  </file>
+  <file name="BatangasProvincialDirectory1948_archive.torrent" source="metadata">
+    <btih>34c12c9b72cc1c944488ba342e2056b1d67fea43</btih>
+    <mtime>1530652782</mtime>
+    <size>11691</size>
+    <md5>716192bbc05eb6faabd93e736c39f14e</md5>
+    <crc32>6266645c</crc32>
+    <sha1>2fa71f4987dbde26d8f2a6125d3ec908bcdf79c0</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="BatangasProvincialDirectory1948_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>e057cc49a3e2822fc4a5b1f0e0b61644</md5>
+  </file>
+  <file name="BatangasProvincialDirectory1948_meta.sqlite" source="original">
+    <mtime>1466697271</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>1b146b6bc92f4d6f7d7bf373520dd224</md5>
+    <crc32>0d5777f0</crc32>
+    <sha1>9cfb8c004c3e99aa8a447e6f43fe7ae4bdb9f461</sha1>
+  </file>
+  <file name="BatangasProvincialDirectory1948_meta.xml" source="original">
+    <mtime>1482554020</mtime>
+    <size>1279</size>
+    <format>Metadata</format>
+    <md5>bb78ddf57fe4947f1f4db495bc1dbf50</md5>
+    <crc32>d45c931a</crc32>
+    <sha1>335077f68f8036b0701efb6b5c73a960fce200ea</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530652781</mtime>
+    <size>14116</size>
+    <md5>894c873a7d870ae3d02ff100e21df89b</md5>
+    <crc32>3c9625e3</crc32>
+    <sha1>f3e64df1ca87e8dee6ff12fe413d795b55ad8b4d</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+</files>

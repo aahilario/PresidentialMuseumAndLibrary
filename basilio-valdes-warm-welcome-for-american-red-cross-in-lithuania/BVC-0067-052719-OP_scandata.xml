@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>basilio-valdes-warm-welcome-for-american-red-cross-in-lithuania</bookId>
+    <leafCount>3</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5119</origWidth>
+      <origHeight>6768</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5119</w>
+        <h>6768</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5111</origWidth>
+      <origHeight>6654</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5111</w>
+        <h>6654</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>5145</origWidth>
+      <origHeight>6698</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>5145</w>
+        <h>6698</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>

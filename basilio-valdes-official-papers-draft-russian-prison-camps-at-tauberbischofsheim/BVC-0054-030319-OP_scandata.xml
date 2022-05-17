@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>basilio-valdes-official-papers-draft-russian-prison-camps-at-tauberbischofsheim</bookId>
+    <leafCount>1</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4994</origWidth>
+      <origHeight>6334</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4994</w>
+        <h>6334</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+  </pageData>
+</book>

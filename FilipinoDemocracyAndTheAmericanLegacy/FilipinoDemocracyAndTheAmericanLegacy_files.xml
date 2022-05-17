@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Filipino Democracy and the American Legacy.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>Filipino Democracy and the American Legacy_djvu.xml</original>
+    <mtime>1431591477</mtime>
+    <size>2731261</size>
+    <md5>0eb73e9f365ad2a4d6b511ca74855d29</md5>
+    <crc32>82efd4bc</crc32>
+    <sha1>9495a18dc5015957bdc95830b6eda5fcb9c1bb8c</sha1>
+  </file>
+  <file name="Filipino Democracy and the American Legacy.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Filipino Democracy and the American Legacy_jp2.zip</original>
+    <mtime>1431590630</mtime>
+    <size>214931</size>
+    <md5>2a8c504e5b68d94378d34507ad4860b1</md5>
+    <crc32>9ad56204</crc32>
+    <sha1>77ea8c185fe1119417d532f3c3b613f9b363fc98</sha1>
+  </file>
+  <file name="Filipino Democracy and the American Legacy.pdf" source="original">
+    <mtime>1431589654</mtime>
+    <size>13327474</size>
+    <md5>bbe2cf1a9bd65da475b9bc86b3cec562</md5>
+    <crc32>5317de96</crc32>
+    <sha1>433dd1e39af47173cdf1856b1d7399ac76fc616f</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="Filipino Democracy and the American Legacy_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Filipino Democracy and the American Legacy_jp2.zip</original>
+    <mtime>1431591288</mtime>
+    <size>999802</size>
+    <md5>6b1b41218e90a29f9db6637765f77166</md5>
+    <crc32>b2f28a19</crc32>
+    <sha1>8dfa811f56a3b2d43d519826319016ea9c0330b8</sha1>
+  </file>
+  <file name="Filipino Democracy and the American Legacy_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Filipino Democracy and the American Legacy.djvu</original>
+    <mtime>1431591731</mtime>
+    <size>66991</size>
+    <md5>588502d2f4f0a1b9c117c24d4b0bfdbf</md5>
+    <crc32>c32645a8</crc32>
+    <sha1>100a087dc4041f7a20624fa8dce1316ecd82611b</sha1>
+  </file>
+  <file name="Filipino Democracy and the American Legacy_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Filipino Democracy and the American Legacy_abbyy.gz</original>
+    <mtime>1431591308</mtime>
+    <size>568141</size>
+    <md5>cb2298575e177c8036d51ccc0e040337</md5>
+    <crc32>351cdc07</crc32>
+    <sha1>0e49d5627f3ae8f90285551471d177dc2a76df35</sha1>
+  </file>
+  <file name="Filipino Democracy and the American Legacy_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Filipino Democracy and the American Legacy.pdf</original>
+    <mtime>1431590602</mtime>
+    <size>27337318</size>
+    <md5>8f9e4c1d268a4000f19bc82c498dafd8</md5>
+    <crc32>33bd13ec</crc32>
+    <sha1>99a3e620b80ed206acd97bdfd1fc03d8cfb3da99</sha1>
+  </file>
+  <file name="Filipino Democracy and the American Legacy_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Filipino Democracy and the American Legacy_djvu.xml</original>
+    <mtime>1431591479</mtime>
+    <size>7116</size>
+    <md5>06c51455e389f95c5d3c731449dcff02</md5>
+    <crc32>564e3fbd</crc32>
+    <sha1>57deb5668650c78817c3c82dc848affec4165b41</sha1>
+  </file>
+  <file name="Filipino Democracy and the American Legacy_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>Filipino Democracy and the American Legacy_djvu.xml</original>
+    <mtime>1431591719</mtime>
+    <size>4115667</size>
+    <md5>51800cc4337524a29983d14343e269ef</md5>
+    <crc32>bd6d5f07</crc32>
+    <sha1>ce55a13e72f8b4a1df874fbbbe6ce1a9b8191202</sha1>
+  </file>
+  <file name="FilipinoDemocracyAndTheAmericanLegacy_archive.torrent" source="metadata">
+    <btih>31f35d41d8e4d9ec448e5a485ed26847c7604ec6</btih>
+    <mtime>1530569075</mtime>
+    <size>5571</size>
+    <md5>af453e49372192358b819df06b18d868</md5>
+    <crc32>ecbe37ef</crc32>
+    <sha1>7bb8faf988e95d66eb6547a59facecccbe47d50d</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="FilipinoDemocracyAndTheAmericanLegacy_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>1d0fa2de10fcc6451321353bd6602ba6</md5>
+  </file>
+  <file name="FilipinoDemocracyAndTheAmericanLegacy_meta.sqlite" source="original">
+    <mtime>1466814377</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>e7d02ac879c965eda69c275bfd941065</md5>
+    <crc32>05862001</crc32>
+    <sha1>249717bb74d5379b6bc87405d37b5f2f059a86cc</sha1>
+  </file>
+  <file name="FilipinoDemocracyAndTheAmericanLegacy_meta.xml" source="original">
+    <mtime>1482708523</mtime>
+    <size>1539</size>
+    <format>Metadata</format>
+    <md5>5c6b50b4df7ff8096d6f71779085eab7</md5>
+    <crc32>2fe11b22</crc32>
+    <sha1>099377f346b118631437ecf9000700085b58f992</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530569074</mtime>
+    <size>13267</size>
+    <md5>b1049a464e2ff4ba3f594ccccabe7007</md5>
+    <crc32>7cfbba3c</crc32>
+    <sha1>88a77ca2d68f986ed6cffa75ba4d54917161ffc2</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+</files>

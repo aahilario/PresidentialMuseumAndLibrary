@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="News on Quezon's Death.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>News on Quezon's Death_djvu.xml</original>
+    <mtime>1433076397</mtime>
+    <size>10596855</size>
+    <md5>1aa7c7061cfc1e0b3a4234a692d64deb</md5>
+    <crc32>2c6b26fd</crc32>
+    <sha1>a8fe45ecc0938a21f64763408283b71775bf3a97</sha1>
+  </file>
+  <file name="News on Quezon's Death.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>News on Quezon's Death_jp2.zip</original>
+    <mtime>1433071576</mtime>
+    <size>222780</size>
+    <md5>b160ca28eb86d739ddf304ce59196e78</md5>
+    <crc32>a8fd33d6</crc32>
+    <sha1>71d59e40a5df668683a6e07ea34bd4323ca18cdf</sha1>
+  </file>
+  <file name="News on Quezon's Death.pdf" source="original">
+    <mtime>1433070975</mtime>
+    <size>43483274</size>
+    <md5>9aa34ba1e7090dee6570091cb968a9b1</md5>
+    <crc32>c7eacfef</crc32>
+    <sha1>9ebbbbba60ca01d49fe91751560b62f44d838818</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="News on Quezon's Death_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>News on Quezon's Death_jp2.zip</original>
+    <mtime>1433075845</mtime>
+    <size>1383714</size>
+    <md5>f7ea3ca9972cf65c3048543a07878142</md5>
+    <crc32>a7de695d</crc32>
+    <sha1>eeba48dfa4eb89a1de207de53675ce4fb83b8d4b</sha1>
+  </file>
+  <file name="News on Quezon's Death_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>News on Quezon's Death.djvu</original>
+    <mtime>1433077072</mtime>
+    <size>82629</size>
+    <md5>7129c9eea55d731644f6c2f5e7060a93</md5>
+    <crc32>e3f879f0</crc32>
+    <sha1>8615d91a4df795e31960dd1cc5038d517edb54f1</sha1>
+  </file>
+  <file name="News on Quezon's Death_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>News on Quezon's Death_abbyy.gz</original>
+    <mtime>1433075912</mtime>
+    <size>807886</size>
+    <md5>e7ccab995a732f9dab195aa60410381e</md5>
+    <crc32>36f8fa2c</crc32>
+    <sha1>9753321febfb794b4f225788cace1a8d36bf37a2</sha1>
+  </file>
+  <file name="News on Quezon's Death_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>News on Quezon's Death.pdf</original>
+    <mtime>1433071530</mtime>
+    <size>65137907</size>
+    <md5>cb5e81a52ec63b352869441a1b19ac7b</md5>
+    <crc32>3db7ea9d</crc32>
+    <sha1>6b1b8d414a5c01e189ec06f65d928612bcc184f6</sha1>
+  </file>
+  <file name="News on Quezon's Death_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>News on Quezon's Death_djvu.xml</original>
+    <mtime>1433076399</mtime>
+    <size>11889</size>
+    <md5>289690b965e4e9193881785d4c287f1b</md5>
+    <crc32>f9f5695e</crc32>
+    <sha1>e0ab4b319fd2da4144b9851b6de188f4f2822243</sha1>
+  </file>
+  <file name="News on Quezon's Death_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>News on Quezon's Death_djvu.xml</original>
+    <mtime>1433077053</mtime>
+    <size>12618467</size>
+    <md5>2a7e74d05aa6a2b7dce241b00ae70f7b</md5>
+    <crc32>f827097a</crc32>
+    <sha1>7536fd46942a6c38b00704e4056338c00c4f5835</sha1>
+  </file>
+  <file name="NewsOnManuelLQuezonsDeath1_archive.torrent" source="metadata">
+    <btih>1f928bafa34b3b8414d1bebbe5f51995403387c6</btih>
+    <mtime>1530878647</mtime>
+    <size>8535</size>
+    <md5>d87ae446e8d8a4d062f253d483b79f0d</md5>
+    <crc32>c6c90471</crc32>
+    <sha1>85640314ef50c6a441cebc026522c518c0ae4cb7</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="NewsOnManuelLQuezonsDeath1_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>dc31838103549b592fece750985c566e</md5>
+  </file>
+  <file name="NewsOnManuelLQuezonsDeath1_meta.sqlite" source="original">
+    <mtime>1463389482</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>73a11d574485b78e9b4e9dc49569eef1</md5>
+    <crc32>94db11ee</crc32>
+    <sha1>165bc91657049167d89de7ba5874dab9edd6ba2d</sha1>
+  </file>
+  <file name="NewsOnManuelLQuezonsDeath1_meta.xml" source="original">
+    <mtime>1482970902</mtime>
+    <size>1421</size>
+    <format>Metadata</format>
+    <md5>b9e68d0bbfa3fac7f939dfea04ef7bd0</md5>
+    <crc32>af8484e4</crc32>
+    <sha1>9769e4bfdc0c4cc17b1a044f83c961e85a16016c</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530878645</mtime>
+    <size>22069</size>
+    <md5>dc08289a2ca0d74bf83b187b70ec88c7</md5>
+    <crc32>2b2e22af</crc32>
+    <sha1>24c48b62f753bd04845acc6036a8582a68a08009</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

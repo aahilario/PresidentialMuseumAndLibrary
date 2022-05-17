@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0374-052245-SP.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0374-052245-SP_djvu.xml</original>
+    <mtime>1452314717</mtime>
+    <size>643235</size>
+    <md5>c904e3dfb52a6a6178935d2100c27b3d</md5>
+    <crc32>416e718f</crc32>
+    <sha1>7f2d0aca40eb95b16c23fda012df64916ef7bac5</sha1>
+  </file>
+  <file name="BVC-0374-052245-SP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0374-052245-SP_jp2.zip</original>
+    <mtime>1451959469</mtime>
+    <size>35378</size>
+    <md5>76d069179308fba12db04def098eed3f</md5>
+    <crc32>747d119e</crc32>
+    <sha1>49a76689fc7c2bb8b4a7f910af2eb8f3123123f7</sha1>
+  </file>
+  <file name="BVC-0374-052245-SP.pdf" source="original">
+    <mtime>1451959294</mtime>
+    <size>2425615</size>
+    <md5>2727cbd65c48fe34790d148077ec2782</md5>
+    <crc32>a3126b9a</crc32>
+    <sha1>1ac1dd8ad7b52b6cb00766ea89785419fed85a86</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0374-052245-SP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0374-052245-SP_jp2.zip</original>
+    <mtime>1451959609</mtime>
+    <size>75061</size>
+    <md5>aa89581a872548d4b9b5359a20184481</md5>
+    <crc32>840575e6</crc32>
+    <sha1>8d0fb52105290264192dea0350d122298267677f</sha1>
+  </file>
+  <file name="BVC-0374-052245-SP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0374-052245-SP.djvu</original>
+    <mtime>1452314725</mtime>
+    <size>4422</size>
+    <md5>0aa4ae2ed485305cbc1f1ba4dcd2e283</md5>
+    <crc32>eb27fe85</crc32>
+    <sha1>511c71135841a187f380019ad2bc0ff9551a8a8a</sha1>
+  </file>
+  <file name="BVC-0374-052245-SP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0374-052245-SP_abbyy.gz</original>
+    <mtime>1451959616</mtime>
+    <size>42799</size>
+    <md5>d6664de39a05753a5aa6071ac909c669</md5>
+    <crc32>6babf29e</crc32>
+    <sha1>6a436015512745a82c28e695a7b2f3d84f52e28e</sha1>
+  </file>
+  <file name="BVC-0374-052245-SP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0374-052245-SP.pdf</original>
+    <mtime>1451959447</mtime>
+    <size>3672357</size>
+    <md5>97b5763d235050dc9d22cfd54b08a06c</md5>
+    <crc32>2da72929</crc32>
+    <sha1>c0809e374c6b3e8075a2506ead19f60887a951af</sha1>
+  </file>
+  <file name="BVC-0374-052245-SP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0374-052245-SP_djvu.xml</original>
+    <mtime>1451959647</mtime>
+    <size>1180</size>
+    <md5>339d007a76d9f92f22968d08d70b76e1</md5>
+    <crc32>9bcb3413</crc32>
+    <sha1>6c1a1018778c8c04993019f89c0c1db6c36b6a47</sha1>
+  </file>
+  <file name="BVC-0374-052245-SP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0374-052245-SP_djvu.xml</original>
+    <mtime>1451959720</mtime>
+    <size>787966</size>
+    <md5>c53c254dffbab949031ce8131c9b1ff4</md5>
+    <crc32>6aafa5c4</crc32>
+    <sha1>d349f77c487861bbb71f619740e5186dc1e4968b</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1531100817</mtime>
+    <size>18058</size>
+    <md5>450251a195343351201a2f7e8ebd3c1f</md5>
+    <crc32>4965d644</crc32>
+    <sha1>690ec649fe9f90c7e67b38bc3b2af720375ffc44</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="bjv-speeches-graduation-alabang-school-military-police-command-may-22-1945_archive.torrent" source="metadata">
+    <btih>55f1a4a60f395363a1f2adae7321d3e794d9c7c9</btih>
+    <mtime>1531100817</mtime>
+    <size>4078</size>
+    <md5>212dd8ef7fe74f78c3737efc2f77d826</md5>
+    <crc32>ecfd28ef</crc32>
+    <sha1>644079c00792fed2fa6cb78d09463cbc75db5941</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="bjv-speeches-graduation-alabang-school-military-police-command-may-22-1945_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>2aaad72d42c96beef49ee3b910a272b4</md5>
+  </file>
+  <file name="bjv-speeches-graduation-alabang-school-military-police-command-may-22-1945_meta.sqlite" source="original">
+    <mtime>1464083007</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>90356f5531a31f146367c48d4a07c31c</md5>
+    <crc32>63cbf6f6</crc32>
+    <sha1>89e6120581660c40e45fe3540e2b42e7e82ba128</sha1>
+  </file>
+  <file name="bjv-speeches-graduation-alabang-school-military-police-command-may-22-1945_meta.xml" source="original">
+    <mtime>1482449152</mtime>
+    <size>1374</size>
+    <format>Metadata</format>
+    <md5>00f48a0c046933c318be22cc3c36fc19</md5>
+    <crc32>22417319</crc32>
+    <sha1>0ec50c05610247f23ab19d9889f4b8f36864da41</sha1>
+  </file>
+</files>

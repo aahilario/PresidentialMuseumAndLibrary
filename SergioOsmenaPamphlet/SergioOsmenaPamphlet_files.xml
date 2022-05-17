@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="SERGIO OSMENA PAMPHLET.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>SERGIO OSMENA PAMPHLET_djvu.xml</original>
+    <mtime>1431699419</mtime>
+    <size>452295</size>
+    <md5>863a92a97d395a393e12d284a8945755</md5>
+    <crc32>0e37be79</crc32>
+    <sha1>836aa31b46c2e3a41859c8982dd3d75acd16e69e</sha1>
+  </file>
+  <file name="SERGIO OSMENA PAMPHLET.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>SERGIO OSMENA PAMPHLET_jp2.zip</original>
+    <mtime>1431699164</mtime>
+    <size>53226</size>
+    <md5>21bb6b4023a2f6b793610e46f3259157</md5>
+    <crc32>e3fecc85</crc32>
+    <sha1>4566aecf0d268083aecd09e7c57e27684472a729</sha1>
+  </file>
+  <file name="SERGIO OSMENA PAMPHLET.pdf" source="original">
+    <mtime>1431698765</mtime>
+    <size>3404715</size>
+    <md5>5437a0473e099d3c1674ff67935db47d</md5>
+    <crc32>7d9ec2d6</crc32>
+    <sha1>0a402b0bb710343eb802563aa2cb835d8205918e</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="SERGIO OSMENA PAMPHLET_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>SERGIO OSMENA PAMPHLET_jp2.zip</original>
+    <mtime>1431699368</mtime>
+    <size>193291</size>
+    <md5>9902112322d03b3436bfae3d19f63865</md5>
+    <crc32>2e9c34d3</crc32>
+    <sha1>9f902ded20267110ebf83f68f0fed860bf8b3cbc</sha1>
+  </file>
+  <file name="SERGIO OSMENA PAMPHLET_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>SERGIO OSMENA PAMPHLET.djvu</original>
+    <mtime>1431699515</mtime>
+    <size>13703</size>
+    <md5>b2f449fa21a4ee6679b487221a053af1</md5>
+    <crc32>3fbb06f1</crc32>
+    <sha1>36a77264ef004474961a46293c83e47776068712</sha1>
+  </file>
+  <file name="SERGIO OSMENA PAMPHLET_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>SERGIO OSMENA PAMPHLET_abbyy.gz</original>
+    <mtime>1431699377</mtime>
+    <size>120115</size>
+    <md5>4d7c646236c28c68728deb5cb9bc4b67</md5>
+    <crc32>18c6fc63</crc32>
+    <sha1>07112db9c32ea39993f5364f5fb99f22cac0a284</sha1>
+  </file>
+  <file name="SERGIO OSMENA PAMPHLET_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>SERGIO OSMENA PAMPHLET.pdf</original>
+    <mtime>1431699153</mtime>
+    <size>4996578</size>
+    <md5>3632ec889b87a639939264748a3ca8bc</md5>
+    <crc32>27b83b00</crc32>
+    <sha1>5e69b98399b0e35d6e99180d89e183b936f5ec71</sha1>
+  </file>
+  <file name="SERGIO OSMENA PAMPHLET_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>SERGIO OSMENA PAMPHLET_djvu.xml</original>
+    <mtime>1431699426</mtime>
+    <size>1424</size>
+    <md5>f8dd3ee8889a0408e9fa435934b415b9</md5>
+    <crc32>098f4f0b</crc32>
+    <sha1>c7bff75f77475c36206b8d4e6395989a79781da2</sha1>
+  </file>
+  <file name="SERGIO OSMENA PAMPHLET_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>SERGIO OSMENA PAMPHLET_djvu.xml</original>
+    <mtime>1431699501</mtime>
+    <size>784625</size>
+    <md5>982b7b01407cbb4c48cba384d0382343</md5>
+    <crc32>354cd8d2</crc32>
+    <sha1>64cbc37a0eeadbb2e195a67e36170fd171e3c081</sha1>
+  </file>
+  <file name="SergioOsmenaPamphlet_archive.torrent" source="metadata">
+    <btih>c58f19ff472fc8424d930cd5ea0fd3ad7d7bfac8</btih>
+    <mtime>1530739142</mtime>
+    <size>3728</size>
+    <md5>ff7a0f535fa3eb8533b9f8bad0859830</md5>
+    <crc32>c940927a</crc32>
+    <sha1>d109f2fdd666652a2110b524278f1a7706d12e93</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="SergioOsmenaPamphlet_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>197fa990e41f85ba43015977599473dc</md5>
+  </file>
+  <file name="SergioOsmenaPamphlet_meta.sqlite" source="original">
+    <mtime>1467799277</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>f66d25e8d84c2fc12471251840e15c49</md5>
+    <crc32>6cdf1e06</crc32>
+    <sha1>7380a48818521485c34973418aedc32e84595063</sha1>
+  </file>
+  <file name="SergioOsmenaPamphlet_meta.xml" source="original">
+    <mtime>1483372577</mtime>
+    <size>1092</size>
+    <format>Metadata</format>
+    <md5>6fc1b0c48157c9c87bad008eb8ea8b35</md5>
+    <crc32>27ebc8e3</crc32>
+    <sha1>24dca972d8b150428d89dda3377421531f92862a</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530739141</mtime>
+    <size>11988</size>
+    <md5>cda33837b97dd018d022bb2c4f47e4d8</md5>
+    <crc32>cd440828</crc32>
+    <sha1>40955ebaacc8b759bcc2874cad9d5769b6cfd69c</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+</files>

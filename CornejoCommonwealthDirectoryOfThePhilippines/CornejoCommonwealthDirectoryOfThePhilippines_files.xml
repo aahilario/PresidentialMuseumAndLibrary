@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Cornejo Encyclopedic Directory of the Philippines.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>Cornejo Encyclopedic Directory of the Philippines_djvu.xml</original>
+    <mtime>1432655171</mtime>
+    <size>97385508</size>
+    <md5>e94001a1a9d48a1cbc7aa8f557486d5d</md5>
+    <crc32>7516fb08</crc32>
+    <sha1>abea45ef488f3a6d641ef751ecd34b2a78422e0d</sha1>
+  </file>
+  <file name="Cornejo Encyclopedic Directory of the Philippines.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Cornejo Encyclopedic Directory of the Philippines_jp2.zip</original>
+    <mtime>1432399122</mtime>
+    <size>310989</size>
+    <md5>db90e6b9169f32154f6213b5cd707059</md5>
+    <crc32>20515f8b</crc32>
+    <sha1>3d6c7567efeb14ab42c9ee50c253984b36356c2e</sha1>
+  </file>
+  <file name="Cornejo Encyclopedic Directory of the Philippines.pdf" source="original">
+    <mtime>1432396233</mtime>
+    <size>196856470</size>
+    <md5>4b19b632a8bc53e2c0eb4c704a0b330a</md5>
+    <crc32>89d50f1a</crc32>
+    <sha1>937dbc1d11cd9f5b9867cefcb982649aafeb1bf2</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="Cornejo Encyclopedic Directory of the Philippines_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Cornejo Encyclopedic Directory of the Philippines_jp2.zip</original>
+    <mtime>1432650063</mtime>
+    <size>113266224</size>
+    <md5>7099ec0957a782498a677bd2a5d0b635</md5>
+    <crc32>03c534a2</crc32>
+    <sha1>dd9b97866e5b7ef1392f798d8824fe472a92863c</sha1>
+  </file>
+  <file name="Cornejo Encyclopedic Directory of the Philippines_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Cornejo Encyclopedic Directory of the Philippines.djvu</original>
+    <mtime>1432660640</mtime>
+    <size>6735078</size>
+    <md5>b31c0aa705a76ace38db56a7326476cb</md5>
+    <crc32>47098288</crc32>
+    <sha1>41cf1f93988c51adc9d47c91ca69d8e75d9e02c3</sha1>
+  </file>
+  <file name="Cornejo Encyclopedic Directory of the Philippines_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Cornejo Encyclopedic Directory of the Philippines_abbyy.gz</original>
+    <mtime>1432651645</mtime>
+    <size>66662484</size>
+    <md5>d691d81e0cbf0a5624945282d0ad28b4</md5>
+    <crc32>a637f05a</crc32>
+    <sha1>7b9f1d9549ca5426e9b9a3def3ecf1da708f871a</sha1>
+  </file>
+  <file name="Cornejo Encyclopedic Directory of the Philippines_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Cornejo Encyclopedic Directory of the Philippines.pdf</original>
+    <mtime>1432399094</mtime>
+    <size>286731668</size>
+    <md5>b6d05aaf04c32cda49e5e421701ae878</md5>
+    <crc32>65151925</crc32>
+    <sha1>3af5d56bece1c2f603a9838d64df595ff82fcc89</sha1>
+  </file>
+  <file name="Cornejo Encyclopedic Directory of the Philippines_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Cornejo Encyclopedic Directory of the Philippines_djvu.xml</original>
+    <mtime>1432655186</mtime>
+    <size>834121</size>
+    <md5>930fafc88ffad7ae54aba9151c89391c</md5>
+    <crc32>e8797387</crc32>
+    <sha1>95dd9443f9a9842e4d972bd594a6e40faf6d71c2</sha1>
+  </file>
+  <file name="Cornejo Encyclopedic Directory of the Philippines_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>Cornejo Encyclopedic Directory of the Philippines_djvu.xml</original>
+    <mtime>1432656087</mtime>
+    <size>162310358</size>
+    <md5>0bf5190dccf4d3f9b86ccfd32d057acf</md5>
+    <crc32>ee74a977</crc32>
+    <sha1>62a65a0db2d59a83ed8b90ff372c9be9aaf4ac28</sha1>
+  </file>
+  <file name="CornejoCommonwealthDirectoryOfThePhilippines_archive.torrent" source="metadata">
+    <btih>53a577f6f8b5c64a5f58026c0df86a654b397d51</btih>
+    <mtime>1483196821</mtime>
+    <size>39194</size>
+    <md5>3ad7a50a02138c638de6d86eed35bed4</md5>
+    <crc32>95e16dbd</crc32>
+    <sha1>59a3c58ad89ca5a475a1fffb325c5f343a4d34f5</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="CornejoCommonwealthDirectoryOfThePhilippines_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>d03e722bcbfb1d1520cf5d413a1b39fd</md5>
+  </file>
+  <file name="CornejoCommonwealthDirectoryOfThePhilippines_meta.sqlite" source="original">
+    <mtime>1466774804</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>a1bc326ee230fffe8cccf2a799d1f34e</md5>
+    <crc32>7b6507da</crc32>
+    <sha1>bd081de29599e24e8636fead3f7d0b0e91850dd3</sha1>
+  </file>
+  <file name="CornejoCommonwealthDirectoryOfThePhilippines_meta.xml" source="original">
+    <mtime>1483196809</mtime>
+    <size>1807</size>
+    <format>Metadata</format>
+    <md5>5a1f1a0e83f5cafea620f0053e36af54</md5>
+    <crc32>cb886b50</crc32>
+    <sha1>bdad1b071e0e5ec716c2ce6a6d0b2e2e3dcdbff6</sha1>
+  </file>
+</files>

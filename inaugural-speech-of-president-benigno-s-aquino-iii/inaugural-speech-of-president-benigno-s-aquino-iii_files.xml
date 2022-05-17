@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Inaugural Speech of President Benigno S. Aquino III.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>Inaugural Speech of President Benigno S. Aquino III_djvu.xml</original>
+    <mtime>1454050877</mtime>
+    <size>483331</size>
+    <md5>7e9aa954db8b8844e4891baf31cbe4f7</md5>
+    <crc32>d6eb2be9</crc32>
+    <sha1>d7c85a630b06fbf470ff97ba9f9d626682373a85</sha1>
+  </file>
+  <file name="Inaugural Speech of President Benigno S. Aquino III.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Inaugural Speech of President Benigno S. Aquino III_jp2.zip</original>
+    <mtime>1454040639</mtime>
+    <size>71614</size>
+    <md5>62d18d72454c61f262bd3e10cf3e0b74</md5>
+    <crc32>7e189f9b</crc32>
+    <sha1>b67fefe735e34285084f52fe847ce0791e5fec91</sha1>
+  </file>
+  <file name="Inaugural Speech of President Benigno S. Aquino III.pdf" source="original">
+    <mtime>1454040461</mtime>
+    <size>5650658</size>
+    <md5>d180384c796111b00c43bd496e772ba4</md5>
+    <crc32>ee2f8470</crc32>
+    <sha1>15ebaae25f36ab88d9dd5799a3f2c700f8a4b34f</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="Inaugural Speech of President Benigno S. Aquino III_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>Inaugural Speech of President Benigno S. Aquino III_jp2.zip</original>
+    <mtime>1454050758</mtime>
+    <size>213979</size>
+    <md5>9f620cd44bdc51802467fea8422b0c07</md5>
+    <crc32>10eb2874</crc32>
+    <sha1>2ac63d85ff751c18d5875e648164c4ccf53ddf56</sha1>
+  </file>
+  <file name="Inaugural Speech of President Benigno S. Aquino III_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>Inaugural Speech of President Benigno S. Aquino III.djvu</original>
+    <mtime>1454051050</mtime>
+    <size>14927</size>
+    <md5>618a015a3b8be1ac57a937844feb0545</md5>
+    <crc32>75f3b669</crc32>
+    <sha1>fe649f60501bc87ba3c79ff151ed80bda9f34520</sha1>
+  </file>
+  <file name="Inaugural Speech of President Benigno S. Aquino III_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>Inaugural Speech of President Benigno S. Aquino III_abbyy.gz</original>
+    <mtime>1454050769</mtime>
+    <size>130411</size>
+    <md5>2a8510ef06107e3e6b032bcbeac14acb</md5>
+    <crc32>8a5d89c9</crc32>
+    <sha1>58dfa1437c6476cb096d7a78f3811eeb02b22b56</sha1>
+  </file>
+  <file name="Inaugural Speech of President Benigno S. Aquino III_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>Inaugural Speech of President Benigno S. Aquino III.pdf</original>
+    <mtime>1454040596</mtime>
+    <size>7587988</size>
+    <md5>0ce5b088188af2594b921320f1db664f</md5>
+    <crc32>f48f0e4c</crc32>
+    <sha1>81e4f3881458203e636de19820280dc844e24071</sha1>
+  </file>
+  <file name="Inaugural Speech of President Benigno S. Aquino III_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>Inaugural Speech of President Benigno S. Aquino III_djvu.xml</original>
+    <mtime>1454050878</mtime>
+    <size>2645</size>
+    <md5>062c3c12a0b76bc1401fcc6d58aaa63a</md5>
+    <crc32>f18f809c</crc32>
+    <sha1>bc8c63f91fc68cc50dacdc9c8495b99fa002fd65</sha1>
+  </file>
+  <file name="Inaugural Speech of President Benigno S. Aquino III_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>Inaugural Speech of President Benigno S. Aquino III_djvu.xml</original>
+    <mtime>1454051041</mtime>
+    <size>1257586</size>
+    <md5>f7c414f2f8aae623e405bf14ad4486ab</md5>
+    <crc32>4d030483</crc32>
+    <sha1>69cc342f688e48380d0e2cb1b709228df1a938eb</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530968279</mtime>
+    <size>13812</size>
+    <md5>072cecd12121fdaea87d1586697e04a2</md5>
+    <crc32>bbf88e25</crc32>
+    <sha1>e23dd5f109e2a2d22e3ea75e94c7aad120748cba</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="inaugural-speech-of-president-benigno-s-aquino-iii_archive.torrent" source="metadata">
+    <btih>d782d6b04e00dac5afe7b933301932de0a747b54</btih>
+    <mtime>1530968279</mtime>
+    <size>4464</size>
+    <md5>66bf81214ea4d261f534d008f0fd4935</md5>
+    <crc32>46fdc7e2</crc32>
+    <sha1>7e550988936a3b05e0cf588f229442fe10828df2</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="inaugural-speech-of-president-benigno-s-aquino-iii_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>5f9d9311a49151640b1e06b5ee9f7e9f</md5>
+  </file>
+  <file name="inaugural-speech-of-president-benigno-s-aquino-iii_meta.sqlite" source="original">
+    <mtime>1463946579</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>a44ed4fd2d22e22f679d15c55044a91d</md5>
+    <crc32>7ab80d79</crc32>
+    <sha1>3fe11d0f6779a556504a76f487f2404bb466515a</sha1>
+  </file>
+  <file name="inaugural-speech-of-president-benigno-s-aquino-iii_meta.xml" source="original">
+    <mtime>1483281878</mtime>
+    <size>1231</size>
+    <format>Metadata</format>
+    <md5>ed9689ce4f806bd5cae0658941bb1513</md5>
+    <crc32>14b8be5e</crc32>
+    <sha1>2b303d9ad1affb0bda744cfb1eb2a5abc2d2a873</sha1>
+  </file>
+</files>

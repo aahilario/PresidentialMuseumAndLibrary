@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0674-111745-BVL.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0674-111745-BVL_djvu.xml</original>
+    <mtime>1450407576</mtime>
+    <size>407862</size>
+    <md5>9e2af560f665b5b4864d4c69973c4fc9</md5>
+    <crc32>4f972835</crc32>
+    <sha1>b36f29a5c7d9b72612887e6a45aa7ef907232e1b</sha1>
+  </file>
+  <file name="BVC-0674-111745-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0674-111745-BVL_jp2.zip</original>
+    <mtime>1450407471</mtime>
+    <size>32030</size>
+    <md5>2961fa9a9d23be19912a6ba47bca4c81</md5>
+    <crc32>ae3518b7</crc32>
+    <sha1>dd38a4381bd5802505583f7b3955e9e84a93bad0</sha1>
+  </file>
+  <file name="BVC-0674-111745-BVL.pdf" source="original">
+    <mtime>1450405633</mtime>
+    <size>1777178</size>
+    <md5>abf18ae3ac70cdb93742c26bd193b2d0</md5>
+    <crc32>db7b5e46</crc32>
+    <sha1>e479c0ed61cd238e47443f56867a54740461fa24</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0674-111745-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0674-111745-BVL_jp2.zip</original>
+    <mtime>1450407528</mtime>
+    <size>82526</size>
+    <md5>16fe9e93b52cfd17fe248ac718c766f4</md5>
+    <crc32>b2037777</crc32>
+    <sha1>0d083ca7b8205e9dfa02970fe817ee6ba0391f68</sha1>
+  </file>
+  <file name="BVC-0674-111745-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0674-111745-BVL.djvu</original>
+    <mtime>1450407631</mtime>
+    <size>4929</size>
+    <md5>60c79f81de64a8399a02810c7cfcc21d</md5>
+    <crc32>df698f3d</crc32>
+    <sha1>ffc07d8f6fe1459eb07a6acd4d3697eb401270ff</sha1>
+  </file>
+  <file name="BVC-0674-111745-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0674-111745-BVL_abbyy.gz</original>
+    <mtime>1450407537</mtime>
+    <size>47647</size>
+    <md5>d248fa66d9de7862802f001258d8c9a4</md5>
+    <crc32>8f5d5425</crc32>
+    <sha1>2345e9be01b0c735996c6e9f8caff4fa9d75563f</sha1>
+  </file>
+  <file name="BVC-0674-111745-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0674-111745-BVL.pdf</original>
+    <mtime>1450407455</mtime>
+    <size>2573154</size>
+    <md5>1dfab7fe61c048ce02810569ddebb706</md5>
+    <crc32>a4dab142</crc32>
+    <sha1>6d4496fb5132c19bb0083f053cdd0cf565660f11</sha1>
+  </file>
+  <file name="BVC-0674-111745-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0674-111745-BVL_djvu.xml</original>
+    <mtime>1450407578</mtime>
+    <size>889</size>
+    <md5>c89b518a29f25779a5f7626d2c00f0d8</md5>
+    <crc32>4e7a4487</crc32>
+    <sha1>0751b5d32b69a1dfd2d743b85d60a0a62d3d61d6</sha1>
+  </file>
+  <file name="BVC-0674-111745-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0674-111745-BVL_djvu.xml</original>
+    <mtime>1450407619</mtime>
+    <size>567674</size>
+    <md5>133025c0087383a52ec6b1d76f7ad2cc</md5>
+    <crc32>a6fb39f5</crc32>
+    <sha1>339dc51938e72f39d22000db27eef19fa8ae28e6</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530758203</mtime>
+    <size>16064</size>
+    <md5>ae749689be7691cb11e31f31f5f84b2e</md5>
+    <crc32>0ef1ca43</crc32>
+    <sha1>f953beb84143e8c73980a322170d884285731ad7</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="special-orders-no-153-military-commission-trial-of-war-criminals-november-17-1945_archive.torrent" source="metadata">
+    <btih>6543eb222eaefbbc818d9996480be15023266a63</btih>
+    <mtime>1530758204</mtime>
+    <size>4069</size>
+    <md5>f79d14872c235121407cae17c37f71ca</md5>
+    <crc32>e33aef26</crc32>
+    <sha1>0be8fc3f6f59e9d6035ad9ff19144058b1c383b0</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="special-orders-no-153-military-commission-trial-of-war-criminals-november-17-1945_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>cfb2d23e576591551ff780d5246f3f16</md5>
+  </file>
+  <file name="special-orders-no-153-military-commission-trial-of-war-criminals-november-17-1945_meta.sqlite" source="original">
+    <mtime>1466311291</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>d4a0613417c2336724c598292a08328b</md5>
+    <crc32>d8abfb3d</crc32>
+    <sha1>7306f2ecf1816f5ade3d342fcc6824515edf5e32</sha1>
+  </file>
+  <file name="special-orders-no-153-military-commission-trial-of-war-criminals-november-17-1945_meta.xml" source="original">
+    <mtime>1485540542</mtime>
+    <size>1296</size>
+    <format>Metadata</format>
+    <md5>83acc73e28d8d5055e4915b7fbba7511</md5>
+    <crc32>b627640b</crc32>
+    <sha1>d297949dd5cdee049c7ccb2f812e2d4a8f0db80e</sha1>
+  </file>
+</files>

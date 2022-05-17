@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530564251</mtime>
+    <size>12906</size>
+    <md5>fb60ef2979d12107b95afc1d56bf703c</md5>
+    <crc32>33a89745</crc32>
+    <sha1>668efe6f5c68b4ba9ac726736d8d58f0921cf4b8</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="fullRecordOfTheConstitutionalCommissionVolumeIv.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>fullRecordOfTheConstitutionalCommissionVolumeIv_jp2.zip</original>
+    <mtime>1461730645</mtime>
+    <size>269020</size>
+    <md5>c2c669d41222b60bdc4557322b102fdf</md5>
+    <crc32>502ff4ac</crc32>
+    <sha1>d1bce014a10501f7c87846d8728a6859e47fbc2f</sha1>
+  </file>
+  <file name="fullRecordOfTheConstitutionalCommissionVolumeIv.pdf" source="original">
+    <format>Image Container PDF</format>
+    <title>[FULL] Record of the Constitutional Commission Volume IV</title>
+    <mtime>1461724800</mtime>
+    <size>1257516905</size>
+    <md5>435affcddd39cad299c27e4e56a58fcf</md5>
+    <crc32>1d345b2a</crc32>
+    <sha1>f60a05ab176cd48fa61f5b32fd29552b797cbc1b</sha1>
+  </file>
+  <file name="fullRecordOfTheConstitutionalCommissionVolumeIv_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>fullRecordOfTheConstitutionalCommissionVolumeIv_jp2.zip</original>
+    <mtime>1461756052</mtime>
+    <size>69281866</size>
+    <md5>18a93603b9d9191db764681861cfa7e2</md5>
+    <crc32>cd09a363</crc32>
+    <sha1>49858a6af73d19a241d853f1721028e8a1f54a6c</sha1>
+  </file>
+  <file name="fullRecordOfTheConstitutionalCommissionVolumeIv_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>fullRecordOfTheConstitutionalCommissionVolumeIv_djvu.xml</original>
+    <mtime>1461757138</mtime>
+    <size>4576182</size>
+    <md5>7e90ae28dcdc07dcf4da274b7ebf1590</md5>
+    <crc32>26d27227</crc32>
+    <sha1>603447313f3ff0296044aead61802a5f6fc6a64e</sha1>
+  </file>
+  <file name="fullRecordOfTheConstitutionalCommissionVolumeIv_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>fullRecordOfTheConstitutionalCommissionVolumeIv_abbyy.gz</original>
+    <mtime>1461757098</mtime>
+    <size>42144695</size>
+    <md5>6013f483178dd3351fa16068ea09a4ec</md5>
+    <crc32>43720905</crc32>
+    <sha1>41caaa9f03c16cc7e0fe50a802c7337b1e0dfb8b</sha1>
+  </file>
+  <file name="fullRecordOfTheConstitutionalCommissionVolumeIv_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>fullRecordOfTheConstitutionalCommissionVolumeIv.pdf</original>
+    <mtime>1461730513</mtime>
+    <size>1676054845</size>
+    <md5>7afc8f21485230ca0ef36ba8aec38fc1</md5>
+    <crc32>2c19f838</crc32>
+    <sha1>59103dd3c152fcd27e059acaf862e0f71745a172</sha1>
+  </file>
+  <file name="fullRecordOfTheConstitutionalCommissionVolumeIv_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>fullRecordOfTheConstitutionalCommissionVolumeIv_djvu.xml</original>
+    <mtime>1461757130</mtime>
+    <size>299251</size>
+    <md5>15d0e1e9b5392320510fa29c4cd0f7a4</md5>
+    <crc32>568c8fb2</crc32>
+    <sha1>a3a8966dd53ee45697e0323292cadb32de2d24a6</sha1>
+  </file>
+  <file name="fullRecordOfTheConstitutionalCommissionVolumeIv_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>fullRecordOfTheConstitutionalCommissionVolumeIv_djvu.xml</original>
+    <mtime>1461775832</mtime>
+    <size>294402019</size>
+    <md5>bc7bcc74b97c186b3d0d8aed4ddd6731</md5>
+    <crc32>e1718d42</crc32>
+    <sha1>985987e58a095f9c181f4b67416484eb19f3003d</sha1>
+  </file>
+  <file name="record-of-the-constitutional-commission-volume-4_archive.torrent" source="metadata">
+    <btih>ae85c9ab153b54a1a2b668dbf25bc4cf0e4c3e49</btih>
+    <mtime>1530564252</mtime>
+    <size>36088</size>
+    <md5>6944f53fb271aeb883969d2b71c9d274</md5>
+    <crc32>0d18c246</crc32>
+    <sha1>b6c788f0390711b9da7e470f48415bc3bd243e4f</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="record-of-the-constitutional-commission-volume-4_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>02a17aef3b849addc09288fb1d45d70a</md5>
+  </file>
+  <file name="record-of-the-constitutional-commission-volume-4_meta.xml" source="original">
+    <mtime>1482898012</mtime>
+    <size>1331</size>
+    <format>Metadata</format>
+    <md5>44bda07660fed0cbb31b29f9779902e5</md5>
+    <crc32>c6129435</crc32>
+    <sha1>0fe83b807d6c083dbd52b38bbd0837194b097592</sha1>
+  </file>
+</files>
