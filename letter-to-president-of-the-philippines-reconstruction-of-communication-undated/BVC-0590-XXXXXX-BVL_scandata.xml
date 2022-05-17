@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>letter-to-president-of-the-philippines-reconstruction-of-communication-undated</bookId>
+    <leafCount>1</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4820</origWidth>
+      <origHeight>6365</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4820</w>
+        <h>6365</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+  </pageData>
+</book>

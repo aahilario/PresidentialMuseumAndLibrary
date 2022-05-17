@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0405-040731-CP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0405-040731-CP_jp2.zip</original>
+    <mtime>1450758563</mtime>
+    <size>15571</size>
+    <md5>1babb1a87173446714392cc8473343c5</md5>
+    <crc32>e1130a41</crc32>
+    <sha1>69b6876ea7e9ed9291c37859208ad897143ac25e</sha1>
+  </file>
+  <file name="BVC-0405-040731-CP.pdf" source="original">
+    <mtime>1450758513</mtime>
+    <size>563087</size>
+    <md5>f178b15fafdfeecf1b3b29f4e8975bee</md5>
+    <crc32>fa75e89c</crc32>
+    <sha1>aadecbf14223a6ed6b6b3f50dbd30ff6dca5b106</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0405-040731-CP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0405-040731-CP_jp2.zip</original>
+    <mtime>1450758604</mtime>
+    <size>12590</size>
+    <md5>a4c9fc9e343c76bf9a5f002803aa09df</md5>
+    <crc32>8c801979</crc32>
+    <sha1>aab82400cff5f4bd33e2a2866e624d9cedd79de7</sha1>
+  </file>
+  <file name="BVC-0405-040731-CP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0405-040731-CP_djvu.xml</original>
+    <mtime>1456652416</mtime>
+    <size>770</size>
+    <md5>f9d8a7c9672a4369a3360cba347fc476</md5>
+    <crc32>b9cb103b</crc32>
+    <sha1>eb2dc89267e9f7d5a233d6eb7597309c0eb94612</sha1>
+  </file>
+  <file name="BVC-0405-040731-CP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0405-040731-CP_abbyy.gz</original>
+    <mtime>1450758611</mtime>
+    <size>12679</size>
+    <md5>bb0693ecef40d62b59314cc203200f45</md5>
+    <crc32>b340facd</crc32>
+    <sha1>4677fd1d3e34024fb0b7cbc40e498db2efd15d2e</sha1>
+  </file>
+  <file name="BVC-0405-040731-CP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0405-040731-CP.pdf</original>
+    <mtime>1450758556</mtime>
+    <size>723273</size>
+    <md5>93d2ee07b57bf6412b09b0ee531c5fd4</md5>
+    <crc32>091c3230</crc32>
+    <sha1>f9cd824f92d607e07a0d2b8b226e04f7564457f5</sha1>
+  </file>
+  <file name="BVC-0405-040731-CP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0405-040731-CP_djvu.xml</original>
+    <mtime>1450758620</mtime>
+    <size>598</size>
+    <md5>d29afdd4d57d0fb5a2860a6eb5d29c7b</md5>
+    <crc32>e4061af7</crc32>
+    <sha1>9985e1a025a23ee834a44cd0362661ebd5b3b2e8</sha1>
+  </file>
+  <file name="BVC-0405-040731-CP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0405-040731-CP_djvu.xml</original>
+    <mtime>1450758636</mtime>
+    <size>111217</size>
+    <md5>17a12f88b882e40460ac28663c7bb518</md5>
+    <crc32>fa6bc6c3</crc32>
+    <sha1>5e486ae313ec4916bc761e3f6fffd0559182c176</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1531049403</mtime>
+    <size>14084</size>
+    <md5>64fba0e649d4d0e2ac5cc541700d96f0</md5>
+    <crc32>8aa3fe64</crc32>
+    <sha1>e95b9f89e506aa6633b0e89a452f873377a34997</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="dept-interior-order-4-appointment-basilio-valdes-board-of-medical-examiners-april-7-1931_archive.torrent" source="metadata">
+    <btih>c34cef4e7ba80b77a939125b3bb332955f2c36e1</btih>
+    <mtime>1531049403</mtime>
+    <size>3783</size>
+    <md5>76b7a403f300e5da5f021d049d1643f4</md5>
+    <crc32>c68f627f</crc32>
+    <sha1>d09c937caba07109c6dd5ff18c7ee107d8fdcf2d</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="dept-interior-order-4-appointment-basilio-valdes-board-of-medical-examiners-april-7-1931_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>7131ae6dc0c36791ad3f7f409a7916c3</md5>
+  </file>
+  <file name="dept-interior-order-4-appointment-basilio-valdes-board-of-medical-examiners-april-7-1931_meta.sqlite" source="original">
+    <mtime>1470182631</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>9a719820097f19f9dece8e64002ee4b5</md5>
+    <crc32>e60b4b90</crc32>
+    <sha1>f0bad9be8b6cc9cb5b46bab137c9720cbe9f0e5e</sha1>
+  </file>
+  <file name="dept-interior-order-4-appointment-basilio-valdes-board-of-medical-examiners-april-7-1931_meta.xml" source="original">
+    <mtime>1484289838</mtime>
+    <size>1327</size>
+    <format>Metadata</format>
+    <md5>8998dafa81914c1711db3f756f8107a9</md5>
+    <crc32>f2601a93</crc32>
+    <sha1>43f0ab13155e0cbfb627a8eae1d7f8ab1d5a2ff2</sha1>
+  </file>
+</files>

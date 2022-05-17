@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0616-011145-BVL.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>BVC-0616-011145-BVL_djvu.xml</original>
+    <mtime>1449736905</mtime>
+    <size>404890</size>
+    <md5>ab1edcdab27e7c88e8e2b55d4d0d6516</md5>
+    <crc32>d8c0b8c8</crc32>
+    <sha1>208be538d6225f7d23b92c590b437e765ab6cd5d</sha1>
+  </file>
+  <file name="BVC-0616-011145-BVL.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0616-011145-BVL_jp2.zip</original>
+    <mtime>1449736803</mtime>
+    <size>29849</size>
+    <md5>a4ccbb2bc17cb2bfa925fefe1fe82404</md5>
+    <crc32>faf522f4</crc32>
+    <sha1>5e52fbf3b3bf2f92035f467acd8e12ede5c47619</sha1>
+  </file>
+  <file name="BVC-0616-011145-BVL.pdf" source="original">
+    <mtime>1449736713</mtime>
+    <size>1490579</size>
+    <md5>cc936b9223b8d56ec862db1ca1129672</md5>
+    <crc32>83371caf</crc32>
+    <sha1>46bed6dd9dc916b49ebb415f8fbb99759da85538</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0616-011145-BVL_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0616-011145-BVL_jp2.zip</original>
+    <mtime>1449736876</mtime>
+    <size>47521</size>
+    <md5>c87de6a7114a5bc03e2639680f18461c</md5>
+    <crc32>3a66a5f0</crc32>
+    <sha1>98e109f2027777cfeff1a82f031cc18de10187aa</sha1>
+  </file>
+  <file name="BVC-0616-011145-BVL_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0616-011145-BVL.djvu</original>
+    <mtime>1449736942</mtime>
+    <size>2820</size>
+    <md5>09f0d3a911ea4c7c3dafbc80340a11ed</md5>
+    <crc32>3ddea2a2</crc32>
+    <sha1>baa663d729a2ceb3b250f85b1e450bc1b1a54f64</sha1>
+  </file>
+  <file name="BVC-0616-011145-BVL_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0616-011145-BVL_abbyy.gz</original>
+    <mtime>1449736883</mtime>
+    <size>27571</size>
+    <md5>e10c9f4669746d8f78498437f41a77e3</md5>
+    <crc32>f51561c2</crc32>
+    <sha1>7c27f09bc58ca054b81f4d5789e434a57f34c2d2</sha1>
+  </file>
+  <file name="BVC-0616-011145-BVL_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0616-011145-BVL.pdf</original>
+    <mtime>1449736794</mtime>
+    <size>1912442</size>
+    <md5>90168165bf0f236a174c9ac2d03997d6</md5>
+    <crc32>8d17f2c7</crc32>
+    <sha1>66b063f3cad4f08742d6dc0f323b755e33094231</sha1>
+  </file>
+  <file name="BVC-0616-011145-BVL_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0616-011145-BVL_djvu.xml</original>
+    <mtime>1449736906</mtime>
+    <size>901</size>
+    <md5>e462896409d4f6e9df1d009f78643302</md5>
+    <crc32>15e4d2c9</crc32>
+    <sha1>81dde2f84df5074b8d0aa828f26fa980ca2ce151</sha1>
+  </file>
+  <file name="BVC-0616-011145-BVL_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0616-011145-BVL_djvu.xml</original>
+    <mtime>1449736934</mtime>
+    <size>503153</size>
+    <md5>cb5f8b88b9f088e90ca67799e29cc5e3</md5>
+    <crc32>b0770db1</crc32>
+    <sha1>623bcc63a437dff0b194966049c7ebf15f005c40</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530876566</mtime>
+    <size>18965</size>
+    <md5>67a14e234fd76a366a40761cca401bde</md5>
+    <crc32>767b8271</crc32>
+    <sha1>1254686207fdf77cd46a1209d3e7cfb7f835beb8</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="letter-basilio-valdes-from-benedicto-cunanan-procurement-of-three-mail-trucks-january-11-1945_archive.torrent" source="metadata">
+    <btih>61b9acc9c435b7adf480ca5561254ff381d5f555</btih>
+    <mtime>1530876567</mtime>
+    <size>4138</size>
+    <md5>94b03ed491e2f68da51db9a3266638d9</md5>
+    <crc32>1d560ad6</crc32>
+    <sha1>78a614238c05e68cedbf945d4f0355e7d3753810</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="letter-basilio-valdes-from-benedicto-cunanan-procurement-of-three-mail-trucks-january-11-1945_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>9a3d0f0fe7ba6e685d527757ac5ec11f</md5>
+  </file>
+  <file name="letter-basilio-valdes-from-benedicto-cunanan-procurement-of-three-mail-trucks-january-11-1945_meta.sqlite" source="original">
+    <mtime>1466307354</mtime>
+    <size>11264</size>
+    <format>Metadata</format>
+    <md5>fda68e3702a8c091622d935cf1e2242f</md5>
+    <crc32>88659ae9</crc32>
+    <sha1>a3792ce80384e1fe8b4f29b4be4cb5802bc7800d</sha1>
+  </file>
+  <file name="letter-basilio-valdes-from-benedicto-cunanan-procurement-of-three-mail-trucks-january-11-1945_meta.xml" source="original">
+    <mtime>1485723615</mtime>
+    <size>1512</size>
+    <format>Metadata</format>
+    <md5>f5adfc9079684a8351e9593a6b139b89</md5>
+    <crc32>75e5d5f3</crc32>
+    <sha1>91aadb65ad03862382f35a2531385c667879b1eb</sha1>
+  </file>
+</files>

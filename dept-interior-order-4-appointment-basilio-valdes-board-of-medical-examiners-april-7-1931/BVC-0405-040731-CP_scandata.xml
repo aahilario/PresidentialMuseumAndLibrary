@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>dept-interior-order-4-appointment-basilio-valdes-board-of-medical-examiners-april-7-1931</bookId>
+    <leafCount>1</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4781</origWidth>
+      <origHeight>6470</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4781</w>
+        <h>6470</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+  </pageData>
+</book>

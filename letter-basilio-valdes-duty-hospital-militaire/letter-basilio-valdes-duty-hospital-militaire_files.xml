@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BVC-0041-101917-OP.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>BVC-0041-101917-OP_jp2.zip</original>
+    <mtime>1449469134</mtime>
+    <size>15423</size>
+    <md5>9108244316c6a71b57822605fda4ea41</md5>
+    <crc32>335dc38e</crc32>
+    <sha1>b096d9d46a7354cc5aa2024d2ddfffad897b6e81</sha1>
+  </file>
+  <file name="BVC-0041-101917-OP.pdf" source="original">
+    <mtime>1449469072</mtime>
+    <size>495019</size>
+    <md5>a06bdb8e129053d07a79c867bc7dbf00</md5>
+    <crc32>47e5a4bc</crc32>
+    <sha1>e9761523e27ad826636707276309f05da35b62f3</sha1>
+    <format>Image Container PDF</format>
+  </file>
+  <file name="BVC-0041-101917-OP_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>BVC-0041-101917-OP_jp2.zip</original>
+    <mtime>1449469442</mtime>
+    <size>9446</size>
+    <md5>68cf793fbd833ed082deaaed976d2f37</md5>
+    <crc32>c9021619</crc32>
+    <sha1>6b3bfba3db2829580546b0c13f060b5950eb6367</sha1>
+  </file>
+  <file name="BVC-0041-101917-OP_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>BVC-0041-101917-OP_djvu.xml</original>
+    <mtime>1456644805</mtime>
+    <size>493</size>
+    <md5>d541eddad59119a6825f6849f61d4792</md5>
+    <crc32>ff879faf</crc32>
+    <sha1>a10797673710d1224a7e6f21e4ac3e74ba61ec40</sha1>
+  </file>
+  <file name="BVC-0041-101917-OP_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>BVC-0041-101917-OP_abbyy.gz</original>
+    <mtime>1449469448</mtime>
+    <size>5408</size>
+    <md5>f69e9b2531d9c2d28b582724d2f36860</md5>
+    <crc32>ab78441c</crc32>
+    <sha1>9a9190ecadaeb942aa4797f03f80c4fd282b510f</sha1>
+  </file>
+  <file name="BVC-0041-101917-OP_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>BVC-0041-101917-OP.pdf</original>
+    <mtime>1449469127</mtime>
+    <size>608640</size>
+    <md5>0c4c911eec03e21777f2bc5ef3576f86</md5>
+    <crc32>479a5703</crc32>
+    <sha1>8ce4da20e5e071f0a25385a0be603b41dff79e71</sha1>
+  </file>
+  <file name="BVC-0041-101917-OP_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>BVC-0041-101917-OP_djvu.xml</original>
+    <mtime>1449469462</mtime>
+    <size>555</size>
+    <md5>e8f0ae8d69fc70e4d8fc62cbc6b9671d</md5>
+    <crc32>02def1b5</crc32>
+    <sha1>7e540a11a750a48bed2e69c4a45970182602f9a9</sha1>
+  </file>
+  <file name="BVC-0041-101917-OP_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>BVC-0041-101917-OP_djvu.xml</original>
+    <mtime>1449469475</mtime>
+    <size>160899</size>
+    <md5>d9b6fa2259aaf28a5faaa1dec1ac2ace</md5>
+    <crc32>6abe95db</crc32>
+    <sha1>a2bf156e03a609dfd4c5908bc870922d3925b1e1</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530756544</mtime>
+    <size>11398</size>
+    <md5>dad7b2711c2b8c199118a6899539dae9</md5>
+    <crc32>de503e47</crc32>
+    <sha1>3d5bb9530a40814169d5ea905e860c1a5c5fb24d</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="letter-basilio-valdes-duty-hospital-militaire_archive.torrent" source="metadata">
+    <btih>aa69b2ac31c06606c8781e1aecdea47f0b83d7e9</btih>
+    <mtime>1530756545</mtime>
+    <size>3393</size>
+    <md5>e42537caeb93b87f510ff4d997c3ac06</md5>
+    <crc32>57db1a79</crc32>
+    <sha1>280150c2d27a0b7742a945f4f710b4f48f56561f</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="letter-basilio-valdes-duty-hospital-militaire_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>c4b6c088715b09b3e3a90b4e98ec7019</md5>
+  </file>
+  <file name="letter-basilio-valdes-duty-hospital-militaire_meta.sqlite" source="original">
+    <mtime>1463785130</mtime>
+    <size>12288</size>
+    <format>Metadata</format>
+    <md5>9a1768013ca7ae495d27a26bafa021ed</md5>
+    <crc32>ee59c568</crc32>
+    <sha1>668d0a5ea42766482a5934c40fd7c5494f505532</sha1>
+  </file>
+  <file name="letter-basilio-valdes-duty-hospital-militaire_meta.xml" source="original">
+    <mtime>1485265588</mtime>
+    <size>1243</size>
+    <format>Metadata</format>
+    <md5>c959032c92157c73eb942c1a1171aa9c</md5>
+    <crc32>cbe181f2</crc32>
+    <sha1>1c06c5c520285ab1df89434111dea9c68b306f11</sha1>
+  </file>
+</files>

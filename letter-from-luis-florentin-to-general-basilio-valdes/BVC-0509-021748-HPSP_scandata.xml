@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <bookData>
+    <dpi>600</dpi>
+    <bookId>letter-from-luis-florentin-to-general-basilio-valdes</bookId>
+    <leafCount>3</leafCount>
+  </bookData>
+  <pageData>
+    <page leafNum="0">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4800</origWidth>
+      <origHeight>6346</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4800</w>
+        <h>6346</h>
+      </cropBox>
+      <bookStart>true</bookStart>
+    </page>
+    <page leafNum="1">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4852</origWidth>
+      <origHeight>6403</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4852</w>
+        <h>6403</h>
+      </cropBox>
+    </page>
+    <page leafNum="2">
+      <pageType>Normal</pageType>
+      <addToAccessFormats>true</addToAccessFormats>
+      <origWidth>4861</origWidth>
+      <origHeight>6411</origHeight>
+      <cropBox>
+        <x>0</x>
+        <y>0</y>
+        <w>4861</w>
+        <h>6411</h>
+      </cropBox>
+    </page>
+  </pageData>
+</book>
