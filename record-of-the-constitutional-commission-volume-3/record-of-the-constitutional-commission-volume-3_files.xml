@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1530684315</mtime>
+    <size>10054</size>
+    <md5>9ed690b11c5253e1998b58e51d618d50</md5>
+    <crc32>5fd6dd84</crc32>
+    <sha1>3a736dffba57afcb1fad11c1615f9b490d05e03a</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="fullRecordOfTheConstitutionalCommissionVolumeIii.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>fullRecordOfTheConstitutionalCommissionVolumeIii_jp2.zip</original>
+    <mtime>1461724284</mtime>
+    <size>258100</size>
+    <md5>6fd1aec20fa8396318107dda6c7a5215</md5>
+    <crc32>02b604eb</crc32>
+    <sha1>079abfecf3c64ad232249c23ebb563b0ba76c2e4</sha1>
+  </file>
+  <file name="fullRecordOfTheConstitutionalCommissionVolumeIii.pdf" source="original">
+    <format>Image Container PDF</format>
+    <title>[FULL] Record of the Constitutional Commission Volume III</title>
+    <mtime>1461665531</mtime>
+    <size>949392318</size>
+    <md5>190ed33026a3b4ff95e5089934bc93a1</md5>
+    <crc32>c8eb9759</crc32>
+    <sha1>ebc241fce73d8a318f5cb7dfd532638471d885a6</sha1>
+  </file>
+  <file name="fullRecordOfTheConstitutionalCommissionVolumeIii_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>fullRecordOfTheConstitutionalCommissionVolumeIii_jp2.zip</original>
+    <mtime>1461737360</mtime>
+    <size>54628680</size>
+    <md5>fb9ffadbbf6ccbe0309b21d3a44a8c6a</md5>
+    <crc32>a19e9889</crc32>
+    <sha1>1e470fb0a3d20cb33e7ccd38ca692c779fedf39a</sha1>
+  </file>
+  <file name="fullRecordOfTheConstitutionalCommissionVolumeIii_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>fullRecordOfTheConstitutionalCommissionVolumeIii_djvu.xml</original>
+    <mtime>1461738171</mtime>
+    <size>3689906</size>
+    <md5>7c99304a5ec914fff29fd0288cce7d58</md5>
+    <crc32>8f3e1710</crc32>
+    <sha1>497f02ec3d396c58e8034f3d0aee7f559d8e24b4</sha1>
+  </file>
+  <file name="fullRecordOfTheConstitutionalCommissionVolumeIii_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>fullRecordOfTheConstitutionalCommissionVolumeIii_abbyy.gz</original>
+    <mtime>1461738124</mtime>
+    <size>33991392</size>
+    <md5>37a8907c1d5cb34ecad4bfefe4b1f377</md5>
+    <crc32>4acfa790</crc32>
+    <sha1>947bd8f8dda361fbed6a803afadc304b71e24370</sha1>
+  </file>
+  <file name="fullRecordOfTheConstitutionalCommissionVolumeIii_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>fullRecordOfTheConstitutionalCommissionVolumeIii.pdf</original>
+    <mtime>1461724196</mtime>
+    <size>1297328709</size>
+    <md5>a590a14a87de0432365b2392e49654e9</md5>
+    <crc32>660291dd</crc32>
+    <sha1>23b0c4d6fc948512060b733de164ca78b1385769</sha1>
+  </file>
+  <file name="fullRecordOfTheConstitutionalCommissionVolumeIii_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>fullRecordOfTheConstitutionalCommissionVolumeIii_djvu.xml</original>
+    <mtime>1461738164</mtime>
+    <size>252451</size>
+    <md5>07eea3f2c7f4a8bbfe44bb49eec40d51</md5>
+    <crc32>922f7529</crc32>
+    <sha1>cd5cbe36ce1a070c1bf8f9aab472e6bbc493f619</sha1>
+  </file>
+  <file name="fullRecordOfTheConstitutionalCommissionVolumeIii_text.pdf" source="derivative">
+    <format>Additional Text PDF</format>
+    <original>fullRecordOfTheConstitutionalCommissionVolumeIii_djvu.xml</original>
+    <mtime>1461752289</mtime>
+    <size>222782636</size>
+    <md5>c45fc6b3f10ca423c3e9f2ac0f5e9ae9</md5>
+    <crc32>a381bfcb</crc32>
+    <sha1>f8dc1cbe112d4bcb1ec81f5e9ccb799fc055bcf3</sha1>
+  </file>
+  <file name="record-of-the-constitutional-commission-volume-3_archive.torrent" source="metadata">
+    <btih>7f9468a7f904cd6c86c9cdfaf393969fbdbd7f20</btih>
+    <mtime>1530684315</mtime>
+    <size>28613</size>
+    <md5>0fbc9e08f8de2965cb4171b4420c71b5</md5>
+    <crc32>f87107d1</crc32>
+    <sha1>8d255aa8f2c56fc34132e3c198cd7ffabae4ffa8</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="record-of-the-constitutional-commission-volume-3_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>ceb713c9ad60eb82b6750a0c332fff6b</md5>
+  </file>
+  <file name="record-of-the-constitutional-commission-volume-3_meta.xml" source="original">
+    <mtime>1485557912</mtime>
+    <size>1332</size>
+    <format>Metadata</format>
+    <md5>47fe5ac76b280d29a5677308f144036e</md5>
+    <crc32>1509818e</crc32>
+    <sha1>f618eb946097f4e5f0aaaa94bc06ef02d06473b3</sha1>
+  </file>
+</files>
